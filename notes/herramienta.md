@@ -1,0 +1,954 @@
+- Administración
+    - Almacenamiento en la nube
+        - [rclone](https://rclone.org/)
+            - Funciones
+                - Sincroniza archivos y directorios entre distintos servidores usando líneas de comando
+                - Comprobación MD5/SHA1
+                - Solo copia de nuevos archivos
+                - Varias descargas consecutivas
+                - Encripción
+            - Servidores disponibles:
+                - Box
+                - Dropbox
+                - FTP
+                - Google Drive
+                - Google Photos
+                - HTTP
+                - Hubic
+                - Mega
+                - Microsoft OneDrive
+                - SFTP 
+                - WebDAV 
+                - The local filesystem
+                - +
+            - Sistemas operativos
+                - Windows
+                - macOS
+                - Linux
+                - .deb
+                - .rpm
+                - FreeBSD
+                - NetBSD
+                - OpenBSD
+                - Plan9
+                - Solaris
+        - [Almacenamiento ilimitado en Google Drive](https://github.com/stewartmcgown/uds)
+            - Funciones
+                - Almacena ilimitadamente en Google Drive a través de Google Docs
+                - Descarga cualquier archivo almacenado
+                - Separa archivos binarios en Google Docs con texto codificado base64
+                - El tamaño del archivo final es más grande que el original 4:3
+    - Automatización
+        - Red entre pares y Usenet
+            - [NZBHydra](https://github.com/theotherp/nzbhydra2/) `Metabuscador`
+            - [Sonarr](https://sonarr.tv/)
+                - Funciones
+                    - Descarga películas y series en versiones específicas cuando se encuentren disponibles
+                    - Descarga automáticamente una nueva versión cuando esté disponible
+                    - Monitoreo de varios canales RSS
+                    - Calendario de estrenos
+                - [Código abierto](https://github.com/Sonarr/Sonarr)
+                - Sistemas operativos
+                    - Linux
+                    - Windows
+                    - macOS
+            - [Radarr](https://www.radarr.video/)
+                - Funciones
+                    - Descarga películas y series en versiones específicas cuando se encuentre disponibles
+                    - Descarga automáticamente una nueva versión cuando esté disponible
+                    - Calendario de estrenos
+                    - Integración con software P2P
+                    - Renombrado de archivos automático
+                - [Código abierto bifurcado de Sonarr](https://github.com/Radarr/Radarr)
+                - Sistemas operativos
+                    - Linux
+                    - Windows
+                    - macOS
+            - [SiCKRAGE](https://sickrage.ca/)
+                - Administrador automático de videoteca de series de televisión
+                - Funciones
+                    - Proveedor de torrent
+                        - SceneAccess
+                        - TorrentDay
+                        - Rarbg
+                        - +
+                    - Proveedor de .nbz
+                        - Bin Search
+                        - NZBs
+                        - Usenet-Crawler
+                        - NZBDog
+                        - +
+                    - Descarga automática de subtítulos usando los siguientes servidores
+                        - Addic7ed
+                        - OpenSubtitles
+                        - Popnapisi
+                        - TVSubtiles
+                        - +
+                    - Funciona con AniDB
+                    - Calendario de estrenos
+                - Sistemas operativos
+                    - Windows 
+                    - Linux 
+                    - OSX 
+                    - Synology
+                    - +
+            - [nefarious](https://lardbit.github.io/nefarious/)
+                - Pretende combinar "[Sonarr](https://sonarr.tv/)", "[Radarr](https://www.radarr.video/)" y [Ombi](https://github.com/tidusjar/Ombi)
+                - Funciones
+                    - Descarga películas y series en versiones específicas cuando se encuentre disponibles
+                    - Descarga automáticamente una nueva versión cuando esté disponible
+                    - Descubre nuevas películas y series de televisión (por popularidad, géneros, año, etc)
+                    - Evitar automáticamente la descarga de ciertos torrent
+                    - Renombrado automátic
+                    - Múltiples lenguajes disponibles gracias a "[The Movie Database (TMDb)](https://www.themoviedb.org/)" 
+                - [Código abierto](https://github.com/lardbit/nefarious)
+                - Sistemas operativos
+                    - Linux
+                    - Windows
+                    - macOS
+            - [Bazarr](https://www.bazarr.media/)
+                - Complemento para "[Sonarr](https://sonarr.tv/)" y "[Radarr](https://www.radarr.video/)"
+                - Funciones
+                    - Descarga subtítulos deseados tan pronto estén disponibles y actualiza en caso haya alguno nuevo disponible
+                    - Búsqueda manual
+                - [Código abierto](https://github.com/morpheus65535/bazarr)
+                - Sistemas operativos
+                    - Linux
+                    - Windows
+                    - macOS
+            - [Bonarr](https://github.com/klassicstudios/Bonarr)
+                - Bifurcado de "[Radarr](https://www.radarr.video/)"
+                - Funciones
+                    - Descarga películas pornográficas en versiones específicas cuando se encuentren disponibles
+                    - Integración con SABnzbd y NZBGet
+                    - Búsqueda manual
+                - [Código abierto](https://github.com/klassicstudios/Bonarr)
+                - Sistemas operativos
+                    - Windows 
+                    - Linux 
+                    - macOS 
+                    - Raspberry Pi
+                    - +
+            - [Lidarr](https://lidarr.audio/)
+                - Bifucado de "[Sonarr](https://sonarr.tv/)" pero para música
+                - Funciones
+                    - Calendario de estrenos
+                    - Búsqueda manual
+                - [Código abierto](https://github.com/Lidarr/Lidarr)
+                - Sistemas operativos
+                    - Linux
+                    - Windows
+                    - macOS
+            - [Mylar](https://github.com/evilhero/mylar)
+                - Funciones
+                    - Descarga automáticamente cómics en formato .cbr o .cbz de .nzb y .torrent
+                    - Funciona con SABnzbd, NZBGET y soporte para varios clientes torrent
+                    - Calendario de estrenos de usuarios específicos o arcos narrativo 
+                - Compilado en Python
+                - Estado: Alfa, probablemente con algunos errores
+    - Contraseñas
+        - [Bitwarden](https://bitwarden.com/)
+            - [Código abierto](https://github.com/bitwarden)
+            - Sistemas operativos
+                - Windows
+                - macOS
+                - Linux
+                - Extensiones
+                    - Chrome
+                    - Firefox
+                    - Safari
+                    - Vivaldi
+                    - Opera
+                    - Brave
+                    - Edge
+                    - Tor
+                - Versión web
+        - [Generador de contraseñas](getpass.xyz)
+    - Organización
+        - [Filebot](https://www.filebot.net/) `de pago`
+            - Funciones
+                - Organizar y renombrar películas y series de televisión
+                    - Información de [TheTVDB](https://thetvdb.com), [AniDB](https://anidb.net) o [TVmaze](http://www.tvmaze.com)
+                    - Revertir al nombre original usando historial interno o el nombre del torrent original
+                - Descargar y pegar subtítulos, previsualización y solución de problemas el encodificar
+                    - OpenSubtitles
+                    - Subir subir subtítulos junto al hash del video
+                - Descargar diseño, ilustración o fotografía de una publicación
+                - Automatización disponible
+            - Solo versión de pago
+            - Sistemas operativos
+                - Windows
+                - macOS
+                - Linux
+        - [Picard](https://picard.musicbrainz.org/)
+            - Funciones
+                - Organizar música incluso sin metadatos
+                    - A través de huella digital de audio AcousticID
+                - Insertar metadatos
+                - Complementos disponibles
+            - [Código abierto](https://github.com/musicbrainz/picard)
+                - Escrito en Python
+            - Formatos
+                - .mp3
+                - .flac
+                - .ogg
+                - .m4a
+                - .wma
+                - .wav
+                - +
+            - Sistemas operativos
+                - Windows
+                - macOS
+                - Linux
+        - [Sincronización de subtítulos](https://github.com/smacke/subsync)
+            - Línea de comando
+                - Escrito en Python
+            - Funciones
+                - Sincronización automática de subtítulos o corección a través de otro subtítulo disponible
+            - Requerido
+                - FFmpeg
+                - Python
+    - Red
+        - Administrador de descargas
+            - [qBittorrent](https://www.qbittorrent.org)
+                - Funciones
+                    - Descarga archivos .torrent
+                    - Motor de búsqueda opcional
+                - [Código abierto](https://github.com/qbittorrent/qBittorrent)
+                    - Escrito en C++
+                - Sistemas operativos
+                    - FreeBSD 
+                    - Linux 
+                    - macOS 
+                    - OS/2 
+                    - Windows
+                - Disponible en más de 70 lenguajes
+            - [uGet](https://ugetdm.com/)
+                - Funciones
+                    - Descarga multiconección
+                    - Monitoreo del portapapeles
+                    - Descarga y unión del mismo archivo de varios servidore
+                - [Código abierto](https://sourceforge.net/p/urlget/uget2/ci/master/tree/)
+                - Sistemas operativos
+                    - Linux
+                    - BSD
+                    - Windows
+                    - Android
+        - [NetLimiter](https://netlimiter.com/)
+            - Funciones
+                - Control de tráfico de internet
+                - Herramienta de monitoreo de internet
+                - Bloquear conexión a ciertas aplicaciones
+                - Establecer cuotas límite para distintas aplicaciones
+            - Aplicación nativa para Windows
+- Multimedia
+    - Escritura
+        - Cuaderno de notas
+            - [Roam Research](https://roamresearch.com/)
+                - Simple y práctico
+                - Funciones
+                    - Sincronización
+                    - Atajos de teclado
+            - [Manifest](https://www.manifest.app/)
+                - Simple y práctico
+                - Funciones
+                    - Anónimo y 'seguro'
+                    - Modo oscuro disponible
+                - [Github](https://github.com/jonathontoon/manifest/issues)
+        - Publicación
+            - Plataformas
+                - [write.as](https://write.as/)
+                    - Simple y práctico
+                    - Funciones
+                        - Publica en varios sitios a la vez:
+                            - Tumblr
+                            - ghost
+                            - Mastodon
+                            - Pleroma 
+                    - Disponible en [Write Freely](https://writefreely.org/) como herramienta para instalar en un servidor
+            - Escribir
+                - Traducción
+                    - [Deepl](https://www.deepl.com/es/translator)
+                        - Lenguajes disponibles incluyen:  
+                            - **Inglés**
+                            - Español
+                            - **Alemán**
+                            - Francés
+                            - Portugués
+                            - Italiano
+                            - Polaco
+                            - Ruso
+                            - Neerlandés
+                        - Gratuito (límite de palabras)
+                        - Traducción de documentos disponible
+                        - **Aplicación nativa para Windows**
+                - Varios
+                    - [ASCIIFlow](asciiflow.com)
+                        - Crea tablas o cualquier cosa que puedas imaginar al estilo ASCII
+    - Imágenes
+        - Búsqueda reversa de imágenes
+            - [Image Operations](https://imgops.com/)
+                - Funciones
+                    - Pega o sube una imagen o pega el enlace de una imagen
+                        - También puedes insertar `imgops.com/[]` para automatizar la búsqueda
+                    - Herramienta de búsqueda de imágenes
+                        - Edición básica de la imagen
+                            - Nativo
+                            - Pixlr
+                            - Picmonkey
+                            - Luna Pic
+                            - Szoter
+                        - Sitios soportados
+                            - Google Images
+                            - Bing Images
+                            - Tinyeye
+                            - Karmadecay (Reddit)
+                            - Yandex
+                            - Baidú
+                            - So
+                            - Sogou
+                        - Anime
+                            -  ^^EN^^ [Búsqueda de imágenes de anime](https://iqdb.org)
+                                - Varios sitios soportados
+                            - ^^EN^^ [Saucenao](https://saucenao.com/)
+                            - ^^JP^^ [ASCCI2D](https://www.ascii2d.net)
+                            - ^^EN^^ [WAIT](https://trace.moe/)
+                    - Revisa los metadatos de la imagen
+                        - [Regex Info](http://exif.regex.info/)
+                            - EXIF/XMP/GPS
+                                - Miniaturas ocultas 
+                                - Datos sobre ubicación
+                                - Modelo de la cámara
+                                - Fecha
+                                - +
+                        - [Meta Pics](http://metapicz.com/)
+                            - Miniaturas ocultas 
+                            - Datos sobre ubicación
+                            - Modelo de la cámara
+                            - Fecha
+                            - +
+                        - [Page Headers](https://pageheaders.com/)
+                            - Edad del archivo (imagen)
+                            - Tipo de archivo
+                            - Tipo de hospedaje
+                        - [Rex Swain's HTTP Viewer](http://www.rexswain.com/)
+                            - Edad del archivo (imagen)
+                            - Tipo de archivo
+                            - Tipo de hospedaje
+                    - Resolución de imagen
+                        - [Dynamic Drive](https://tools.dynamicdrive.com)
+                            - Muestra de varias versiones mejoradas de la imagen
+                        - [Waifu2x](http://waifu2x.udp.jp/)
+                            - Mejora de la resolución usando redes neuronales
+                            - Funciona mejor en imágenes de anime
+                    - Tipografía
+                        - [What the Font](https://www.myfonts.com/WhatTheFont/)
+                        - [What font is](https://www.whatfontis.com/)
+        - [waifu2x en línea](http://waifu2x.udp.jp/)
+            Funciones
+                Mejora la resolución de ilustraciones de tipo anime utilizando redes 
+neuronales convolucionales
+                También es compatible con fotografías
+            [Código abierto](https://github.com/nagadomi/waifu2x)
+            Disponible para Linux
+            Versiones bifurcadas para Windows
+                ^^JP,+^^ [waifu-2x-cafee](https://github.com/lltcggie/waifu2x-caffe) GUI
+                    **GPU Nvidia**
+                    Idiomas disponibles
+                        Inglés
+                        Japonés
+                        Chino simplificado
+                        Chino tradicional
+                        Coreano
+                        Turco
+                        Español
+                        Ruso
+                        Francés
+                ^^EN^^ [waifu2x ncnn vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
+                    Funciona mejor en GPU de Intel, AMD, Nvidia
+                ^^EN^^ [waifu 2x, solo conversión](https://github.com/DeadSix27/waifu2x-converter-cpp)
+                    ^^EN^^ [GUI](https://github.com/YukihoAA/waifu2x_snowshell)
+                        **Solo con GPU de Nvidia**
+    - Videos
+        - [FFmpeg](https://ffmpeg.org/)
+            - Funciones
+                - Grabar, convertir y reproducir audio y video
+                - +
+            - [Código abierto](https://git.ffmpeg.org/ffmpeg.git), también en [GitHub](https://github.com/FFmpeg/FFmpeg)
+            - Sistemas operativos
+                - Windows
+                - Linux
+                - macOS
+        - [HandBrake](https://handbrake.fr/)
+            - Funciones
+                - Convierte videos de cualquier formato a casi cualquier formato
+                - Opciones preconfiguradas
+                - Formatos disponibles
+                    - Contenedor de archivos: .mp4(.m4v) y .mkv
+                    - Codificador de video: H.265 (x265 y QuickSync), H.264 (x264 y QuickSync), H.265 MPEG-4 y MPEG-2, VP8, VP9 y Theor
+                    - Codificador de audio: .aac / .he-aac, .mp3, .flac, .ac3 o Vorbi
+                    - Adaptador de audio: .ac-3, .e-ac3, .dts, .dts-hd, TrueHD, .aac y pistas .mp3
+                - Subtítulos (VobSub, Closed Captions CEA-608, SSA, SRT)
+                - Calidad constante o tasa de bits promedio del codificador del video
+                - Soporte para VFR y CFR
+                - Previsualización
+            - [Código abierto](https://github.com/HandBrake/HandBrake)
+            - Sistemas operativos
+                - Windows
+                - macOS
+                - Linux
+    - Videojuegos
+        - [Goldberg Steam Simulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator)
+            - Funciones
+                - Emulador de las funciones en línea de Steam en LAN
+            - Código abierto
+            - Sistemas operativos
+                - Windows
+                - Linux
+        - [Cream API](https://cs.rin.ru/forum/viewtopic.php?t=70576)
+            - Funciones
+                - Desbloquear episodios descargable en Steam
+                - Funciona con todas las versiones conocidas de SteamApps (2 al 8)
+                - Funciona con todas las versiones conocidas de SteamUser (9 al 20)
+                - Funciona con videojuegos que hacen uso de steamclient(64).dll
+- Herramienta de descarga
+    - Aplicación nativa
+        - General (aplicaciones que tienen soporte para varios sitios)
+            - ^^EN^^ [FileMasta](https://ohhsodead.github.io/FileMasta/) `General`
+                - Características
+                    - Búsqueda de enlaces directos gracias a [od-database](https://github.com/simon987/od-database)
+                        - Video
+                        - Música
+                        - Libros
+                        - Software
+                        - Videojuegos
+                        - Subtítulos
+                        - +
+                - [Código abierto](https://github.com/ohhsodead/FileMasta)
+                - Sistema operativo
+                    - Windows
+            - ^^EN^^ [RipMeApp](https://github.com/RipMeApp/ripme) `Imágenes`
+                - Funciones
+                    - Descarga imágenes en grupo y videos
+                    - Revisa direcciones en búsqueda de nuevas actualizaciones
+                    - Lista en espera
+                - Compila en Java
+                - Codigo abierto
+                - Servidores disponibles:
+                    - Tablones en general ([4chan](4chan.org), [Hispachan](hispachan.org))
+                    - [500px](https://web.500px.com/)
+                    - [DeviantArt](https://www.deviantart.com/)
+                    - [Dribbble](https://dribbble.com/)
+                    - [E-Hentai](https://e-hentai.org/)
+                    - [Erome](https://www.erome.com/)
+                    - [Flickr](https://www.flickr.com/)
+                    - [Gfycat](https://gfycat.com/)
+                    -  [Imgur](https://imgur.com/)
+                    - [Instagram](https:://www.instagram.com)
+                    - [ModelMayhem](https://www.modelmayhem.com/)
+                    - [NHentai](https://nhentai.net/)
+                    - [Photobucket](https://photobucket.com/)
+                    - [Pornhub](https://www.pornhub.com/)
+                    - [Reddit](https://www.reddit.com)
+                    - [Tumblr](https://www.tumblr.com)
+                    - [Twitter](https://www.twitter.com)
+                    - [Vidble](https://www.vidble.com/)
+                    - [VK](https://vk.com/)
+                    - [Webtoon](https://www.webtoons.com/en/)
+            - ^^EN^^ [gallery-dl](https://github.com/mikf/gallery-dl) `Imágenes`
+                - Línea de comando
+                - Funciones
+                    - Descargar galerías de imágenes y colecciones
+                - Servidores disponibles:
+                    - [4chan.org](https://www.4chan.org/)
+                        - Tablón
+                        - Hilo
+                    - [8kun](https://8kun.top/)
+                        - Tablón
+                        - Hilo
+                    - [Archive.moe](https://archived.moe/)
+                        - Hilo
+                    - [ArtStation](https://www.artstation.com/)
+                        - Álbumes
+                        - Listado de ilustraciones
+                        - Retos
+                        - Imágenes individuales
+                        - Me gusta
+                        - Resultados de búsqueda
+                        - Perfiles de usuario
+                    - [Behance](https://www.behance.net/)
+                        - Colecciones
+                        - Galerías
+                        - Perfiles de usuario
+                    - [Blogger](https://www.blogger.com/)
+                        - Blog
+                        - Entradas
+                    - [DeviantArt](https://www.deviantart.com/)
+                        - Colecciones
+                        - Deviation
+                        - Favoritos
+                        - Libros
+                        - Galerías
+                        - Popular
+                        - Imágenes
+                        - Scrap
+                        - Sta.sh
+                        - Perfiles de usuario
+                    - [E-Hentai](https://e-hentai.org/)
+                        - Favoritos
+                        - Galerías
+                        - Resultados de búsqueda
+                    - [ExHentai](https://exhentai.org/)
+                        - Favoritos
+                        - Galerías
+                        - Resultados de búsqueda
+                    - [Flickr](https://www.flickr.com/)
+                        - Álbumes
+                        - Favoritos
+                        - Galerías
+                        - Grupos
+                        - Imágenes individuales
+                        - Resultados de búsqueda
+                        - Perfiles de usuario 
+                    - [Gfycat](https://gfycat.com/)
+                        - Imágenes individuales
+                    - [Hentai2Read](https://hentai2read.com/)
+                    - [Hitomi](https://hitomi.la/)
+                    - [Imgur](https://imgur.com/)
+                    - [Instagram](https://www.instagram.com/)
+                        - Canales 
+                        - Imágenes individuales
+                        - Historias
+                        - Búsqueda de tags
+                        - Perfiles de usuario
+                    - [Mangadex](https://mangadex.org/)
+                    - [Naver](https://blog.naver.com/)
+                        - Blog
+                        - Entrada
+                    - [Newgrounds](https://www.newgrounds.com/)
+                        - Arte
+                        - Audio
+                        - Imágenes individuales
+                        - Archivos multimedia
+                        - Película
+                        - Perfiles de usuario
+                    - [NHentai](https://nhentai.net/)
+                    - [Patreon](https://www.patreon.com/)
+                        - Creador
+                        - Entradas
+                        - Perfiles de usuario
+                    - [Pinterest](https://www.pinterest.com/)
+                        - Tablones
+                        - Pins
+                        - Enlaces pin.it
+                        - Pins relacionados
+                    - [Pixiv](https://www.pixiv.net/)
+                        - Favoritos
+                        - Seguidos
+                        - Enlaces pixiv.me
+                        - Clasificación
+                        - Resultados de búsqueda
+                        - Perfiles de usuario
+                        - Imágenes individuales
+                    - [Pornhub](https://www.pornhub.com/)
+                        - Galerías
+                        - Perfiles de usuario
+                    - [Read Comic Online](https://readcomiconline.to/)
+                    - [Reddit](https://www.reddit.com/)
+                        - Imágenes individuales
+                        - Entradas
+                        - Subreddits
+                        - Perfiles de usuario
+                    - [Slideshare](https://www.slideshare.net/)
+                        - Presentaciones
+                    - [Tsumino](https://www.tsumino.com/)
+                    - [Tumblr](https://www.tumblr.com/)
+                        - Me gusta
+                        - Entradas
+                        - Búsqueda de tags
+                        - Perfiles de usuario
+                    - [Twitter](https://twitter.com/)
+                        - Lineas de tiempo multimedia
+                        - Resultados de búsqueda
+                        - Líneas de tiempo
+                        - Tweets
+                    - Y más
+                - Código abierto
+                - Requerido
+                    - [Python](https://www.python.org/downloads/) 3.4+
+                    - [Requests](https://requests.readthedocs.io/en/master/)
+                    - [youtube-dl](https://ytdl-org.github.io/youtube-dl/) para descarga de videos
+            - ^^EN^^ [snscrape](https://github.com/JustAnotherArchivist/snscrape) `Redes sociales`
+                - Funciones
+                    - Búsqueda de perfiles usuario, hashtags, búsquedas en redes sociales
+                - Servidores disponibles
+                    - Facebook
+                        - Perfiles de usuario
+                        - Grupos
+                    - Gab
+                        - Entradas de perfiles de usuario
+                        - Vídeos e imágenes
+                        - Comentario
+                    - Instagram
+                        - Perfiles de usuario
+                        - Hashtags
+                        - Localización
+                    - Twitter
+                        - Perfiles de usuario
+                        - Hashtags
+                        - Búsqueda 
+                        - Hilo
+                        - Listas
+                            - Miembros
+                            - Entradas
+                    - VKontakte
+                        - Perfiles de usuario
+                - Código abierto
+                - Requerido
+                    - Python 3.6+
+                    - libxml2 
+                    - libxslt
+            - ^^EN^^ [Comics-DL](https://github.com/The-Eye-Team/Comics-DL)
+                - Archivado de cómics
+                - Servidores disponibles
+                    - [readcomicsonline.ru](https://readcomicsonline.ru/)
+                    - [E-Hentai](https://e-hentai.org/)
+                    - [My Reading Manga](https://myreadingmanga.info/)
+                    - [Dounjins.com](https://doujins.com/)
+                    - [NHentai](https://nhentai.net/)
+                    - [Pururin](https://pururin.io/)
+                - Código abierto
+        - Archivado de sitios web
+            - ^^EN^^ [Webrecorder](https://webrecorder.io/)
+            - ^^EN^^ [Web Archiving Integration Layer](https://github.com/machawk1/wail)
+                - Funciones
+                    - Archivado de sitios web en general
+                - Herramientas incluidas
+                    - [Heritrix 3.2.0](https://github.com/internetarchive/heritrix3)
+                    - [OpenWayback 2.4.0](https://github.com/iipc/openwayback)
+                    - Apache Tomcat 
+                    - [pyinstaller](https://github.com/pyinstaller/pyinstaller/)
+                    - [MemGator](https://github.com/oduwsdl/memgator)
+                - Compilado en Python (aunque no necesario gracias a pyinstaller)
+                - Código abierto
+                - Sistemas operativos
+                    - Windows
+                    - macOS
+        - ^^EN^^ [chimera](https://notabug.org/Aesir/chimera) `Spotify`
+            - Funciones
+                - Descarga música directamente desde servidores de pago
+                - Interfaz API disponible
+            - **Necesario cuenta de pago** para todos excepto Deezer
+            - Servidores disponibles
+                - Deezer 
+                - Tidal 
+                - Qobuz 
+                - soundcloud 
+                - napster 
+                - Google Play Music
+                    - Necesario un móvil conectado a Internet
+                - Spotify
+            - Código abierto
+            - Sistemas operativos
+                - Windows
+                - OSX (no probado en su totalidad por el autor)
+                - Linux (no probado en su totalidad por el autor)
+                - Android (no probado en su totalidad por el autor) [Instalación](https://notabug.org/Aesir/chimera/wiki/Android)
+        - ^^EN^^ [Crunchyroll Downloader](https://github.com/ThePBone/CrunchyrollDownloader)
+            - Funciones
+                - Descarga episodios completos en .mp4
+                - Descarga listas de reproducción de emisión directa .m3u HLS
+                - Eliminar restricciones regionales (proxy nativo en Estados Unidos de América)
+                - Filtrar episodios por series, temporadas y colecciones
+            - Código abierto
+            - Sistemas operativos
+                - Windows
+                - macOS
+                - Linux
+        - ^^EN^^ [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix)  `Deezer`
+            - Descarga de forma directa de los servidores de Deezer
+            - Funciones
+                - Descarga en formato .mp3 y .flac
+                - Busca y descubre música en la misma aplicación
+                - Descarga música directamente de un enlace URL
+                - Descarga la discografía de un artista
+                - Ve tu lista de reproducción pública en Deezer
+                - Archivos de música con metadatos (ID3 y comentarios Vorbis)
+                - Implementación con las API de Spotify (Sin servicios de terceros)
+            - Código abierto
+            - Sistemas operativos
+                - Windows
+                - Linux
+                - macOS
+        - ^^EN^^ [GooBooDoo](https://github.com/vaibhavk97/GoBooDo) `Google Play Books`
+            - Funciones
+                - Descarga libros con vista previa disponible de Google Libros y proxys.
+            - Compila en Python
+            - Requerido
+                - requests
+                - bs4
+                - Pillow
+                - fpdf
+                - html5lib
+        - ^^EN^^ [Raccoon](https://raccoon.onyxbits.de/) `Google Play Store`
+            - Funciones
+                - Descarga .apk de los servidores de Google
+                - Evita bloqueos regionales
+                - Instala "split apk"
+                - Descarga versiones anteriores .apk
+                - Simula un ambiente móvil muy específico (es necesario un dispositivo móvil y **adb**) y descargas específicas para un modelo específico Android.
+            - Compilado en Java
+            - Sistemas operativos
+                - Windows
+                - Linux
+                - macOS
+        - Instagram
+            - ^^EN^^ [Instagram Scraper](https://github.com/dankmemes/instagram-scraper)
+                - Descarga de Instagram
+                    - Perfiles privados (siempre y cuando tengas acceso) o públicos
+                    - Hashtags
+                - Compila en Python
+                - Código abierto
+            - ^^EN^^ [Instaloader](https://instaloader.github.io/)
+                - Detecta cambios en el nombre de usuario
+                - Funciones:
+                    - Perfiles privados (siempre y cuando tengas acceso) o públicos
+                    - Historias
+                    - Noticias
+                    - Imágenes guardadas
+                    - Descripción de publicaciones
+                    - Comentarios
+                    - Hashtag
+                - Compila en Python
+                - Código abierto
+            - ^^EN^^ [PyInstaLive](https://github.com/notcammy/PyInstaLive)
+                - Requisitos
+                    - [ffmpeg](https://ffmpeg.org/download.html)
+                    - [Git](https://git-scm.com/downloads)
+                    - [Python 2.7.x or 3.5>=](https://www.python.org/downloads/)
+                    - [pip + setuptools](https://pip.pypa.io/en/stable/installing/)
+                - Funciones
+                    - Transmisiones en vivo (también detecta transmisiones en vivo donde el usuario específico está de invitado)
+                    - Repeticiones guardadas de transmisiones en vivo
+                    - Transmisiones en vivo y repetición de comentarios
+                    - Transmisiones en vivo y repeticiones guardadas de las personas que sigues
+                - Compila en Python
+                - Código abierto
+            - ^^EN^^ [InstaLooter](https://github.com/althonos/InstaLooter)
+                - Funciones
+                    - Descargar cualquier video o imagen de un perfil de usuario sin hacer uso del API de Instagram
+                - Codigo abierto
+                - Requerido
+                    - coloredlogs
+                    - dateutil
+                    - docopt
+                    - fs
+                    - requests
+                    - six
+                    - tenacity
+                    - tqdm
+                    - verboselogs
+        - ^^EN^^ [Megabasterd](https://github.com/tonikelope/megabasterd) `Mega`
+            - Funciones
+                - Evita los límites de los servidores de Mega.nz
+                - Interfaz de usuario pésimo
+            - Servidor disponible
+                - [Mega](https://mega.nz)
+            - Código abierto
+                - Compila en Java
+                - Actualizaciones constantes
+            - Sistemas operativos
+                - Windows
+                - macOS
+                - Linux
+        - Reddit
+            - ^^EN^^ [timesearch](https://github.com/voussoir/timesearch)
+                - Archivados de subreddits
+                - Código abierto
+                - Requerido (revisar detalles en la página en GitHub)
+                    - markdown
+                    - praw
+                    - voussoirkit
+            - ^^EN^^ [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader)
+                - Funciones
+                    - Escanear comentarios y entradas de distintos sitios de Reddit en búsqueda de imágenes o videos 
+                        - Ejemplo
+                            - Lista de tus fotos a favor
+                            - Lista de entradas guardadas
+                            - Subreddits
+                            - Multireddits de usuario
+                    - Filtros de búsqueda
+                        - Ejemplo
+                            - Entradas con la palabra tal en el título con un mínimo de tantos votos a favor en tal subreddit
+                - Sistemas operativos
+                    - Windows
+                    - macOS
+                    - Ubuntu
+        - Spotify
+            - ^^EN^^ [Downtify Premium](https://github.com/Superhackman/downtify-premium)
+                - Bifurcado de [Downtify](https://github.com/Shawak/downtify)
+                - Funciones
+                    - Descarga directamente de los servidores de Spotify
+                    - Formato .mp3
+                - Necesario cuenta de pago
+            - ^^EN^^ [XSpotify](https://github.com/meik97/XSpotify)
+                - Descarga directamente de los servidores de Spotify
+                - Funciones
+                    - Calidad y formato (cuenta gratuita): 160 kb/s, 32-bit, 44100 Hz .ogg
+                    - Calidad y formato (cuenta de pago): 320 kb/s, 32-bit, 44100 Hz .ogg
+                    - Metadatos: artista, título, álbum y caratula del álbum
+                - Código abierto
+                - Requerido
+                    - Microsoft's [Visual C++ Redistributable Runtimes](https://github.com/abbodi1406/vcredist)
+            - Extra
+                - ^^EN^^ [SpotMyBackup](https://www.spotmybackup.com/)
+                    - Funciones
+                        - Exporta e importa tu lista de reproducción y canciones de Spotify
+                    - [Código abierto](https://github.com/secuvera/SpotMyBackup/)
+        - ^^EN^^ [Udeler GUI](https://github.com/FaisalUmair/udemy-downloader-gui) `Udemi`
+            - Necesario una cuenta de pago de Udemy
+            - Funciones
+                - Calidad de video
+                - Varios cursos a la vez
+                - Pausar y continuar la descarga
+                - Escoge el directorio de descarga
+                - Multilenguaje
+                    - Inglés
+                    - Italiano
+                    - Español
+            - Código abierto
+            - Sistemas operativos
+                - Windows
+                - macOS
+                - Linux
+    - Aplicación web
+        - General (aplicación web que tienen soporte para varios sitios)
+            - Banco de imágenes
+                - ^^EN^^ [Downloader.la](https://downloader.la/)
+                    - Funciones
+                        - Descarga imágenes sin marca de agua de varios bancos de imágenes
+                    - Servidores disponibles
+                        - Shutterstock
+                        - Adobe Stoc
+                        - Getty Images
+                        - Picfair
+                        - lovePik
+                        - freePik
+                        - 123RF
+                        - +
+                - ^^EN^^ [Tomato](https://tomato.to/)
+                    - Funciones
+                        - Descarga imágenes sin marca de agua de varios bancos de imágenes
+                    - Servidores disponibles
+                        - Adobestock 
+                        - Gettyimages 
+                        - 500px.com 
+                        - Flickr
+                        - 123RF
+                        - Filmmagic 
+                        - NBA Photostore
+                        - +
+            - Documentos
+                - ^^EN^^ [DocDownloader](https://docdownloader.com/)
+                    - Scribd
+                    - Isuu
+                    - Slideshare
+                    - Academia.edu
+        - Generador de enlaces de descarga de servidores de pago
+            - filehostlist.miraheze.org	Lista completa
+            - reevown.com		Uploaded (1GB/H), rapidgator (2 downloads per day), 1fichier, filefactory, uptobox, uploadboy (1GB), k2s (1GB)
+            - hyperdebrid.net		depositfiles (3 enlaces/día), rapidgator (.5GB/día), turbobit (.5/day), uploaded (1.5GB/día), userscloud (1GB/día), zippyshare (ilimitado)
+            - cocoleech.com		[5 enlaces/día] Goloady (300MB), Katfile (Ilimitado), Rapidgator (.5GB), Uploaded.net (1GB), Nitroflare (300MB), Zippyshare, Upload.ee, anonfile
+            - dailyleech.com		6$/month
+            - vnz-leech.com		Confusión
+            - get4all.org		Confusión
+        - Microsoft
+            - ^^EN^^ [Generador de enlaces de la tienda de Microsoft](https://store.rg-adguard.net/)
+                - Funciones
+                    - Descarga directa desde los servidores de Microsoft
+                    - Versiones disponibles
+                        - Rápido
+                        - Lento
+                        - Prelanzamiento
+                        - Por defecto
+                - Requerido (solo uno es necesario)
+                    - Enlace URL
+                    - Identificación del producto
+                    - Nombre de la familia del paquete
+                    - Identificación de la categoría
+            - ^^EN^^ [Generador de enlaces de .isos de Microsoft](https://tb.rg-adguard.net/public.php)
+                - Funciones
+                    - Descarga directa desde los servidores de Microsoft
+                    - Versiones disponibles
+                        - Tipo
+                        - Versión
+                        - Edición
+                        - Lenguaje
+        - ^^EN^^ [APKCombo](https://apkcombo.com/es-pe/apk-downloader/) `Google Play Store`
+            - Funciones
+                - Desde desde los servidores de la tienda de Googl
+                - Opciones múltiples
+                    - Tipo de dispositivo
+                        - Por defecto
+                        - Teléfono
+                        - Tableta
+                        - Televisión
+                    - Arquitectura del dispositivo
+                        - Por defecto
+                        - armeabi-v7a
+                        - arm64-v8a
+                        - x86
+                        - x86_64
+                    - Versión de Android
+                        - Por defecto
+                        - 4.4
+                        - 5.0
+                        - 5.1
+                        - 6.0
+                        - 7.0
+                        - 7.1
+                        - 8.0
+                        - 8.1
+                        - 9.0
+                        - 10
+                - Evitar restricciones regionales
+        - ^^EN^^ [DLScrib](https://dlscrib.com/) `Scribd`
+            - Funciones
+                - Descarga documentos desde los servidores de Scribd
+    - Línea de comando
+        - ^^EN^^ [aria2](https://aria2.github.io/)
+            - Características
+                - Multiconección y multidescarga
+                - Uso de poco espacio y pocos recursos
+                - Cliente Bittorrent
+                - Metaenlaces activado
+                    - [The Metalink Download Description Format](http://tools.ietf.org/html/rfc5854) (aka Metalink v4)
+
+                    - Metalink version 3 
+                    - [Metalink/HTTP](http://tools.ietf.org/html/rfc6249).
+                - Control remoto
+                    - JSON-RPC (HTTP y WebSocket)
+                    - XML-RPC
+            - Protocolos
+                - HTTP/HTTPS 
+                - FTP 
+                - SFTP
+                - BitTorrent
+                - Metalink
+- Mejora personal
+    - ^^EN^^ [Entrenamiento físico](nytimes.com/interactive/projects/well/workouts/)
+    - ^^EN^^ [Typing](typing.com)
+        - Funciones
+            - Practica mecanografía
+    - Organización del tiempo
+        - ^^EN^^ [Timo](https://hellotimo.co/)
+            - Simple y bonita interfaz
+            - Funciones
+                - Seguimiento de lo que tienes que hacer
+                - Modo noche
+        - ^^EN^^ [TodoHQ](https://todohq.co/)
+            - Funciones
+                - Crea listas de cosas por realizar
+                - Sincronización
+                - Modo noche disponible
+            - Simple y bonita interfaz
