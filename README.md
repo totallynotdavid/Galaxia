@@ -13,22 +13,22 @@ Este es un directorio creado con el objetivo de categorizar y ordenar una larga 
 
 <p1>La siguiente lista está expuesta en orden alfabético<p1/>
 
-  1. [Base de datos](notes/basededatos.md)
+- [ ] [Base de datos](notes/basededatos.md)
 
-  2. [Biblioteca](notes/biblioteca.md)
+- [x] [Biblioteca](notes/biblioteca.md)
 
-  3. [Búsqueda](notes/busqueda.md)
+- [ ] [Búsqueda](notes/busqueda.md)
 
-  4. [Directorio público](notes/directoriopublico.md)
+- [ ] [Directorio público](notes/directoriopublico.md)
 
-  5. [Discoteca](notes/discoteca.md)
+- [ ] [Discoteca](notes/discoteca.md)
 
-  6. [Herramientas](notes/herramienta.md)
+- [ ] [Herramientas](notes/herramienta.md)
 
-  7. [Mediateca](notes/mediateca.md)
+- [ ] [Mediateca](notes/mediateca.md)
 
-  8. [Pasatiempo](notes/pasatiempo.md)
+- [ ] [Pasatiempo](notes/pasatiempo.md)
 
-  9. [Piratería](notes/pirateria.md)
+- [ ] [Piratería](notes/pirateria.md)
 
-  10. [Utilidades](notes/utilidades.md)
+- [ ] [Utilidades](notes/utilidades.md)
