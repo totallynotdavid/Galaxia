@@ -13,22 +13,22 @@ Este es un directorio creado con el objetivo de categorizar y ordenar una larga 
 
 <p1>La siguiente lista está expuesta en orden alfabético<p1/>
 
-1. [Base de datos]()
+  1. [Base de datos](notes/basededatos.md)
 
-2. [Biblioteca](https://github.com/totallynotdavid/directorio/blob/master/notes/biblioteca.md)
+  2. [Biblioteca](notes/biblioteca.md)
 
-3. [Búsqueda]()
+  3. [Búsqueda](notes/busqueda.md)
 
-4. Directorio público
+  4. [Directorio público](notes/directoriopublico.md)
 
-5. Discoteca
+  5. [Discoteca](notes/discoteca.md)
 
-6. Herramientas
+  6. [Herramientas](notes/herramienta.md)
 
-7. Mediateca
+  7. [Mediateca](notes/mediateca.md)
 
-8. Pasatiempo
+  8. [Pasatiempo](notes/pasatiempo.md)
 
-9. Piratería
+  9. [Piratería](notes/pirateria.md)
 
-10. Utilidades
+  10. [Utilidades](notes/utilidades.md)
