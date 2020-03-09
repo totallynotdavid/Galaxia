@@ -1,17 +1,34 @@
 # Directorio
 
-Internet es un sitio muy amplio y grande, la mejor forma de encontrar nuevos sitios es a través de motores de búsqueda. Pero existe un problema, los motores de búsqueda ofrecen miles de resultados.
 
-He aquí un directorio de sitios web que he ido recopilando y ordenando los últimos meses. 
+> "Fool me once,
+> fool me twice
+> fool me chicken soup with rice"
 
-Las categorías son las siguientes:
-- Bases de datos
-- Bibliotecas
-- Búsqueda
-- Directorios públicos
-- Discoteca
-- Herramientas
-- Mediateca
-- Pasatiempo
-- Piratería
-- Utilidades
+
+Este es un directorio creado con el objetivo de categorizar y ordenar una larga lista de sitios web que he ido acumulando a lo largo de los últimos meses los cuales se encuentran disponibles públicamente en la red.
+
+
+### Categorías, en orden alfabético
+
+<p1><p1/>
+
+1. Base de datos
+
+2. Biblioteca
+
+3. Búsqueda
+
+4. Directorio público
+
+5. Discoteca
+
+6. Herramientas
+
+7. Mediateca
+
+8. Pasatiempo
+
+9. Piratería
+
+10. Utilidades
