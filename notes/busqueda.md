@@ -1,0 +1,180 @@
+- [WebOas.is](https://weboas.is/)
+    - Índice de sitios
+        - Torrent
+        - Emisión directa de películas y series de televisión
+        - Foros
+        - Subreddits
+        - Programación
+        - Noticias, libros y audiolibros
+        - Herramientas
+    - Extras
+        - Noticias
+        - Radio
+        - Foro
+        - [Conversación](https://webchat.is/home)
+- General
+    - ^^EN^^ [FilePursuit](https://filepursuit.com/)
+        - Motor de búsqueda con su propio indizador web
+        - Características
+            - Búsqueda por categorías en directorios públicos
+            - Navegar manualmente directorios públicos
+            - Filtro por tipo de archivo
+            - Búsqueda manual
+        - Categorías
+            - Videos
+            - Audios
+            - Libros
+            - Archivos
+            - Aplicaciones de Android
+    - Solicitudes de búsqueda prestablecidas
+        - Google
+            - ^^EN^^ [FileChef](https://filechef.com/)
+                - Libre de publicidad
+                - Categorías
+                    - Series de televisión, películas y vídeos
+                    - Libros
+                    - Música
+                    - Software y videojuegos
+                    - Imágenes
+                    - Otros
+            - ^^EN^^ [Abifog Open Directory Search Tool](https://opendirsearch.abifog.com/)
+                - Categorías
+                    - Videos
+                    - Audios
+                    - Libros
+                    - Imágenes
+                    - Archivos
+            - ^^EN^^ [Eye of Justice](https://www.eyeofjustice.com/od/)
+                - Categorías
+                    - Videos
+                    - Audios
+                    - Libros
+                    - Imágenes
+                    - Software y videojuegos
+                    - Comprimidos
+            - ^^EN^^ [NMHDDS](https://doyou.needmorehdd.space/)
+                - Categorías
+                    - Series de televisión, películas y vídeos
+                    - Libros
+                    - Música
+                    - Software y videojuegos
+                    - Imágenes
+                    - ISO/DMG
+            - ^^EN^^ [Filer](https://rsch.neocities.org/gen2/filer.html) `Google Drive`
+                - Categorías
+                    - Imágenes
+                    - Música
+                    - Videos
+                    - Software
+                    - Documentos
+                    - Archivos
+                    - Torrent
+                    - Indefinidos
+                - Métodos
+                    - Directorios públicos
+                    - Google Drive (antes)
+                    - Google Drive (carpeta)
+                    - Servidores pom.if
+            - ^^EN^^ [Lumpysoft](https://lumpysoft.com/)
+                - Categorías
+                    - Videos
+                    - Audios
+                    - Libros
+                    - Imágenes
+                    - Software y videojuegos
+                    - Comprimidos
+                - [Código abierto](https://github.com/level42ca/lumpysoft)
+            - ^^EN^^ [LENDX](https://lendx.org/)
+                - Categorías
+                    - Libros
+                    - Videos
+                    - Audios
+                    - Software
+                    - Imágenes
+                    - FTP
+        - Metabuscador
+            - ^^EN^^ [OD-Search](https://github.com/kevgk/OD-Search) `Extensión para Firefox`
+                - [Extensión de Firefox](https://addons.mozilla.org/de/firefox/addon/od-search/)
+                - Características
+                    - No servicios de terceros
+                    - No depende de los servidores de terceros
+                    - No publicidad
+                    - Filtros por tiempo y exclusión de términos
+                - Categorías
+                    - Videos
+                        - General
+                        - Google Drive
+                    - Imágenes
+                        - General
+                        - Google Drive
+                        - wp_uploads
+                    - Audio
+                        - General
+                        - Google Drive
+                    - Documentos
+                        - General
+                        - Google Drive
+                        - wp_uploads
+                    - Ejecutables
+                    - Archivos
+                        - General
+                        - Google Drive
+                    - Indice de
+                - Motor de búsqueda
+                    - Google
+                    - DuckDuckGo
+                        - General
+                        - Sin Javascript
+                    - Startpage
+                    - Searx
+                    - metager
+            - ^^EN^^ [Open Directory Finder](https://ewasion.github.io/opendirectory-finder/)
+                - Categorías
+                    - Series de televisión, películas y vídeos
+                    - Libros
+                    - Música
+                    - Software y videojuegos
+                    - Imágenes
+                    - Otros
+                - Motor de búsqueda
+                    - Google
+                    - FilePursuit
+                    - Googol (no disponible)
+                    - Startpage (limitado)
+                    - Searx
+- Educación
+    - ^^EN^^ [LibGen](https://libgen.me/)
+        - Metabuscador de libros, artículos científicos y cómics en varios idiomas
+        - Idioma de la interfaz: Inglés
+        - Interfaz: buena
+    - ^^EN^^ [Medco](https://medco.io/)
+        - Metabuscador médico
+    - ^^EN^^ [NASA Technical Reports Server](https://ntrs.nasa.gov/search.jsp) `Academia`
+        - Búsqueda de documentos en varias colecciones de la NASA
+    - ^^EN^^ [Course Hunter](https://coursehunter.org/)
+        - Cursos y clases de pago y gratuitas de distintas institutos y universidades que ofrecen títulos
+        - Lista de recursos de aprendizaje en la web
+- FTP
+    - [Indizador de NAPALM](https://www.searchftps.net/)
+    - [Índice abierto de Mamont](https://www.mmnt.net/)
+        - Búsqueda usando Google
+- P2P `.torrent` 
+    - General
+        - [Magnet115](https://magnet115.com/) [1](https://dh.dogsdxz.com/) ^^ZH^^
+        - [Torrentz](https://torrentz2.eu/) [1](http://torrentz2.is/) [.onion](http://torrentzwealmisr.onion/
+        - [BT4G](https://bt4g.com/)
+        - [BTSOW](https://btsow.club/) [1](https://tellme.pw/btsow)
+- Periódicos
+    - [Google News Archive](https://news.google.com/newspapers)
+    - [Newspapers Archives & Indexes](https://www.loc.gov/rr/news/oltitles.html)
+    - [Newspapers](https://newspapers.com/)
+- Sintaxis de búsqueda
+    - Libros en directorios públicos
+        - -inurl:htm -inurl:html intitle:"index of" +("/ebooks"|"/book") +(chm|pdf|zip) +"NOMBRE DEL LIBRO"
+    - Tipografías
+        - GitHub
+            - ^^EN^^ [Get the Font](https://www.getthefont.com/)
+            - intitle: [NOMBRE DE LA TIPOGRAFÍA].ttf site:github.com
+        - VK
+            - site:vk.com [Font name].ttf
+        - Una alternativa es revisar en los archivos .css del sitio
