@@ -1,61 +1,27 @@
-- Bibliotecas digitales
-    - Estándar
-        - {{table}}
-            - **Nombre**
-                - **Idioma**
-                    - **Contenido**
-                        - **Tamaño**
-            - [Biblioteca digital HathiTrust](https://www.hathitrust.org/)
-                - Inglés
-                    - Libros escaneados, proyecto de varias universidades estadounidenses
-                        - Grande (17268611), (3037281 en dominio público) 
-            - [Crónicas de Estados Unidos de América](https://chroniclingamerica.loc.gov/)
-                - Inglés
-                    - Periódicos estadounidenses digitalizados
-                        - Grande (2397313)
-            - [Biblioteca Digital Hispánica](http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Inicio/index.html)
-                - Español
-                    - Monografías impresas, manuscritos, fotografías, partituras, material cartográfico, [prensa y revistas](http://hemerotecadigital.bne.es/index.vm)
-                        - Mediano (224339)
-            - [Repositorio de la PUCP](http://repositorio.pucp.edu.pe)
-                - Español
-                    - Documentos y fotografías de carácter académico, científico e institucional producidos por la PUCP
-                        - Mediano (44897) entre imágenes y documentos
-            - [Repositorio abierto del Banco Mundial](https://openknowledge.worldbank.org/)
-                - Inglés
-                    - Investigaciones llevadas a cabo por el Banco Mundial
-                        - Mediano (29979)
-            - [Directory of Open Access Books](https://www.doabooks.org/)
-                - Inglés, alemán, entre otros
-                    - Libros académicos revisados por pares
-                        - Mediano (27491)
-            - [Open Access Publishing in European Networks](https://oapen.org/home)
-                - Inglés, entre otros
-                    - Libros académicos
-                        - Pequeño-mediano (14393)
-            - [Biblioteca Digital Abierta de la UNESCO](https://unesdoc.unesco.org/search/72a71bb0-74c9-4ef5-a26b-934dd8b90ab8/N-1da12d17-c47d-4977-a307-b02f8106f6f6)
-                - Inglés
-                    - Memoria institucional y actividades de la UNESCO
-                        - Pequeño (7153)
-            - [IntechOpen](https://www.intechopen.com/books)
-                - Inglés	
-                    - Ciencias exactas, biología, ciencias de la salud, ciencias sociales y humanidades
-                        - Pequeño (4639)
-    - Comunidad o terceros
-        - General
-            - {{table}}
-                - **Nombre**
-                    - **Idioma**
-                        - **Contenido**
-                            - **Hospedaje**
-                - [Biblioteca Abierta](https://openlibrary.org)
-                    - Inglés
-                        - (Alrededor de 20000000) General (ediciones por libro)
-                            - [Archive](https://www.archive.org/); descarga disponible en ocasiones `.pdf` `.epub` `.txt`
-                - [The Eye](https://the-eye.eu/)
-                    - Inglés
-                        - Archivado de diversos datos digitales (documentos, software, entre otros)
-                            - Propio; descarga disponible `.pdf` `.epub`
+# Bibliotecas digitales
+
+## Estándar
+
+|Nombre|Idioma|Contenido|Tamaño|
+| ---- | ---- | ------- | ---- |
+[Biblioteca digital HathiTrust](https://www.hathitrust.org/)|Inglés|Libros escaneados, proyecto de varias universidades estadounidenses|Grande (17268611), (3037281 en dominio público) 
+[Crónicas de Estados Unidos de América](https://chroniclingamerica.loc.gov/)|Inglés|Periódicos estadounidenses digitalizados|Grande (2397313)
+[Biblioteca Digital Hispánica](http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Inicio/index.html)|Español|Monografías impresas, manuscritos, fotografías, partituras, material cartográfico, [prensa y revistas](http://hemerotecadigital.bne.es/index.vm)|Mediano (224339)
+[Repositorio de la PUCP](http://repositorio.pucp.edu.pe)|Español|Documentos y fotografías de carácter académico, científico e institucional producidos por la PUCP|Mediano (44897) entre imágenes y documentos
+[Repositorio abierto del Banco Mundial](https://openknowledge.worldbank.org/)|Inglés|Investigaciones llevadas a cabo por el Banco Mundial|Mediano (29979)
+[Directory of Open Access Books](https://www.doabooks.org/)|Inglés, alemán, entre otros|Libros académicos revisados por pares|Mediano (27491)
+[Open Access Publishing in European Networks](https://oapen.org/home)|Inglés, entre otros|Libros académicos|Pequeño-mediano (14393)
+[Biblioteca Digital Abierta de la UNESCO](https://unesdoc.unesco.org/search/72a71bb0-74c9-4ef5-a26b-934dd8b90ab8/N-1da12d17-c47d-4977-a307-b02f8106f6f6)|Inglés|Memoria institucional y actividades de la UNESCO|Pequeño (7153)
+[IntechOpen](https://www.intechopen.com/books)|Inglés|Ciencias exactas, biología, ciencias de la salud, ciencias sociales y humanidades|Pequeño (4639)
+
+## Comunidad o terceros
+
+### General
+
+|Nombre|Idioma|Contenido|Hospedaje|
+| ---- | ---- | ------- | ------- |
+[Biblioteca Abierta](https://openlibrary.org)|Inglés|(Alrededor de 20000000) General (ediciones por libro)|[Archive](https://www.archive.org/); descarga disponible en ocasiones `.pdf` `.epub` `.txt`
+[The Eye](https://the-eye.eu/)|Inglés|Archivado de diversos datos digitales (documentos, software, entre otros)Propio; descarga disponible `.pdf` `.epub`
                 - [Biblioteca Z - Libros](https://b-ok.cc/) [1](https://b-ok2.org/)
                     - Inglés, español, entre otros
                         - (4951208) Libros en general `Bus`
