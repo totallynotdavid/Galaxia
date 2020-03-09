@@ -1,0 +1,150 @@
+- Audiovisual
+    - Cine y series de televisión
+        - [The Movie Database (TMDb)](https://www.themoviedb.org/)
+            - Cine, series de televisión, equipo de producción, actores y actrices
+                - Información general
+                    - Fecha de publicación
+                    - Director(a)
+                    - Idioma
+                    - Lista de actores
+                    - Presupuesto
+                    - Recaudación
+                - Galería
+            - Base datos construida por la comunidad
+            - Más de 49 idiomas disponibles
+            - API pública
+        - [Fechas de publicación de deuvedés y Blu-ray](https://www.dvdsreleasedates.com/)
+        - [The Internet Movie Script Database (IMSDB)](https://www.imsdb.com/)
+            - Guiones de películas 
+            - Transcripciones de algunas series de televisión
+            - Lectura en línea
+        - [Korean Movie Database (KMBb)](http://www.kmdb.or.kr/eng/main)
+            - Películas y series de televisión de producción coreana
+                - Duración
+                - Fecha de publicación
+            - Créditos
+                - Estudio
+                - Director
+                - Productor
+                - Inversores
+                - Actores
+                - Camarógrafo
+                - Iluminación
+                - Editor
+            - Galería
+    - Anime
+        - [AniDB (Anime Database)](https://anidb.net/)
+            - Información sobre series de animación japonesas, chinas y coreanas
+            - Información sobre grupos de traductores de varios idiomas
+            - Libre de publicidad
+            - Foro 
+        - [MyAnimeList](https://myanimelist.net/)
+            - Información sobre series de animación japonesas y mangas
+            - Foro
+            - Algunos mangas disponible para leer de forma gratuita
+        - [AniList](https://anilist.co/home)
+            - Información sobre series de animación japonesas y mangas
+            - Foro
+            - Interfaz de usuario: **Buenísima**
+            - Sitio hermano: [AniChart](https://anichart.net/)
+- Libros
+    - ISBN
+        - OCLC (Sistema de bibliotecas)
+            - [WorldCat](https://www.worldcat.org/)
+                - Información relevante
+                    - ISBN
+                    - Descripción
+                    - Contenido
+                - Enlaces de interés
+                - Ediciones por libro
+                - Opiniones obtenidas de Goodreads
+            - [OCLC Classify](http://classify.oclc.org/classify2/)
+                - Información relevante para organizar libros
+                    - DDC
+                    - LLC
+                - Ediciones por libro
+        - [Index Translationum](http://www.unesco.org/xtrans/)
+            - Base datos de traducciones disponibles en casi todos los idiomas
+            - Información general del libro
+                - Autor
+                - Traductor
+                - Editorial
+                - Fecha de publicación
+                - País
+            - Estadísticas
+    - Manuales
+        - [ManualsLib](https://www.manualslib.com/)
+            - Características
+                - Visualización en directo
+                - Descarga en formato .pdf
+            - Contenido
+                - Más de 2 700 000 productos
+                - 3 908 257 de manuales en .pdf
+                - 84 595 marcas
+                - 3.2TB indexados
+- Pornografía
+    - Estados Unidos de América y Europa
+        - [Internet Adult Film Database](http://iafd.com/)
+            - Títulos (deuvedés)
+            - Información sobre actores y actrices
+            - US Porn titles and performers
+        - [Indexxx](https://www.indexxx.com/)
+            Revistas pornográficas suaves
+            Información básica sobre modelos
+    - Japón
+        - [Warashi Asian Pornstar Database](warashi-asian-pornstars.fr)
+            - Información general del deuvedé pornográfico japonés
+                - Director
+                - Actriz
+                - Actor
+                - Estudio
+                - Distribuidor
+                - Fecha de publicación
+                - Duración
+                - Código
+        - [Japanese Adult Video Library](http://www.javlibrary.com/en/)
+            - Información general del deuvedé
+                - Actriz
+                - Duración
+                - Código
+                - Fecha de publicación
+                - Director
+                - Estudio
+            - Seguimiento de deuvedés y actrices
+            - Foro
+        - [AVDbs](https://www.avdbs.com/) ^^KO^^
+            - Información general de actrices pornográficas japonesas
+                - Información básica
+                - Papeles
+                - Fotografías 
+                - Redes sociales
+            - Información general del deuvedé pornográfico japonés
+                - Fecha de publicación
+                - Actriz
+                - Distribuidor
+                - Estudio
+                - Director
+                - Duración
+            - Noticias proporcionadas por la comunidad
+            - Contenido explícito limitado
+- IRC
+    - [mibbit](https://search.mibbit.com/networks)
+        - Redes IRC junto a sus canales subalternos
+        - Filtros
+            - Nombre
+            - Popularidad
+    - [ixIRC](https://ixirc.com/)
+        - 16 redes IRC
+        - 22 canales
+        - 185584 paquetes XDCC
+    - [XDCC](https://www.xdcc.eu/)
+        - 26 servidores
+        - 69 canales
+        - 1.106.515 paquetes XDCC
+    - [SunXDCC](https://sunxdcc.com/)
+- Otros
+    - [Steam Database](https://steamdb.info/)
+        - Seguimiento sobre las actualizaciones de aplicaciones y paquetes
+        - Información general del videojuego
+    - [MusicBrainz](https://musicbrainz.org/)
+        - Información general de canciones publicadas
