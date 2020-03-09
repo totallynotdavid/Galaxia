@@ -13,11 +13,11 @@ Este es un directorio creado con el objetivo de categorizar y ordenar una larga 
 
 <p1>La siguiente lista está expuesta en orden alfabético<p1/>
 
-1. Base de datos
+1. [Base de datos]()
 
-2. Biblioteca
+2. [Biblioteca](https://github.com/totallynotdavid/directorio/blob/master/notes/biblioteca.md)
 
-3. Búsqueda
+3. [Búsqueda]()
 
 4. Directorio público
 
