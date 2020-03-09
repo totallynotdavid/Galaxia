@@ -21,81 +21,39 @@
 |Nombre|Idioma|Contenido|Hospedaje|
 | ---- | ---- | ------- | ------- |
 [Biblioteca Abierta](https://openlibrary.org)|Inglés|(Alrededor de 20000000) General (ediciones por libro)|[Archive](https://www.archive.org/); descarga disponible en ocasiones `.pdf` `.epub` `.txt`
-[The Eye](https://the-eye.eu/)|Inglés|Archivado de diversos datos digitales (documentos, software, entre otros)Propio; descarga disponible `.pdf` `.epub`
-                - [Biblioteca Z - Libros](https://b-ok.cc/) [1](https://b-ok2.org/)
-                    - Inglés, español, entre otros
-                        - (4951208) Libros en general `Bus`
-                            - Propio `.pdf` `.epub`
-                - [EBiblioteca](https://ebiblioteca.org/)
-                    - Español
-                        - (138420) Literatura, información, entre otros
-                            - Terceros (mundofile, entre otros) `.epub` `.doc` `.pdf`
-                - [Proyecto Gutenberg](https://www.gutenberg.org/)
-                    - Inglés, alemán, portugés y francés
-                        - (Alrededor de 60000)General y variado, disponible en varios idiomas
-                            - Propio y terceros `.epub` `.mobi` `.txt`
-                - [Elejendría](https://www.elejandria.com/)
-                    - Español
-                        - (863) Libros en dominio público (ficción y no ficción)
-                            - Propio `.pdf` `.epub` `.mobi`
-                - [Standard Ebooks](https://standardebooks.org/)
-                    - Inglés
-                        - (335) Libros revisados del Proyecto Gutenberg y otros
-                            - Propio `.epub` `.ezw3` `.epub3`
-                - [BookFi](http://en.bookfi.net/) [1](http://en.booklid.org) `Duda`
-                    - Inglés, ruso, entre otros
-                        - (2239816) General y variado
-                            - Propio `.pdf` `.djvu` `.epub`
-        - Academia
-            - [Academic Torrents](https://academictorrents.com/) `torrent`
-                - Artículos científicos, cursos y sets de datos
-                - Tamaño: grande
-            - {{table}}
-                - **Nombre**
-                    - **Idioma**
-                        - **Contenido**
-                            - **Tamaño**
-                - [Semantic Scholar](https://www.semanticscholar.org/)
-                    - Inglés
-                        - Artículos científicos
-                            - Grande (181061808)
-                - [SciHub](https://sci-hub.tw/) [1](https://sci-hub.se/)
-                    - Ingles
-                        - Artículos científicos
-                            - Grande
-                - [Biblioteca Génesis](http://libgen.lc/) [1](http://libgen.li/) [2](http://185.39.10.101/)
-                    - Inglés, español, alemán, entre otros
-                        - Libros universitarios, artículos científicos, ficción, cómics y revistas
-                            - Grande 
-                - [Biblioteca Z - Artículos](https://booksc.xyz/)
-                    - Inglés, español, entre otros
-                        - Artículos científicos
-                            - Mediano-grande (77143139)
-        - Específico
-            - {{table}}
-                - **Nombre**
-                    - **Idioma**
-                        - **Contenido**
-                            - **Hospedaje**
-                - [Biblioteca Digital de la Libertad](https://oll.libertyfund.org/)
-                    - Inglés
-                        - Obras sobre libertad individual y mercado libre
-                            - Propio `.pdf` `.epub` `.mobi` `.html`
-                - [Textos modernos tempranos](https://earlymoderntexts.com/)
-                    - Inglés
-                        - Obras de filosofía moderna temprana
-                            - Propio `.pdf` y `.epub` 
-                - [Textos cristianos tempranos](http://earlychristianwritings.com/)
-                    - Inglés
-                        - Escrituras cristianas tempranas
-                            - Propio; descarga no disponible
-                -  [Biblioteca de Libretas de Notas](https://www.exercisebookarchive.org/)
-                    - Inglés
-                        - Libretas de notas de alumnos de distintos lugares y épocas
-                            - Descarga no disponible
-- Formatos específicos
-    - Libros
-        - General
+[The Eye](https://the-eye.eu/)|Inglés|Archivado de diversos datos digitales (documentos, software, entre otros)|Propio; descarga disponible `.pdf` `.epub`
+[Biblioteca Z - Libros](https://b-ok.cc/) [1](https://b-ok2.org/)|Inglés, español, entre otros|(4951208) Libros en general|Propio `.pdf` `.epub`
+[EBiblioteca](https://ebiblioteca.org/)|Español|(138420) Literatura, información, entre otros|Terceros (mundofile, entre otros) `.epub` `.doc` `.pdf`
+[Proyecto Gutenberg](https://www.gutenberg.org/)|Inglés, alemán, portugés y francés|(Alrededor de 60000)General y variado, disponible en varios idiomas|Propio y terceros `.epub` `.mobi` `.txt`
+[Elejendría](https://www.elejandria.com/)|Español|(863) Libros en dominio público (ficción y no ficción)|Propio `.pdf` `.epub` `.mobi`
+[Standard Ebooks](https://standardebooks.org/)|Inglés|(335) Libros revisados del Proyecto Gutenberg y otros|Propio `.epub` `.ezw3` `.epub3`
+[BookFi](http://en.bookfi.net/) [1](http://en.booklid.org) `Duda`|Inglés, ruso, entre otros|(2239816) General y variado|Propio `.pdf` `.djvu` `.epub`
+
+### Academia
+
+[Academic Torrents](https://academictorrents.com/) `torrent`:
+* Artículos científicos, cursos y sets de datos
+* Tamaño: grande
+
+Nombre|Idioma|Contenido|Tamaño
+------|------|---------|------
+[Semantic Scholar](https://www.semanticscholar.org/)|Inglés|Artículos científicos|Grande (181061808)
+[SciHub](https://sci-hub.tw/) [1](https://sci-hub.se/)|Ingles|Artículos científicos|Grande
+[Biblioteca Génesis](http://libgen.lc/) [1](http://libgen.li/) [2](http://185.39.10.101/)|Inglés, español, alemán, entre otros|Libros universitarios, artículos científicos, ficción, cómics y revistas|Grande 
+[Biblioteca Z - Artículos](https://booksc.xyz/)|Inglés, español, entre otros|Artículos científicos|Mediano-grande (77143139)
+
+### Específico
+
+Nombre|Idioma|Contenido|Hospedaje
+------|------|---------|---------
+[Biblioteca Digital de la Libertad](https://oll.libertyfund.org/)|Inglés|Obras sobre libertad individual y mercado libre|Propio `.pdf` `.epub` `.mobi` `.html`
+[Textos modernos tempranos](https://earlymoderntexts.com/)|Inglés|Obras de filosofía moderna temprana|Propio `.pdf` y `.epub` 
+[Textos cristianos tempranos](http://earlychristianwritings.com/)|Inglés|Escrituras cristianas tempranas|Propio; descarga no disponible
+[Biblioteca de Libretas de Notas](https://www.exercisebookarchive.org/)|Inglés|Libretas de notas de alumnos de distintos lugares y épocas|Descarga no disponible
+
+# Formatos específicos
+## Libros
+### General
             - IRC
                 - [Red de Undernet](http://www.undernet.org/)
                     - Canal "bookz"
@@ -161,7 +119,8 @@
                             - Inglés
                                 - `.pdf`
                                     - SnowFiles, Usersdrive
-        - Informática
+
+### Informática
             - {{table}}
                 - **Nombre**
                     - **Contenido**
@@ -192,7 +151,8 @@
             - [KissLightNovels](https://kisslightnovels.info/) `Buena interfaz`
             - [NovelPlanet](https://novelplanet.com/)
             - [LHNovels](https://lhnovels.net/)
-    - Cómics
+            
+## Cómics
         - Estadounidense y europeo
             - {{table}}
                 - **Nombre**
@@ -346,7 +306,7 @@
                         - [Bidong](https://bidongmh.com/)
                             - Webtoon
                                 - {{a}}
-    - Revistas
+## Revistas
         - Producción estadounidense o europea
             - {{table}}
                 - **Nombre**
