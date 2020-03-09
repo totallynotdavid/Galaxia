@@ -1,0 +1,417 @@
+- Aprendizaje
+    - Diseño
+        - ^^EN^^ [The Bézier Game](https://bezier.method.ac/)
+            - Videojuego para aprender a usar la pluma
+        - ^^EN^^ [Kern Type](https://type.method.ac/)
+            - Aprende a distribuir correctamente el espacio entre letras en un texto
+    - Idiomas
+        - Inglés
+            - ^^EN^^ [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
+            - ^^EN^^ [British Council's Learning English](https://learnenglish.britishcouncil.org/)
+- Compras
+    - ^^EN,ES,+^^ [camelcamelcamel](https://camelcamelcamel.com/)
+        - Funciones
+            - Seguimiento a los precios de Amazon
+            - Tablas históricas de precios por producto
+            - Seguimiento al precio de un producto determinado
+        - Idiomas disponibles
+            - Español
+            - Inglés
+            - Alemán
+            - Francés
+            - Italiano
+        - Extensiones
+            - Mozilla
+            - Chrome
+    - ^^EN^^ [wirecutter](https://thewirecutter.com/)
+        - Recomendaciones
+        - Características
+            - Reseñas 
+            - Ofertas 
+            - Consejos al comprar
+        - Categorías
+            - Electrónicos
+            - Casa y jardín
+            - Cocina
+            - Electrodomésticos
+            - Salud
+            - Software y aplicaciones
+            - +
+        - Propiedad de The New York Times
+- Creación de contenido
+    - Archivo
+        - ^^EN^^ [Pexels](https://www.pexels.com/) `Imágenes y videos`
+            - Imágenes contribuidas por la comunidad
+            - Características
+                - Descarga imágenes y videos de archivo
+                - Licencia de uso personal y comercial gratuito
+                - Atribución no requerida
+        - ^^EN^^ [BentenSound](https://bentensound.com/) `Música`
+            - Plataforma descentralizada
+            - Características
+                - Descarga de música de archivo
+                - Licencia de uso comercial
+                - Atribución requerida
+        - ^^EN^^ [Videvo](https://www.videvo.net/) `Videos, música y sonidos`
+            - Imágenes de archivo de videos, música y sonidos
+            - Características
+                - Descarga videos (varios disponibles en 4K), música y sonidos de archivo
+                - Licencia de uso personal y comercial gratuito
+                - Atribución requerida a menos que uses la versión de pago
+                - Versión de pago
+        - Obras de arte
+            - ^^EN^^ [Acceso Abierto de Smithsonian](https://www.si.edu/openaccess)
+            - ^^EN^^ [Colección en dominio público del Museo Metropolitano de Arte](https://www.metmuseum.org/art/collection/search#!?searchField=All&showOnly=openAccess&sortBy=Relevance&offset=0&pageSize=0)
+                - Contenido
+                    - Fotografías
+                    - Pinturas
+                    - Objetos
+            - ^^EN^^ [Colección del Instituto de Arte de Chicago](https://www.artic.edu/collection)
+                - Contenido
+                    - Pinturas y fotografías de objetos en dominio público
+                    - Pinturas y fotografías de objetos con licencias cerradas
+            - ^^EN^^ [Colour our Collections](https://library.nyam.org/colorourcollections/)
+                - Imágenes en dominio público
+                - Contenido
+                    - Fotografías medievales y modernas de dibujos
+                    - Dibujos sin colorear, solo trazos
+    - Diseño
+        - General `servidor`
+            - General
+                - {{table}}
+                    - **Nombre**
+                        - **Contenido**
+                            - **Hospedaje**
+                    - [Graphicex](https://graphicex.com/)
+                        - Vector, imagen de archivo, textura, tipografía, plantilla para Photoshop, Indesign, Lightroom y Power Point (166005)
+                            - Zippyshare, Rapidgator, Prefiles, entre otros
+                    - [Audio wareZ](https://audioz.download/) `foro`
+                        - Software y complementos de edición de audio, revistas, cursos y muestras (89160)
+                            - Rapidgator, Uploaded, Nitroflare `Usenet`
+                    - [vestathemes](https://vestathemes.com/) `wordpress`
+                        - Plantillas y complementos para Wordpress (28900)
+                            - Propio
+                    - [CG Persia](https://cgpersia.com/)
+                        - Software (2D, 3D, VFX), texturas, modelos 3D y cursos (19230)
+                            - Rapidgator, Alfafile, Nitroflare
+                    - [GFX-Hub](https://gfx-hub.net/)
+                        - Software, complemento, modelo 3D, material, textura, efectos de video y sonido, libros y revistas (15850)
+                            - Hitfile, Nitroflare
+            - Inaccesible
+                - {{table}}
+                    - **Nombre**
+                        - **Contenido**
+                            - **Foro**
+                    - [CGPeers](cgpeers.com) `cerrado`
+                        - Software (2D, 3D, VFX), texturas, modelos 3D y cursos, entre otros
+                            - Sí
+                    - [GFXDomain](https://forum.gfxdomain.net/) `cerrado`
+                        - Software (2D, 3D, VFX, edición), complementos, tutoriales, modelos 3D y texturas
+                            - Sí
+                    - [Web4Sync](https://web4sync.com/) `de pago`
+                        - Desarrollo y diseño web (complemento, tema para Wordpress, entre otros)
+                            - Sí
+        - Animación
+            - ^^EN^^ [Piskel](https://www.piskelapp.com/)
+                - Aplicación web gratuita (cuenta necesaria)
+                - Características
+                    - Editor en línea de sprites
+                    - Arte de píxeles
+                    - Previsualización
+                    - Exportar en formato .gif o .png
+                    - Galería privada
+                - [Código abierto](https://github.com/piskelapp/piskel)
+                - Sistemas operativos (limitados en comparación a la web)
+                    - Windows
+                    - macOS
+                    - Linux
+        - Edición gráfica
+            - ^^EN^^ [Vectr](https://vectr.com/)
+                - Aplicación web gratuita
+                - Características
+                    - Capas de edición
+                    - Herramienta pluma y lápiz
+                    - Texto
+                    - Subida de imágenes
+                    - Exporta en .svg, .png y .jpg
+            - ^^EN^^ [Method Draw](https://editor.method.ac/)
+                - Aplicación web gratuita
+                - Características
+                    - Capas de edición
+                    - Herramienta pluma y lápiz
+                    - Formas
+                    - Cuentagotas
+                    - Texto
+                    - Subida de imágenes
+                    - Exporta en .svg y .png
+                - [Código abierto](https://github.com/methodofaction/Method-Draw)
+        - Tipografías
+            - ^^EN^^ [FontSquirrel](https://www.fontsquirrel.com/)
+                - Características
+                    - Tipografías libres de uso comercial (varios lenguajes disponibles)
+                    - Generador de tipografías web
+                    - Identificador de tipografías
+            - ^^EN^^ [Freebies.ByPeople](https://www.bypeople.com/category/free-fonts/)
+                - Características
+                    - Tipografías libres de uso comercial
+                - Formatos
+                    - OTF
+                    - TTF
+                    - EOT
+                    - WOFF
+                    - WOFF2
+        - Paletas de color
+            - ^^EN^^ [Color Hunt](https://colorhunt.co)
+            - ^^EN^^ [Cohesive Colors](https://javier.xyz/cohesive-colors/)
+    - Documentos
+        - Presentación
+            - ^^EN^^ [SlidesCarnival](https://www.slidescarnival.com/)
+                - Funciones
+                    - Descarga plantillas gratuitamente
+                    - Contenido
+                        - Plantillas para Power Point
+                        - Temas para Google Slides
+                        - Plantilas de Canva
+                    - Filtro por contenido
+        - Textos
+            - ^^EN^^ [Quetext](https://www.quetext.com/) `Detección de plagio`
+                - Funciones
+                    - Detección de plagio
+                    - Asistente de citación y referencias
+                - Servicio gratuito en línea
+            - ^^EN^^ [ExtractPDF](https://www.extractpdf.com/)
+                - Funciones
+                    - Extrae imágenes, textos y tipografías de un archivo .pdf
+                    - Tamaño máximo: 25 mb
+                    - Sin registro necesario
+    - Grabación
+        - Captura de pantalla
+            - ^^EN^^ [RecordScreen](https://recordscreen.io/)
+                - Características
+                    - Grabación de pantalla en el navegador
+                    - Aplicación web
+    - Música
+        - ^^EN^^ [Moises.ai](https://moises.ai/) `Separar voz de música`
+            - Características
+                - Cinco subidas de máximo 5 minutos al mes
+                - 7 días de disponibilidad
+                - Separa voz de varios instrumentos (bajo, batería, guitarra, etc)
+                - También servicio de pago
+- Compartir archivos
+    - A través de internet
+        - General
+            - Encriptado
+                - ^^EN^^ [workupload](https://workupload.com/)
+                    - Características
+                        - Subir cualquier tipo de archivo
+                        - Límite de 2GB de forma anónima
+                        - Cifrado de extremo a extremo
+                        - Enviar a un correo específico
+                        - Contraseña de bloqueo para la descarga
+                        - Limitar descargas disponibles
+                        - Establecer disponibilidad en días
+                - ^^EN^^ [Firefox Send](https://send.firefox.com/)
+                    - Características
+                        - Comparte archivos de forma simple y privada
+                        - Límite de 1GB de forma anónima y límite de 2.5GB para usuario de Firefox
+                        - Cifrado de extremo a extremo 
+            - Ocasional
+                - ^^EN^^ [Smash](https://fromsmash.com/)
+                    - Sencillo y fácil
+                    - Características
+                        - Subir archivos sin 'límite' de tamaño
+                        - Disponibilidad de 14 días
+                        - Notificación cuando alguien descarga el archivo
+                        - Personalización del enlace URL
+                - ^^EN^^ [WeTransfer](https://wetransfer.com/)
+                    - Características
+                        - Límite de 2GB de forma anónima
+                        - Disponibilidad de 7 días
+                        - Enviar a un correo específico
+                        - Deja un mensaje al receptor
+                        - Notificación cuando alguien descarga el archivo
+        - Notas
+            - De forma anónima
+                - ^^EN^^ [CrytoNote](https://cryptonote.me/)
+                    - Características
+                        - Envía y recibe mensajes cifrados de una sola vista
+                    - [Código abierto](https://github.com/alainmeier/cryptonote)
+                    - Estadísticas públicas
+                - ^^EN,ES,+^^ [Privnote](https://privnote.com/)
+                    - Características
+                        - Enviar notas de forma anónima
+                        - Autodestrucción programable
+                            - Después de ser leído
+                            - Luego de 1 hora, 1 días, 1 semana o 1 mes
+                        - Contraseña manual
+                        - Notificación de autodestrucción
+                    - Idiomas disponibles
+                        - Español
+                        - Inglés
+                        - Alemán
+                        - Francés
+                        - Portugués
+                        - +
+    - A través de una conexión Wi-Fi directa
+        - ^^EN^^ [Snapdrop](https://snapdrop.net/)
+            - Aplicación web
+            - Funciones
+                - Transferir archivos a otros dispositivos en la misma red Wi-Fi
+                - Notificaciones
+            - [Código abierto](https://github.com/RobinLinus/snapdrop)
+    - Extras
+        - ^^EN^^ [Enlace directo de descarga de Google Drive](https://maulvi.github.io/)
+- Desarrollo web
+    - General
+        - ^^EN^^ [freebiebucket](http://freebiebucket.com/)
+            - Lista de productos y recursos
+            - Categorías
+                - Design
+                - Productivity
+                - Stock Photos
+                - Domain & Naming
+                - Typography
+                - Social Media
+                - Development
+                - Email
+                - Stock Videos
+                - Form & Survey
+                - Analytic
+                - Templates
+                - Documentation
+                - Automation
+    - Multimedia
+        - ^^EN^^ [DPlayer](https://dplayer.js.org/)
+            - Reproductor de video HTML5 "danmaku"
+            - Funciones
+                - "Danmaku" (comentarios durante la reproducción del video)
+                - Captura de pantalla
+                - Atajos de teclado
+                - Cambio de calidad de video
+                - Miniaturas
+                - Subtítulos
+            - Formatos
+                - Emisión en directo
+                    - [HLS](https://github.com/video-dev/hls.js)
+                    - [FLV](https://github.com/Bilibili/flv.js)
+                    - [MPEG DASH](https://github.com/Dash-Industry-Forum/dash.js)
+                    - [WebTorrent](https://github.com/webtorrent/webtorrent)
+                    - Cualquier otro formato de emisión personalizado
+                - Multimedia
+                    - MP4 H.264
+                    - WebM
+                    - Ogg Theora Vorbis
+            - [Código abierto](https://github.com/MoePlayer/DPlayer)
+        - ^^EN^^ [APlayer](https://github.com/MoePlayer/APlayer)
+            - Reproductor de música HMTL5
+            - Funciones
+                - Lista de reproducción
+                - Letra de la canción
+            - Formatos
+                - MP4 H.264 (AAC or MP3) 
+                - WAVE PCM 
+                - Ogg Theora Vorbis
+            - Complementos
+- Seguridad
+    - Análisis
+        - ^^EN^^ [Hybrid Analysis](https://www.hybrid-analysis.com/)
+            - Servicio de análisis de software malicioso en línea
+            - Funciones
+                - Examina la actividad de un archivo de forma dinámica y estática en un ambiente virtual (VirtualBox y VMWare)
+                - Escaneo múltiple
+                - Ambiente virtual
+                    - Windows 7 (32 y 64 bits)
+                    - Windows XP, Vista, Windows 7/8, 10
+            - Formatos disponibles
+                - PE (.exe, .scr, .pif, .dll, .com, .cpl, etc.) 
+                - Office (.doc, .docx, .ppt, .pps, .pptx, .ppsx, .xls, .xlsx, .rtf, .pub)
+                - PDF (.pdf)
+                - APK (.apk)
+                - Ejecutable Java (.jar)
+                - Componente de órdenes de Windows (.sct) 
+                - Accesos directos de Windows (.lnk) 
+                - Ayuda de Windows (.chm) 
+                - Aplicación HTML (.hta)
+                - Archivo de órdenes de Windows (*.wsf), 
+                - Javascript (.js)
+                - Visual Basic (*.vbs, *.vbe)
+                - Shockwave Flash (.swf), 
+                - Perl (.pl)
+                - Powershell (.ps1, .psd1, .psm1)
+                - Gráficos vectoriales escalables (.svg)
+                - Órdenes de Python (.py) y Perl (.pl)
+                - Ejectuables Linux ELF
+                - MIME RFC 822 (*.eml), 
+                - Paquetes de instalación de Microsoft (*.msi)
+                - Archivos de mensaje de Outlook (*.msg)
+    - Privacidad
+        - Correo electrónico temporal
+            - ^^EN^^ [altmails](https://altmails.com/)
+                - Correo temporal que redirige los mensajes a tu correo personal
+                - Puedes dejar de recibir mensajes de ciertos emisores
+            - ^^EN^^ [Disposable Gmail](https://gmailnator.com) `Gmail`
+            - ^^EN^^ [s.MailPro](https://smailpro.com/)
+                - Funciones
+                    - Servidores
+                        - Smailpro
+                        - Gmail
+                        - GoogleMail
+                    - No deja escoger
+        - Huella digital
+            - ^^EN^^ [Am I Unique](https://amiunique.org/)
+                - Características
+                    - Información sobre la posición del usuario en la red
+                    - Investigación sobre la diversidad de huellas digitales en la web
+            - ^^EN^^ [I know](https://iknowwhatyoudownload.com/)
+                - Características
+                    - Lista de descargas P2P realizadas por una IP
+                    - Límite de 30 días
+                    - Rastreadores públicos
+                    - Estadísticas públicas
+        - Mensajes de texto
+            - ^^EN^^ [SMS Online](https://smstools.online/)
+            - ^^EN^^ [GetFreeSMSNumber](https://getfreesmsnumber.com/)
+            - ^^EN^^ [ReceiveSMS](https://www.receivesms.org/)
+            - ^^EN^^ [SMSFinders](https://smsfinders.com/)
+            - ^^EN^^ [Recibe mensajes de texto en línea](https://hs3x.com/)
+                - 4 números telefónicos de Estados Unidos disponibles
+                - Servicio de pago adicional para obtener un número personal
+            - ^^EN^^ [My trash mobile](https://www.mytrashmobile.com/)
+                - Estados Unidos: 1
+                - Reino Unido: 1
+                - Canadá: 1
+            - ^^EN^^ [FreeOnlinePhone](https://www.freeonlinephone.org/)
+                - Reino Unido: 2
+                - Estados Unidos: 3
+            - ^^EN^^ [FreePhoneNum](https://freephonenum.com/)
+                - Estados Unidos: 10
+                - Canadá: 5
+        - Tarjetas de crédito
+            - ^^EN^^ [Privacy](https://privacy.com/) `Solo en Estados Unidos`
+                - Características
+                    - Paga servicios web sin revelar tu tarjeta de crédito
+                    - Recibe una tarjeta de crédito distinta por cada servicio
+                    - Fácilmente deja de pagar cuentas extras
+                    - Limitar el dinero gastado por tarjeta, por mes, por gasto o por año
+                    - Notificaciones cada vez que una transacción sucede
+                - Extensiones
+                    - Firefox
+                    - Chrome
+- Extras
+    - ^^EN^^ [Noisli](https://www.noisli.com/)
+        - Genera un ambiente sonoro para concentrarte
+        - Características
+            - Sonidos disponibles
+                - Lluvia
+                - Rayos
+                - Bosque
+                - Viento
+                - Hojas
+                - Corrientes de agua
+                - Río
+                - Gotas
+                - +
+            - Temporizador
+            - Necesario iniciar sesión
+        - Extensiones
+            - Chrome
