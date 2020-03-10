@@ -13,7 +13,7 @@ Este es un directorio creado con el objetivo de categorizar y ordenar una larga 
 
 <p1>La siguiente lista está expuesta en orden alfabético<p1/>
 
-- [ ] [Base de datos](notes/basededatos.md)
+- [X] [Base de datos](notes/basededatos.md)
 
 - [x] [Biblioteca](notes/biblioteca.md)
 
