@@ -8,8 +8,7 @@
 
 > Información general sobre películas, series de televisión, equipo de producción y post-producción, actores y actrices en general: fecha de publicación, director(a), idioma, reparto, equipo de producción, presupuesto y recaudación entre otros.
 
-- Características adicionales:
-
+Características adicionales:
   - Base datos construida por la comunidad
   - Disponible en más de 49 idiomas
   - API pública
@@ -22,14 +21,14 @@
 
 > Guiones de películas y transcripciones de algunas series de televisión de **producción europea o estadounidense**.
 
-- Características adicionales:
+Características adicionales:
   - Lectura en línea (texto plano)
   
 ### [Korean Movie Database (KMBb)](http://www.kmdb.or.kr/eng/main)
 
 > Información general sobre películas y series de televisión de **producción coreana**: Estudio, director(a), productor(a), inversor(es), reparto, equipo de producción y post-producción; duración y fecha de publicación.
 
-- Características adicionales:
+Características adicionales:
   - También posee una galería de imágenes y videos.
 
 ## Animación y cómics
@@ -38,8 +37,7 @@
 
 > Información general sobre películas y series de animación japonesas, chinas y coreanas: estudio, director(a), productor(a), reparto, equipo de producción y banda sonora; y sobre grupos encargados de su traducción y subtitulado en varios idiomas.
 
-- Características adicionales:
-
+Características adicionales:
   - Libre de publicidad
   - Foro
 
@@ -47,8 +45,7 @@
 
 > Información general sobre manga, películas y series de animación japonesas: autor, estudio, director(a), productor(a), reparto, equipo de producción y banda sonora
 
-- Características adicionales:
-
+Características adicionales:
   - Algunos mangas disponible para leer de forma gratuita
   - Foro
   
@@ -56,8 +53,7 @@
 
 > Información general sobre manga, películas y series de animación japonesas: autor, estudio, director(a), productor(a), reparto, equipo de producción y banda sonora
 
-- Características adicionales:
-
+Características adicionales:
   - Interfaz de usuario: **Buenísima**
   - Foro
             
@@ -82,8 +78,7 @@
 
 > Manuales de diversos productos físicos disponibles en directo o descarga.
 
-- Estadísticas:
-
+Estadísticas:
   - Más de 2 700 000 productos
   - 3 908 257 de manuales en .pdf
   - 84 595 marcas
@@ -100,7 +95,7 @@
 
 > Información general sobre revistas y modelos pornográficas suaves (medidas, redes sociales, actividad, entre otros).
             
-##Japón
+## Japón
 ### [Warashi Asian Pornstar Database](warashi-asian-pornstars.fr)
 
 > Información general del deuvedé: código, director, actriz, actor, estudio, distribuidor, fecha de publicación y duración.
@@ -109,7 +104,7 @@
 
 > Información general del deuvedé: código, director, actriz, actor, estudio, distribuidor, fecha de publicación y duración.
 
- - Características adicionales:
+Características adicionales:
    - Seguimiento de deuvedés y actrices
    - Foro
    
@@ -117,7 +112,7 @@
 
 > Información general de actrices: información básica, papeles, fotografías y redes sociales, y deuvedés: código, director, actriz, actor, estudio, distribuidor, fecha de publicación y duración.
 
-- Características adicionales:
+Características adicionales:
   - Foro (noticias sobre actrices y deuvedés)
   - Contenido explícito limitado (verificación de ciudadanía surcoreana)
 
@@ -127,22 +122,20 @@
 
 > Redes IRC junto a sus canales subalternos
 
-- Filtros
-
+Filtros
   - Nombre
   - Popularidad
   
 ## [ixIRC](https://ixirc.com/)
 
-- Estadísticas:
-
+Estadísticas:
   - 16 redes IRC
   - 22 canales
   - 185584 paquetes XDCC
   
 ## [XDCC](https://www.xdcc.eu/)
 
-- Estadísticas:
+Estadísticas:
   - 26 servidores
   - 69 canales
   - 1.106.515 paquetes XDCC
