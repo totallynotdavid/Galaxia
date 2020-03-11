@@ -56,7 +56,7 @@ Características adicionales:
 
 ### [MyAnimeList](https://myanimelist.net/)
 
-> Información general sobre manga, películas y series de animación japonesas: autor, estudio, director(a), productor(a), reparto, equipo de producción y banda sonora
+> Información general sobre manga, películas y series de animación japonesas: autor, estudio, director(a), reparto, equipo de producción y banda sonora.
 
 Características adicionales:
   - Algunos mangas disponible para leer de forma gratuita
@@ -64,7 +64,7 @@ Características adicionales:
   
 ### [AniList](https://anilist.co/home), [AniChart](https://anichart.net/)
 
-> Información general sobre manga, películas y series de animación japonesas: autor, estudio, director(a), productor(a), reparto, equipo de producción y banda sonora
+> Información general sobre manga, películas y series de animación japonesas: autor, estudio, director(a), reparto, equipo de producción y banda sonora.
 
 Características adicionales:
   - Interfaz de usuario: **Buenísima**
@@ -115,7 +115,7 @@ Estadísticas:
                 
 ### [Japanese Adult Video Library](http://www.javlibrary.com/en/)
 
-> Información general del deuvedé: código, director, actriz, actor, estudio, distribuidor, fecha de publicación y duración.
+> Información general del deuvedé: código, director, actriz, estudio, distribuidor, fecha de publicación y duración.
 
 Características adicionales:
    - Seguimiento de deuvedés y actrices
@@ -123,7 +123,7 @@ Características adicionales:
    
 ### [AVDbs](https://www.avdbs.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="22">
 
-> Información general de actrices: información básica, papeles, fotografías y redes sociales, y deuvedés: código, director, actriz, actor, estudio, distribuidor, fecha de publicación y duración.
+> Información general de actrices: información básica, papeles, fotografías y redes sociales, y deuvedés: código, director, actriz, estudio, distribuidor, fecha de publicación y duración.
 
 Características adicionales:
   - Foro (noticias sobre actrices y deuvedés)
@@ -131,12 +131,12 @@ Características adicionales:
 
 # IRC
 
- Nombre|Filtros
- ------|-------
- [mibbit](https://search.mibbit.com/networks)|103 redes, miles de canales
- [ixIRC](https://ixirc.com/)|16 redes, 22 canales y 192119 paquetes XDCC
- [XDCC](https://www.xdcc.eu/)|27 redes, 73 canales y 1093523 paquetes XDCC
- [SunXDCC](https://sunxdcc.com/)|10 redes, 18 canales
+  Nombre|Filtros
+  ------|-------
+  [mibbit](https://search.mibbit.com/networks)|103 redes, miles de canales
+  [ixIRC](https://ixirc.com/)|16 redes, 22 canales y 192119 paquetes XDCC
+  [XDCC](https://www.xdcc.eu/)|27 redes, 73 canales y 1093523 paquetes XDCC
+  [SunXDCC](https://sunxdcc.com/)|10 redes, 18 canales
     
 # Otros
 
