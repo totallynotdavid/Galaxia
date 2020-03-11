@@ -8,8 +8,8 @@
 3. [Pornografía](#pornografía)
    - [Estados Unidos de América y Europa](#estados-unidos-de-américa-y-europa)
    - [Japón](#japón)
-[IRC](#irc)
-[Otros](#otros)
+4. [IRC](#irc)
+5. [Otros](#otros)
 
 `Nota: Varios de los siguiente sitios, también son usados para catalogar, organizar y hacer seguimiento.`
 
