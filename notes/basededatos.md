@@ -121,7 +121,7 @@ Características adicionales:
    - Seguimiento de deuvedés y actrices
    - Foro
    
-### [AVDbs](https://www.avdbs.com/) [KO]
+### [AVDbs](https://www.avdbs.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="22">
 
 > Información general de actrices: información básica, papeles, fotografías y redes sociales, y deuvedés: código, director, actriz, actor, estudio, distribuidor, fecha de publicación y duración.
 
@@ -131,36 +131,16 @@ Características adicionales:
 
 # IRC
 
-## [mibbit](https://search.mibbit.com/networks)
-
-> Redes IRC junto a sus canales subalternos
-
-Filtros
-  - Nombre
-  - Popularidad
-  
-## [ixIRC](https://ixirc.com/)
-
-Estadísticas:
-  - 16 redes IRC
-  - 22 canales
-  - 185584 paquetes XDCC
-  
-## [XDCC](https://www.xdcc.eu/)
-
-Estadísticas:
-  - 26 servidores
-  - 69 canales
-  - 1.106.515 paquetes XDCC
-  
-## [SunXDCC](https://sunxdcc.com/)
+ Nombre|Filtros
+ ------|-------
+ [mibbit](https://search.mibbit.com/networks)|103 redes, miles de canales
+ [ixIRC](https://ixirc.com/)|16 redes, 22 canales y 192119 paquetes XDCC
+ [XDCC](https://www.xdcc.eu/)|27 redes, 73 canales y 1093523 paquetes XDCC
+ [SunXDCC](https://sunxdcc.com/)|10 redes, 18 canales
     
 # Otros
 
-## [Steam Database](https://steamdb.info/)
-
-> Seguimiento sobre las actualizaciones de aplicaciones y paquetes, además de información pública general del videojuego
-        
-## [MusicBrainz](https://musicbrainz.org/)
-
-> Información general de canciones publicadas
+  Nombre|Contenido
+  ------|---------
+  [Steam Database](https://steamdb.info/)|Seguimiento sobre las actualizaciones de aplicaciones y paquetes, además de información pública general del videojuego
+  [MusicBrainz](https://musicbrainz.org/)|Información general de canciones publicadas
