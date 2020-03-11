@@ -1,125 +1,71 @@
-- General
-    - P2P `torrent`
-        - General: película, programa de televisión, software (aplicación y videojuego), música y contenido adulto con enfoque occidental
-        - {{table}}
-            - **Nombre**
-                - **Reputación**
-                    - **Contenido**
-            - [RARBG](https://rarbgweb.org/torrents.php)
-                - Confiable
-                    - Películas, series de televisión, videojuegos, música, pornografía
-            - [RuTracker](https://rutracker.org/forum/index.php)
-                - Confiable
-                    - General, anime, libro (+audiolibro), revistas, tutoriales
-            - [TGx](https://torrentgalaxy.to/)
-                - Regular
-                    - General, anime, libros, documentales
-            - [GloTorrents](https://glodls.to/)
-                - Cuidado
-                    - General, anime, libro, set de fotografía
-            - [Kickass Torrents](https://katcr.co/)
-                - Cuidado
-                    - General, anime, libro, magazín, set de fotografía (suave y explícito) 
-            - [ProStyleX](https://prostylex.org/)
-                - Cuidado
-                    - General, anime, JAV, hentai, set de fotografía
-            - ^^RU^^ [rutor](http://rutor.info/)
-                - Cuidado
-                    - General, anime, cine extranjero, comedia en vivo, documentales
-            - ^^KO^^ [JoyMaxim](https://joymaxim.com/)
-                - Cuidado
-                    - Cine, programas de televisión, doramas, documentales, videojuegos, animación japonesa
-    - Servidor
-        - {{table}}
-            - **Nombre**
-                - **Contenido**
-                    - **Hospedaje**
-            - [CompucaliTV](https://compucalitv.com/)
-                - Software (general y videojuegos), películas, series de televisión
-                    - Google Drive, Mega, Zippyshare, Uptobox (variante)
-            - [Mobilism](https://forum.mobilism.org/index.php)
-                - Libros electrónicos, audiolibros, aplicaciones para Android (original y modificado), entre otros
-                    - Rapidgator, Uploaded, entre otros (depende del usuario)
-            - [World Source](https://www.worldsrc.org)
-                - Películas, series de televisión, aplicaciones (Windows, Android, videojuegos)
-                    - Descarga directa + torrent
-            - [Scnlog](https://scnlog.me/) `Escena`
-                - General, aplicaciones (general y videojuegos), libros electrónicos, cine extranjero, pornografía
-                    - Nitroflare, TurboBit, LetsUpload, Upload.ac, MixDrop, UptoBox, gounlimited
-            - [HD-Source](http://hd-source.to/) ^^DE^^ [1](http://serienjunkies.org)
-                - Películas, series de televisión, videojuegos y pornografía
-                    - Uploaded, Rapidgator, DDL.to, Oboom
-            - [Volno!](https://volno.org/portal.php/)
-                - Aplicaciones móviles, cursos, libros, música, películas, series de televisión, videojuegos, pornografía
-                    - Rapidgator, Nitroflare
-            - [downTURK](https://www.downturk.net/)
-                - Software (Windows, Android), diseño (vector, tipografía), libro
-                    - Rapidgator, Nitroflare
-- Software
-    - Aplicación
-        - {{table}}
-            - **Nombre**
-                - **Hospedaje**
-                    - **Categorías**
-            - [nsane.down](https://nsanedown.com/) `Windows` `25 mil`
-                - Al autor
-                    - Controladores, compartir archivos, internet, multimedia, seguridad, sistema y otras aplicaciones
-            - [Get Into PC](https://getintopc.com/) `Windows` `8130`
-                - Propio (desactivar bloqueador de publicidad)
-                    - Aplicaciones en general (sistemas operativos, edición, multimedia, desarrollo web, herramientas, entre otros)
-            - [AppNee Freeware Group](https://appnee.com/) `2674`
-                - Al autor; Solewe, Usersdrive, entre otors
-                    - Sistemas operativos, seguridad, videojuegos, código fuente, profesional, multimedia, entre otros
-            - [haxNode](https://haxnode.com/) `1010`
-                - Usersdrive, SnowFiles
-                    - Aplicaciones de Windows, Android y macOS
-    - Videojuegos
-        - Antiguos
-            - {{table}}
-                - **Nombre**
-                    - **Hospedaje**
-                - [ROMSMania](https://romsmania.cc/)
-                    - Propio
-                - [Vimm's Lair](https://vimm.net/?p=vault)
-                    - Google
-        - Nuevos
-            - P2P
-                - {{table}}
-                    - **Nombre**
-                        - **Idioma**
-                            - **Consola**
-                    - [Small-Games](https://small-games.info/) `indie`
-                        - Inglés y ruso (26655)
-                            - Windows 7/8/10, macOS y Linux
-                    - [GamesTorrents](https://www.gamestorrents.nu/)
-                        - Español, inglés, entre otros (14201)
-                            Windows, Android, Mac, Xbox360, PS4, PS3, PS2, PSP, Wii
-                    - [FitGirl Repacks](https://fitgirl-repacks.site/)
-                        - Ingles, ruso, entre otros (casi 1500) 
-                            - Windows 7/8/10
-                    - [Black Box Repack](https://www.blackboxrepack.com/) [1](https://1337x.to/user/FitGirl/) [2](https://katcr.co/user/fitgirl/profile/) [3](http://rutor.info/browse/0/0/1224038/0)
-                        - Inglés (427)
-                            - Windows 7/8/10
-            - Servidor
-                - {{table}}
-                    - **Nombre**
-                        - **Reputación**
-                            - **Hospedaje**
-                                - **Nota**
-                    - [GLOAD.cc](https://gload.cc/)
-                        - Desconocido (8350)
-                            - Zippyshare, Rapidgator, ddl.to
-                    - [Ziperto](https://www.ziperto.com/)
-                        - Desconocido (7512)
-                            - Mega, Mediafire, Uptobox, 1fichier
-                                - Sin acortadores
-                    - [Steam Underground Community](https://cs.rin.ru/forum/viewforum.php?f=22)
-                        - Confiable (7031)
-                            - Google Drive y MirrorRace
-                                - Inglés, español, ruso, entre otros
-                    - [Cracked-Games](https://cracked-games.org/)
-                        - Confiable (3870)
-                            - Mega, Uploaded, MegaUp
+## Índice
+1. [General](#general)
+   - [P2P](#p2p)
+   
+# General
+## P2P `torrent`
+
+> General: película, programa de televisión, software (aplicación y videojuego), música y contenido adulto **con enfoque occidental**.
+
+  Nombre|Reputación|Contenido
+  ------|----------|---------
+  [RARBG](https://rarbgweb.org/torrents.php)|Confiable|Películas, series de televisión, videojuegos, música, pornografía
+  [RuTracker](https://rutracker.org/forum/index.php)|Confiable|General, anime, libro (+audiolibro), revistas, tutoriales
+  [TGx](https://torrentgalaxy.to/)|Regular|General, anime, libros, documentales
+  [GloTorrents](https://glodls.to/)|Cuidado|General, anime, libro, set de fotografía
+  [Kickass Torrents](https://katcr.co/)|Cuidado|General, anime, libro, magazín, set de fotografía (suave y explícito) 
+  [ProStyleX](https://prostylex.org/)|Cuidado|General, anime, JAV, hentai, set de fotografía
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" width="17"> [rutor](http://rutor.info/)|Cuidado|General, anime, cine extranjero, comedia en vivo, documentales
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17">[JoyMaxim](https://joymaxim.com/)|Cuidado|Cine, programas de televisión, doramas, documentales, videojuegos, animación japonesa
+  
+## Servidor
+
+  Nombre|Contenido|Hospedaje
+  ------|---------|---------
+  [CompucaliTV](https://compucalitv.com/)|Software (general y videojuegos), películas, series de televisión|Google Drive, Mega, Zippyshare, Uptobox (variante)
+  [Mobilism](https://forum.mobilism.org/index.php)|Libros electrónicos, audiolibros, aplicaciones para Android (original y modificado), entre otros|Rapidgator, Uploaded, entre otros (depende del usuario)
+  [World Source](https://www.worldsrc.org)|Películas, series de televisión, aplicaciones (Windows, Android, videojuegos)|Descarga directa + torrent
+  [Scnlog](https://scnlog.me/) `Escena`|General, aplicaciones (general y videojuegos), libros electrónicos, cine extranjero, pornografía|Nitroflare, TurboBit, LetsUpload, Upload.ac, MixDrop, UptoBox, gounlimited
+  [HD-Source](http://hd-source.to/) ^^DE^^ [1](http://serienjunkies.org)|Películas, series de televisión, videojuegos y pornografía|Uploaded, Rapidgator, DDL.to, Oboom
+  [Volno!](https://volno.org/portal.php/)|Aplicaciones móviles, cursos, libros, música, películas, series de televisión, videojuegos, pornografía|Rapidgator, Nitroflare
+  [downTURK](https://www.downturk.net/)|Software (Windows, Android), diseño (vector, tipografía), libro|Rapidgator, Nitroflare
+  
+# Software
+## Aplicación
+
+  Nombre|Hospedaje|Categorías
+  ------|---------|----------
+  [nsane.down](https://nsanedown.com/) `Windows` `25 mil`|Al autor|Controladores, compartir archivos, internet, multimedia, seguridad, sistema y otras aplicaciones
+  [Get Into PC](https://getintopc.com/) `Windows` `8130`|Propio (desactivar bloqueador de publicidad)|Aplicaciones en general (sistemas operativos, edición, multimedia, desarrollo web, herramientas, entre otros)
+  [AppNee Freeware Group](https://appnee.com/) `2674`|Al autor; Solewe, Usersdrive, entre otors|Sistemas operativos, seguridad, videojuegos, código fuente, profesional, multimedia, entre otros
+  [haxNode](https://haxnode.com/) `1010`|Usersdrive, SnowFiles|Aplicaciones de Windows, Android y macOS
+  
+## Videojuegos
+### Antiguos
+
+  Nombre|Hospedaje
+  ------|---------
+  [ROMSMania](https://romsmania.cc/)|Propio
+  [Vimm's Lair](https://vimm.net/?p=vault)|Google Drive
+  
+### Nuevos
+#### P2P
+
+  Nombre|Idioma|Consola
+  ------|------|-------
+  [Small-Games](https://small-games.info/) `indie`|Inglés y ruso (26655)|Windows 7/8/10, macOS y Linux
+  [GamesTorrents](https://www.gamestorrents.nu/)|Español, inglés, entre otros (14201)|Windows, Android, Mac, Xbox360, PS4, PS3, PS2, PSP, Wii
+  [FitGirl Repacks](https://fitgirl-repacks.site/)|Ingles, ruso, entre otros (casi 1500)|Windows 7/8/10
+  [Black Box Repack](https://www.blackboxrepack.com/) [1](https://1337x.to/user/FitGirl/) [2](https://katcr.co/user/fitgirl/profile/) [3](http://rutor.info/browse/0/0/1224038/0)|Inglés (427)|Windows 7/8/10
+
+#### Servidor
+
+  Nombre|Reputación|Hospedaje|Nota
+  ------|----------|---------|----
+  [GLOAD.cc](https://gload.cc/)|Desconocido (8350)|Zippyshare, Rapidgator, ddl.to
+  [Ziperto](https://www.ziperto.com/)|Desconocido (7512)|Mega, Mediafire, Uptobox, 1fichier|Sin acortadores
+  [Steam Underground Community](https://cs.rin.ru/forum/viewforum.php?f=22)|Confiable (7031)|Google Drive y MirrorRace|Inglés, español, ruso, entre otros
+  [Cracked-Games](https://cracked-games.org/)|Confiable (3870)|Mega, Uploaded, MegaUp
                     - [Ova Games](https://www.ovagames.com/)
                         - Confiable (3682)
                             - Google Drive, Mega, Uptobox, Uploaded, Racaty
@@ -131,7 +77,7 @@
                         - Confiable (680)
                             - Nuevos: Propio y `.torrent` 
                                 - Antiguos: Google Drive, Mega, Uptobox
-    - Móviles
+## Móviles
         - Aplicaciones nativas
             - [microG](https://microg.org/) `Cuentas de Google`
                 - Reimplementación de las bibliotecas del espacio de usuario de Androi
@@ -347,7 +293,7 @@
                     - Solidfiles
                     - Mega
                     - PCloud
-- Videoteca
+# Videoteca
     - General
         - [Daxiv](https://daxiv.com/) `emisión en directo`
             - Características
