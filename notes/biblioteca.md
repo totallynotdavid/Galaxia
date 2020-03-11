@@ -149,10 +149,10 @@ Nombre|Idioma|Contenido|Hospedaje
      [hitomi](https://hitomi.la/) `descarga`|Grande|{{a}}|Inglés, español, japonés, coreano y más|{{a}}
      [nhentai](https://nhentai.net/) `descarga`|Grande|{{a}}|Inglés, chino y japonés|{{a}}
      [Iku Hentai](https://ikuhentai.net/) `descarga`|Mediano|{{a}}|Español|{{a}}
-     [wnacg](https://wnacg.org/albums.html) `descarga en terceros` <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Mediano|{{a}}|Chino|{{a}}
-     [18Cómic](https://18comic.vip/) `descarga` <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Mediano|{{a}}|Chino|{{a}}
-     [SekToon](https://sektoon5.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Pequeño-mediano|{{a}}|Chino|{{a}}
-     [Manamoa](https://manamoa29.net/) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17">|Pequeño|{{a}}|Coreano|{{a}}
+     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [wnacg](https://wnacg.org/albums.html) `descarga en terceros`|Mediano|{{a}}|Chino|{{a}}
+     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [18Cómic](https://18comic.vip/) `descarga`|Mediano|{{a}}|Chino|{{a}}
+     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [SekToon](https://sektoon5.org/)|Pequeño-mediano|{{a}}|Chino|{{a}}
+     <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17"> [Manamoa](https://manamoa29.net/)|Pequeño|{{a}}|Coreano|{{a}}
    
    - Webtoon
      - General
@@ -161,11 +161,11 @@ Nombre|Idioma|Contenido|Hospedaje
          Nombre|Contenido|Adulto|Nota
          ------|---------|------|----
          [Lezhin Cómics](https://www.lezhin.com/en)|Webtoon|Sí|Primeros episodios son gratuitos/1 episodio por día en la sección gratuita
-         [comico](https://www.comico.jp/) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17">|Webtoon y algunos mangas|Sí|Algunos son de pago
+         <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17"> [comico](https://www.comico.jp/)|Webtoon y algunos mangas|Sí|Algunos son de pago
          [Tapas](https://tapas.io/)|Webtoon|Poco|Tendencia homosexual
-         [Naver](https://comic.naver.com/index.nhn) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17">|Webtoon y algunos cómics|No
+         <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17"> [Naver](https://comic.naver.com/index.nhn)|Webtoon y algunos cómics|No
       
-       - Terceros <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="20">
+       - <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="20"> Terceros
       
          Nombre|Contenido|Adulto|Publicidad
          ------|---------|------|----------
@@ -178,7 +178,7 @@ Nombre|Idioma|Contenido|Hospedaje
          [MeToon](https://metoon17.com/)|Webtoon|Si|{{a}}
          [ntoon](https://www.ntoon20.com/)|Webtoon|Si|{{a}}
          
-     - Adulto <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="20">
+     - <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="20"> Adulto
      
        Nombre|Contenido|Publicidad
        ------|---------|----------
@@ -198,11 +198,11 @@ Nombre|Librería|Contenido|Hospedaje|Adulto
 
 Nombre|Retraso|Revistas|Emisión/Descarga
 ------|-------|--------|----------------
-[mntp](https://www.mntp01.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Algunos días|Xiuren, UGirl, TuiGirl, TouTiao, Rosi|Sí/No
-[Lemon Pic](https://www.lmmpic.com/%e6%9f%a0%e6%aa%ac%e5%9b%be%e5%ba%93.html) <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Casi un mes|Xiuren, UGirl, PlayboyAsia, Candy, XiaoYu, Mfstar,+|Sí/No
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [mntp](https://www.mntp01.com/)|Algunos días|Xiuren, UGirl, TuiGirl, TouTiao, Rosi|Sí/No
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [Lemon Pic](https://www.lmmpic.com/%e6%9f%a0%e6%aa%ac%e5%9b%be%e5%ba%93.html)|Casi un mes|Xiuren, UGirl, PlayboyAsia, Candy, XiaoYu, Mfstar,+|Sí/No
 [NudeGirls4U](https://nudegirls4u.com/)|Varios meses|Xiuren, TuiGirl, MyGirl, MiiTao,+|Sí/Sí (Google Drive y Mega)
 [CNSexy](https://cnsexy.top/)|Muchos meses y sin actualizaciones desde diciembre|Xiuren, Owakado, Partycat, Bololi, MyGirl,+|Sí/No
 [uutu](http://www.uutu.me/)|Alrededor del 2019|Xiuren, IMiss, HuaYang, Youmi, Mfstar, MyGirl,+|Sí/No
  | | | 
-[mm131](https://www.mm131.net/) <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Revistas desconocidas|XingGan, QingChun, Chemo, Qipao, MingXing, +|Sí/No
-[mziba](https://www.mziba.cc/) `pago` <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Al día|Xiuren, uGirl, YouMei, Huayang, PDL, Youmi, MyGirl, +|Sí/Sí
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [mm131](https://www.mm131.net/)|Revistas desconocidas|XingGan, QingChun, Chemo, Qipao, MingXing, +|Sí/No
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [mziba](https://www.mziba.cc/) `pago`|Al día|Xiuren, uGirl, YouMei, Huayang, PDL, Youmi, MyGirl, +|Sí/Sí
