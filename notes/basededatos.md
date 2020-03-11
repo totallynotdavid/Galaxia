@@ -102,7 +102,7 @@ Estadísticas:
 
 ### [Internet Adult Film Database](http://iafd.com/)
 
-> Información general sobre deuvedés pornográficos, productoras, directores(as), actores y actrices. Además proporciona enlaces de donde adquirir dichos deuvedés tanto físicos como archivo.
+> Información general sobre deuvedés pornográficos, productoras, directores(as), actores y actrices. Además proporciona enlaces de donde adquirir dichos deuvedés tanto físicos como digitales.
             
 ### [Indexxx](https://www.indexxx.com/)
 
