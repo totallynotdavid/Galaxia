@@ -1,3 +1,22 @@
+## Índice
+1. [Bibliotecas digitales](#bibliotecas-digitales)
+   - [Estándar](#estándar)
+   - [Comunidad o terceros](#comunidad-o-terceros)
+     - [General](#general)
+     - [Academia](#academia)
+     - [Específico](#específico)
+2. [Formatos específicos](#formatos-específicos)
+   - [Libros](#libros)
+     - [General](#general)
+     - [Informática](#informática)
+     - [Novela ligera](#novela-ligera)
+   - [Cómics](#cómics)
+     - [Estadounidense y europeo](#estadounidense-y-europeo)
+     - [Manga](#manga)
+   - [Revistas](#revistas)
+     - [Producción estadounidense o europea](#producción-estadounidense-o-europea)
+     - [Producción china](#producción-china)
+     
 # Bibliotecas digitales
 
 ## Estándar
@@ -91,16 +110,17 @@ Nombre|Idioma|Contenido|Hospedaje
  [All IT Books](https://www.allitebooks.org/)|Informática (desarrollo web, administración, seguridad, entre otros) (8500)|Inglés|`.pdf` `.epub`|Propio
  [OpenLibra](https://openlibra.com/en/collection) `Licencia libre`|Desarrollo web, ciencia y entretenimiento (+3000)|Inglés y español|`.pdf`|Propio
 
-### Novela ligera `Lectura en línea`
+### Novela ligera
+
+`emisión en directo`
 
  1. [KissLightNovels](https://kisslightnovels.info/) `Buena interfaz`
-
  2. [NovelPlanet](https://novelplanet.com/)
-
  3. [LHNovels](https://lhnovels.net/)
             
 ## Cómics
-1. Estadounidense y europeo
+
+### Estadounidense y europeo
 
    Nombre|Tamaño|Publicidad|Interfaz
    ------|------|----------|--------
@@ -108,7 +128,7 @@ Nombre|Idioma|Contenido|Hospedaje
    [Cómic Punch](https://comicpunch.net/)|Mediano-grande|{{a}}|{{a}}
    [Cómic Extra](https://www.comicextra.com/)|Mediano-grande|{{a}}|{{a}}
 
-2. Manga
+### Manga
 
    Nombre|Contenido|Idioma
    ------|---------|------
@@ -129,10 +149,10 @@ Nombre|Idioma|Contenido|Hospedaje
      [hitomi](https://hitomi.la/) `descarga`|Grande|{{a}}|Inglés, español, japonés, coreano y más|{{a}}
      [nhentai](https://nhentai.net/) `descarga`|Grande|{{a}}|Inglés, chino y japonés|{{a}}
      [Iku Hentai](https://ikuhentai.net/) `descarga`|Mediano|{{a}}|Español|{{a}}
-     [wnacg](https://wnacg.org/albums.html) `descarga en terceros` ^^ZH^^|Mediano|{{a}}|Chino|{{a}}
-     [18Cómic](https://18comic.vip/) `descarga` ^^ZH^^|Mediano|{{a}}|Chino|{{a}}
-     [SekToon](https://sektoon5.org/) ^^ZH^^|Pequeño-mediano|{{a}}|Chino|{{a}}
-     [Manamoa](https://manamoa29.net/) ^^KO^^|Pequeño|{{a}}|Coreano|{{a}}
+     [wnacg](https://wnacg.org/albums.html) `descarga en terceros` <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Mediano|{{a}}|Chino|{{a}}
+     [18Cómic](https://18comic.vip/) `descarga` <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Mediano|{{a}}|Chino|{{a}}
+     [SekToon](https://sektoon5.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Pequeño-mediano|{{a}}|Chino|{{a}}
+     [Manamoa](https://manamoa29.net/) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17">|Pequeño|{{a}}|Coreano|{{a}}
    
    - Webtoon
      - General
@@ -141,11 +161,11 @@ Nombre|Idioma|Contenido|Hospedaje
          Nombre|Contenido|Adulto|Nota
          ------|---------|------|----
          [Lezhin Cómics](https://www.lezhin.com/en)|Webtoon|Sí|Primeros episodios son gratuitos/1 episodio por día en la sección gratuita
-         [comico](https://www.comico.jp/) ^^KO^^|Webtoon y algunos mangas|Sí|Algunos son de pago
+         [comico](https://www.comico.jp/) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17">|Webtoon y algunos mangas|Sí|Algunos son de pago
          [Tapas](https://tapas.io/)|Webtoon|Poco|Tendencia homosexual
-         [Naver](https://comic.naver.com/index.nhn) ^^KO^^|Webtoon y algunos cómics|No
+         [Naver](https://comic.naver.com/index.nhn) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17">|Webtoon y algunos cómics|No
       
-       - Terceros ^^KO^^
+       - Terceros <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="20">
       
          Nombre|Contenido|Adulto|Publicidad
          ------|---------|------|----------
@@ -158,7 +178,7 @@ Nombre|Idioma|Contenido|Hospedaje
          [MeToon](https://metoon17.com/)|Webtoon|Si|{{a}}
          [ntoon](https://www.ntoon20.com/)|Webtoon|Si|{{a}}
          
-     - Adulto ^^KO^^
+     - Adulto <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="20">
      
        Nombre|Contenido|Publicidad
        ------|---------|----------
@@ -178,11 +198,11 @@ Nombre|Librería|Contenido|Hospedaje|Adulto
 
 Nombre|Retraso|Revistas|Emisión/Descarga
 ------|-------|--------|----------------
-[mntp](https://www.mntp01.com/) ^^ZH^^|Algunos días|Xiuren, UGirl, TuiGirl, TouTiao, Rosi|Sí/No
-[Lemon Pic](https://www.lmmpic.com/%e6%9f%a0%e6%aa%ac%e5%9b%be%e5%ba%93.html) ^^ZH^^|Casi un mes|Xiuren, UGirl, PlayboyAsia, Candy, XiaoYu, Mfstar,+|Sí/No
+[mntp](https://www.mntp01.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Algunos días|Xiuren, UGirl, TuiGirl, TouTiao, Rosi|Sí/No
+[Lemon Pic](https://www.lmmpic.com/%e6%9f%a0%e6%aa%ac%e5%9b%be%e5%ba%93.html) <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Casi un mes|Xiuren, UGirl, PlayboyAsia, Candy, XiaoYu, Mfstar,+|Sí/No
 [NudeGirls4U](https://nudegirls4u.com/)|Varios meses|Xiuren, TuiGirl, MyGirl, MiiTao,+|Sí/Sí (Google Drive y Mega)
 [CNSexy](https://cnsexy.top/)|Muchos meses y sin actualizaciones desde diciembre|Xiuren, Owakado, Partycat, Bololi, MyGirl,+|Sí/No
 [uutu](http://www.uutu.me/)|Alrededor del 2019|Xiuren, IMiss, HuaYang, Youmi, Mfstar, MyGirl,+|Sí/No
  | | | 
-[mm131](https://www.mm131.net/) ^^ZH^^|Revistas desconocidas|XingGan, QingChun, Chemo, Qipao, MingXing, +|Sí/No
-[mziba](https://www.mziba.cc/) `pago` ^^ZH^^|Al día|Xiuren, uGirl, YouMei, Huayang, PDL, Youmi, MyGirl, +|Sí/Sí
+[mm131](https://www.mm131.net/) <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Revistas desconocidas|XingGan, QingChun, Chemo, Qipao, MingXing, +|Sí/No
+[mziba](https://www.mziba.cc/) `pago` <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17">|Al día|Xiuren, uGirl, YouMei, Huayang, PDL, Youmi, MyGirl, +|Sí/Sí
