@@ -165,6 +165,7 @@ Entretenimiento
 ## General
 
   Nombre|Transmisión|Contenido|Subtítulos
+  ------|-----------|---------|----------
   [Daxiv](https://daxiv.com/)|Emisión en continuo|Cine y series de televisión estadounidenses, europeos y asiáticos; cine adulto surcoreano|En varios idiomas <img src="https://static.opensubtitles.org/gfx/logo.gif" width="39"
 
 ## Cursos
@@ -283,117 +284,31 @@ Nombre|Librería|Idioma|Emisión en continuo|Hospedaje
 
 #### En vivo
 
- [U.S. TV](https://ustvgo.tv/)
- [123TV](http://123tvnow.com/)
+  [U.S. TV](https://ustvgo.tv/)
+ 
+  [123TV](http://123tvnow.com/)
                 
 ### Producciones asiáticas
-            - General
-                - P2P
-                    - [Unión Fansub](https://torrent.unionfansub.com/browse.php)
-                        - Contenido
-                            - Animación
-                                - Popular
-                                    - Subtitulado
-                                - Pornográfica
-                                    - Subtitulado
-                            - Música
-                        - Servidores (depende del usuario)
-                            - Mega
-                            - Mediafire
-                            - Google Drive
-                            - Entre otros
-                    - [Nyaa](https://nyaa.si/)
-                        Contenido
-                            Animación
-                                Intacto
-                                Subtitulado
-                            Literatura
-                                Novela ligera
-                                    Escaneado
-                                    Traducido
-                                Manga
-                                    Escaneado
-                                    Traducido
-                            Música
-                                .flac
-                                .mp3
-                            Series "live action"
-                                Intacto
-                                Subtitulado
-                            Aplicaciones
-                                Genera
-                                Videojuegos
-                    - [Nyaa Pantsu](https://nyaa.net/) `16854`
-                        - Contenido
-                            - Animación
-                                - Intacto
-                                - Subtitulado
-                            - Literatura
-                                - Novela ligera
-                                    - Escaneado
-                                    - Traducido
-                                - Manga
-                                    - Escaneado
-                                    - Traducido
-                            - Series "live action"
-                                - Intacto
-                                - Subtitulado
-                            - Aplicaciones
-                                - Genera
-                                - Videojuegos
-                    - [Tokyo Toshokan](https://www.tokyotosho.info/)
-                        - Características
-                            - Enlaza al autor
-                            - No brinda mucha información
-                        - Contenido
-                            - Animación
-                                - Popular
-                                    - Intacto
-                                    - Subtitulado
-                                - Pornográfica
-                                    - Subtitulado
-                            - Manga
-                            - Pornografía con censura
-                            - Series "live action"
-                            - Música
-                    - [AniRena](https://www.anirena.com/)
-                        - Contenido
-                            - Animación
-                                - Popular
-                                    - Intacto
-                                    - Subtitulado
-                                - Pornográfica
-                                    - Intacto
-                                    - Subtitulado
-                            - Pornografía con censura (sin actualizaciones)
-                            - Series "live action"
-                            - Aplicaciones
-                                - General
-                                - Videojuegos
-                                    - Popular
-                                    - Erótico
-                            - Música
-                    - [AniDex](https://anidex.info/)
-                        - Contenido
-                            - Animación
-                                - Popular
-                                    - Intacto
-                                    - Subtitulado
-                                - Pornográfica
-                                    - Intacto
-                                    - Subtitulado
-                            - Manga
-                                - Intacto
-                                - Subtitulado
-                            - Pornografía con censura
-                            - Series "live action"
-                                - Intacto
-                                - Subtitulado
-                            - Videojuego
-                                - Popular
-                                - Erótico
-            - Animación
-                - Emisión en continuo
+
+#### General
+
+Nombre|Contenido|Servidores
+------|---------|----------
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="17"> [Unión Fansub](https://torrent.unionfansub.com/browse.php)|Animación subtitulada y doblada (popular y pornográfica), música|Google Drive, Mega, Mediafire, entre otros (depende del usuario)
+
+P2P `.torrent`
+
+  Nombre|Contenido|Servidores
+  ------|---------|----------
+  [Nyaa](https://nyaa.si/)|Animación intacta y subtitulada (popular y pornográfica), manga (escaneado y traducido), novela ligera (escaneado y traducido), música (`.mp3` `.flac`), series de televisión asiáticas intactas y subtituladas y aplicaciones (general y videojuegos)
+  [Nyaa Pantsu](https://nyaa.net/) `16854`|Animación intacta y subtitulada (popular y pornográfica), manga (escaneado y traducido), novela ligera (escaneado y traducido), música (`.mp3` `.flac`), series de televisión asiáticas intactas y subtituladas y aplicaciones (general y videojuegos)
+  [Tokyo Toshokan](https://www.tokyotosho.info/) `enlaza al autor`|Animación intacta y subtitulada (popular y pornográfica), manga, pornografía con censura (JAV), series de televisión asiáticas y música
+  [AniRena](https://www.anirena.com/)|Animación intacta y subtitulada (popular y pornográfica), manga, pornografía con censura (JAV) (sin actualizaciones), series de televisión asiáticas, música y aplicaciones (general y videojuegos eróticos)
+  [AniDex](https://anidex.info/)|Animación intacta y subtitulada (popular y pornográfica), manga (escaneado y traducido), pornografía con censura (JAV), series de televisión asiáticas intactas y subtituladas y aplicaciones (general y videojuegos eróticos)
+
+#### Animación
+
+Emisión en continuo
                     - {{table}}
                         - **Nombre**
                             - **Librería**
