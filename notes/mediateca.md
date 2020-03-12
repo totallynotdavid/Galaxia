@@ -78,189 +78,44 @@
 
 #### Bloqueo de publicidad
 
-##### [AdAway](https://adaway.org/)
-
-Nombre|
-> Aplicación de bloqueo de sitios web
->
->- Características
->    - Necesario
->      - Mínimo: 2.1+
->    - Necesario que el dispositivo esté ruteado
->    - Varias listas de bloqueo
->    - Reglas personalizadas
->  - [Código abierto](https://github.com/AdAway/AdAway)
->  - Disponible en 62 idiomas
-  
-##### [Blockada](https://blokada.org/)
-
-- Características
-  - Necesario
-    - Mínimo: 5.0+
-  - No requiere root ya que hace uso de un API de una VPN
-  - [Código abierto](https://github.com/blokadaorg/blokada)
+  Nombre|Mínimo|Código abierto|Notas
+  ------|------|--------------|-----
+  [AdAway](https://adaway.org/)|2.1|[Sí](https://github.com/AdAway/AdAway))|Necesario un dispositivo ruteado; sistema de bloqueo similar a uBlock Origin
+  [Blockada](https://blokada.org/)|5.0|[Sí](https://github.com/blokadaorg/blokada)|No requiere dispositivo ruteado ya que hace uso de una API de una VPN
                     
 #### Multimedia
 ##### Entretenimiento
 
 ###### General
 
-[ApolloTV](https://apollotv.xyz/)
-
-  - Características
-    - Películas y programas de televisión
-    - Mínimo: 4.3+ (Android) y 8+ (iOS)
-    - Sincronización con [Trakt](https://trakt.tv/)
-    - Ver contenido en aplicaciones de terceros (VLC, etc)
-    - Funciona con Chromecast
-    - Funciona con Real-Debrid
-    
-  - [GitHub](https://github.com/ApolloTVofficial/kamino)
+  Nombre|Mínimo|Contenido|Sistema Operativo|Notas
+  ------|------|---------|-----------------|-----
+  [ApolloTV](https://apollotv.xyz/)[1](https://github.com/ApolloTVofficial/kamino)|4.3 y 8|Películas y programas de televisión|Android y iOS|Sincronización con [Trakt](https://trakt.tv/); ver contenido en aplicaciones de terceros (VLC, etc); funciona con Chromecast y Real-Debrid
+  [Kokotime](https://www.kokotime.tv/)|4.1|Películas y programas de televisión|Android|Reproductor nativo, subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">, funciona con Chromecast
+  [Viva](https://vivatv.io/)|4.0?|Películas, programas de televisión y en vivo|Android, Amazon Fire TV y Fire Stick|Sincronización con [Trakt](https://trakt.tv/); subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">; funciona con Real-debrid, Alldebrid y Premiumize
+  [BeeTV](https://beetvapk.net/)|4.0|Películas y programas de televisión|Android y Firestick|Interfaz regular
   
-  - Sistemas operativos
-    - Android
-    - iOS
-    
-- [Kokotime](https://www.kokotime.tv/)
-                            - Características
-                                - Películas y programas de televisión
-                                - Mínimo: 4.1+
-                                - Reproductor nativo
-                                - Administrador de archivos
-                                - Funciona con Chromecast
-                                - Obtiene subtítulos de OpenSubtitles
-                                - Sincronización de subtítulos
-                            - Sistemas operativos
-                                - Android
-                        - [Viva](https://vivatv.io/)
-                            - Características
-                                - Películas, programas de televisión y en vivo
-                                - Mínimo: 4.0+ ¿?
-                                - Sincronización con [Trakt](https://trakt.tv/)
-                                - Obtiene subtítulos de OpenSubtitles
-                                - Funciona con Real-debrid, Alldebrid, Premiumize
-                            - Sistemas operativos
-                                - Android
-                                - Amazon Fire TV
-                                - Fire Stick
-                        - [BeeTV](https://beetvapk.net/)
-                            - Características
-                                - Películas y programas de televisión
-                                - Mínimo: 4.0+
-                                - Interfaz: regular
-                            - Sistemas operativos
-                                - Android
-                                - Firestick
 ###### Anime
-                        - Animación
-                            - [Anistream](https://app.anistream.xyz/) `Descontinuado`
-                                - Aplicación para ver series y películas anime
-                                - Características
-                                    - Mínimo: desconocido
-                                - Sistema operativo
-                                    - Android
-                            - [Aniko](https://animemolecules.com/)
-                                - Aplicación para ver series y películas anime
-                                - Características
-                                    - Mínimo: 5.0+?
-                                    - Sin publicidad
-                                    - Sincronización en la nube
-                                - Sistema operativo
-                                    - Android
-                            - [AnimeGlare](https://animeglare.xyz/)
-                                - Aplicación para ver series y películas anime
-                                - Características
-                                    - Mínimo: 5.0+?
-                                    - Sin publicidad
-                                    - Personalización con tema
-                                    - Sincronización en la nube
-                                    - Funciona con Real-Debrid
-                                - Sistema operativo
-                                    - Android
-                                    - iOS
-                                - Cool UI. ?+
-                            - [AnimeDLR](https://cylonu87.github.io/androidapps/animedlr)
-                                - Aplicación para ver series y películas anime
-                                - Características
-                                    - Mínimo: 4.1+
-                                    - Libre de publicidad
-                                    - Servidores de varios idiomas (escoger servidor)
-                                    - Marcadores
-                                    - Descarga de episodios
-                                - Sistemas operativos
-                                    - Android
-                            - [H-DLR](https://cylonu87.github.io/HDLR/)
-                                - Aplicación para ver series y películas de animación pornográfica japonesa
-                                - Características
-                                    - Mínimo: 4.4+
-                                    - Libre de publicidad
-                                    - Servidores de varios idiomas (escoger servidor)
-                                    - Marcadores
-                                    - Descarga de episodios
-                                - Sistemas operativos
-                                    - Android
-                            - [NineAnimator](https://nineanimator.marcuszhou.com/)
-                                - Aplicación para ver series y películas anime
-                                - Características
-                                    - Mínimo: 11.2+
-                                    - Libre de publicidad
-                                    - Descarga episodios
-                                    - Modo oscuro
-                                    - Funciona con Chromecast y AirPlay
-                                    - Notificaciones
-                                    - Imagen en imagen ("Picture in Picture") (solo en iPads)
-                                - Servidores disponibles
-                                    - apidVideo
-                                    - Mp4Upload
-                                    - Streamango
-                                    - Kiwik
-                                    - AUEngine de Anime Ultima
-                                    - XStreamCDN
-                                    - VidStreaming/VidCDN (no funciona Google Cast)
-                                    - MyCloud (no funciona con Google Cast)
-                                    - F5 Beta a.k.a. PrettyFast.to (no funciona con Google Cast)
-                                    - Tiwi.Kiwi (podría no funcionar con Google Cast)
-                                    - FastStream (no funciona con Google Cast)
-                                    - HydraX y replay.watch
-                                    - Servicios de emisión
-                                        - [4anime](https://4anime.to) 
-                                        - [9anime.ru](https://9anime.ru)
-                                        - [AnimeDao](https://animedao.com)
-                                        - [AnimeKisa](https://animekisa.tv)
-                                        - [Anime Pahe](https://animepahe.com)
-                                        - [Anime Twist](https://twist.moe)
-                                        - [KissAnime](https://kissanime.ru)
-                                        - [Wonderful Subs](https://wonderfulsubs.com)
-                                - [Código abierto](https://github.com/SuperMarcus/NineAnimator)
-                                - Sistemas operativos
-                                    - iOS
-                        - Manga
-                            - [Tachiyomi](https://tachiyomi.org/)
-                                Lector de manga
-                                Características
-                                    Mínimo: 5.0+
-                                    Lector configurable
-                                    Seguimiento con [MyAnimeList](https://myanimelist.net/), [AniList](https://anilist.co/), [Kitsu](https://kitsu.io/explore/anime) y [Shikimori](https://shikimori.one)
-                                    Modo oscuro
-                                    Extensiones
-                                    Descarga de episodios
-                                    Búsqueda automática por nuevos episodios
-                                Servidores disponibles
-                                    KissManga 
-                                    MangaDex
-                                    +
-                                [Código abierto](https://github.com/inorichi/tachiyomi)
-                            - [MangaDLR](https://cylonu87.github.io/androidapps/mangadlr)
-                                - Aplicación para leer manga
-                                - Características
-                                    - Mínimo: 4.1+
-                                    - Libre de publicidad
-                                    - Servidores de varios idiomas (escoger servidor)
-                                    - Descarga de episodios en formato .pdf o .epub3
-                                    - Marcadores
-                                - Sistemas operativos
-                                    - Android
-            - Tienda de aplicaciones
+
+**Animación**, dícese películas, programas de televisión, OVA y ONA
+
+   Nombre|Mínimo|Sistema Operativo|Publicidad|Notas
+   ------|------|-----------------|----------|-----
+   [Anistream](https://app.anistream.xyz/) `Descontinuado`|Desconocido|Android|No|Buena interfaz
+   [Aniko](https://animemolecules.com/)|5.0?|Android|No|Seguimiento y sincronización
+   [AnimeGlare](https://animeglare.xyz/)|5.0?|Android y iOS|No|Seguimiento y sincronización; personalización; funciona con Real-Debrid
+   [AnimeDLR](https://cylonu87.github.io/androidapps/animedlr)|4.1|Android|No|Subtítulos en varios idiomas; descarga de episodios
+   [H-DLR](https://cylonu87.github.io/HDLR/)|4.4|Android|No|Subtítulos en varios idiomas; descarga de episodios
+   [NineAnimator](https://nineanimator.marcuszhou.com/)[Código abierto](https://github.com/SuperMarcus/NineAnimator)|11.2|iOS|No|Descarga de episodios; modo oscuro; imagen en imagen (solo en iPads); funciona con Chromecast (limitado) y AirPlay;
+   
+**Manga** para sistemas Android
+
+  Nombre|Mínimo|Publicidad|Descarga|Nota
+  ------|------|----------|--------|----
+  [Tachiyomi](https://tachiyomi.org/) [Código abierto](https://github.com/inorichi/tachiyomi)|5.0|No|Sí|Traducciones en varios idiomas; seguimiento con [MyAnimeList](https://myanimelist.net/), [AniList](https://anilist.co/), [Kitsu](https://kitsu.io/explore/anime) y [Shikimori](https://shikimori.one); modo oscuro; extensiones
+  [MangaDLR](https://cylonu87.github.io/androidapps/mangadlr)|4.1|No|Sí|Traducciones en varios idiomas
+  
+#### Tienda de aplicaciones
                 - [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore)
                     - Cliente independiente de la tienda de aplicaciones de Google
                     - Características
@@ -291,18 +146,15 @@ Nombre|
                         - Disponible en varios idiomas
                     - Sistema operativo
                         - Androdi
-### Aplicaciones web
-            - [Android Zone](https://android-zone.ws/)
-                - Descarga .apk de varios servidores externos
-                - Foro
-            - [HIFI 2007](https://hifi2007reviews.com/)
-                - Aplicaciones modificadas para Android
-                - Servidores
-                    - Appbox
-                    - Solidfiles
-                    - Mega
-                    - PCloud
+                        
+### Repositorios de aplicaciones en hospedaje de terceros
+
+  Nombre|Aplicación|Hospedaje|Nota
+  [Android Zone](https://android-zone.ws/)|Original y modificado|UserUpload, Uploaded, entre otros (depende del usuario)|Foro
+  [HIFI 2007](https://hifi2007reviews.com/)|Modificadas|Appbox, Solidfiles, Mega, PCloud
+  
 # Videoteca
+
     - General
         - [Daxiv](https://daxiv.com/) `emisión en directo`
             - Características
