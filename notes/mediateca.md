@@ -49,6 +49,7 @@
   [Vimm's Lair](https://vimm.net/?p=vault)|Google Drive
   
 ### Nuevos
+
 #### P2P
 
   Nombre|Idioma|Consola
@@ -60,59 +61,67 @@
 
 #### Servidor
 
-  Nombre|Reputación|Hospedaje|Nota
-  ------|----------|---------|----
-  [GLOAD.cc](https://gload.cc/)|Desconocido (8350)|Zippyshare, Rapidgator, ddl.to
-  [Ziperto](https://www.ziperto.com/)|Desconocido (7512)|Mega, Mediafire, Uptobox, 1fichier|Sin acortadores
-  [Steam Underground Community](https://cs.rin.ru/forum/viewforum.php?f=22)|Confiable (7031)|Google Drive y MirrorRace|Inglés, español, ruso, entre otros
-  [Cracked-Games](https://cracked-games.org/)|Confiable (3870)|Mega, Uploaded, MegaUp
-                    - [Ova Games](https://www.ovagames.com/)
-                        - Confiable (3682)
-                            - Google Drive, Mega, Uptobox, Uploaded, Racaty
-                    - [Crohasit](https://crohasit.net/) 
-                        - Desconocido (1484)
-                            - UploadHeaven
-                                - Sin acortadores
-                    - [Rihno Games](https://www.rihnogames.com/)
-                        - Confiable (680)
-                            - Nuevos: Propio y `.torrent` 
-                                - Antiguos: Google Drive, Mega, Uptobox
+   Nombre|Reputación|Hospedaje|Nota
+   ------|----------|---------|----
+   [GLOAD.cc](https://gload.cc/)|Desconocido (8350)|Zippyshare, Rapidgator, ddl.to
+   [Ziperto](https://www.ziperto.com/)|Desconocido (7512)|Mega, Mediafire, Uptobox, 1fichier|Sin acortadores
+   [Steam Underground Community](https://cs.rin.ru/forum/viewforum.php?f=22)|Confiable (7031)|Google Drive y MirrorRace|Inglés, español, ruso, entre otros
+   [Cracked-Games](https://cracked-games.org/)|Confiable (3870)|Mega, Uploaded, MegaUp
+   [Ova Games](https://www.ovagames.com/)|Confiable (3682)|Google Drive, Mega, Uptobox, Uploaded, Racaty
+   [Crohasit](https://crohasit.net/)|Desconocido (1484)|UploadHeaven|Sin acortadores
+   [Rihno Games](https://www.rihnogames.com/)|Confiable (680)|Nuevos: Propio y `.torrent`|Antiguos: Google Drive, Mega, Uptobox
+
 ## Móviles
-        - Aplicaciones nativas
-            - [microG](https://microg.org/) `Cuentas de Google`
-                - Reimplementación de las bibliotecas del espacio de usuario de Androi
-                - [Código abierto](https://github.com/microg)
-            - Bloqueo de publicidad
-                - ^^EN,ES,+^^ [AdAway](https://adaway.org/)
-                    - Aplicación de bloqueo de sitios web
-                    - Características
-                        - Mínimo: 2.1+
-                        - Necesario que el dispositivo esté ruteado
-                        - Varias listas de bloqueo
-                        - Reglas personalizadas
-                    - [Código abierto](https://github.com/AdAway/AdAway)
-                    - Disponible en 62 idiomas
-                - ^^EN^^ [Blockada](https://blokada.org/)
-                    - Características
-                        - No requiere root
-                        - Uso de un API de una VPN
-                    - [Código abierto](https://github.com/blokadaorg/blokada)
-            - Multimedia
-                - Entretenimiento
-                    - General
-                        - [ApolloTV](https://apollotv.xyz/)
-                            - Características
-                                - Películas y programas de televisión
-                                - Mínimo: 4.3+ (Android) y 8+ (iOS)
-                                - Sincronización con [Trakt](https://trakt.tv/)
-                                - Ver contenido en aplicaciones de terceros (VLC, etc)
-                                - Funciona con Chromecast
-                                - Funciona con Real-Debrid
-                            - [GitHub](https://github.com/ApolloTVofficial/kamino)
-                            - Sistemas operativos
-                                - Android
-                                - iOS
-                        - [Kokotime](https://www.kokotime.tv/)
+
+### Aplicaciones nativas
+[microG](https://microg.org/): Es una reimplementación de las bibliotecas del espacio de usuario de Android. También es [código abierto](https://github.com/microg)
+
+#### Bloqueo de publicidad
+
+##### [AdAway](https://adaway.org/)
+
+Nombre|
+> Aplicación de bloqueo de sitios web
+>
+>- Características
+>    - Necesario
+>      - Mínimo: 2.1+
+>    - Necesario que el dispositivo esté ruteado
+>    - Varias listas de bloqueo
+>    - Reglas personalizadas
+>  - [Código abierto](https://github.com/AdAway/AdAway)
+>  - Disponible en 62 idiomas
+  
+##### [Blockada](https://blokada.org/)
+
+- Características
+  - Necesario
+    - Mínimo: 5.0+
+  - No requiere root ya que hace uso de un API de una VPN
+  - [Código abierto](https://github.com/blokadaorg/blokada)
+                    
+#### Multimedia
+##### Entretenimiento
+
+###### General
+
+[ApolloTV](https://apollotv.xyz/)
+
+  - Características
+    - Películas y programas de televisión
+    - Mínimo: 4.3+ (Android) y 8+ (iOS)
+    - Sincronización con [Trakt](https://trakt.tv/)
+    - Ver contenido en aplicaciones de terceros (VLC, etc)
+    - Funciona con Chromecast
+    - Funciona con Real-Debrid
+    
+  - [GitHub](https://github.com/ApolloTVofficial/kamino)
+  
+  - Sistemas operativos
+    - Android
+    - iOS
+    
+- [Kokotime](https://www.kokotime.tv/)
                             - Características
                                 - Películas y programas de televisión
                                 - Mínimo: 4.1+
@@ -142,7 +151,7 @@
                             - Sistemas operativos
                                 - Android
                                 - Firestick
-                    - Anime
+###### Anime
                         - Animación
                             - [Anistream](https://app.anistream.xyz/) `Descontinuado`
                                 - Aplicación para ver series y películas anime
@@ -282,7 +291,7 @@
                         - Disponible en varios idiomas
                     - Sistema operativo
                         - Androdi
-        - Aplicaciones web
+### Aplicaciones web
             - [Android Zone](https://android-zone.ws/)
                 - Descarga .apk de varios servidores externos
                 - Foro
