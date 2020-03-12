@@ -162,260 +162,109 @@ Entretenimiento
   [HIFI 2007](https://hifi2007reviews.com/)|Modificadas|Appbox, Solidfiles, Mega, PCloud
   
 # Videoteca
+## General
 
-    - General
-        - [Daxiv](https://daxiv.com/) `emisión en directo`
-            - Características
-                - Subtítulos en varios idiomas
-            - Contenido
-                - Cine estadounidense y europeo
-                - Series de televisión estadounidenses y europeas
-                - Doramas asiáticos
-                - Series de televisión asiáticas
-                - Cine adulto surcoreano
-                - Animación japonesa
-    - Cursos
-        - General `.torrent` `mismo administrador`
-            - {{table}}
-                - **Nombre**
-                    - **Idioma**
-                        - **Contenido**
-                - [Course Club](https://courseclub.me/)
-                    - Inglés
-                        - General (MasterClass, Skillshare), programación (Udacity, treehouse, pluralsight, codewithmosh), otros
-                - [Desire Course](https://desirecourse.net/)
-                    - Inglés
-                        - Desarrollo web, sistema de información, diseño, mercadotecnia, lenguaje, negocio, música
-                - [Tutorials Planet](https://tutorialsplanet.net/)
-                    - Inglés
-                        - Desarrollo web, sistema de información, diseño, mercadotecnia, lenguaje
-                - [FreeCourseSite](https://freecoursesite.com/)
-                    - Inglés
-                        - Desarrollo web, sistema de información, diseño, mercadotecnia, lenguaje
-        - {{table}}
-            - **Nombre**
-                - **Descripción**
-                    - **Contenido**
-                        - **Hospedaje**
-            - [CosmoLearning](https://cosmolearning.org/) `Estudiante`
-                - Cursos y documentales ordenados por categorías  y autor más listas de reproducción
-                    - 1791 documentales y 1293 cursos
-                        - Youtube
-    - Cine y series de televisión
-        - Producción estadounidense y europea
-            General
-                Emisión en directo
-                    {{table}}
-                        **Nombre**
-                            **Librería**
-                                **Calidad**
-                                    **Subtítulo**
-                                        **Nota**
-                        [Orion](https://orionoid.com/) `indizador web`
-                            Grandísimo
-                                480, 720, 1080
-                                    Varía
-                                        100 resultados de búsqueda por día
-                        [VideoSpider](https://videospider.in/) `indizador web`
-                            Grandísimo
-                                480, 720, 1080
-                                    Varía
-                                        30 solicitudes por día usando IMDB
-                        [VIKV](https://vikv.net/)
-                            26100
-                                720
-                                    Inglés
-                                        Solo películas + asia
-                        [F2Movies](https://www2.f2movies.to/) [1](https://www1.moviesjoy.net/) [¿2?](https://fmovies2.io/) [¿3?](https://fmovies.wtf/)
-                            23392 películas, 6752 series
-                                480, 720, 1080
-                                    Inglés, español, entre otros, a veces
-                                        Algunos enlaces están siendo actualizados
-                        [CineBloom](https://www.cinebloom.org/)
-                            22860 películas, 3000 series
-                                720
-                                    Inglés y español
-                        [Putlocker](https://www.putlockers.cr/)
-                            21888 películas, 16288 series
-                                360, 480
-                                    No
-                        [MovieGaga](https://moviegaga.to/)
-                            21672 películas, 12240 series
-                                480, 720, 1080
-                                    Inglés
-                                        Películas, series, incluso antiguas
-                        [Yes!Movies](https://yesmovies.ag/) [1](https://www1.yesmovies.movie/) [¿2?](https://www1.solarmovie.to/)
-                            19480 películas, 7800 series
-                                360, 720
-                                    No, inglés
-                                        +Asia
-                        [EuroPixHD](https://europixhd.io/)
-                            13800 películas, 1600 series
-                                720
-                                    Inglés
-                                        Bollywood
-                        [StreamIT](https://streamit.ws/?)
-                            11720 películas, 76 series
-                                480, 720
-                                    No
-                                        Clásica o "indie"
-                        [Soap2DAY](https://soap2day.to/) [1](https://soapgate.org/)
-                            6870 películas, 1530 series
-                                720
-                                    No
-                                        The Office en buena calidad
-                        [Rulu](https://www.rulu.co/)
-                            24 películas y 57 series
-                                480, 720, 1080
-                                    Inglés, español, entre otros
-                                        Youtube
-                Descarga
-                    IRC
-                        {{table}}
-                            **Red**
-                                **Canal**
-                            [SceneP2P](https://scenep2p.net/)
-                                THE.SOURCE
-                            [Abjects](https://abjects.net/)
-                                BEAST-XDCC
-                                MOVIEGODS
-                    Servidor
-                        {{table}}
-                            **Nombre**
-                                **Contenido**
-                                    **Librería**
-                                        **Calidad**
-                                            **Hospedaje**
-                            [Snahp](https://snahp.it/)
-                                Películas, series (también animación japonesa)
-                                    15760 películas, 4180 series
-                                        1080, 2160
-                                            Zippyshare, FileDecrypt
-                            [GDriveDL](https://gdrivedl.xyz/)
-                                Películas (sin actualizaciones desde 2019)
-                                    784
-                                        1080, 2160
-                                            Google Drive
-                            [GDMovies](https://gdmovies.info/)
-                                Películas y series (**Caído**)
-                                    Desconocido
-                                        720, 1080
-                                            Google Drive
-            Documental
-                Emisión en directo
-                    {{table}}
-                        **Nombre**
-                            **Librería**
-                                **Calidad**
-                                    **Subtítulos**
-                                        **Hospedaje**
-                        [Documentary Heaven](https://documentaryheaven.com/)
-                            7110
-                                480, 720, 1080
-                                    Desconocido o pocas veces
-                                        Youtube, Dailymotion
-                        [IhaveNOTV](https://ihavenotv.com/)
-                            2538
-                                480, 720
-                                    Inglés
-                                        nxload 
-                        [Top Documentary Films](https://topdocumentaryfilms.com/)
-                            2489
-                                480, 720, 1080 (variante)
-                                    A veces inglés o español
-                                        Youtube, Vimeo
-                        [Documentary Storm](https://www.documentarystorm.com/) `fuente`
-                            928
-                                480, 720, 1080
-                                    No
-                                        Youtube, Dailymotion, RT, entre otros
-                        [Thought Maybe](https://thoughtmay.be/)
-                            787
-                                720, estricto
-                                    No
-                                        Propio
-                        [Frontline](https://www.pbs.org/wgbh/frontline/films/) `legal`
-                            74
-                                480, 720, 1080
-                                    Inglés
-                                        Propio
-                        [Spread the Word](https://www.sprword.com/) `pseudociencia`
-                            773
-                                480
-                                    No
-                                        Youtube
-                P2P
-                    {{table}}
-                        **Nombre**
-                            **Libreria**
-                                **Tipo**
-                                    **Formato**
-                        [MV Group](https://forums.mvgroup.org/)
-                            Grande
-                                Foro
-                                    `.emule` `.torrent` `.srt`
-                        [DocuWiki](https://docuwiki.net/index.php?title=Main_Page)
-                            Grande
-                                Wiki
-                                    índice e información de MV Group
-            Películas
-                {{table}}
-                    **Nombre**
-                        **Librería**
-                            **Idioma**
-                                **Emisión en directo**
-                                    **Hospedaje**
-                    [Películas-HD](https://www.peliculas-hd.net/)
-                        51
-                            Español (doblaje latino)
-                                Fembed, GoUnlimited, JetLoad, Digiload, ZLPlayer
-                                    Google Drive, Mediafire, Mega, UptoBox, 1fichier
-                Emisión en directo
-                    {{table}}
-                        **Nombre**
-                            **Librería**
-                                **Calidad**
-                                    **Subtítulo**
-                                        **Nota**
-                        [YMovies](https://ymovies.to/)
-                            39672
-                                480, 720, 1080
-                                    No (es posible cargar subtítulos)
-                                        + Cine antiguo (caídos)
-                        [Afdah](https://afdah.info/)
-                            23880 películas
-                                480, 720, 1080
-                                    Inglés
-                                        Cine antiguo
-                        [AZMovies](https://azm.to/)
-                            5053 películas
-                                720, 1080
-                                    No
-                                        Cine antiguo
-                        [elitestream](https://www.elitestream.io/)
-                            4381 películas
-                                480, 720
-                                    Español y doblaje ^^ES^^
-                                        Doblaje latina y castellana
-                        [FlixGo](https://flixgo.biz/)
-                            2112 películas y 44 series
-                                480, 720
-                                    No
-                Servidor
-                    {{table}}
-                        **Nombre**
-                            **Librería**
-                                **Calidad**
-                                    **Hospedaje**
-                        [MovieFiles](https://moviefiles.org/)
-                            1075
-                                720, 1080
-                                    Google Drive
-                        [x265 Movies](https://x265movies.co/)
-                            2982
-                                720, 1080
-                                    Mega, Anonfile, dl.free.fr, MixDrop, UptoBox, entre otros
-            Series de televisión
+  Nombre|Transmisión|Contenido|Subtítulos
+  [Daxiv](https://daxiv.com/)|Emisión en continuo|Cine y series de televisión estadounidenses, europeos y asiáticos; cine adulto surcoreano|En varios idiomas <img src="https://static.opensubtitles.org/gfx/logo.gif" width="39"
+
+## Cursos
+### General `.torrent` `mismo administrador`
+
+  Nombre|Idioma|Contenido
+  ------|------|---------
+  [Course Club](https://courseclub.me/)|Inglés|General (MasterClass, Skillshare), programación (Udacity, treehouse, pluralsight, codewithmosh), otros
+  [Desire Course](https://desirecourse.net/)|Inglés|Desarrollo web, sistema de información, diseño, mercadotecnia, lenguaje, negocio, música
+  [Tutorials Planet](https://tutorialsplanet.net/)|Inglés|Desarrollo web, sistema de información, diseño, mercadotecnia, lenguaje
+  [FreeCourseSite](https://freecoursesite.com/)|Inglés|Desarrollo web, sistema de información, diseño, mercadotecnia, lenguaje
+  
+### Específico
+
+  Nombre|Descripción|Contenido|Hospedaje
+  ------|-----------|---------|---------
+  [CosmoLearning](https://cosmolearning.org/) `Estudiante`|Cursos y documentales ordenados por categorías  y autor más listas de reproducción|1791 documentales y 1293 cursos|Youtube
+                        
+## Cine y series de televisión
+### Producción estadounidense y europea
+
+#### General
+
+Emisión en directo
+
+  Nombre|Librería|Calidad|Subtítulo|Nota
+  [Orion](https://orionoid.com/) `indizador web`|Grandísimo|480, 720, 1080|Varía|100 resultados de búsqueda por día
+  [VideoSpider](https://videospider.in/) `indizador web`|Grandísimo|480, 720, 1080|Varía|30 solicitudes por día usando IMDB
+  [VIKV](https://vikv.net/)|26100|720|Inglés|Solo películas + asia
+  [F2Movies](https://www2.f2movies.to/) [1](https://www1.moviesjoy.net/) [¿2?](https://fmovies2.io/) [¿3?](https://fmovies.wtf/)|23392 películas, 6752 series|480, 720, 1080|Inglés, español, entre otros, a veces|Algunos enlaces están siendo actualizados
+  [CineBloom](https://www.cinebloom.org/)|22860 películas, 3000 series|720|Inglés y español
+  [Putlocker](https://www.putlockers.cr/)|21888 películas, 16288 series|360, 480|No
+  [MovieGaga](https://moviegaga.to/)|21672 películas, 12240 series|480, 720, 1080|Inglés|Películas, series, incluso antiguas
+  [Yes!Movies](https://yesmovies.ag/) [1](https://www1.yesmovies.movie/) [¿2?](https://www1.solarmovie.to/)|19480 películas, 7800 series|360, 720|No, inglés|+Asia
+  [EuroPixHD](https://europixhd.io/)|13800 películas, 1600 series|720|Inglés|+Bollywood
+  [StreamIT](https://streamit.ws/?)|11720 películas, 76 series|480, 720|No|Clásica o "indie"
+  [Soap2DAY](https://soap2day.to/) [1](https://soapgate.org/)|6870 películas, 1530 series|720|No|The Office en buena calidad
+  [Rulu](https://www.rulu.co/)|24 películas y 57 series|480, 720, 1080|Inglés, español, entre otros|Youtube y propio
+  
+Descarga
+  IRC
+    
+  Red|Canal
+  ---|-----
+  [SceneP2P](https://scenep2p.net/)|THE.SOURCE
+  [Abjects](https://abjects.net/)|BEAST-XDCC| MOVIEGODS
+  
+  Servidor
+  
+  Nombre|Contenido|Librería|Calidad|Hospedaje
+  ------|---------|--------|-------|---------
+  [Snahp](https://snahp.it/)|Películas, series (también animación japonesa)|15760 películas, 4180 series|1080, 2160|Zippyshare, FileDecrypt
+  [GDriveDL](https://gdrivedl.xyz/)|Películas (sin actualizaciones desde 2019)|784|1080, 2160|Google Drive
+  [GDMovies](https://gdmovies.info/)|Películas y series (**Caído**)|Desconocido|720, 1080|Google Drive
+  
+#### Documental
+
+Emisión en directo
+
+  Nombre|Librería|Calidad|Subtítulos|Hospedaje
+  ------|--------|-------|----------|---------
+  [Documentary Heaven](https://documentaryheaven.com/)|7110|480, 720, 1080|Desconocido o pocas veces|Youtube, Dailymotion
+  [IhaveNOTV](https://ihavenotv.com/)|2538|480, 720|Inglés|nxload
+  [Top Documentary Films](https://topdocumentaryfilms.com/)|2489|480, 720, 1080 (variante)|A veces inglés o español|Youtube, Vimeo
+  [Documentary Storm](https://www.documentarystorm.com/) `fuente`|928|480, 720, 1080|No|Youtube, Dailymotion, RT, entre otros
+  [Thought Maybe](https://thoughtmay.be/)|787|720, estricto|No|Propio
+  [Frontline](https://www.pbs.org/wgbh/frontline/films/) `legal`|74|480, 720, 1080|Inglés|Propio
+  [Spread the Word](https://www.sprword.com/) `pseudociencia`|773|480|No|Youtube
+
+P2P
+
+  Nombre|Librería|Tipo|Formato
+  ------|--------|----|-------
+  [MV Group](https://forums.mvgroup.org/)|Grande|Foro|`.emule` `.torrent` `.srt`
+  [DocuWiki](https://docuwiki.net/index.php?title=Main_Page)|Grande|Wiki|Indice e información de MV Group
+
+#### Películas
+
+Nombre|Librería|Idioma|Emisión en continuo|Hospedaje
+------|--------|------|-------------------|---------
+[Películas-HD](https://www.peliculas-hd.net/)|51|Español (doblaje latino)|Fembed, GoUnlimited, JetLoad, Digiload, ZLPlayer|Google Drive, Mediafire, Mega, UptoBox, 1fichier
+                
+Emisión en directo
+
+  Nombre|Librería|Calidad|Subtítulo|Nota
+  ------|--------|-------|---------|----
+  [YMovies](https://ymovies.to/)|39672|480, 720, 1080|No (es posible cargar subtítulos)|+ Cine antiguo (caídos)
+  [Afdah](https://afdah.info/)|23880 películas|480, 720, 1080|Inglés|Cine antiguo
+  [AZMovies](https://azm.to/)|5053 películas|720, 1080|No|Cine antiguo
+  [elitestream](https://www.elitestream.io/)|4381 películas|480, 720|Español y doblaje <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="17"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" width="17">|Doblaje latina y castellana
+  [FlixGo](https://flixgo.biz/)|2112 películas y 44 series|480, 720|No
+
+Servidor
+
+  Nombre|Librería|Calidad|Hospedaje
+  ------|--------|-------|---------
+  [MovieFiles](https://moviefiles.org/)|1075|720, 1080|Google Drive
+  [x265 Movies](https://x265movies.co/)|2982|720, 1080|Mega, Anonfile, dl.free.fr, MixDrop, UptoBox, entre otros
+
+#### Series de televisión
                 General
                     {{table}}
                         **Nombre**
@@ -447,7 +296,7 @@ Entretenimiento
             En vivo
                 [U.S. TV](https://ustvgo.tv/)
                 [123TV](http://123tvnow.com/)
-        - Producciones asiáticas
+### Producciones asiáticas
             - General
                 - P2P
                     - [Unión Fansub](https://torrent.unionfansub.com/browse.php)
