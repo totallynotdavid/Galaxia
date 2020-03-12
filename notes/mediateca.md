@@ -166,7 +166,7 @@ Entretenimiento
 
   Nombre|Transmisión|Contenido|Subtítulos
   ------|-----------|---------|----------
-  [Daxiv](https://daxiv.com/)|Emisión en continuo|Cine y series de televisión estadounidenses, europeos y asiáticos; cine adulto surcoreano|En varios idiomas <img src="https://static.opensubtitles.org/gfx/logo.gif" width="39"
+  [Daxiv](https://daxiv.com/)|Emisión en continuo|Cine y series de televisión estadounidenses, europeos y asiáticos; cine adulto surcoreano|En varios idiomas <img src="https://static.opensubtitles.org/gfx/logo.gif" width="39">
 
 ## Cursos
 ### General `.torrent` `mismo administrador`
