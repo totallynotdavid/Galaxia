@@ -84,20 +84,21 @@
   [Blockada](https://blokada.org/)|5.0|[Sí](https://github.com/blokadaorg/blokada)|No requiere dispositivo ruteado ya que hace uso de una API de una VPN
                     
 #### Multimedia
-##### Entretenimiento
 
-**General**
+**ENTRETENIMIENTO**
 
-  Nombre|Mínimo|Contenido|Sistema Operativo|Notas
-  ------|------|---------|-----------------|-----
-  [ApolloTV](https://apollotv.xyz/)[1](https://github.com/ApolloTVofficial/kamino)|4.3 y 8|Películas y programas de televisión|Android y iOS|Sincronización con [Trakt](https://trakt.tv/); ver contenido en aplicaciones de terceros (VLC, etc); funciona con Chromecast y Real-Debrid
-  [Kokotime](https://www.kokotime.tv/)|4.1|Películas y programas de televisión|Android|Reproductor nativo, subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">, funciona con Chromecast
-  [Viva](https://vivatv.io/)|4.0?|Películas, programas de televisión y en vivo|Android, Amazon Fire TV y Fire Stick|Sincronización con [Trakt](https://trakt.tv/); subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">; funciona con Real-debrid, Alldebrid y Premiumize
-  [BeeTV](https://beetvapk.net/)|4.0|Películas y programas de televisión|Android y Firestick|Interfaz regular
+1. General
+
+   Nombre|Mínimo|Contenido|Sistema Operativo|Notas
+   ------|------|---------|-----------------|-----
+   [ApolloTV](https://apollotv.xyz/)[1](https://github.com/ApolloTVofficial/kamino)|4.3 y 8|Películas y programas de televisión|Android y iOS|Sincronización con [Trakt](https://trakt.tv/); ver contenido en aplicaciones de terceros (VLC, etc); funciona con Chromecast y Real-Debrid
+   [Kokotime](https://www.kokotime.tv/)|4.1|Películas y programas de televisión|Android|Reproductor nativo, subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">, funciona con Chromecast
+   [Viva](https://vivatv.io/)|4.0?|Películas, programas de televisión y en vivo|Android, Amazon Fire TV y Fire Stick|Sincronización con [Trakt](https://trakt.tv/); subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">; funciona con Real-debrid, Alldebrid y Premiumize
+   [BeeTV](https://beetvapk.net/)|4.0|Películas y programas de televisión|Android y Firestick|Interfaz regular
   
-**Anime**
+2. Anime
 
-Animación, dícese películas, programas de televisión, OVA y ONA
+  Animación, dícese películas, programas de televisión, OVA y ONA
 
    Nombre|Mínimo|Sistema Operativo|Publicidad|Notas
    ------|------|-----------------|----------|-----
@@ -108,12 +109,12 @@ Animación, dícese películas, programas de televisión, OVA y ONA
    [H-DLR](https://cylonu87.github.io/HDLR/)|4.4|Android|No|Subtítulos en varios idiomas; descarga de episodios
    [NineAnimator](https://nineanimator.marcuszhou.com/)[Código abierto](https://github.com/SuperMarcus/NineAnimator)|11.2|iOS|No|Descarga de episodios; modo oscuro; imagen en imagen (solo en iPads); funciona con Chromecast (limitado) y AirPlay;
    
-**Manga** para sistemas Android
+3. Manga para sistemas Android
 
-  Nombre|Mínimo|Publicidad|Descarga|Nota
-  ------|------|----------|--------|----
-  [Tachiyomi](https://tachiyomi.org/) [Código abierto](https://github.com/inorichi/tachiyomi)|5.0|No|Sí|Traducciones en varios idiomas; seguimiento con [MyAnimeList](https://myanimelist.net/), [AniList](https://anilist.co/), [Kitsu](https://kitsu.io/explore/anime) y [Shikimori](https://shikimori.one); modo oscuro; extensiones
-  [MangaDLR](https://cylonu87.github.io/androidapps/mangadlr)|4.1|No|Sí|Traducciones en varios idiomas
+   Nombre|Mínimo|Publicidad|Descarga|Nota
+   ------|------|----------|--------|----
+   [Tachiyomi](https://tachiyomi.org/) [Código abierto](https://github.com/inorichi/tachiyomi)|5.0|No|Sí|Traducciones en varios idiomas; seguimiento con [MyAnimeList](https://myanimelist.net/), [AniList](https://anilist.co/), [Kitsu](https://kitsu.io/explore/anime) y [Shikimori](https://shikimori.one); modo oscuro; extensiones
+   [MangaDLR](https://cylonu87.github.io/androidapps/mangadlr)|4.1|No|Sí|Traducciones en varios idiomas
   
 #### Tienda de aplicaciones
                 - [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore)
