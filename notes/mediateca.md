@@ -15,7 +15,7 @@
    - [General](#general)
    - [Cursos](#cursos)
    - [Cine y series de televisión](#cine-y-series-de-televisión)
-     - [Producción estadounidense y europea](#producción-estadounidense-y-europa)
+     - [Producción estadounidense y europea](#producción-estadounidense-y-europea)
        - [Documental](#documental)
        - [Películas](#películas)
        - [Series de televisión](#series-de-televisión)
@@ -206,6 +206,7 @@ Emisión en continuo
   [Rulu](https://www.rulu.co/)|24 películas y 57 series|480, 720, 1080|Inglés, español, entre otros|Youtube y propio
   
 Descarga
+
   `IRC`
     
   Red|Canal
@@ -266,37 +267,25 @@ Nombre|Librería|Idioma|Emisión en continuo|Hospedaje
   [x265 Movies](https://x265movies.co/)|2982|720, 1080|Mega, Anonfile, dl.free.fr, MixDrop, UptoBox, entre otros
 
 #### Series de televisión
-                General
-                    {{table}}
-                        **Nombre**
-                            **Librería**
-                                **Calidad**
-                                    **Subtítulo**
-                        [watchepisodes](https://www.watchepisodes4.com/)
-                            3510 series `varios servidores`
-                                720
-                                    No
-                        [NOXX](https://noxx.to/)
-                            387 series
-                                720
-                                    No
-                Animación
-                    {{table}}
-                        **Nombre**
-                            **Librería**
-                                **Calidad**
-                                    **Subtítulo**
-                        [KimCartoon](https://kimcartoon.to/)
-                            5760 animaciones
-                                360, 720
-                                    No
-                        [KissCartoon](https://kisscartoon.is/)
-                            5520 animaciones
-                                360, 720
-                                    No
-            En vivo
-                [U.S. TV](https://ustvgo.tv/)
-                [123TV](http://123tvnow.com/)
+`General`
+
+  Nombre|Librería|Calidad|Subtítulo
+  ------|--------|-------|---------
+  [watchepisodes](https://www.watchepisodes4.com/)|3510 series `varios servidores`|720|No
+  [NOXX](https://noxx.to/)|387 series|720|No
+
+`Animación`
+
+  Nombre|Librería|Calidad|Subtítulo
+  ------|--------|-------|---------
+  [KimCartoon](https://kimcartoon.to/)|5760 animaciones|360, 720|No
+  [KissCartoon](https://kisscartoon.is/)|5520 animaciones|360, 720|o
+
+#### En vivo
+
+ [U.S. TV](https://ustvgo.tv/)
+ [123TV](http://123tvnow.com/)
+                
 ### Producciones asiáticas
             - General
                 - P2P
