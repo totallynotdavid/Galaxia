@@ -17,7 +17,7 @@
 
 ## Cine y series de televisión
 
-### [The Movie Database (TMDb)](https://www.themoviedb.org/)
+#### [The Movie Database (TMDb)](https://www.themoviedb.org/)
 
 > Información general sobre películas, series de televisión, equipo de producción y post-producción, actores y actrices en general: fecha de publicación, director(a), idioma, reparto, equipo de producción, presupuesto y recaudación entre otros.
 
@@ -26,18 +26,18 @@ Características adicionales:
   - Disponible en más de 49 idiomas
   - API pública
   
-### [Fechas de publicación de deuvedés y Blu-ray](https://www.dvdsreleasedates.com/)
+#### [Fechas de publicación de deuvedés y Blu-ray](https://www.dvdsreleasedates.com/)
 
 > Información general sobre películas y series de televisión de **producción europea o estadounidense**, ofrece las fechas de publicación de deuvedés y Blu-Ray y donde adquirirlas.
 
-### [The Internet Movie Script Database (IMSDB)](https://www.imsdb.com/)
+#### [The Internet Movie Script Database (IMSDB)](https://www.imsdb.com/)
 
 > Guiones de películas y transcripciones de algunas series de televisión de **producción europea o estadounidense**.
 
 Características adicionales:
   - Lectura en línea (texto plano)
   
-### [Korean Movie Database (KMBb)](http://www.kmdb.or.kr/eng/main)
+#### [Korean Movie Database (KMBb)](http://www.kmdb.or.kr/eng/main)
 
 > Información general sobre películas y series de televisión de **producción coreana**: Estudio, director(a), productor(a), inversor(es), reparto, equipo de producción y post-producción; duración y fecha de publicación.
 
@@ -46,7 +46,7 @@ Características adicionales:
 
 ## Animación y cómics
 
-### [AniDB (Anime Database)](https://anidb.net/)
+#### [AniDB (Anime Database)](https://anidb.net/)
 
 > Información general sobre películas y series de animación japonesas, chinas y coreanas: estudio, director(a), productor(a), reparto, equipo de producción y banda sonora; y sobre grupos encargados de su traducción y subtitulado en varios idiomas.
 
@@ -54,7 +54,7 @@ Características adicionales:
   - Libre de publicidad
   - Foro
 
-### [MyAnimeList](https://myanimelist.net/)
+#### [MyAnimeList](https://myanimelist.net/)
 
 > Información general sobre manga, películas y series de animación japonesas: autor, estudio, director(a), reparto, equipo de producción y banda sonora.
 
@@ -62,7 +62,7 @@ Características adicionales:
   - Algunos mangas disponible para leer de forma gratuita
   - Foro
   
-### [AniList](https://anilist.co/home), [AniChart](https://anichart.net/)
+#### [AniList](https://anilist.co/home), [AniChart](https://anichart.net/)
 
 > Información general sobre manga, películas y series de animación japonesas: autor, estudio, director(a), reparto, equipo de producción y banda sonora.
 
