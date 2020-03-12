@@ -188,9 +188,10 @@ Entretenimiento
 
 #### General
 
-Emisión en directo
+Emisión en continuo
 
   Nombre|Librería|Calidad|Subtítulo|Nota
+  ------|--------|-------|---------|----
   [Orion](https://orionoid.com/) `indizador web`|Grandísimo|480, 720, 1080|Varía|100 resultados de búsqueda por día
   [VideoSpider](https://videospider.in/) `indizador web`|Grandísimo|480, 720, 1080|Varía|30 solicitudes por día usando IMDB
   [VIKV](https://vikv.net/)|26100|720|Inglés|Solo películas + asia
@@ -205,14 +206,14 @@ Emisión en directo
   [Rulu](https://www.rulu.co/)|24 películas y 57 series|480, 720, 1080|Inglés, español, entre otros|Youtube y propio
   
 Descarga
-  IRC
+  `IRC`
     
   Red|Canal
   ---|-----
   [SceneP2P](https://scenep2p.net/)|THE.SOURCE
   [Abjects](https://abjects.net/)|BEAST-XDCC| MOVIEGODS
   
-  Servidor
+  `Servidor`
   
   Nombre|Contenido|Librería|Calidad|Hospedaje
   ------|---------|--------|-------|---------
@@ -222,7 +223,7 @@ Descarga
   
 #### Documental
 
-Emisión en directo
+`Emisión en directo`
 
   Nombre|Librería|Calidad|Subtítulos|Hospedaje
   ------|--------|-------|----------|---------
@@ -234,7 +235,7 @@ Emisión en directo
   [Frontline](https://www.pbs.org/wgbh/frontline/films/) `legal`|74|480, 720, 1080|Inglés|Propio
   [Spread the Word](https://www.sprword.com/) `pseudociencia`|773|480|No|Youtube
 
-P2P
+`P2P`
 
   Nombre|Librería|Tipo|Formato
   ------|--------|----|-------
@@ -247,7 +248,7 @@ Nombre|Librería|Idioma|Emisión en continuo|Hospedaje
 ------|--------|------|-------------------|---------
 [Películas-HD](https://www.peliculas-hd.net/)|51|Español (doblaje latino)|Fembed, GoUnlimited, JetLoad, Digiload, ZLPlayer|Google Drive, Mediafire, Mega, UptoBox, 1fichier
                 
-Emisión en directo
+`Emisión en directo`
 
   Nombre|Librería|Calidad|Subtítulo|Nota
   ------|--------|-------|---------|----
@@ -257,7 +258,7 @@ Emisión en directo
   [elitestream](https://www.elitestream.io/)|4381 películas|480, 720|Español y doblaje <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="17"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" width="17">|Doblaje latina y castellana
   [FlixGo](https://flixgo.biz/)|2112 películas y 44 series|480, 720|No
 
-Servidor
+`Servidor`
 
   Nombre|Librería|Calidad|Hospedaje
   ------|--------|-------|---------
