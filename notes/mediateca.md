@@ -86,7 +86,7 @@
 #### Multimedia
 ##### Entretenimiento
 
-###### General
+**General**
 
   Nombre|Mínimo|Contenido|Sistema Operativo|Notas
   ------|------|---------|-----------------|-----
@@ -95,9 +95,9 @@
   [Viva](https://vivatv.io/)|4.0?|Películas, programas de televisión y en vivo|Android, Amazon Fire TV y Fire Stick|Sincronización con [Trakt](https://trakt.tv/); subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">; funciona con Real-debrid, Alldebrid y Premiumize
   [BeeTV](https://beetvapk.net/)|4.0|Películas y programas de televisión|Android y Firestick|Interfaz regular
   
-###### Anime
+**Anime**
 
-**Animación**, dícese películas, programas de televisión, OVA y ONA
+Animación, dícese películas, programas de televisión, OVA y ONA
 
    Nombre|Mínimo|Sistema Operativo|Publicidad|Notas
    ------|------|-----------------|----------|-----
