@@ -4,7 +4,7 @@
    - [Animación y cómics](#animación-y-cómics)
 2. [Libros](#libros)
    - [ISBN](#isbn)
-   - [Manuales](#manuales)
+   - [Otros](#otros)
 3. [Pornografía](#pornografía)
    - [Estados Unidos de América y Europa](#estados-unidos-de-américa-y-europa)
    - [Japón](#japón)
@@ -73,6 +73,7 @@ Características adicionales:
 # Libros
 ## ISBN
 ### OCLC (Sistema de bibliotecas)
+
 #### [WorldCat](https://www.worldcat.org/)
 
 > Información relevante: ISBN, descripción, contenido y ediciones. También provee enlaces de interés y opiniones de Goodreads.
@@ -81,39 +82,38 @@ Características adicionales:
 
 > Información relevante para organizar libros: DDC (Organización Dewey), LLC (Organización LC). Además lista las distintas ediciones de cada libro.
 
-### [Index Translationum](http://www.unesco.org/xtrans/)
+#### [Index Translationum](http://www.unesco.org/xtrans/)
 
 > Base datos de traducciones disponibles en casi todos los idiomas. Además provee estadísticas e información general del libro: autor, traductor, editorial, fecha de publicación y país.
 
-### Manuales
+## Otros
+
+#### [wtdb](https://webtoonsdb.com/en/)
+
+> Webtoon y manhwa distribuido en Asia (generalmente Corea del Sur y China), cuenta con 3600 entradas.
 
 #### [ManualsLib](https://www.manualslib.com/)
 
-> Manuales de diversos productos físicos disponibles en directo o descarga.
-
-Estadísticas:
-  - Más de 2 700 000 productos
-  - 3 908 257 de manuales en .pdf
-  - 84 595 marcas
-  - 3.2TB indexados
+> Manuales de diversos productos físicos disponibles en directo o descarga, cuenta con más de 2700000 productos de 84595 marcas y 3908257 de manuales en formato PDF.
   
 # Pornografía
 ## Estados Unidos de América y Europa
-
-### [Internet Adult Film Database](http://iafd.com/)
+### []()
+#### [Internet Adult Film Database](http://iafd.com/)
 
 > Información general sobre deuvedés pornográficos, productoras, directores(as), actores y actrices. Además proporciona enlaces de donde adquirir dichos deuvedés tanto físicos como digitales.
             
-### [Indexxx](https://www.indexxx.com/)
+#### [Indexxx](https://www.indexxx.com/)
 
 > Información general sobre revistas y modelos pornográficas suaves (medidas, redes sociales, actividad, entre otros).
             
 ## Japón
-### [Warashi Asian Pornstar Database](warashi-asian-pornstars.fr)
+### []()
+#### [Warashi Asian Pornstar Database](warashi-asian-pornstars.fr)
 
 > Información general del deuvedé: código, director, actriz, actor, estudio, distribuidor, fecha de publicación y duración.
                 
-### [Japanese Adult Video Library](http://www.javlibrary.com/en/)
+#### [Japanese Adult Video Library](http://www.javlibrary.com/en/)
 
 > Información general del deuvedé: código, director, actriz, estudio, distribuidor, fecha de publicación y duración.
 
@@ -121,7 +121,7 @@ Características adicionales:
    - Seguimiento de deuvedés y actrices
    - Foro
    
-### [AVDbs](https://www.avdbs.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="22">
+#### [AVDbs](https://www.avdbs.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="22">
 
 > Información general de actrices: información básica, papeles, fotografías y redes sociales, y deuvedés: código, director, actriz, estudio, distribuidor, fecha de publicación y duración.
 
