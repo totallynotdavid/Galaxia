@@ -1,6 +1,39 @@
 ## Índice
 1. [General](#general)
-   - [P2P](#p2p)
+2. [Software](#software)
+   - [Aplicación](#aplicación)
+   - [Videojuegos](#videojuegos)
+     - [Antiguos](#antiguos)
+     - [Nuevos](#nuevos)
+   - [Móviles](#móviles)
+     - [Aplicaciones nativas](#aplicaciones-nativas)
+       - [Bloqueo de publicidad](#bloqueo-de-publicidad)
+       - [Multimedia](#multimedia)
+       - [Tienda de aplicaciones](#tienda-de-aplicaciones)
+     - [Aplicaciones web](#aplicaciones-web)
+3. [Videoteca](#videoteca)
+   - [General](#general)
+   - [Cursos](#cursos)
+   - [Cine y series de televisión](#cine-y-series-de-televisión)
+     - [Producción estadounidense y europea](#producción-estadounidense-y-europa)
+       - [General](#general)
+       - [Documental](#documental)
+       - [Películas](#películas)
+       - [Series de televisión](#series-de-televisión)
+       - [En vivo](#en-vivo)
+     - [Producción asiátiva](#producción-asiática)
+       - [General](#general)
+       - [Animación](#animación)
+       - [Dorama](#dorama)
+   - [Pornografía](#pornografía)
+     - [Producción estadounidense y europea](#producción-estadounidense-y-europea)
+     - [Producción japonesa](#producción-japonesa)
+       - [General](#general)
+       - [Animación](#animación)
+       - [JAV](#JAV)
+       - [Set de fotografía](#set-de-fotografía)
+     - [Producción surcoreana](#producción-surcoreana)
+     - [Amateur](#amateur)
    
 # General
 ## P2P `torrent`
@@ -26,7 +59,7 @@
   [Mobilism](https://forum.mobilism.org/index.php)|Libros electrónicos, audiolibros, aplicaciones para Android (original y modificado), entre otros|Rapidgator, Uploaded, entre otros (depende del usuario)
   [World Source](https://www.worldsrc.org)|Películas, series de televisión, aplicaciones (Windows, Android, videojuegos)|Descarga directa + torrent
   [Scnlog](https://scnlog.me/) `Escena`|General, aplicaciones (general y videojuegos), libros electrónicos, cine extranjero, pornografía|Nitroflare, TurboBit, LetsUpload, Upload.ac, MixDrop, UptoBox, gounlimited
-  [HD-Source](http://hd-source.to/) ^^DE^^ [1](http://serienjunkies.org)|Películas, series de televisión, videojuegos y pornografía|Uploaded, Rapidgator, DDL.to, Oboom
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Flag_of_Germany_%283-2_aspect_ratio%29.svg" width="17"> [HD-Source](http://hd-source.to/) [1](http://serienjunkies.org)|Películas, series de televisión, videojuegos y pornografía|Uploaded, Rapidgator, DDL.to, Oboom
   [Volno!](https://volno.org/portal.php/)|Aplicaciones móviles, cursos, libros, música, películas, series de televisión, videojuegos, pornografía|Rapidgator, Nitroflare
   [downTURK](https://www.downturk.net/)|Software (Windows, Android), diseño (vector, tipografía), libro|Rapidgator, Nitroflare
   
@@ -35,8 +68,8 @@
 
   Nombre|Hospedaje|Categorías
   ------|---------|----------
-  [nsane.down](https://nsanedown.com/) `Windows` `25 mil`|Al autor|Controladores, compartir archivos, internet, multimedia, seguridad, sistema y otras aplicaciones
-  [Get Into PC](https://getintopc.com/) `Windows` `8130`|Propio (desactivar bloqueador de publicidad)|Aplicaciones en general (sistemas operativos, edición, multimedia, desarrollo web, herramientas, entre otros)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="11"> [nsane.down](https://nsanedown.com/) `Windows` `25 mil`|Al autor|Controladores, compartir archivos, internet, multimedia, seguridad, sistema y otras aplicaciones
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="11"> [Get Into PC](https://getintopc.com/) `8130`|Propio (desactivar bloqueador de publicidad)|Aplicaciones en general (sistemas operativos, edición, multimedia, desarrollo web, herramientas, entre otros)
   [AppNee Freeware Group](https://appnee.com/) `2674`|Al autor; Solewe, Usersdrive, entre otors|Sistemas operativos, seguridad, videojuegos, código fuente, profesional, multimedia, entre otros
   [haxNode](https://haxnode.com/) `1010`|Usersdrive, SnowFiles|Aplicaciones de Windows, Android y macOS
   
@@ -78,14 +111,14 @@
 
 #### Bloqueo de publicidad
 
-  Nombre|Mínimo|Código abierto|Notas
-  ------|------|--------------|-----
-  [AdAway](https://adaway.org/)|2.1|[Sí](https://github.com/AdAway/AdAway))|Necesario un dispositivo ruteado; sistema de bloqueo similar a uBlock Origin
-  [Blockada](https://blokada.org/)|5.0|[Sí](https://github.com/blokadaorg/blokada)|No requiere dispositivo ruteado ya que hace uso de una API de una VPN
+   Nombre|Mínimo|Código abierto|Notas
+   ------|------|--------------|-----
+   [AdAway](https://adaway.org/)|2.1|[Sí](https://github.com/AdAway/AdAway)|Necesario un dispositivo ruteado; sistema de bloqueo similar a uBlock Origin
+   [Blockada](https://blokada.org/)|5.0|[Sí](https://github.com/blokadaorg/blokada)|No requiere dispositivo ruteado ya que hace uso de una API de una VPN
                     
 #### Multimedia
 
-**ENTRETENIMIENTO**
+Entretenimiento
 
 1. General
 
@@ -98,7 +131,7 @@
   
 2. Anime
 
-  Animación, dícese películas, programas de televisión, OVA y ONA
+   **Animación**, dícese películas, programas de televisión, OVA y ONA
 
    Nombre|Mínimo|Sistema Operativo|Publicidad|Notas
    ------|------|-----------------|----------|-----
@@ -109,48 +142,25 @@
    [H-DLR](https://cylonu87.github.io/HDLR/)|4.4|Android|No|Subtítulos en varios idiomas; descarga de episodios
    [NineAnimator](https://nineanimator.marcuszhou.com/)[Código abierto](https://github.com/SuperMarcus/NineAnimator)|11.2|iOS|No|Descarga de episodios; modo oscuro; imagen en imagen (solo en iPads); funciona con Chromecast (limitado) y AirPlay;
    
-3. Manga para sistemas Android
+   **Manga** para sistemas Android
 
    Nombre|Mínimo|Publicidad|Descarga|Nota
    ------|------|----------|--------|----
-   [Tachiyomi](https://tachiyomi.org/) [Código abierto](https://github.com/inorichi/tachiyomi)|5.0|No|Sí|Traducciones en varios idiomas; seguimiento con [MyAnimeList](https://myanimelist.net/), [AniList](https://anilist.co/), [Kitsu](https://kitsu.io/explore/anime) y [Shikimori](https://shikimori.one); modo oscuro; extensiones
+   [Tachiyomi](https://tachiyomi.org/) [Código abierto](https://github.com/inorichi/tachiyomi)|5.0|No|Sí|Traducciones en varios idiomas; seguimiento con MyAnimeList, AniList, [Kitsu](https://kitsu.io/) y [Shikimori](https://shikimori.one/); modo oscuro; extensiones
    [MangaDLR](https://cylonu87.github.io/androidapps/mangadlr)|4.1|No|Sí|Traducciones en varios idiomas
   
-#### Tienda de aplicaciones
-                - [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore)
-                    - Cliente independiente de la tienda de aplicaciones de Google
-                    - Características
-                        - Mínimo: 5.0+
-                        - Descarga, actualiza y busca aplicaciones
-                        - Cuentas anónimas
-                        - Integración con [Exodus Privacy](https://exodus-privacy.eu.org/en/)
-                        - Opcional: MicroG
-                    - Código abierto
-                    - Sistema operativo
-                        - Android
-                - [YalpStore](https://github.com/yeriomin/YalpStore)
-                    - Características
-                        - Descarga .apk de los servidores de Google
-                        - Escribir reseñas
-                        - Evitar la actualización de ciertas aplicaciones
-                        - Actualización automática (ruteado)
-                    - Código abierto
-                    - Sistema operativo
-                        - Android
-                - [ACMarket](https://www.acmarket.net)
-                    - Tienda de aplicaciones modificadas
-                    - Características
-                        - Mínimo: 4.4.2+
-                        - Descarga y actualiza aplicaciones modificadas
-                        - Reseñas
-                        - Comunidad
-                        - Disponible en varios idiomas
-                    - Sistema operativo
-                        - Androdi
-                        
+#### Tienda de aplicaciones para Android
+
+  Nombre|Mínimo|Privacidad|Características|Notas
+  ------|------|----------|---------------|-----
+  [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore)|5.0|Anónimo (cuenta de Google opcional)|Descarga y actualiza aplicaciones desde la tienda de Google|Integración con MicroG y [Exodus Privacy](https://exodus-privacy.eu.org/en/)
+  [YalpStore](https://github.com/yeriomin/YalpStore)|4.4.2|Anónimo (cuenta de Google opcional)|Descarga .apk desde la Tienda de Google; actualización automática (ruteado)|Reseñas
+  [ACMarket](https://www.acmarket.net)|4.4.2|Cuenta necesaria|Descarga y actualiza aplicaciones modificadas|Comunidad, reseñas, disponible en varios idiomas
+
 ### Repositorios de aplicaciones en hospedaje de terceros
 
   Nombre|Aplicación|Hospedaje|Nota
+  ------|----------|---------|----
   [Android Zone](https://android-zone.ws/)|Original y modificado|UserUpload, Uploaded, entre otros (depende del usuario)|Foro
   [HIFI 2007](https://hifi2007reviews.com/)|Modificadas|Appbox, Solidfiles, Mega, PCloud
   
