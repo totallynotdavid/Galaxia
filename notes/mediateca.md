@@ -331,55 +331,32 @@ Descarga
 
   Nombre|Librería|Calidad|Hospedaje
   ------|--------|-------|---------
-  [Frozen-Layer](https://www.frozen-layer.com/)
-                            - 42562 (p2p), 8788 (Servidor)
-                                - 720, 1080
-                                    - Mediafire, Mega
-                        - [Shichibukai](https://www.shichibukai.net/) [p2p](https://www.frozen-layer.com/fansubs/205)
-                            - Todos los episodios, especiales y películas de One Piece y Full Metal Alchemist
-                                - 480, 720, 1080 (mejor calidad disponible)
-                                    - Mega, DepositFiles
-                    - Servidor
-                        - {{table}}
-                            - **Nombre**
-                                - **Librería**
-                                    - **Calidad**
-                                        - **Hospedaje**
-                                            - **Nota**
-                            - [AnimeKayo](https://animekayo.com/)
-                                - 2314 series, 472 películas
-                                    - 480, 720, 1080
-                                        - Google Drive
-                                            - Contiene algunos doblajes
-                            - [Anime Kaizoku](https://animekaizoku.com/)
-                                - 1458 series, 312 películas
-                                    - 480, 720, 1080
-                                        - Google Drive, OneDrive
-            - Dorama
-                - {{table}}
-                    - **Nombre**
-                        - **Librería**
-                            - **Calidad**
-                                - **Interfaz**
-                    - [Dramacool](https://www1.dramacool.movie/)
-                        - Mediano
-                            - 360, 720, 1080
-                                - {{5}}/{{10}}
-                    - [DramaFast](https://dramafast.com/)
-                        - Mediano
-                            - 360, 720
-                                - {{6}}/{{10}}
-                    - [Daebak Drama](http://daebakdrama.com/)
-                        - Mediano
-                            - 720
-                                - {{4}}/{{10}}
-    - Pornografía
-        - [ViperGirls](https://vipergirls.to/forum.php)
-            - Herramientas
-                - [Viper Ripper](https://vipergirls.to/threads/1498244)
-                    - Descarga álbumes de una entrada directamente
-                    - Soporta varios hospedajes
-            - Contenido
+  [Frozen-Layer](https://www.frozen-layer.com/)|42562 (p2p), 8788 (Servidor)|720, 1080|Mediafire, Mega
+  [Shichibukai](https://www.shichibukai.net/) [p2p](https://www.frozen-layer.com/fansubs/205)|Todos los episodios, especiales y películas de One Piece y Full Metal Alchemist|480, 720, 1080 (mejor calidad disponible)|Mega, DepositFiles
+  
+  - Servidor
+    
+    Nombre|Librería|Calidad|Hospedaje|Nota
+    ------|--------|-------|---------|----
+    [AnimeKayo](https://animekayo.com/)|2314 series, 472 películas|480, 720, 1080|Google Drive|Contiene algunos doblajes
+    [Anime Kaizoku](https://animekaizoku.com/)|1458 series, 312 películas|480, 720, 1080|Google Drive, OneDrive
+
+#### Dorama
+
+Nombre|Librería|Calidad|Interfaz
+------|--------|-------|--------
+[Dramacool](https://www1.dramacool.movie/)|Mediano|360, 720, 1080|{{5}}/{{10}}
+[DramaFast](https://dramafast.com/)|Mediano|360, 720|{{6}}/{{10}}
+[Daebak Drama](http://daebakdrama.com/)|Mediano|720|{{4}}/{{10}}
+
+## Pornografía
+
+[ViperGirls](https://vipergirls.to/forum.php)
+
+- Herramientas
+  - [Viper Ripper](https://vipergirls.to/threads/1498244): Descarga álbumes de una entrada directamente y soporta varios hospedajes usados en el foro.
+
+- Contenido
                 - Celebridad (foto y video)
                 - Set de fotografías
                     - Sitios
@@ -410,24 +387,15 @@ Descarga
                     - Servidor
                         - Uploaded, Rapidgator
                 - Entre otros
-        - Producción estadounidense y europea
-            - {{table}}
-                - **Nombre**
-                    - **Librería**
-                        - **Calidad**
-                            - **Servidor**
-                                - **Hospedaje**
-                - [Porn4k](https://porn4k.to/)
-                    - 5313 vídeos
-                        - 720, 1080
-                            - Vidoza
-                                - Oboom, Uploaded, Rapidgator
-                - [Film1k](https://www.film1k.com/)
-                    - 3680 películas
-                        - 360, 480, 720
-                            - Fembed
-                                - Fembed
-            - P2P `.torrent`
+
+### Producción estadounidense y europea
+
+Nombre|Librería|Calidad|Servidor|Hospedaje
+------|--------|-------|--------|---------
+[Porn4k](https://porn4k.to/)|5313 vídeos|720, 1080|Vidoza|Oboom, Uploaded, Rapidgator
+[Film1k](https://www.film1k.com/)|3680 películas|360, 480, 720|Fembed|Fembed
+            
+- P2P `.torrent`
                 - {{table}}
                     - **Nombre**
                         - **Contenido**
