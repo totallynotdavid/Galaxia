@@ -395,36 +395,25 @@ Nombre|Librería|Calidad|Servidor|Hospedaje
 [Porn4k](https://porn4k.to/)|5313 vídeos|720, 1080|Vidoza|Oboom, Uploaded, Rapidgator
 [Film1k](https://www.film1k.com/)|3680 películas|360, 480, 720|Fembed|Fembed
             
-- P2P `.torrent`
-                - {{table}}
-                    - **Nombre**
-                        - **Contenido**
-                    - [PornoLab](https://pornolab.net/forum/index.php)
-                        - Cine erótico, amateur (pornhub, chaturbate), sitios web completos, JAV, revistas y sets de fotografías
-        - Producción japonesa
-            - General
-                - {{table}}
-                    - **Nombre**
-                        - **Contenido**
-                            - **Emisión en continuo**
-                                - **Descarga**
-                    - ^^ZH^^ [11tang](https://www.11tang.me/index.php)
-                        - JAV, amateur, pornografía occidental, fotos callejeras
-                            - Sí
-                                - `.torrent`
-                    - ^^ZH^^ [t66y](https://t66y.com/index.php)
-                        - Pornografía occidental, amateur y novela
-                            - Servidores de pago
-                                - `.torrent`
-                    - ^^KO^^ [Norituh](https://norituh.net/)
-                        - Colecciones (puntos), BJ, galería amateur, set de fotografías de modelos
-                            - Sí
-                                - Sí (costo en puntajes)
-                    - ^^KO^^ [JogaEParty](http://jogaeparty06.com/) `caído`
-                        - JAV, BJ (Corea del Sur y China, película erótica, "deepfake" de celebridades
-                            - Sí
-                                - Desconocido
-                - P2P
+#### P2P `.torrent`
+
+Nombre|Contenido
+------|---------
+[PornoLab](https://pornolab.net/forum/index.php)|Cine erótico, amateur (pornhub, chaturbate), sitios web completos, JAV, revistas y sets de fotografías
+
+### Producción japonesa
+#### General
+
+Nombre|Contenido|Emisión en continuo|Descarga
+------|---------|-------------------|--------
+^^ZH^^ [11tang](https://www.11tang.me/index.php)|JAV, amateur, pornografía occidental, fotos callejeras|Sí|`.torrent`
+^^ZH^^ [t66y](https://t66y.com/index.php)|Pornografía occidental, amateur y novela|Servidores de pago|`.torrent`
+^^KO^^ [Norituh](https://norituh.net/)|Colecciones (puntos), BJ, galería amateur, set de fotografías de modelos|Sí|Sí (costo en puntajes)
+^^KO^^ [JogaEParty](http://jogaeparty06.com/) `caído`|JAV, BJ (Corea del Sur y China, película erótica, "deepfake" de celebridades|Sí|Desconocido
+
+P2P
+
+  Nombre|Contenido|Censura|Interfaz
                     - {{table}}
                         - **Nombre**
                             - **Contenido**
