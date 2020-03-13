@@ -298,8 +298,8 @@ Nombre|Contenido|Servidores
 
 P2P `.torrent`
 
-  Nombre|Contenido|Servidores
-  ------|---------|----------
+  Nombre|Contenido
+  ------|---------
   [Nyaa](https://nyaa.si/)|Animación intacta y subtitulada (popular y pornográfica), manga (escaneado y traducido), novela ligera (escaneado y traducido), música (`.mp3` `.flac`), series de televisión asiáticas intactas y subtituladas y aplicaciones (general y videojuegos)
   [Nyaa Pantsu](https://nyaa.net/) `16854`|Animación intacta y subtitulada (popular y pornográfica), manga (escaneado y traducido), novela ligera (escaneado y traducido), música (`.mp3` `.flac`), series de televisión asiáticas intactas y subtituladas y aplicaciones (general y videojuegos)
   [Tokyo Toshokan](https://www.tokyotosho.info/) `enlaza al autor`|Animación intacta y subtitulada (popular y pornográfica), manga, pornografía con censura (JAV), series de televisión asiáticas y música
