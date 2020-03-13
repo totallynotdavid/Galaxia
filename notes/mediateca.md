@@ -309,89 +309,29 @@ P2P `.torrent`
 #### Animación
 
 Emisión en continuo
-                    - {{table}}
-                        - **Nombre**
-                            - **Librería**
-                                - **Calidad**
-                                    - **Interfaz**
-                                        - **Doblaje**
-                        - [9anime](https://9anime.ru/)
-                            - 10890
-                                - 480, 720, 1080
-                                    - {{9}}/{{10}}
-                                        - Inglés
-                        - [KissAnime](https://kissanime.ru/) [1](https://kissanime.ac/)
-                            - 9900
-                                - 720,1080 (antiguos sin calidad)
-                                    - {{4}}/{{10}}
-                                        Sí
-                        - [KickAssAnime](https://www.kickassanime.rs/)
-                            - 6000
-                                - 480,720,1080 (antiguos sin calidad)
-                                    - {{5}}/{{10}}
-                                        - Sí
-                        - [AnimeKisa](https://animekisa.tv/)
-                            - 4535 series, 1268 películas
-                                - 480,720,1080 (antiguos sin calidad)
-                                    - {{6}}/{{10}}
-                                        - Inglés (1987)
-                        - [animepahe](https://animepahe.com/)
-                            - 3384
-                                - 480,720,1080
-                                    - {{9}}/{{10}}
-                                        - No
-                        - [animeultima](https://animeultima.eu/), [Animeflix](https://animeflix.io/)
-                            - 2453
-                                - 480,720,1080
-                                    - {{9}}/{{10}}
-                                        - Inglés
-                        - [Animetake](https://animetake.tv/)
-                            - 2293
-                                - 480,720
-                                    - {{6}}/{{10}}
-                                        - No
-                        - [Aniwatch](https://aniwatch.me/) `en` `de`
-                            - 2109
-                                - 480,720,1080
-                                    - {{8}}/{{10}}
-                                        - No
-                        - [Anime Twist](https://twist.moe/)
-                            - 1558
-                                - 480,720
-                                    - {{10}}/{{10}}
-                                        - No
-                        - [4Anime](https://4anime.to/)
-                            - 1316
-                                - 480,720
-                                    - {{9}}/{{10}}
-                                        - No
-                        - [DarkAnime](https://darkanime.stream/)
-                            - 1200
-                                - 480,720
-                                    - {{7}}/{{10}}
-                                        - Sí
-                        - [Anime Daisuki](https://animedaisuki.moe/), [1 AnimeDao](https://animedao.com/)
-                            - 720
-                                - 480,720
-                                    - {{7}}/{{10}}
-                                        - No
-                        - [Anime Fever](https://www.animefever.tv/)
-                            - 674
-                                - 480,720
-                                    - {{7}}/{{10}}
-                                        - No
-                        - [Animelon](https://animelon.com/) ^^en^^ ^^jp^^
-                            - 278
-                                - 480,720,1080
-                                    - {{5}}/{{10}}
-                                        - No
-                - Descarga
-                    - {{table}}
-                        - **Nombre**
-                            - **Librería**
-                                - **Calidad**
-                                    - **Hospedaje**
-                        - [Frozen-Layer](https://www.frozen-layer.com/)
+
+  Nombre|Librería|Calidad|Interfaz|Doblaje
+  ------|--------|-------|--------|-------
+  [9anime](https://9anime.ru/)|10890|480, 720, 1080|{{9}}/{{10}}|Inglés
+  [KissAnime](https://kissanime.ru/) [1](https://kissanime.ac/)|9900|720,1080 (antiguos sin calidad)|{{4}}/{{10}}|Sí
+  [KickAssAnime](https://www.kickassanime.rs/)|6000|480,720,1080 (antiguos sin calidad)|{{5}}/{{10}}|Sí
+  [AnimeKisa](https://animekisa.tv/)|4535 series, 1268 películas|480,720,1080 (antiguos sin calidad)|{{6}}/{{10}}|Inglés (1987)
+  [animepahe](https://animepahe.com/)|3384|480,720,1080|{{9}}/{{10}}|No
+  [animeultima](https://animeultima.eu/), [Animeflix](https://animeflix.io/)|2453|480,720,1080|{{9}}/{{10}}|Inglés
+  [Animetake](https://animetake.tv/)|2293|480,720|{{6}}/{{10}}|No
+  [Aniwatch](https://aniwatch.me/) `en` `de`|2109|480,720,1080|{{8}}/{{10}}|No
+  [Anime Twist](https://twist.moe/)|1558|480,720|{{10}}/{{10}}|No
+  [4Anime](https://4anime.to/)|1316|480,720|{{9}}/{{10}}|No
+  [DarkAnime](https://darkanime.stream/)|1200|480,720|{{7}}/{{10}}|Sí
+  [Anime Daisuki](https://animedaisuki.moe/), [1 AnimeDao](https://animedao.com/)|720|480,720|{{7}}/{{10}}|No
+  [Anime Fever](https://www.animefever.tv/)|674|480,720|{{7}}/{{10}}|No
+  [Animelon](https://animelon.com/) ^^en^^ ^^jp^^|278|480,720,1080|{{5}}/{{10}}|No
+  
+Descarga
+
+  Nombre|Librería|Calidad|Hospedaje
+  ------|--------|-------|---------
+  [Frozen-Layer](https://www.frozen-layer.com/)
                             - 42562 (p2p), 8788 (Servidor)
                                 - 720, 1080
                                     - Mediafire, Mega
