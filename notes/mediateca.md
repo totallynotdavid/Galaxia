@@ -409,10 +409,10 @@ Nombre|Librería|Calidad|Interfaz
 ## Pornografía
 
 <details>
-   <summary>[ViperGirls](https://vipergirls.to/forum.php)</summary>
-
-- Herramientas
-  - [Viper Ripper](https://vipergirls.to/threads/1498244): Descarga álbumes de una entrada directamente y soporta varios hospedajes usados en el foro.
+   <summary>ViperGirls</summary>
++ [ViperGirls](https://vipergirls.to/forum.php)
++ Herramientas
+   + [Viper Ripper](https://vipergirls.to/threads/1498244): Descarga álbumes de una entrada directamente y soporta varios hospedajes usados en el foro.
 
 Contenido|Sitios|Servidor|Nota
 ---------|------|--------|----
