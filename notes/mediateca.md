@@ -30,7 +30,7 @@
        - [JAV](#JAV)
        - [Set de fotografía](#set-de-fotografía)
      - [Producción surcoreana](#producción-surcoreana)
-     - [Amateur](#amateur)
+     - [Amateur asiático](#amateur-asiático)
    
 # General
 ## P2P `torrent`
@@ -449,159 +449,56 @@ Emisión en directo
      [R18](https://www.r18.com/)|Sitio más grande de contenido adulto|Sí|{{7}}/{{10}}|R18
      [After School](https://www.afterschool.jp/en/)|Temática: estudiante japonesa|Sí|{{7}}/{{10}}|Tsunami-Cash
      [10Musume](https://www.10musume.com/)|Producción "amateur"|Sí|{{8}}/{{10}}|Dreamroom
-     [Zenra](https://zenra.net/)
-                                - JAV de varios estudios subtitulado en inglés (sección gratuita)
-                                    - Sí/No
-                                        - {{9}}/{{10}}
-                                            - Provideniya
-                            - [1pondo.tv](https://en.1pondo.tv/)
-                                - Producción sin censura
-                                    - Sí/No
-                                        - {{10}}/{{10}}
-                                            - Dreamroom
-                            - [Caribbeancom](https://en.caribbeancom.com/eng/index2.htm)
-                                - Productora más conocida sin censura
-                                    - No
-                                        - {{6}}/{{10}}
-                                            - Dreamroom
-                            - [CovertJapan](https://www.covertjapan.com/en/)
-                                - Producción extranjera con actrices "amateur" japonesas
-                                    - No
-                                        - {{7}}/{{10}}
-                                            - CovertJapan
-                            - [JPornAccess](https://jpornaccess.com/)
-                                - El estudio más grande sin censura 
-                                    - No
-                                        - {{5}}/{{10}}
-                                            - Dreamroom
-                            - [nanairo](https://nanairo.co/ja/)
-                                - Grabado en cuartos de hotel con buena iluminación
-                                    - No
-                                        - {{10}}/{{10}}
-                                            - S-Cute
-                            - [SOD](https://ec.sod.co.jp/prime/sod_free/) ^^JP^^
-                                - JAV de los 90 y 2000
-                                    - Sí
-                                        - {{6}}/{{10}}
-                                            - SOD
+     [Zenra](https://zenra.net/)|JAV de varios estudios subtitulado en inglés (sección gratuita)|Sí/No|{{9}}/{{10}}|Provideniya
+     [1pondo.tv](https://en.1pondo.tv/)|Producción sin censura|Sí/No|{{10}}/{{10}}|Dreamroom
+     [Caribbeancom](https://en.caribbeancom.com/eng/index2.htm)|Productora más conocida sin censura|No|{{6}}/{{10}}|Dreamroom
+     [CovertJapan](https://www.covertjapan.com/en/)|Producción extranjera con actrices "amateur" japonesas|No|{{7}}/{{10}}|CovertJapan
+     [JPornAccess](https://jpornaccess.com/)|El estudio más grande sin censura|No|{{5}}/{{10}}|Dreamroom
+     [nanairo](https://nanairo.co/ja/)|Grabado en cuartos de hotel con buena iluminación|No|{{10}}/{{10}}|S-Cute
+     [SOD](https://ec.sod.co.jp/prime/sod_free/) ^^JP^^|JAV de los 90 y 2000|Sí|{{6}}/{{10}}|SOD
 
-                    - Terceros
-                        - {{table}}
-                            - **Nombre**
-                                - **Censura**
-                                    - **Interfaz**
-                                        - **Calidad**
-                                            - **Nota**
-                            - [Netflav](https://netflav.com/) ^^ZH^^
-                                - Sí/No
-                                    - {{10}}/{{10}}
-                                        - 480,720
-                                            - Descarga + `.torrent`
-                            - [Jable](https://jable.tv/) [1](https://fs1.app/) ^^ZH^^
-                                - Sí
-                                    - {{9}}/{{10}}
-                                        - 720, 1080
-                                            - [Espejo](https://github.com/aj23koby4495612/aj23koby4495612)
-                            - [JavFinder](https://javfinder.la/) [1](https://jav.sh/)
-                                - Sí/No
-                                    - {{5}}/{{10}}
-                                        - 480, 720, 1080
-                                            - Actualización constante, descarga
-                            - [Jav Guru](https://jav.guru/)
-                                - Sí/No
-                                    - {{5}}/{{10}}
-                                        - 480, 720
-                                            - Algunos episodios subtitulados
-                            - [JAVMovs](https://javmovs.com/)
-                                - Sí
-                                    - {{7}}/{{10}}
-                                        - 480,720,1080
-                                            - Descarga, filtro por estudio
-                            - [Agzi](https://agzy1.com/#/index) [1](https://agzy4.com/#/index)
-                                - Sí/No
-                                    - {{6}}/{{10}}
-                                        - 480,720
-                                            - Estudios Caribbean, Honzo, 1Pondo entre otros
-                            - [AV01](https://www.av01.tv/)
-                                - Sí
-                                    - {{6}}/{{10}}
-                                        - 720, 1080
-                                            - [Espejo](https://github.com/av01tv/url), miniatura en el reproductor
-                            - [HPJAV](https://hpjav.tv/)
-                                - Sí/No
-                                    - {{5}}/{{10}}
-                                        - 480,720,1080
-                                            - Descarga
-                            - [JAV-tc](https://javtc.tv/)
-                                - Sí/No
-                                    - {{5}}/{{10}}
-                                        - 480,720,1080
-                                            - Algunos se pueden descargar
-                            - [TW DVD](http://twdvd.com/video/) [1](https://oursogo.com/adult.html)
-                                - Sí/No
-                                    - {{5}}/{{10}}
-                                        - 480,720
-                                            - Pornografía occidental
-                - P2P `.torrent`
-                    - {{table}}
-                        - **Nombre**
-                            - **Censura**
-                                - **Calidad**
-                                    - **Interfaz**
-                        - [JAVJunkies](https://www.javbus.com/en)
-                            - Sí
-                                - 720, 1080
-                                    - {{6}}/{{10}}
-                        - [OneJAV](https://onejav.com/)
-                            - Sí
-                                - 720,1080
-                                    - {{9}}/{{10}}
-                        - [JavBus](https://www.javbus.com/en)
-                            - Sí/No
-                                - 480, 720
-                                    - {{8}}/{{10}}
-                        - [Jav Torrent](https://javzt.blogspot.com/)
-                            - No
-                                - 720
-                                    - {{5}}/{{10}} 
-                        - [SekTorrent](https://sektorrent5.org/)
-                            - Sí/No
-                                - Desconocido
-                                    - {{5}}/{{10}}
-            - Set de fotografía `legal`
-                - {{table}}
-                    - **Nombre**
-                        - **Descripción**
-                            - **Compañía**
-                                - **Interfaz**
-                    - [GirlsDelta](https://girlsdelta.com/main)
-                        - Set de fotografía y video pornográfico suave (jóvenes amateur)
-                            - GIRLS DELTA (extranjero)
-                                - {{8}}/{{10}}
-                    - [TOKYODOLL](https://www.tokyodoll.tv/)
-                        - Set de fotografía pornográfico suave de modelos occidentales
-                            - TDK
-                                - {{9}}/{{10}}
-        - Producción surcoreana
-            - {{table}}
-                - **Nombre**
-                    - **Contenido**
-                        - **Calidad**
-                - [Mov18P+](https://mov18plus.com/)
-                    - Película erótica de producción variada, especialmente surcoreana, incluso producciones vintage
-                        - 480, 720
-        - Amateur
-            - Asia
-                - {{table}}
-                    - **Nombre**
-                        - **Contenido**
-                            - **Hospedaje**
-                    - [totoland](http://totoland4.cc/bbs/board.php?bo_table=bo_25) `revisión`
-                        - BJ (gif)
-                            - Propio
-                    - [XKorean](https://xcam.asia/)
-                        - BJ surcoreanas y chinas
-                            - Propio
-                    - [Darksocials](https://www.darksocials.com/)
-                        - BJ surcoreanas y chinas
-                            - Pornhub/Mega
+  - Terceros
+  
+     Nombre|Censura|Interfaz|Calidad|Nota
+     ------|-------|--------|-------|----
+     [Netflav](https://netflav.com/) ^^ZH^^|Sí/No|{{10}}/{{10}}|480,720|Descarga + `.torrent`
+     [Jable](https://jable.tv/) [1](https://fs1.app/) ^^ZH^^|Sí|{{9}}/{{10}}|720, 1080|[En caso de caída](https://github.com/aj23koby4495612/aj23koby4495612)
+     [JavFinder](https://javfinder.la/) [1](https://jav.sh/)|Sí/No|{{5}}/{{10}}|480, 720, 1080|Actualización constante, descarga
+     [Jav Guru](https://jav.guru/)|Sí/No|{{5}}/{{10}}|480, 720|Algunos episodios subtitulados
+     [JAVMovs](https://javmovs.com/)|Sí|{{7}}/{{10}}|480,720,1080|Descarga, filtro por estudio
+     [Agzi](https://agzy1.com/#/index) [1](https://agzy4.com/#/index)|Sí/No|{{6}}/{{10}}|480,720|Estudios Caribbean, Honzo, 1Pondo entre otros
+     [AV01](https://www.av01.tv/)|Sí|{{6}}/{{10}}|720, 1080|[En caso de caída](https://github.com/av01tv/url), miniatura en el reproductor
+     [HPJAV](https://hpjav.tv/)|Sí/No|{{5}}/{{10}}|480,720,1080|Descarga
+     [JAV-tc](https://javtc.tv/)|Sí/No|{{5}}/{{10}}|480,720,1080|Algunos se pueden descargar
+     [TW DVD](http://twdvd.com/video/) [1](https://oursogo.com/adult.html)|Sí/No|{{5}}/{{10}}|480,720|Pornografía occidental
+
+P2P `.torrent`
+
+Nombre|Censura|Calidad|Interfaz
+------|-------|-------|--------
+[JAVJunkies](https://www.javbus.com/en)|Sí|720, 1080|{6}}/{{10}}
+[OneJAV](https://onejav.com/)|Sí|720,1080|{{9}}/{{10}}
+[JavBus](https://www.javbus.com/en)|Sí/No|480, 720|{{8}}/{{10}}
+[Jav Torrent](https://javzt.blogspot.com/)|No|720|{{5}}/{{10}} 
+[SekTorrent](https://sektorrent5.org/)|Sí/No|Desconocido|{{5}}/{{10}}
+
+#### Set de fotografía `legal`
+
+Nombre|Descripción|Compañía|Interfaz
+------|-----------|--------|--------
+[GirlsDelta](https://girlsdelta.com/main)|Set de fotografía y video pornográfico suave (jóvenes amateur)|GIRLS DELTA (extranjero)|{{8}}/{{10}}
+[TOKYODOLL](https://www.tokyodoll.tv/)|Set de fotografía pornográfico suave de modelos occidentales|TDK|{{9}}/{{10}}
+
+### Producción surcoreana
+
+Nombre|Contenido|Calidad
+------|---------|-------
+[Mov18P+](https://mov18plus.com/)|Película erótica de producción variada, especialmente surcoreana, incluso producciones vintage|480, 720
+
+### Amateur asiático
+
+Nombre|Contenido|Hospedaje
+------|---------|---------
+[totoland](http://totoland4.cc/bbs/board.php?bo_table=bo_25) `revisión`|BJ (gif)|Propio
+[XKorean](https://xcam.asia/)|BJ surcoreanas y chinas|Propio
+[Darksocials](https://www.darksocials.com/)|BJ surcoreanas y chinas|Pornhub/Mega
