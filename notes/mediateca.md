@@ -356,37 +356,18 @@ Nombre|Librería|Calidad|Interfaz
 - Herramientas
   - [Viper Ripper](https://vipergirls.to/threads/1498244): Descarga álbumes de una entrada directamente y soporta varios hospedajes usados en el foro.
 
-- Contenido
-                - Celebridad (foto y video)
-                - Set de fotografías
-                    - Sitios
-                        - Met-Art, SuicideGirls, Femjoy, Hegre-Art, ATK, entre otros
-                    - Servidores
-                        - Uploaded, Rapidgator, Turbobit, Keep2Share
-                - Set de fotografías de la "escena" 
-                    - Hospedaje
-                        - imx.to
-                    - Servidor
-                        - Keep2Share
-                - Pornografía de la "escena"
-                    - Calidad
-                        - 720, 1080, 2160
-                    - Servidor
-                        - Keep2share
-                - Revistas
-                    - Servidor
-                        - Uploaded, Rapidgator
-                - Hentai subtitulado y doblado al inglés (OVA y videojuego)
-                    - Servidor
-                        - Keep2Share
-                        - Filesmonster (velocidad 150 kbps)
-                - Videojuegos 3D
-                    - Servidor
-                        - Keep2share, Rapidgator, Uploaded 
-                - Cómic
-                    - Servidor
-                        - Uploaded, Rapidgator
-                - Entre otros
+Contenido|Sitios|Servidor|Nota
+---------|------|--------|----
+Celebridad (foto y video)|Recolección|imx.to
+Set de fotografías|Met-Art, SuicideGirls, Femjoy, Hegre-Art, ATK, entre otros|Uploaded, Rapidgator, Turbobit, Keep2Share
+Set de fotografías|"Escena"|imx.to|Keep2Share
+Pornografía|"Escena"|Keep2Share|Calidad: 720, 1080, 2160
+Revistas|-|Uploaded, Rapidgator
+Hentai subtitulado y doblado al inglés (OVA y videojuego)|Popular|Keep2Share, Filesmonter (`150kbps`)
+Videojuegos 3D|Popular|Keep2share, Rapidgator, Uploaded 
+Cómic|Popular|Uploaded, Rapidgator
+
+`Posee más categorías`
 
 ### Producción estadounidense y europea
 
