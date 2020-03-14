@@ -9,10 +9,9 @@
      - [Aplicaciones nativas](#aplicaciones-nativas)
        - [Bloqueo de publicidad](#bloqueo-de-publicidad)
        - [Multimedia](#multimedia)
-       - [Tienda de aplicaciones](#tienda-de-aplicaciones)
-     - [Aplicaciones web](#aplicaciones-web)
+       - [Tienda de aplicaciones de Android](#tienda-de-aplicaciones-de-Android)
+     - [Repositorios de aplicaciones en hospedaje de terceros](#repositorios-de-aplicaciones-en-hospedaje-de-terceros)
 3. [Videoteca](#videoteca)
-   - [General](#general)
    - [Cursos](#cursos)
    - [Cine y series de televisión](#cine-y-series-de-televisión)
      - [Producción estadounidense y europea](#producción-estadounidense-y-europea)
@@ -20,15 +19,15 @@
        - [Películas](#películas)
        - [Series de televisión](#series-de-televisión)
        - [En vivo](#en-vivo)
-     - [Producción asiátiva](#producción-asiática)
+     - [Producción asiática](#producción-asiática)
        - [Animación](#animación)
        - [Dorama](#dorama)
    - [Pornografía](#pornografía)
      - [Producción estadounidense y europea](#producción-estadounidense-y-europea)
      - [Producción japonesa](#producción-japonesa)
-       - [Animación](#animación)
+       - [Animación pornográfica](#animación-pornográfica)
        - [JAV](#JAV)
-       - [Set de fotografía](#set-de-fotografía)
+       - [Set de fotografía (legal)](#set-de-fotografía-(legal))
      - [Producción surcoreana](#producción-surcoreana)
      - [Amateur asiático](#amateur-asiático)
    
@@ -288,7 +287,7 @@ Nombre|Librería|Idioma|Emisión en continuo|Hospedaje
  
   [123TV](http://123tvnow.com/)
                 
-### Producciones asiáticas
+### Producción asiática
 
 #### General
 
@@ -410,7 +409,7 @@ Emisión en directo
   [GGJAV](https://ggjav.com/)|JAV, hentai, [reconocimiento facial de actrices de JAV](https://ggjav.com/main/recognize_pornstar)|Sí/No|480,720,1080|{{6}}/{{10}}
   ^^ZH^^ [Cherry](https://yt232.com/#/home) [1](https://github.com/avyingtao/dz/blob/master/README.md?main)|JAV, BJ surcoreanas, amateur|Sí/No|480 (720 de pago)|{{5}}/{{10}}
 
-#### Animación
+#### Animación pornográfica
 
 Nombre|Librería|Calidad|Subtítulo
 ------|--------|-------|---------
