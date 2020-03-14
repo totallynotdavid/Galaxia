@@ -488,26 +488,25 @@ Nombre|Librería|Calidad|Subtítulo
    <summary>Emisión en continuo</summary>
    
    <details>
-      <summary>Legal (interfaz en inglés)</summary>
+   <summary>Legal (interfaz en inglés)</summary>
   
    Nombre|Descripción|Censura|Interfaz|Compañía
    ------|-----------|-------|--------|--------
-     [R18](https://www.r18.com/)|Sitio más grande de contenido adulto|Sí|{{7}}/{{10}}|R18
-     [After School](https://www.afterschool.jp/en/)|Temática: estudiante japonesa|Sí|{{7}}/{{10}}|Tsunami-Cash
-     [10Musume](https://www.10musume.com/)|Producción "amateur"|Sí|{{8}}/{{10}}|Dreamroom
-     [Zenra](https://zenra.net/)|JAV de varios estudios subtitulado en inglés (sección gratuita)|Sí/No|{{9}}/{{10}}|Provideniya
-     [1pondo.tv](https://en.1pondo.tv/)|Producción sin censura|Sí/No|{{10}}/{{10}}|Dreamroom
-     [Caribbeancom](https://en.caribbeancom.com/eng/index2.htm)|Productora más conocida sin censura|No|{{6}}/{{10}}|Dreamroom
-     [CovertJapan](https://www.covertjapan.com/en/)|Producción extranjera con actrices "amateur" japonesas|No|{{7}}/{{10}}|CovertJapan
-     [JPornAccess](https://jpornaccess.com/)|El estudio más grande sin censura|No|{{5}}/{{10}}|Dreamroom
-     [nanairo](https://nanairo.co/ja/)|Grabado en cuartos de hotel con buena iluminación|No|{{10}}/{{10}}|S-Cute
-     [SOD](https://ec.sod.co.jp/prime/sod_free/) ^^JP^^|JAV de los 90 y 2000|Sí|{{6}}/{{10}}|SOD
+   [R18](https://www.r18.com/)|Sitio más grande de contenido adulto|Sí|{{7}}/{{10}}|R18
+   [After School](https://www.afterschool.jp/en/)|Temática: estudiante japonesa|Sí|{{7}}/{{10}}|Tsunami-Cash
+   [10Musume](https://www.10musume.com/)|Producción "amateur"|Sí|{{8}}/{{10}}|Dreamroom
+   [Zenra](https://zenra.net/)|JAV de varios estudios subtitulado en inglés (sección gratuita)|Sí/No|{{9}}/{{10}}|Provideniya
+   [1pondo.tv](https://en.1pondo.tv/)|Producción sin censura|Sí/No|{{10}}/{{10}}|Dreamroom
+   [Caribbeancom](https://en.caribbeancom.com/eng/index2.htm)|Productora más conocida sin censura|No|{{6}}/{{10}}|Dreamroom
+   [CovertJapan](https://www.covertjapan.com/en/)|Producción extranjera con actrices "amateur" japonesas|No|{{7}}/{{10}}|CovertJapan
+   [JPornAccess](https://jpornaccess.com/)|El estudio más grande sin censura|No|{{5}}/{{10}}|Dreamroom
+   [nanairo](https://nanairo.co/ja/)|Grabado en cuartos de hotel con buena iluminación|No|{{10}}/{{10}}|S-Cute
+   [SOD](https://ec.sod.co.jp/prime/sod_free/) ^^JP^^|JAV de los 90 y 2000|Sí|{{6}}/{{10}}|SOD
      
    </details>
-
    <details>
-      <summary>Terceros</summary>
-  
+   <summary>Terceros</summary>
+   
    Nombre|Censura|Interfaz|Calidad|Nota
    ------|-------|--------|-------|----
      [Netflav](https://netflav.com/) ^^ZH^^|Sí/No|{{10}}/{{10}}|480,720|Descarga + `.torrent`
@@ -522,7 +521,6 @@ Nombre|Librería|Calidad|Subtítulo
      [TW DVD](http://twdvd.com/video/) [1](https://oursogo.com/adult.html)|Sí/No|{{5}}/{{10}}|480,720|Pornografía occidental
    
    </details>
-   
 </details>
 
 <details>
