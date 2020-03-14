@@ -368,7 +368,7 @@ Nombre|Contenido|Servidores
   [animepahe](https://animepahe.com/)|3384|480,720,1080|{{9}}/{{10}}|No
   [animeultima](https://animeultima.eu/), [Animeflix](https://animeflix.io/)|2453|480,720,1080|{{9}}/{{10}}|Inglés
   [Animetake](https://animetake.tv/)|2293|480,720|{{6}}/{{10}}|No
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" height="15"> [Aniwatch](https://aniwatch.me/) `en` `de`|2109|480,720,1080|{{8}}/{{10}}|No
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" height="15"> [Aniwatch](https://aniwatch.me/)|2109|480,720,1080|{{8}}/{{10}}|No
   [Anime Twist](https://twist.moe/)|1558|480,720|{{10}}/{{10}}|No
   [4Anime](https://4anime.to/)|1316|480,720|{{9}}/{{10}}|No
   [DarkAnime](https://darkanime.stream/)|1200|480,720|{{7}}/{{10}}|Sí
