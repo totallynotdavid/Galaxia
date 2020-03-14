@@ -368,30 +368,34 @@ Nombre|Contenido|Servidores
   [animepahe](https://animepahe.com/)|3384|480,720,1080|{{9}}/{{10}}|No
   [animeultima](https://animeultima.eu/), [Animeflix](https://animeflix.io/)|2453|480,720,1080|{{9}}/{{10}}|Inglés
   [Animetake](https://animetake.tv/)|2293|480,720|{{6}}/{{10}}|No
-  [Aniwatch](https://aniwatch.me/) `en` `de`|2109|480,720,1080|{{8}}/{{10}}|No
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" height="15"> [Aniwatch](https://aniwatch.me/) `en` `de`|2109|480,720,1080|{{8}}/{{10}}|No
   [Anime Twist](https://twist.moe/)|1558|480,720|{{10}}/{{10}}|No
   [4Anime](https://4anime.to/)|1316|480,720|{{9}}/{{10}}|No
   [DarkAnime](https://darkanime.stream/)|1200|480,720|{{7}}/{{10}}|Sí
   [Anime Daisuki](https://animedaisuki.moe/), [1 AnimeDao](https://animedao.com/)|720|480,720|{{7}}/{{10}}|No
   [Anime Fever](https://www.animefever.tv/)|674|480,720|{{7}}/{{10}}|No
-  [Animelon](https://animelon.com/) ^^en^^ ^^jp^^|278|480,720,1080|{{5}}/{{10}}|No
+  [Animelon](https://animelon.com/)|278|480,720,1080|{{5}}/{{10}}|No
   
 </details>
 
 <details>
    <summary>Descarga</summary>
-  Nombre|Librería|Calidad|Hospedaje
-  ------|--------|-------|---------
-  [Frozen-Layer](https://www.frozen-layer.com/)|42562 (p2p), 8788 (Servidor)|720, 1080|Mediafire, Mega
-  [Shichibukai](https://www.shichibukai.net/) [p2p](https://www.frozen-layer.com/fansubs/205)|Todos los episodios, especiales y películas de One Piece y Full Metal Alchemist|480, 720, 1080 (mejor calidad disponible)|Mega, DepositFiles
+   
+   Nombre|Librería|Calidad|Hospedaje
+   ------|--------|-------|---------
+   [Frozen-Layer](https://www.frozen-layer.com/)|42562 (p2p), 8788 (Servidor)|720, 1080|Mediafire, Mega
+   [Shichibukai](https://www.shichibukai.net/) [p2p](https://www.frozen-layer.com/fansubs/205)|Todos los episodios, especiales y películas de One Piece y Full Metal Alchemist|480, 720, 1080 (mejor calidad disponible)|Mega, DepositFiles
+  
 </details>
 
 <details>
    <summary>Servidor</summary>
-    Nombre|Librería|Calidad|Hospedaje|Nota
-    ------|--------|-------|---------|----
-    [AnimeKayo](https://animekayo.com/)|2314 series, 472 películas|480, 720, 1080|Google Drive|Contiene algunos doblajes
-    [Anime Kaizoku](https://animekaizoku.com/)|1458 series, 312 películas|480, 720, 1080|Google Drive, OneDrive
+   
+   Nombre|Librería|Calidad|Hospedaje|Nota
+   ------|--------|-------|---------|----
+   [AnimeKayo](https://animekayo.com/)|2314 series, 472 películas|480, 720, 1080|Google Drive|Contiene algunos doblajes
+   [Anime Kaizoku](https://animekaizoku.com/)|1458 series, 312 películas|480, 720, 1080|Google Drive, OneDrive
+    
 </details>
 
 #### Dorama
