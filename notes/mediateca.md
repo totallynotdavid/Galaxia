@@ -433,9 +433,11 @@ Nombre|Librería|Calidad|Servidor|Hospedaje
 
 <details>
    <summary>P2P (.torrent)</summary>
-Nombre|Contenido
-------|---------
-[PornoLab](https://pornolab.net/forum/index.php)|Cine erótico, amateur (pornhub, chaturbate), sitios web completos, JAV, revistas y sets de fotografías
+   
+   Nombre|Contenido
+   ------|---------
+   [PornoLab](https://pornolab.net/forum/index.php)|Cine erótico, amateur (pornhub, chaturbate), sitios web completos, JAV, revistas y sets de fotografías
+   
 </details>
 
 ### Producción japonesa
@@ -483,11 +485,9 @@ Nombre|Librería|Calidad|Subtítulo
 #### JAV
 
 <details>
-   
    <summary>Emisión en continuo</summary>
    
    <details>
-   
       <summary>Legal (interfaz en inglés)</summary>
   
    Nombre|Descripción|Censura|Interfaz|Compañía
@@ -506,7 +506,6 @@ Nombre|Librería|Calidad|Subtítulo
    </details>
 
    <details>
-   
       <summary>Terceros</summary>
   
    Nombre|Censura|Interfaz|Calidad|Nota
@@ -536,6 +535,7 @@ Nombre|Censura|Calidad|Interfaz
 [JavBus](https://www.javbus.com/en)|Sí/No|480, 720|{{8}}/{{10}}
 [Jav Torrent](https://javzt.blogspot.com/)|No|720|{{5}}/{{10}} 
 [SekTorrent](https://sektorrent5.org/)|Sí/No|Desconocido|{{5}}/{{10}}
+
 </details>
 
 #### Set de fotografía `legal`
