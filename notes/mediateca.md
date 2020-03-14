@@ -32,9 +32,11 @@
      - [Amateur asiático](#amateur-asiático)
    
 # General
-## P2P `torrent`
 
 > General: película, programa de televisión, software (aplicación y videojuego), música y contenido adulto **con enfoque occidental**.
+
+<details>
+   <summary>P2P (.torrent)</summary>
 
   Nombre|Reputación|Contenido
   ------|----------|---------
@@ -46,8 +48,11 @@
   [ProStyleX](https://prostylex.org/)|Cuidado|General, anime, JAV, hentai, set de fotografía
   <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" width="17"> [rutor](http://rutor.info/)|Cuidado|General, anime, cine extranjero, comedia en vivo, documentales
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17">[JoyMaxim](https://joymaxim.com/)|Cuidado|Cine, programas de televisión, doramas, documentales, videojuegos, animación japonesa
-  
-## Servidor
+
+</details>
+
+<details>
+   <summary>Servidor</summary>
 
   Nombre|Contenido|Hospedaje
   ------|---------|---------
@@ -58,7 +63,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Flag_of_Germany_%283-2_aspect_ratio%29.svg" width="17"> [HD-Source](http://hd-source.to/) [1](http://serienjunkies.org)|Películas, series de televisión, videojuegos y pornografía|Uploaded, Rapidgator, DDL.to, Oboom
   [Volno!](https://volno.org/portal.php/)|Aplicaciones móviles, cursos, libros, música, películas, series de televisión, videojuegos, pornografía|Rapidgator, Nitroflare
   [downTURK](https://www.downturk.net/)|Software (Windows, Android), diseño (vector, tipografía), libro|Rapidgator, Nitroflare
-  
+</details>
+
 # Software
 ## Aplicación
 
@@ -79,7 +85,8 @@
   
 ### Nuevos
 
-#### P2P
+<details>
+   <summary>P2P (.torrent)</summary>
 
   Nombre|Idioma|Consola
   ------|------|-------
@@ -87,8 +94,11 @@
   [GamesTorrents](https://www.gamestorrents.nu/)|Español, inglés, entre otros (14201)|Windows, Android, Mac, Xbox360, PS4, PS3, PS2, PSP, Wii
   [FitGirl Repacks](https://fitgirl-repacks.site/)|Ingles, ruso, entre otros (casi 1500)|Windows 7/8/10
   [Black Box Repack](https://www.blackboxrepack.com/) [1](https://1337x.to/user/FitGirl/) [2](https://katcr.co/user/fitgirl/profile/) [3](http://rutor.info/browse/0/0/1224038/0)|Inglés (427)|Windows 7/8/10
+  
+</details>
 
-#### Servidor
+<details>
+   <summary>Servidor</summary>
 
    Nombre|Reputación|Hospedaje|Nota
    ------|----------|---------|----
@@ -99,6 +109,8 @@
    [Ova Games](https://www.ovagames.com/)|Confiable (3682)|Google Drive, Mega, Uptobox, Uploaded, Racaty
    [Crohasit](https://crohasit.net/)|Desconocido (1484)|UploadHeaven|Sin acortadores
    [Rihno Games](https://www.rihnogames.com/)|Confiable (680)|Nuevos: Propio y `.torrent`|Antiguos: Google Drive, Mega, Uptobox
+
+</details>
 
 ## Móviles
 
@@ -116,7 +128,9 @@
 
 Entretenimiento
 
-1. General
+<details>
+   
+   <summary>1. General</summary>
 
    Nombre|Mínimo|Contenido|Sistema Operativo|Notas
    ------|------|---------|-----------------|-----
@@ -124,10 +138,13 @@ Entretenimiento
    [Kokotime](https://www.kokotime.tv/)|4.1|Películas y programas de televisión|Android|Reproductor nativo, subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">, funciona con Chromecast
    [Viva](https://vivatv.io/)|4.0?|Películas, programas de televisión y en vivo|Android, Amazon Fire TV y Fire Stick|Sincronización con [Trakt](https://trakt.tv/); subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">; funciona con Real-debrid, Alldebrid y Premiumize
    [BeeTV](https://beetvapk.net/)|4.0|Películas y programas de televisión|Android y Firestick|Interfaz regular
-  
-2. Anime
+   
+</details>
 
-   **Animación**, dícese películas, programas de televisión, OVA y ONA
+<details>
+   <summary>2. Anime</summary>
+   <details>
+      <summary>  Animación, dícese películas, programas de televisión, OVA y ONA</summary>
 
    Nombre|Mínimo|Sistema Operativo|Publicidad|Notas
    ------|------|-----------------|----------|-----
@@ -136,15 +153,21 @@ Entretenimiento
    [AnimeGlare](https://animeglare.xyz/)|5.0?|Android y iOS|No|Seguimiento y sincronización; personalización; funciona con Real-Debrid
    [AnimeDLR](https://cylonu87.github.io/androidapps/animedlr)|4.1|Android|No|Subtítulos en varios idiomas; descarga de episodios
    [H-DLR](https://cylonu87.github.io/HDLR/)|4.4|Android|No|Subtítulos en varios idiomas; descarga de episodios
-   [NineAnimator](https://nineanimator.marcuszhou.com/)[Código abierto](https://github.com/SuperMarcus/NineAnimator)|11.2|iOS|No|Descarga de episodios; modo oscuro; imagen en imagen (solo en iPads); funciona con Chromecast (limitado) y AirPlay;
+   [NineAnimator](https://nineanimator.marcuszhou.com/)[Código abierto](https://github.com/SuperMarcus/NineAnimator)|11.2|iOS|No|Descarga de episodios; modo oscuro; imagen en imagen (solo en iPads); funciona con Chromecast (limitado) y AirPlay
+   </details>
    
-   **Manga** para sistemas Android
+   <details>
+   <summary>  Manga para sistemas Android</summary>
 
    Nombre|Mínimo|Publicidad|Descarga|Nota
    ------|------|----------|--------|----
    [Tachiyomi](https://tachiyomi.org/) [Código abierto](https://github.com/inorichi/tachiyomi)|5.0|No|Sí|Traducciones en varios idiomas; seguimiento con MyAnimeList, AniList, [Kitsu](https://kitsu.io/) y [Shikimori](https://shikimori.one/); modo oscuro; extensiones
    [MangaDLR](https://cylonu87.github.io/androidapps/mangadlr)|4.1|No|Sí|Traducciones en varios idiomas
-  
+   
+   </details>
+   
+</details>
+
 #### Tienda de aplicaciones para Android
 
   Nombre|Mínimo|Privacidad|Características|Notas
@@ -187,8 +210,8 @@ Entretenimiento
 ### Producción estadounidense y europea
 
 #### General
-
-Emisión en continuo
+<details>
+   <summary>Emisión en continuo</summary>
 
   Nombre|Librería|Calidad|Subtítulo|Nota
   ------|--------|-------|---------|----
@@ -205,16 +228,22 @@ Emisión en continuo
   [Soap2DAY](https://soap2day.to/) [1](https://soapgate.org/)|6870 películas, 1530 series|720|No|The Office en buena calidad
   [Rulu](https://www.rulu.co/)|24 películas y 57 series|480, 720, 1080|Inglés, español, entre otros|Youtube y propio
   
-Descarga
+</details>
 
-  `IRC`
+<details>
+   <summary>Descarga</summary>
+   <details>
+      <summary>--->IRC</summary>
     
   Red|Canal
   ---|-----
   [SceneP2P](https://scenep2p.net/)|THE.SOURCE
   [Abjects](https://abjects.net/)|BEAST-XDCC| MOVIEGODS
   
-  `Servidor`
+  </details>
+  
+  <details>
+       <summary>--->Servidor</summary>
   
   Nombre|Contenido|Librería|Calidad|Hospedaje
   ------|---------|--------|-------|---------
@@ -222,9 +251,14 @@ Descarga
   [GDriveDL](https://gdrivedl.xyz/)|Películas (sin actualizaciones desde 2019)|784|1080, 2160|Google Drive
   [GDMovies](https://gdmovies.info/)|Películas y series (**Caído**)|Desconocido|720, 1080|Google Drive
   
+  </details>
+  
+</details>
+
 #### Documental
 
-`Emisión en directo`
+<details>
+   <summary>Emisión en directo</summary>
 
   Nombre|Librería|Calidad|Subtítulos|Hospedaje
   ------|--------|-------|----------|---------
@@ -235,21 +269,25 @@ Descarga
   [Thought Maybe](https://thoughtmay.be/)|787|720, estricto|No|Propio
   [Frontline](https://www.pbs.org/wgbh/frontline/films/) `legal`|74|480, 720, 1080|Inglés|Propio
   [Spread the Word](https://www.sprword.com/) `pseudociencia`|773|480|No|Youtube
-
-`P2P`
+</details>
+<details>
+   <summary>P2P</summary>
 
   Nombre|Librería|Tipo|Formato
   ------|--------|----|-------
   [MV Group](https://forums.mvgroup.org/)|Grande|Foro|`.emule` `.torrent` `.srt`
   [DocuWiki](https://docuwiki.net/index.php?title=Main_Page)|Grande|Wiki|Indice e información de MV Group
+  
+</details>
 
 #### Películas
 
 Nombre|Librería|Idioma|Emisión en continuo|Hospedaje
 ------|--------|------|-------------------|---------
 [Películas-HD](https://www.peliculas-hd.net/)|51|Español (doblaje latino)|Fembed, GoUnlimited, JetLoad, Digiload, ZLPlayer|Google Drive, Mediafire, Mega, UptoBox, 1fichier
-                
-`Emisión en directo`
+
+<details>
+   <summary>Emisión en directo</summary>
 
   Nombre|Librería|Calidad|Subtítulo|Nota
   ------|--------|-------|---------|----
@@ -258,34 +296,42 @@ Nombre|Librería|Idioma|Emisión en continuo|Hospedaje
   [AZMovies](https://azm.to/)|5053 películas|720, 1080|No|Cine antiguo
   [elitestream](https://www.elitestream.io/)|4381 películas|480, 720|Español y doblaje <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="17"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" width="17">|Doblaje latina y castellana
   [FlixGo](https://flixgo.biz/)|2112 películas y 44 series|480, 720|No
+</details>
 
-`Servidor`
+<details>
+   <summary>Servidor</summary>
 
   Nombre|Librería|Calidad|Hospedaje
   ------|--------|-------|---------
   [MovieFiles](https://moviefiles.org/)|1075|720, 1080|Google Drive
   [x265 Movies](https://x265movies.co/)|2982|720, 1080|Mega, Anonfile, dl.free.fr, MixDrop, UptoBox, entre otros
+  
+</details>
 
 #### Series de televisión
-`General`
+
+<details>
+   <summary>General</summary>
 
   Nombre|Librería|Calidad|Subtítulo
   ------|--------|-------|---------
   [watchepisodes](https://www.watchepisodes4.com/)|3510 series `varios servidores`|720|No
   [NOXX](https://noxx.to/)|387 series|720|No
+</details>
 
-`Animación`
+<details>
+   <summary>Animación</summary>
 
   Nombre|Librería|Calidad|Subtítulo
   ------|--------|-------|---------
   [KimCartoon](https://kimcartoon.to/)|5760 animaciones|360, 720|No
   [KissCartoon](https://kisscartoon.is/)|5520 animaciones|360, 720|o
 
+</details>
+
 #### En vivo
 
-  [U.S. TV](https://ustvgo.tv/)
- 
-  [123TV](http://123tvnow.com/)
+  [U.S. TV](https://ustvgo.tv/) y [123TV](http://123tvnow.com/)
                 
 ### Producción asiática
 
@@ -295,7 +341,8 @@ Nombre|Contenido|Servidores
 ------|---------|----------
   <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="17"> [Unión Fansub](https://torrent.unionfansub.com/browse.php)|Animación subtitulada y doblada (popular y pornográfica), música|Google Drive, Mega, Mediafire, entre otros (depende del usuario)
 
-P2P `.torrent`
+<details>
+   <summary>P2P (.torrent)</summary>
 
   Nombre|Contenido
   ------|---------
@@ -305,9 +352,12 @@ P2P `.torrent`
   [AniRena](https://www.anirena.com/)|Animación intacta y subtitulada (popular y pornográfica), manga, pornografía con censura (JAV) (sin actualizaciones), series de televisión asiáticas, música y aplicaciones (general y videojuegos eróticos)
   [AniDex](https://anidex.info/)|Animación intacta y subtitulada (popular y pornográfica), manga (escaneado y traducido), pornografía con censura (JAV), series de televisión asiáticas intactas y subtituladas y aplicaciones (general y videojuegos eróticos)
 
+</details>
+
 #### Animación
 
-Emisión en continuo
+<details>
+   <summary>Emisión en continuo</summary>
 
   Nombre|Librería|Calidad|Interfaz|Doblaje
   ------|--------|-------|--------|-------
@@ -326,19 +376,23 @@ Emisión en continuo
   [Anime Fever](https://www.animefever.tv/)|674|480,720|{{7}}/{{10}}|No
   [Animelon](https://animelon.com/) ^^en^^ ^^jp^^|278|480,720,1080|{{5}}/{{10}}|No
   
-Descarga
+</details>
 
+<details>
+   <summary>Descarga</summary>
   Nombre|Librería|Calidad|Hospedaje
   ------|--------|-------|---------
   [Frozen-Layer](https://www.frozen-layer.com/)|42562 (p2p), 8788 (Servidor)|720, 1080|Mediafire, Mega
   [Shichibukai](https://www.shichibukai.net/) [p2p](https://www.frozen-layer.com/fansubs/205)|Todos los episodios, especiales y películas de One Piece y Full Metal Alchemist|480, 720, 1080 (mejor calidad disponible)|Mega, DepositFiles
-  
-  - Servidor
-    
+</details>
+
+<details>
+   <summary>Servidor</summary>
     Nombre|Librería|Calidad|Hospedaje|Nota
     ------|--------|-------|---------|----
     [AnimeKayo](https://animekayo.com/)|2314 series, 472 películas|480, 720, 1080|Google Drive|Contiene algunos doblajes
     [Anime Kaizoku](https://animekaizoku.com/)|1458 series, 312 películas|480, 720, 1080|Google Drive, OneDrive
+</details>
 
 #### Dorama
 
@@ -350,7 +404,8 @@ Nombre|Librería|Calidad|Interfaz
 
 ## Pornografía
 
-[ViperGirls](https://vipergirls.to/forum.php)
+<details>
+   <summary>[ViperGirls](https://vipergirls.to/forum.php)</summary>
 
 - Herramientas
   - [Viper Ripper](https://vipergirls.to/threads/1498244): Descarga álbumes de una entrada directamente y soporta varios hospedajes usados en el foro.
@@ -367,6 +422,7 @@ Videojuegos 3D|Popular|Keep2share, Rapidgator, Uploaded
 Cómic|Popular|Uploaded, Rapidgator
 
 `Posee más categorías`
+</details>
 
 ### Producción estadounidense y europea
 
@@ -374,40 +430,46 @@ Nombre|Librería|Calidad|Servidor|Hospedaje
 ------|--------|-------|--------|---------
 [Porn4k](https://porn4k.to/)|5313 vídeos|720, 1080|Vidoza|Oboom, Uploaded, Rapidgator
 [Film1k](https://www.film1k.com/)|3680 películas|360, 480, 720|Fembed|Fembed
-            
-#### P2P `.torrent`
 
+<details>
+   <summary>P2P (.torrent)</summary>
 Nombre|Contenido
 ------|---------
 [PornoLab](https://pornolab.net/forum/index.php)|Cine erótico, amateur (pornhub, chaturbate), sitios web completos, JAV, revistas y sets de fotografías
+</details>
 
 ### Producción japonesa
 #### General
 
 Nombre|Contenido|Emisión en continuo|Descarga
 ------|---------|-------------------|--------
-^^ZH^^ [11tang](https://www.11tang.me/index.php)|JAV, amateur, pornografía occidental, fotos callejeras|Sí|`.torrent`
-^^ZH^^ [t66y](https://t66y.com/index.php)|Pornografía occidental, amateur y novela|Servidores de pago|`.torrent`
-^^KO^^ [Norituh](https://norituh.net/)|Colecciones (puntos), BJ, galería amateur, set de fotografías de modelos|Sí|Sí (costo en puntajes)
-^^KO^^ [JogaEParty](http://jogaeparty06.com/) `caído`|JAV, BJ (Corea del Sur y China, película erótica, "deepfake" de celebridades|Sí|Desconocido
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [11tang](https://www.11tang.me/index.php)|JAV, amateur, pornografía occidental, fotos callejeras|Sí|`.torrent`
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [t66y](https://t66y.com/index.php)|Pornografía occidental, amateur y novela|Servidores de pago|`.torrent`
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="17"> [Norituh](https://norituh.net/)|Colecciones (puntos), BJ, galería amateur, set de fotografías de modelos|Sí|Sí (costo en puntajes)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="17"> [JogaEParty](http://jogaeparty06.com/)|JAV, BJ (Corea del Sur y China, película erótica, "deepfake" de celebridades|Sí|Desconocido
 
-P2P
+<details>
+   <summary>P2P (.torrent)</summary>
 
   Nombre|Contenido|Censura|Interfaz
   ------|---------|-------|--------
   [Sukebei](https://sukebei.nyaa.si/)|JAV, animación, doujinshi, eroge|Sí/No|{{5}}/{{10}}
   [Sukebei Pantsu](https://sukebei.nyaa.net/)|JAV, animación, doujinshi, eroge|Sí/No|{{6}}/{{10}}
-  [SiS001!](https://sis001.com/forum/index.php) `foro` ^^JP^^|JAV, animación, amateur|Sí/No|{{3}}/{{10}}
-  [mwzjlt23](https://mwzjlt23.net/forum.php) `foro` ^^JP^^|JAV, animación, amateur|Sí/No|{{3}}/{{10}}
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="17"> [SiS001!](https://sis001.com/forum/index.php) `foro`|JAV, animación, amateur|Sí/No|{{3}}/{{10}}
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="17"> [mwzjlt23](https://mwzjlt23.net/forum.php) `foro`|JAV, animación, amateur|Sí/No|{{3}}/{{10}}
+</details>
 
-Emisión en directo
+<details>
+   <summary>Emisión en continuo</summary>
 
   Nombre|Contenido|Censura|Calidad|Interfaz
   ------|---------|-------|-------|--------
-  ^^ZH^^ [AVbebe](https://avbebe.com/)|JAV, hentai, manga, doujinshi,  set de fotografía amateur|Sí/No|480, 720|{{7}}/{{10}}
-  ^^ZH^^ [AVgigi](https://avgigi.com/)|JAV, hentai, doujin, set de fotografía cosplay y amateur|Sí/No|480, 720, 1080|{{5}}/{{10}}
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [AVbebe](https://avbebe.com/)|JAV, hentai, manga, doujinshi,  set de fotografía amateur|Sí/No|480, 720|{{7}}/{{10}}
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [AVgigi](https://avgigi.com/)|JAV, hentai, doujin, set de fotografía cosplay y amateur|Sí/No|480, 720, 1080|{{5}}/{{10}}
   [GGJAV](https://ggjav.com/)|JAV, hentai, [reconocimiento facial de actrices de JAV](https://ggjav.com/main/recognize_pornstar)|Sí/No|480,720,1080|{{6}}/{{10}}
-  ^^ZH^^ [Cherry](https://yt232.com/#/home) [1](https://github.com/avyingtao/dz/blob/master/README.md?main)|JAV, BJ surcoreanas, amateur|Sí/No|480 (720 de pago)|{{5}}/{{10}}
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [Cherry](https://yt232.com/#/home) [1](https://github.com/avyingtao/dz/blob/master/README.md?main)|JAV, BJ surcoreanas, amateur|Sí/No|480 (720 de pago)|{{5}}/{{10}}
+  
+</details>
 
 #### Animación pornográfica
 
@@ -420,12 +482,16 @@ Nombre|Librería|Calidad|Subtítulo
 
 #### JAV
 
-Emisión en directo
-
-  - Legal `con interfaz en inglés`
+<details>
+   
+   <summary>Emisión en continuo</summary>
+   
+   <details>
+   
+      <summary>Legal (interfaz en inglés)</summary>
   
-     Nombre|Descripción|Censura|Interfaz|Compañía
-     ------|-----------|-------|--------|--------
+   Nombre|Descripción|Censura|Interfaz|Compañía
+   ------|-----------|-------|--------|--------
      [R18](https://www.r18.com/)|Sitio más grande de contenido adulto|Sí|{{7}}/{{10}}|R18
      [After School](https://www.afterschool.jp/en/)|Temática: estudiante japonesa|Sí|{{7}}/{{10}}|Tsunami-Cash
      [10Musume](https://www.10musume.com/)|Producción "amateur"|Sí|{{8}}/{{10}}|Dreamroom
@@ -436,11 +502,15 @@ Emisión en directo
      [JPornAccess](https://jpornaccess.com/)|El estudio más grande sin censura|No|{{5}}/{{10}}|Dreamroom
      [nanairo](https://nanairo.co/ja/)|Grabado en cuartos de hotel con buena iluminación|No|{{10}}/{{10}}|S-Cute
      [SOD](https://ec.sod.co.jp/prime/sod_free/) ^^JP^^|JAV de los 90 y 2000|Sí|{{6}}/{{10}}|SOD
+     
+   </details>
 
-  - Terceros
+   <details>
+   
+      <summary>Terceros</summary>
   
-     Nombre|Censura|Interfaz|Calidad|Nota
-     ------|-------|--------|-------|----
+   Nombre|Censura|Interfaz|Calidad|Nota
+   ------|-------|--------|-------|----
      [Netflav](https://netflav.com/) ^^ZH^^|Sí/No|{{10}}/{{10}}|480,720|Descarga + `.torrent`
      [Jable](https://jable.tv/) [1](https://fs1.app/) ^^ZH^^|Sí|{{9}}/{{10}}|720, 1080|[En caso de caída](https://github.com/aj23koby4495612/aj23koby4495612)
      [JavFinder](https://javfinder.la/) [1](https://jav.sh/)|Sí/No|{{5}}/{{10}}|480, 720, 1080|Actualización constante, descarga
@@ -451,8 +521,13 @@ Emisión en directo
      [HPJAV](https://hpjav.tv/)|Sí/No|{{5}}/{{10}}|480,720,1080|Descarga
      [JAV-tc](https://javtc.tv/)|Sí/No|{{5}}/{{10}}|480,720,1080|Algunos se pueden descargar
      [TW DVD](http://twdvd.com/video/) [1](https://oursogo.com/adult.html)|Sí/No|{{5}}/{{10}}|480,720|Pornografía occidental
+   
+   </details>
+   
+</details>
 
-P2P `.torrent`
+<details>
+   <summary>P2P (.torrent)</summary>
 
 Nombre|Censura|Calidad|Interfaz
 ------|-------|-------|--------
@@ -461,6 +536,7 @@ Nombre|Censura|Calidad|Interfaz
 [JavBus](https://www.javbus.com/en)|Sí/No|480, 720|{{8}}/{{10}}
 [Jav Torrent](https://javzt.blogspot.com/)|No|720|{{5}}/{{10}} 
 [SekTorrent](https://sektorrent5.org/)|Sí/No|Desconocido|{{5}}/{{10}}
+</details>
 
 #### Set de fotografía `legal`
 
