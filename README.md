@@ -13,3 +13,13 @@
 - [ ] [Pasatiempo](notes/pasatiempo.md)
 - [ ] [Piratería](notes/pirateria.md)
 - [ ] [Utilidades](notes/utilidades.md)
+
+
+
+
+
+
+
+
+> Glosario
+> **Transmisión general** significa que aquel sitio entra dentro de la categoría de: emisión en continuo y alguna forma de descargar el contenido (servidor de terceros o alguna red entre pares).
