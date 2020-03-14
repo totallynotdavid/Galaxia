@@ -504,21 +504,22 @@ Nombre|Librería|Calidad|Subtítulo
    [SOD](https://ec.sod.co.jp/prime/sod_free/) ^^JP^^|JAV de los 90 y 2000|Sí|{{6}}/{{10}}|SOD
      
    </details>
+   
    <details>
    <summary>Terceros</summary>
    
    Nombre|Censura|Interfaz|Calidad|Nota
    ------|-------|--------|-------|----
-     [Netflav](https://netflav.com/) ^^ZH^^|Sí/No|{{10}}/{{10}}|480,720|Descarga + `.torrent`
-     [Jable](https://jable.tv/) [1](https://fs1.app/) ^^ZH^^|Sí|{{9}}/{{10}}|720, 1080|[En caso de caída](https://github.com/aj23koby4495612/aj23koby4495612)
-     [JavFinder](https://javfinder.la/) [1](https://jav.sh/)|Sí/No|{{5}}/{{10}}|480, 720, 1080|Actualización constante, descarga
-     [Jav Guru](https://jav.guru/)|Sí/No|{{5}}/{{10}}|480, 720|Algunos episodios subtitulados
-     [JAVMovs](https://javmovs.com/)|Sí|{{7}}/{{10}}|480,720,1080|Descarga, filtro por estudio
-     [Agzi](https://agzy1.com/#/index) [1](https://agzy4.com/#/index)|Sí/No|{{6}}/{{10}}|480,720|Estudios Caribbean, Honzo, 1Pondo entre otros
-     [AV01](https://www.av01.tv/)|Sí|{{6}}/{{10}}|720, 1080|[En caso de caída](https://github.com/av01tv/url), miniatura en el reproductor
-     [HPJAV](https://hpjav.tv/)|Sí/No|{{5}}/{{10}}|480,720,1080|Descarga
-     [JAV-tc](https://javtc.tv/)|Sí/No|{{5}}/{{10}}|480,720,1080|Algunos se pueden descargar
-     [TW DVD](http://twdvd.com/video/) [1](https://oursogo.com/adult.html)|Sí/No|{{5}}/{{10}}|480,720|Pornografía occidental
+   [Netflav](https://netflav.com/) ^^ZH^^|Sí/No|{{10}}/{{10}}|480,720|Descarga + `.torrent`
+   [Jable](https://jable.tv/) [1](https://fs1.app/) ^^ZH^^|Sí|{{9}}/{{10}}|720, 1080|[En caso de caída](https://github.com/aj23koby4495612/aj23koby4495612)
+   [JavFinder](https://javfinder.la/) [1](https://jav.sh/)|Sí/No|{{5}}/{{10}}|480, 720, 1080|Actualización constante, descarga
+   [Jav Guru](https://jav.guru/)|Sí/No|{{5}}/{{10}}|480, 720|Algunos episodios subtitulados
+   [JAVMovs](https://javmovs.com/)|Sí|{{7}}/{{10}}|480,720,1080|Descarga, filtro por estudio
+   [Agzi](https://agzy1.com/#/index) [1](https://agzy4.com/#/index)|Sí/No|{{6}}/{{10}}|480,720|Estudios Caribbean, Honzo, 1Pondo entre otros
+   [AV01](https://www.av01.tv/)|Sí|{{6}}/{{10}}|720, 1080|[En caso de caída](https://github.com/av01tv/url), miniatura en el reproductor
+   [HPJAV](https://hpjav.tv/)|Sí/No|{{5}}/{{10}}|480,720,1080|Descarga
+   [JAV-tc](https://javtc.tv/)|Sí/No|{{5}}/{{10}}|480,720,1080|Algunos se pueden descargar
+   [TW DVD](http://twdvd.com/video/) [1](https://oursogo.com/adult.html)|Sí/No|{{5}}/{{10}}|480,720|Pornografía occidental
    
    </details>
 </details>
