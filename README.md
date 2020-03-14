@@ -1,4 +1,4 @@
-<img src="https://i.4pcdn.org/pol/1570287539067.png" align="left" width="200">
+<img src="https://i.imgur.com/4iRkjoR.png" align="left" width="450">
 
 ## Categorías
 ### En orden alfabético:
