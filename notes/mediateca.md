@@ -501,7 +501,7 @@ Nombre|Librería|Calidad|Subtítulo
    [CovertJapan](https://www.covertjapan.com/en/)|Producción extranjera con actrices "amateur" japonesas|No|{{7}}/{{10}}|CovertJapan
    [JPornAccess](https://jpornaccess.com/)|El estudio más grande sin censura|No|{{5}}/{{10}}|Dreamroom
    [nanairo](https://nanairo.co/ja/)|Grabado en cuartos de hotel con buena iluminación|No|{{10}}/{{10}}|S-Cute
-   <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="17">[SOD](https://ec.sod.co.jp/prime/sod_free/) ^^JP^^|JAV de los 90 y 2000|Sí|{{6}}/{{10}}|SOD
+   <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="17">[SOD](https://ec.sod.co.jp/prime/sod_free/)|JAV de los 90 y 2000|Sí|{{6}}/{{10}}|SOD
      
    </details>
    
@@ -510,8 +510,8 @@ Nombre|Librería|Calidad|Subtítulo
    
    Nombre|Censura|Interfaz|Calidad|Nota
    ------|-------|--------|-------|----
-   [Netflav](https://netflav.com/) ^^ZH^^|Sí/No|{{10}}/{{10}}|480,720|Descarga + `.torrent`
-   [Jable](https://jable.tv/) [1](https://fs1.app/) ^^ZH^^|Sí|{{9}}/{{10}}|720, 1080|[En caso de caída](https://github.com/aj23koby4495612/aj23koby4495612)
+   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [Netflav](https://netflav.com/)|Sí/No|{{10}}/{{10}}|480,720|Descarga + `.torrent`
+   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [Jable](https://jable.tv/) [1](https://fs1.app/)|Sí|{{9}}/{{10}}|720, 1080|[En caso de caída](https://github.com/aj23koby4495612/aj23koby4495612)
    [JavFinder](https://javfinder.la/) [1](https://jav.sh/)|Sí/No|{{5}}/{{10}}|480, 720, 1080|Actualización constante, descarga
    [Jav Guru](https://jav.guru/)|Sí/No|{{5}}/{{10}}|480, 720|Algunos episodios subtitulados
    [JAVMovs](https://javmovs.com/)|Sí|{{7}}/{{10}}|480,720,1080|Descarga, filtro por estudio
