@@ -414,101 +414,42 @@ Nombre|Contenido|Emisión en continuo|Descarga
 P2P
 
   Nombre|Contenido|Censura|Interfaz
-                    - {{table}}
-                        - **Nombre**
-                            - **Contenido**
-                                - **Censura**
-                                    - **Interfaz**
-                        - [Sukebei](https://sukebei.nyaa.si/)
-                            - JAV, animación, doujinshi, eroge
-                                - Sí/No
-                                    - {{5}}/{{10}}
-                        - [Sukebei Pantsu](https://sukebei.nyaa.net/)
-                            - JAV, animación, doujinshi, eroge
-                                Sí/No
-                                    {{6}}/{{10}}
-                        - [SiS001!](https://sis001.com/forum/index.php) `foro` ^^JP^^
-                            - JAV, animación, amateur
-                                - Sí/No
-                                    - {{3}}/{{10}}
-                        - [mwzjlt23](https://mwzjlt23.net/forum.php) `foro` ^^JP^^
-                            - JAV, animación, amateur
-                                - Sí/No
-                                    - {{3}}/{{10}}
-                - Emisión en directo
-                    - {{table}}
-                        - **Nombre**
-                            - **Contenido**
-                                - **Censura**
-                                    - **Calidad**
-                                        - **Interfaz**
-                        - ^^ZH^^ [AVbebe](https://avbebe.com/)
-                            - JAV, hentai, manga, doujinshi,  set de fotografía amateur
-                                - Sí/No
-                                    - 480, 720
-                                        - {{7}}/{{10}}
-                        - ^^ZH^^ [AVgigi](https://avgigi.com/)
-                            - JAV, hentai, doujin, set de fotografía cosplay y amateur
-                                - Sí/No
-                                    - 480, 720, 1080
-                                        - {{5}}/{{10}}
-                        - [GGJAV](https://ggjav.com/)
-                            - JAV, hentai, [reconocimiento facial de actrices de JAV](https://ggjav.com/main/recognize_pornstar)
-                                - Sí/No
-                                    - 480,720,1080
-                                        - {{6}}/{{10}}
-                        - ^^ZH^^ [Cherry](https://yt232.com/#/home) [1](https://github.com/avyingtao/dz/blob/master/README.md?main)
-                            - JAV, BJ surcoreanas, amateur
-                                - Sí/No
-                                    - 480 (720 de pago)
-                                        - {{5}}/{{10}}
-            - Animación
-                - {{table}}
-                    - **Nombre**
-                        - **Librería**
-                            - **Calidad**
-                                - **Subtítulo**
-                    - [hanime](https://hanime.tv/)
-                        - 2403
-                            - 480, 720
-                                - Inglés
-                    - [Mucho Hentai](https://muchohentai.com/)
-                        - 2134
-                            - 720
-                                - Intacto, inglés y español
-                    - [HentaiLA](https://hentaila.com/)
-                        - 548
-                            - 480, 720
-                                - Inglés
-                    - [Shosetsu Online](https://www.shosetsu-online.org/) `caído`
-                        - 400
-                            - 480, 720
-                                - Inglés
-            - JAV
-                - Emisión en directo
-                    - Legal `con interfaz en inglés`
-                        - {{table}}
-                            - **Nombre**
-                                - **Descripción**
-                                    - **Censura**
-                                        - **Interfaz**
-                                            - **Compañía**
-                            - [R18](https://www.r18.com/)
-                                - Sitio más grande de contenido adulto
-                                    - Sí
-                                        - {{7}}/{{10}}
-                                            - R18
-                            - [After School](https://www.afterschool.jp/en/)
-                                - Temática: estudiante japonesa
-                                    - Sí
-                                        - {{7}}/{{10}}
-                                            - Tsunami-Cash
-                            - [10Musume](https://www.10musume.com/)
-                                - Producción "amateur"
-                                    - Sí
-                                        - {{8}}/{{10}}
-                                            - Dreamroom
-                            - [Zenra](https://zenra.net/)
+  ------|---------|-------|--------
+  [Sukebei](https://sukebei.nyaa.si/)|JAV, animación, doujinshi, eroge|Sí/No|{{5}}/{{10}}
+  [Sukebei Pantsu](https://sukebei.nyaa.net/)|JAV, animación, doujinshi, eroge|Sí/No|{{6}}/{{10}}
+  [SiS001!](https://sis001.com/forum/index.php) `foro` ^^JP^^|JAV, animación, amateur|Sí/No|{{3}}/{{10}}
+  [mwzjlt23](https://mwzjlt23.net/forum.php) `foro` ^^JP^^|JAV, animación, amateur|Sí/No|{{3}}/{{10}}
+
+Emisión en directo
+
+  Nombre|Contenido|Censura|Calidad|Interfaz
+  ------|---------|-------|-------|--------
+  ^^ZH^^ [AVbebe](https://avbebe.com/)|JAV, hentai, manga, doujinshi,  set de fotografía amateur|Sí/No|480, 720|{{7}}/{{10}}
+  ^^ZH^^ [AVgigi](https://avgigi.com/)|JAV, hentai, doujin, set de fotografía cosplay y amateur|Sí/No|480, 720, 1080|{{5}}/{{10}}
+  [GGJAV](https://ggjav.com/)|JAV, hentai, [reconocimiento facial de actrices de JAV](https://ggjav.com/main/recognize_pornstar)|Sí/No|480,720,1080|{{6}}/{{10}}
+  ^^ZH^^ [Cherry](https://yt232.com/#/home) [1](https://github.com/avyingtao/dz/blob/master/README.md?main)|JAV, BJ surcoreanas, amateur|Sí/No|480 (720 de pago)|{{5}}/{{10}}
+
+#### Animación
+
+Nombre|Librería|Calidad|Subtítulo
+------|--------|-------|---------
+[hanime](https://hanime.tv/)|2403|480, 720|Inglés
+[Mucho Hentai](https://muchohentai.com/)|2134|720|Intacto, inglés y español
+[HentaiLA](https://hentaila.com/)|548|480, 720|Inglés
+[Shosetsu Online](https://www.shosetsu-online.org/) `caído`|400|480, 720|Inglés
+
+#### JAV
+
+Emisión en directo
+
+  - Legal `con interfaz en inglés`
+  
+     Nombre|Descripción|Censura|Interfaz|Compañía
+     ------|-----------|-------|--------|--------
+     [R18](https://www.r18.com/)|Sitio más grande de contenido adulto|Sí|{{7}}/{{10}}|R18
+     [After School](https://www.afterschool.jp/en/)|Temática: estudiante japonesa|Sí|{{7}}/{{10}}|Tsunami-Cash
+     [10Musume](https://www.10musume.com/)|Producción "amateur"|Sí|{{8}}/{{10}}|Dreamroom
+     [Zenra](https://zenra.net/)
                                 - JAV de varios estudios subtitulado en inglés (sección gratuita)
                                     - Sí/No
                                         - {{9}}/{{10}}
