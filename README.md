@@ -1,5 +1,7 @@
+<img src="https://i.imgur.com/CCep7UH.png" align="left" width="600">
+
 ## Categorías
-#### En orden alfabético:
+### En orden alfabético:
 
 - [X] [Base de datos](notes/basededatos.md)
 - [x] [Biblioteca](notes/biblioteca.md)
