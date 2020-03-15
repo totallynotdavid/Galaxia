@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/4iRkjoR.png" align="right" width="450">
-
+<p align="center">
 ## Categorías
 ### En orden alfabético:
 
@@ -13,10 +13,11 @@
 - [ ] [Pasatiempo](notes/pasatiempo.md)
 - [ ] [Piratería](notes/pirateria.md)
 - [ ] [Utilidades](notes/utilidades.md)
+</p>
 
 <p align=center>
   <b>G L O S A R I O</b>
   <br>
-  <a>Transmisión general significa que aquel sitio entra dentro de la categoría de: emisión en continuo y alguna forma de descargar el contenido (servidor de terceros o alguna red entre pares).</a>
+  <a>Transmisión general significa que aquel sitio provee alguna forma de contenido en emisión en continuo y alguna forma de descarga, ya sea a través de servidores de terceros o a través de una red entre pares.</a>
   <br>
 </p>
