@@ -15,7 +15,6 @@
 - [ ] [Utilidades](notes/utilidades.md)
 
 <p align=center>
-  
   <b>Glosario:</b>
   
   <a>General significa lo siguiente...</a>
