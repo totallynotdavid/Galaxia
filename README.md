@@ -1,8 +1,4 @@
-<img src="https://i.imgur.com/4iRkjoR.png" align="right" width="450">
-
 <p align="center">
-  <h2>Categorías</h2>
-  <h3>En orden alfabético:</h3>
     <ul>
      <li><a href="notes/basededatos.md">Base de datos</a> X</li>
       <li><a href="notes/biblioteca.md">Biblioteca</a> X</li>
