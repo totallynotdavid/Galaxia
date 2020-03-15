@@ -1,16 +1,16 @@
 <p align="center">
-    <ul>
-     <li><a href="notes/basededatos.md">Base de datos</a> X</li>
-      <li><a href="notes/biblioteca.md">Biblioteca</a> X</li>
-      <li><a href="notes/busqueda.md">Búsqueda</a></li>
-      <li><a href="notes/directoriopublico.md">Directorio público</a></li>
-      <li><a href="notes/discoteca.md">Discoteca</a></li>
-      <li><a href="notes/herramienta.md">Herramientas</a></li>
-      <li><a href="notes/mediateca.md">Mediateca</a> X</li>
-      <li><a href="notes/pasatiempo.md">Pasatiempo</a></li>
-      <li><a href="notes/pirateria.md">Piratería</a></li>
-      <li><a href="notes/utilidades.md">Utilidades</a></li>
-   </ul>
+    <br>
+    <a href="notes/basededatos.md">  Base de datos  </a> | 
+    <a href="notes/biblioteca.md">  Biblioteca  </a> X | 
+    <a href="notes/busqueda.md">  Búsqueda  </a> |
+    <a href="notes/directoriopublico.md">  Directorio público  </a> | 
+    <a href="notes/discoteca.md">  Discoteca  </a> | 
+    <a href="notes/herramienta.md">  Herramientas  </a> | 
+    <a href="notes/mediateca.md">  Mediateca  </a> X | 
+    <a href="notes/pasatiempo.md">  Pasatiempo  </a> | 
+    <a href="notes/pirateria.md">  Piratería  </a> | 
+    <a href="notes/utilidades.md">  Utilidades  </a>
+    <br>
 </p>
 
 <p align="center">
