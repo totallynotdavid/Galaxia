@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/4iRkjoR.png" align="left" width="450">
+<img src="https://i.imgur.com/4iRkjoR.png" align="right" width="450">
 
 ## Categorías
 ### En orden alfabético:
@@ -14,9 +14,8 @@
 - [ ] [Piratería](notes/pirateria.md)
 - [ ] [Utilidades](notes/utilidades.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> Glosario
-> **Transmisión general** significa que aquel sitio entra dentro de la categoría de: emisión en continuo y alguna forma de descargar el contenido (servidor de terceros o alguna red entre pares).
+<p align=center>
+  <b>Glosario</b><br>
+  <a>Transmisión general significa que aquel sitio entra dentro de la categoría de: emisión en continuo y alguna forma de descargar el contenido (servidor de terceros o alguna red entre pares).</a>
+  <br><br>
+</p>
