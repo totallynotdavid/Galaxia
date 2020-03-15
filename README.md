@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/4iRkjoR.png" align="right" width="450">
-<p align="center">
+
 ## Categorías
 ### En orden alfabético:
 
@@ -13,7 +13,6 @@
 - [ ] [Pasatiempo](notes/pasatiempo.md)
 - [ ] [Piratería](notes/pirateria.md)
 - [ ] [Utilidades](notes/utilidades.md)
-</p>
 
 <p align=center>
   <b>G L O S A R I O</b>
