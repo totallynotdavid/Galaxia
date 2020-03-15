@@ -15,6 +15,7 @@
 - [ ] [Utilidades](notes/utilidades.md)
 
 <p align=center>
-  <b>Glosario</b><br>
-  Transmisión general significa que aquel sitio entra dentro de la categoría de: emisión en continuo y alguna forma de descargar el contenido (servidor de terceros o alguna red entre pares).</a>
+  <b>Glosario:</b>
+  **General** significa lo siguiente... []
+  **Transmisión general** significa que aquel sitio entra dentro de la categoría de: emisión en continuo y alguna forma de descargar el contenido (servidor de terceros o alguna red entre pares).
 </p>
