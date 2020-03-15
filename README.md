@@ -9,7 +9,7 @@
 - [ ] [Directorio público](notes/directoriopublico.md)
 - [ ] [Discoteca](notes/discoteca.md)
 - [ ] [Herramientas](notes/herramienta.md)
-- [ ] [Mediateca](notes/mediateca.md)
+- [x] [Mediateca](notes/mediateca.md)
 - [ ] [Pasatiempo](notes/pasatiempo.md)
 - [ ] [Piratería](notes/pirateria.md)
 - [ ] [Utilidades](notes/utilidades.md)
