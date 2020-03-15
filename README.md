@@ -15,10 +15,10 @@
 - [ ] [Utilidades](notes/utilidades.md)
 
 <p align=center>
-  <b>Glosario:</b>
+  <b>Glosario:</b><br>
   
   <a>General significa lo siguiente...</a>
   
   <a>Transmisión general</a> significa que aquel sitio entra dentro de la categoría de: emisión en continuo y alguna forma de descargar el contenido (servidor de terceros o alguna red entre pares).</a>
-  
+  <br><br>
 </p>
