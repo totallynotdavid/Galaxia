@@ -3,6 +3,9 @@
 2. [Lista de cursos disponibles en línea](https://github.com/s0md3v/learn-at-home)
 3. [BBC Computer Literacy Project](https://clp.bbcrewind.co.uk/)
 
+  - Física:
+    [Physics Travel Guide](https://physicstravelguide.com/)
+
 ## Tipografias
 1. https://www.fontkey.design/
 2. https://fontspark.app/
