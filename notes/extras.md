@@ -2,7 +2,7 @@
 1. [Habilidades necesarias para desarrollo web](https://andreasbm.github.io/web-skills/)
 2. [Lista de cursos disponibles en línea](https://github.com/s0md3v/learn-at-home)
 3. [BBC Computer Literacy Project](https://clp.bbcrewind.co.uk/)
-
+4. [Cursos y certificados de Microsoft](https://docs.microsoft.com/en-gb/learn/)
   - Física:
     [Physics Travel Guide](https://physicstravelguide.com/)
 
