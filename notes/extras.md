@@ -10,6 +10,9 @@
 1. https://www.fontkey.design/
 2. https://fontspark.app/
 
+## Herramientas
+1. [Send Anywhere](https://send-anywhere.com/)
+
 ---
 - [Crear sitio web sin código](https://nicepage.com/download-windows)
 - [Vista previa de archivos como en macOS](http://1218.io/)
