@@ -255,6 +255,7 @@
                     - Anónimo y 'seguro'
                     - Modo oscuro disponible
                 - [Github](https://github.com/jonathontoon/manifest/issues)
+            - [Microtetha](https://notepad.microtheta.com/)
         - Publicación
             - Plataformas
                 - [write.as](https://write.as/)
