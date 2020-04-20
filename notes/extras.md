@@ -11,6 +11,7 @@
    - Matemática, ciencias sociales, ciencia, enfocado en estudiantes estadounidenses
    - Similar a Khan Academy.
 6. [Bivector](https://bivector.net/doc.html) - Lista de recursos de ayuda para estudiantes de ciencias de la computación y practicantes de CGI
+7. [Cómo lograr Modo oscuro con React](https://joshwcomeau.com/gatsby/dark-mode/)
 
   - Física:
     [Physics Travel Guide](https://physicstravelguide.com/)
