@@ -2,6 +2,15 @@
 1. [Libro sobre creación de lenguajes de programación](http://craftinginterpreters.com/introduction.html)
 2. [Turing](https://www.gwern.net/Turing-complete)
 
+### Clientes RSS
+#### Aplicaciones web
+1. [Privus Reader](https://privusreader.com/explore): Necesita de Blockstack
+2. [Feeds Pub](https://feeds.pub/)
+3. [RSS como un periódico del siglo XX](https://news.russellsaw.io/)
+#### Aplicaciones nativas
+1. [Go Terminal Feed Reader](https://github.com/Lallassu/gorss): Terminal
+2. [Fraidycat](https://addons.mozilla.org/en-US/firefox/addon/fraidycat/): Extensiones y gracias a Electron en varios OS
+
 ## Aprender
 1. [Habilidades necesarias para desarrollo web](https://andreasbm.github.io/web-skills/)
 2. [Lista de cursos disponibles en línea](https://github.com/s0md3v/learn-at-home)
