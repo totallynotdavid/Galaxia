@@ -2,6 +2,9 @@
 1. [Libro sobre creación de lenguajes de programación](http://craftinginterpreters.com/introduction.html)
 2. [Turing](https://www.gwern.net/Turing-complete)
 
+[Cuaderno de notas, software libre](https://boostnote.io/)
+[Para generación de sitios web](https://www.staticgen.com/)
+
 ### Clientes RSS
 #### Aplicaciones web
 1. [Privus Reader](https://privusreader.com/explore): Necesita de Blockstack
