@@ -2,8 +2,9 @@
 1. [Libro sobre creación de lenguajes de programación](http://craftinginterpreters.com/introduction.html)
 2. [Turing](https://www.gwern.net/Turing-complete)
 
-[Cuaderno de notas, software libre](https://boostnote.io/)
-[Para generación de sitios web](https://www.staticgen.com/)
+- [Cuaderno de notas, software libre](https://boostnote.io/)
+- [Para generación de sitios web](https://www.staticgen.com/)
+- [Random youtube channels with 0 views every 5 seconds](http://astronaut.io)
 
 ### Clientes RSS
 #### Aplicaciones web
