@@ -38,6 +38,12 @@
 
 ## Herramientas
 1. [Send Anywhere](https://send-anywhere.com/)
+2. [Transfiere archivos entre servidores sin descargar](https://offcloud.com/)
+3. Busca usando Google
+   - [Google Drive, libros, entre otros](https://whatintheworld.xyz/)
+   - [Video](https://watchallyouwant.com/)
+## Tutoriales
+1. [Cómo obtener cuentas de pago de Twitch y obtener dinero](https://ghostbin.co/paste/b7zfc/raw)
 
 ---
 - [Crear sitio web sin código](https://nicepage.com/download-windows)
