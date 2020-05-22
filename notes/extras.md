@@ -3,7 +3,7 @@
 2. [Turing](https://www.gwern.net/Turing-complete)
 3. [Lista de mejores universidades según varias métricas - Pronabec](https://www.pronabec.gob.pe/beca-presidente/)
 ### Lista
-- [Cuentas de mega](https://throwbin.io/zFYRVcG)
+1. [Cuentas de mega](https://throwbin.io/zFYRVcG)
 
 - [Cuaderno de notas, software libre](https://boostnote.io/)
 - [Para generación de sitios web](https://www.staticgen.com/)
@@ -34,8 +34,8 @@
     [Physics Travel Guide](https://physicstravelguide.com/)
 
 ## Tipografias
-1. [](https://www.fontkey.design/)
-2. [](https://fontspark.app/)
+1. [Fontkey](https://www.fontkey.design/)
+2. [FontSpark](https://fontspark.app/)
 
 ## Color
 1. [Colores japoneses](https://nipponcolors.com/)
