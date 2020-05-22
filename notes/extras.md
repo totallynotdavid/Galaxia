@@ -1,6 +1,9 @@
 ## Leer
 1. [Libro sobre creación de lenguajes de programación](http://craftinginterpreters.com/introduction.html)
 2. [Turing](https://www.gwern.net/Turing-complete)
+3. [Lista de mejores universidades según varias métricas - Pronabec](https://www.pronabec.gob.pe/beca-presidente/)
+### Lista
+- [Cuentas de mega](https://throwbin.io/zFYRVcG)
 
 - [Cuaderno de notas, software libre](https://boostnote.io/)
 - [Para generación de sitios web](https://www.staticgen.com/)
@@ -25,13 +28,14 @@
    - Similar a Khan Academy.
 6. [Bivector](https://bivector.net/doc.html) - Lista de recursos de ayuda para estudiantes de ciencias de la computación y practicantes de CGI
 7. [Cómo lograr Modo oscuro con React](https://joshwcomeau.com/gatsby/dark-mode/)
+8. [Learn git](https://learngitbranching.js.org/?locale=en_US)
 
   - Física:
     [Physics Travel Guide](https://physicstravelguide.com/)
 
 ## Tipografias
-1. https://www.fontkey.design/
-2. https://fontspark.app/
+1. [](https://www.fontkey.design/)
+2. [](https://fontspark.app/)
 
 ## Color
 1. [Colores japoneses](https://nipponcolors.com/)
@@ -51,6 +55,8 @@
 - [Herramientas para Wordpress](https://wpstash.io/)
 - [Juego simple en linea](https://ares.hankstoever.com/)
 - [Lista de sitios académicos, revisar](https://thakursimmichauhan.blogspot.com/)
+- [TeamDrive con varias peliculas](https://td.klprojects.tech/0:/American%20Dad%20S01-S11%20(2005-)/American%20Dad%20S01%20(360p%20re-blurip)/)
+- [Códigos bancarios del Banco de la Nación](https://zonasegura1.bn.com.pe/CCIConsulta/Inicio)
 ---
 - [Enlaces públicos de Mega](https://www.megapreview.com/)
 - [Rapidleech](http://bakaleech.herokuapp.com/) No estoy seguro de su utilidad
