@@ -48,6 +48,7 @@
    - [Video](https://watchallyouwant.com/)
 ## Tutoriales
 1. [Cómo obtener cuentas de pago de Twitch y obtener dinero](https://ghostbin.co/paste/b7zfc/raw)
+2. [Por que usar uBlock](https://shouldiblockads.com/)
 
 ---
 - [Crear sitio web sin código](https://nicepage.com/download-windows)
@@ -60,3 +61,4 @@
 ---
 - [Enlaces públicos de Mega](https://www.megapreview.com/)
 - [Rapidleech](http://bakaleech.herokuapp.com/) No estoy seguro de su utilidad
+- [vsx](http://vsex.in)
