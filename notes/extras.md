@@ -1,3 +1,10 @@
+## Multimedia
+1. Cine
+   - [Movidy](https://movidy.co/), cine en castellano, español latino
+   - [Flixtor](https://flixtor.to/home)> películas en emisión directa desde torrents, sin software de terceros
+2. Pornografía china
+   - (Amateur, 700 GB, 26MB+)[http://51.159.54.90:8080/deluge/]
+   - (485 GB)[http://51.158.150.43:8080/]
 ## Leer
 1. [Libro sobre creación de lenguajes de programación](http://craftinginterpreters.com/introduction.html)
 2. [Turing](https://www.gwern.net/Turing-complete)
