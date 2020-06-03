@@ -65,6 +65,7 @@
 - [Lista de sitios académicos, revisar](https://thakursimmichauhan.blogspot.com/)
 - [TeamDrive con varias peliculas](https://td.klprojects.tech/0:/American%20Dad%20S01-S11%20(2005-)/American%20Dad%20S01%20(360p%20re-blurip)/)
 - [Códigos bancarios del Banco de la Nación](https://zonasegura1.bn.com.pe/CCIConsulta/Inicio)
+- [Bibliografia de Isaac Asimov en orden por categorias, larguisima](http://stevenac.net/asimov/Bibliography.htm)
 ---
 - [Enlaces públicos de Mega](https://www.megapreview.com/)
 - [Rapidleech](http://bakaleech.herokuapp.com/) No estoy seguro de su utilidad
