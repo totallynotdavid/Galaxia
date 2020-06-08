@@ -9,8 +9,10 @@
 1. [Libro sobre creación de lenguajes de programación](http://craftinginterpreters.com/introduction.html)
 2. [Turing](https://www.gwern.net/Turing-complete)
 3. [Lista de mejores universidades según varias métricas - Pronabec](https://www.pronabec.gob.pe/beca-presidente/)
+4. [Cool ideas](https://www.perell.com/blog/50-ideas-that-changed-my-life)
 ### Lista
 1. [Cuentas de mega](https://throwbin.io/zFYRVcG)
+2. [Música, lista de canciones seleccionadas por un tal David Byrne](http://davidbyrne.com/radio#filter=all&sortby=date:desc)
 
 - [Cuaderno de notas, software libre](https://boostnote.io/)
 - [Para generación de sitios web](https://www.staticgen.com/)
