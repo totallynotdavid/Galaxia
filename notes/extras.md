@@ -52,7 +52,8 @@
 ## Herramientas
 1. [Send Anywhere](https://send-anywhere.com/)
 2. [Transfiere archivos entre servidores sin descargar](https://offcloud.com/)
-3. Busca usando Google
+3. [Telegram React](https://evgeny-nadymov.github.io/telegram-react/)
+4. Busca usando Google
    - [Google Drive, libros, entre otros](https://whatintheworld.xyz/)
    - [Video](https://watchallyouwant.com/)
 ## Tutoriales
