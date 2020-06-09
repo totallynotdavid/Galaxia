@@ -18,6 +18,13 @@
 - [Para generación de sitios web](https://www.staticgen.com/)
 - [Random youtube channels with 0 views every 5 seconds](http://astronaut.io)
 
+## Aplicaciones
+
+### PWA
+- [Open .djvu files](https://djvu.js.org/)
+- [Open .epub files](https://pgaskin.net/ePubViewer/)
+- [Write online, open source](https://iamcharlie.design/writty/online/)
+
 ### Clientes RSS
 #### Aplicaciones web
 1. [Privus Reader](https://privusreader.com/explore): Necesita de Blockstack
