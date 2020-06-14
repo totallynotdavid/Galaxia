@@ -52,6 +52,7 @@
 ## Tipografias
 1. [Fontkey](https://www.fontkey.design/)
 2. [FontSpark](https://fontspark.app/)
+3. [Nodesign](https://nodesign.dev/)
 
 ## Color
 1. [Colores japoneses](https://nipponcolors.com/)
@@ -76,6 +77,7 @@
 - [TeamDrive con varias peliculas](https://td.klprojects.tech/0:/American%20Dad%20S01-S11%20(2005-)/American%20Dad%20S01%20(360p%20re-blurip)/)
 - [Códigos bancarios del Banco de la Nación](https://zonasegura1.bn.com.pe/CCIConsulta/Inicio)
 - [Bibliografia de Isaac Asimov en orden por categorias, larguisima](http://stevenac.net/asimov/Bibliography.htm)
+- [UWP Apps Community](https://uwpcommunity.com/projects/)
 ---
 - [Enlaces públicos de Mega](https://www.megapreview.com/)
 - [Rapidleech](http://bakaleech.herokuapp.com/) No estoy seguro de su utilidad
