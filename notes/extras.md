@@ -3,8 +3,13 @@
    - [Movidy](https://movidy.co/), cine en castellano, español latino
    - [Flixtor](https://flixtor.to/home)> películas en emisión directa desde torrents, sin software de terceros
 2. Pornografía china
-   - (Amateur, 700 GB, 26MB+)[http://51.159.54.90:8080/deluge/]
-   - (485 GB)[http://51.158.150.43:8080/]
+   - [Amateur, 700 GB, 26MB+](http://51.159.54.90:8080/deluge/)
+   - [485 GB](http://51.158.150.43:8080/)
+3. Animación japonesa
+   -[Getchu](http://www.getchu.com/)
+   -[Base de datos](https://anidb.net/perl-bin/animedb.pl?show=animelist&do.filter=1)
+   -[Hagure sub](http://www.haguresubs.org/p/proyectos-finalizados.html)
+   -[Discografías](http://jamps.com.ar/foro/portal.php)
 ## Leer
 1. [Libro sobre creación de lenguajes de programación](http://craftinginterpreters.com/introduction.html)
 2. [Turing](https://www.gwern.net/Turing-complete)
@@ -45,6 +50,12 @@
 6. [Bivector](https://bivector.net/doc.html) - Lista de recursos de ayuda para estudiantes de ciencias de la computación y practicantes de CGI
 7. [Cómo lograr Modo oscuro con React](https://joshwcomeau.com/gatsby/dark-mode/)
 8. [Learn git](https://learngitbranching.js.org/?locale=en_US)
+9. Carding
+   -[Compra y exporta](http://www.2ebox.com/pe/)
+   -[Leaked data](http://www.leakeddata.me/)
+   -[SOCKS](http://www.vipsocks24.net/2017/06/07-06-17-vip-socks-5-servers-1500.html)
+   -[Proxy Checker](https://checkerproxy.net/report/e39ca1bb-5121-47e2-8f7b-bf91e0036a96)
+   -[Check SOCKS](https://check.dichvusocks.us/)
 
   - Física:
     [Physics Travel Guide](https://physicstravelguide.com/)
