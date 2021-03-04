@@ -6,12 +6,12 @@
    - [Amateur, 700 GB, 26MB+](http://51.159.54.90:8080/deluge/)
    - [485 GB](http://51.158.150.43:8080/)
 3. Animación japonesa
-   -[Hentai AHO](https://haho.moe/): Hentai 1080p
-   -[ComicK](https://comick.fun/): Read Manga
-   -[Getchu](http://www.getchu.com/)
-   -[Base de datos](https://anidb.net/perl-bin/animedb.pl?show=animelist&do.filter=1)
-   -[Hagure sub](http://www.haguresubs.org/p/proyectos-finalizados.html)
-   -[Discografías](http://jamps.com.ar/foro/portal.php)
+   - [Hentai AHO](https://haho.moe/): Hentai 1080p
+   - [ComicK](https://comick.fun/): Read Manga
+   - [Getchu](http://www.getchu.com/)
+   - [Base de datos](https://anidb.net/perl-bin/animedb.pl?show=animelist&do.filter=1)
+   - [Hagure sub](http://www.haguresubs.org/p/proyectos-finalizados.html)
+   - [Discografías](http://jamps.com.ar/foro/portal.php)
 ## Leer
 1. [Libro sobre creación de lenguajes de programación](http://craftinginterpreters.com/introduction.html)
 2. [Turing](https://www.gwern.net/Turing-complete)
