@@ -452,7 +452,7 @@ Nombre|Contenido|Emisión en continuo|Descarga
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [11tang](https://www.11tang.me/index.php)|JAV, amateur, pornografía occidental, fotos callejeras|Sí|`.torrent`
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [t66y](https://t66y.com/index.php)|Pornografía occidental, amateur y novela|Servidores de pago|`.torrent`
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="17"> [Norituh](https://norituh.net/)|Colecciones (puntos), BJ, galería amateur, set de fotografías de modelos|Sí|Sí (costo en puntajes)
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="17"> [JogaEParty](http://jogaeparty06.com/)|JAV, BJ (Corea del Sur y China, película erótica, "deepfake" de celebridades|Sí|Desconocido
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="17"> [JogaEParty](https://jogaeparty13.com/)|JAV, BJ (Corea del Sur y China, película erótica, "deepfake" de celebridades|Sí|Desconocido
 
 <details>
    <summary>P2P (.torrent)</summary>
