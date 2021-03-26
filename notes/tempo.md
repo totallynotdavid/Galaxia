@@ -6,3 +6,7 @@ Libraries
 [MIT Journals FULL](https://www.mitpressjournals.org/action/showPublications)
 [MIT Press](https://direct.mit.edu/books)
 [UST](http://digitallibrary.ust.edu.ph/): Mayoritariamente en inglés y latín.
+
+
+https://91porn.com/
+http://avno1.playno1.com/
