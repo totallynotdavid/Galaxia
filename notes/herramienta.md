@@ -1,151 +1,29 @@
-- Administración
-    - Almacenamiento en la nube
-        - [rclone](https://rclone.org/)
-            - Funciones
-                - Sincroniza archivos y directorios entre distintos servidores usando líneas de comando
-                - Comprobación MD5/SHA1
-                - Solo copia de nuevos archivos
-                - Varias descargas consecutivas
-                - Encripción
-            - Servidores disponibles:
-                - Box
-                - Dropbox
-                - FTP
-                - Google Drive
-                - Google Photos
-                - HTTP
-                - Hubic
-                - Mega
-                - Microsoft OneDrive
-                - SFTP 
-                - WebDAV 
-                - The local filesystem
-                - +
-            - Sistemas operativos
-                - Windows
-                - macOS
-                - Linux
-                - .deb
-                - .rpm
-                - FreeBSD
-                - NetBSD
-                - OpenBSD
-                - Plan9
-                - Solaris
-        - [Almacenamiento ilimitado en Google Drive](https://github.com/stewartmcgown/uds)
-            - Funciones
-                - Almacena ilimitadamente en Google Drive a través de Google Docs
-                - Descarga cualquier archivo almacenado
-                - Separa archivos binarios en Google Docs con texto codificado base64
-                - El tamaño del archivo final es más grande que el original 4:3
+## Índice
+
+# Administración
+
+## Almacenamiento en la nube
+
+Nombre|Funciones|Servidores disponibles|Sistemas operativos
+------|---------|----------------------|-------------------
+[rclone](https://rclone.org/)|<ul> <li>Sincroniza archivos y directorios entre distintos servidores usando líneas de comando.</li> <li>Comprobación MD5/SHA1.</li> <li>Solo copia de nuevos archivos.</li> <li>Varias descargas consecutivas.</li> <li>Encripción.</li> </ul>| <ul> <li>Box</li> <li>Dropbox</li> <li>FTP</li> <li>Google Drive</li> <li>Google Photos</li> <li>HTTP</li> <li>Hubic</li> <li>Mega</li> <li>Microsoft OneDrive</li> <li>SFTP</li> <li>WebDAV</li> <li>The local filesystem</li> <li>Entre otros...</li> </ul> | <ul> <li>Windows</li> <li>macOS</li> <li>Linux</li> <li>.deb</li> <li>.rpm</li> <li>FreeBSD</li> <li>NetBSD</li> <li>OpenBSD</li> <li>Plan9</li> <li>Solaris</li> </ul>
+[Almacenamiento ilimitado en Google Drive](https://github.com/stewartmcgown/uds)|<ul> <li>Almacena ilimitadamente en Google Drive a través de Google Docs.</li> <li>Descarga cualquier archivo almacenado.</li> <li>Separa archivos binarios en Google Docs con texto codificado base64.</li> <li>El tamaño del archivo final es más grande que el original 4:3.</li> </ul>| <ul> <li>Google Drive</li> <ul> | <ul> <li>Aplicación web (Universal)</li> <ul>
+
+## Automatización
+### Red entre pares y Usenet
+Nombre|Funciones|Código abierto|Sistemas operativos
+------|---------|--------------|-------------------
+[NZBHydra](https://github.com/theotherp/nzbhydra2/) `Metabuscador`|Metabuscador|`Desconocido`| <ul> <li>Windows</li> <li>Linux</li></ul>
+[Sonarr](https://sonarr.tv/)| <ul> <li>Descarga películas y series en versiones específicas cuando se encuentren disponibles.</li> <li>Descarga automáticamente una nueva versión cuando esté disponible.</li> <li>Monitoreo de varios canales RSS.</li> <li>Calendario de estrenos.</li> </ul>|`Sí` ([Código en Github](https://github.com/Sonarr/Sonarr))| <ul> <li>Linux</li> <li>Windows</li> <li>macOS</li> </ul>
+[Radarr](https://www.radarr.video/)|<ul> <li>Descarga películas y series en versiones específicas cuando se encuentre disponibles.<li>Descarga automáticamente una nueva versión cuando esté disponible. <li>Calendario de estrenos.<li>Integración con software P2P. <li>Renombrado de archivos automático.</ul>| `Sí` ([Código bifurcado de Sonarr en Github](https://github.com/Radarr/Radarr)) | <ul> <li>Linux <li>Windows <li>macOS </ul>
+[SiCKRAGE](https://sickrage.ca/): Administrador automático de videoteca de series de televisión. | <ul> <li>Proveedor de torrents: <br>1. SceneAccess <br>2. TorrentDay <br>3. Rarbg <br>4. Entre otros <li>Proveedor de .nbz: <br>1. Bin Search <br>2. NZBs <br>3. Usenet-Crawler <br>4. NZBDog <br>5. Entre otros <li>Descarga automática de subtítulos usando los siguientes servidores: <br>1. Addic7ed <br>2. OpenSubtitles <br>3. Popnapisi <br>4. TVSubtiles <br>5. Entre otros <li>Integrado con AniDB. <li>Calendario de estrenos.</ul> | `Desconocido` | <ul> <li>Windows <li>Linux <li>OSX <li>Synology <li>Entre otros.</ul>
+[nefarious](https://lardbit.github.io/nefarious/): Pretende combinar "[Sonarr](https://sonarr.tv/)", "[Radarr](https://www.radarr.video/)" y [Ombi](https://github.com/tidusjar/Ombi). | <ul> <li>Descarga películas y series en versiones específicas cuando se encuentre disponibles. <li>Descarga automáticamente una nueva versión cuando esté disponible. <li>Descubre nuevas películas y series de televisión (por popularidad, géneros, año, etc). <li>Evitar automáticamente la descarga de ciertos torrent. <li>Renombrado automático. <li>Múltiples lenguajes disponibles gracias a "[The Movie Database (TMDb)](https://www.themoviedb.org/)". </ul> | `Sí` ([Código abierto en Github](https://github.com/lardbit/nefarious)). | <ul> <li>Linux <li>Windows <li>macOS </ul>
+[Bazarr](https://www.bazarr.media/): Complemento para "[Sonarr](https://sonarr.tv/)" y "[Radarr](https://www.radarr.video/)". | <ul> <li>Descarga subtítulos deseados tan pronto estén disponibles y actualiza en caso haya alguno nuevo disponible. <li>Búsqueda manual. </ul> | `Sí` ([Código abierto en Github](https://github.com/morpheus65535/bazarr)) | <ul> <li>Linux <li>Windows <li>macOS </ul>
+[Bonarr](https://github.com/klassicstudios/Bonarr): Bifurcado de "[Radarr](https://www.radarr.video/)". | <ul> <li>Descarga películas pornográficas en versiones específicas cuando se encuentren disponibles. <li>Integración con SABnzbd y NZBGet. <li>Búsqueda manual. </ul> | `Sí` ([Código abierto en Github](https://github.com/klassicstudios/Bonarr)) | <ul> <li>Windows <li>Linux <li>macOS <li>Raspberry Pi <li>Entre otros 
+[Lidarr](https://lidarr.audio/): Bifucado de "[Sonarr](https://sonarr.tv/). | <ul> <li>Calendario de estrenos. <li> Búsqueda de manual. | `Sí` ([Código abierto en Github](https://github.com/Lidarr/Lidarr)) | <ul> <li>Linux <li>Windows <li>macOS </ul>
+[Mylar](https://github.com/evilhero/mylar) | <ul> <li>Descarga automáticamente cómics en formato .cbr o .cbz de `.nzb` y `.torrent`. <li>Funciona con SABnzbd, NZBGET y soporte para varios clientes torrent. <li>Calendario de estrenos de usuarios específicos o arcos narrativo. | `Sí` ([Código abierto en Github](https://github.com/evilhero/mylar)) ¡Review the [fork](https://github.com/mylar3/mylar3)! <br>Está compilado en Python. | Estado: Alfa en 2019, no estable.
+
     - Automatización
-        - Red entre pares y Usenet
-            - [NZBHydra](https://github.com/theotherp/nzbhydra2/) `Metabuscador`
-            - [Sonarr](https://sonarr.tv/)
-                - Funciones
-                    - Descarga películas y series en versiones específicas cuando se encuentren disponibles
-                    - Descarga automáticamente una nueva versión cuando esté disponible
-                    - Monitoreo de varios canales RSS
-                    - Calendario de estrenos
-                - [Código abierto](https://github.com/Sonarr/Sonarr)
-                - Sistemas operativos
-                    - Linux
-                    - Windows
-                    - macOS
-            - [Radarr](https://www.radarr.video/)
-                - Funciones
-                    - Descarga películas y series en versiones específicas cuando se encuentre disponibles
-                    - Descarga automáticamente una nueva versión cuando esté disponible
-                    - Calendario de estrenos
-                    - Integración con software P2P
-                    - Renombrado de archivos automático
-                - [Código abierto bifurcado de Sonarr](https://github.com/Radarr/Radarr)
-                - Sistemas operativos
-                    - Linux
-                    - Windows
-                    - macOS
-            - [SiCKRAGE](https://sickrage.ca/)
-                - Administrador automático de videoteca de series de televisión
-                - Funciones
-                    - Proveedor de torrent
-                        - SceneAccess
-                        - TorrentDay
-                        - Rarbg
-                        - +
-                    - Proveedor de .nbz
-                        - Bin Search
-                        - NZBs
-                        - Usenet-Crawler
-                        - NZBDog
-                        - +
-                    - Descarga automática de subtítulos usando los siguientes servidores
-                        - Addic7ed
-                        - OpenSubtitles
-                        - Popnapisi
-                        - TVSubtiles
-                        - +
-                    - Funciona con AniDB
-                    - Calendario de estrenos
-                - Sistemas operativos
-                    - Windows 
-                    - Linux 
-                    - OSX 
-                    - Synology
-                    - +
-            - [nefarious](https://lardbit.github.io/nefarious/)
-                - Pretende combinar "[Sonarr](https://sonarr.tv/)", "[Radarr](https://www.radarr.video/)" y [Ombi](https://github.com/tidusjar/Ombi)
-                - Funciones
-                    - Descarga películas y series en versiones específicas cuando se encuentre disponibles
-                    - Descarga automáticamente una nueva versión cuando esté disponible
-                    - Descubre nuevas películas y series de televisión (por popularidad, géneros, año, etc)
-                    - Evitar automáticamente la descarga de ciertos torrent
-                    - Renombrado automátic
-                    - Múltiples lenguajes disponibles gracias a "[The Movie Database (TMDb)](https://www.themoviedb.org/)" 
-                - [Código abierto](https://github.com/lardbit/nefarious)
-                - Sistemas operativos
-                    - Linux
-                    - Windows
-                    - macOS
-            - [Bazarr](https://www.bazarr.media/)
-                - Complemento para "[Sonarr](https://sonarr.tv/)" y "[Radarr](https://www.radarr.video/)"
-                - Funciones
-                    - Descarga subtítulos deseados tan pronto estén disponibles y actualiza en caso haya alguno nuevo disponible
-                    - Búsqueda manual
-                - [Código abierto](https://github.com/morpheus65535/bazarr)
-                - Sistemas operativos
-                    - Linux
-                    - Windows
-                    - macOS
-            - [Bonarr](https://github.com/klassicstudios/Bonarr)
-                - Bifurcado de "[Radarr](https://www.radarr.video/)"
-                - Funciones
-                    - Descarga películas pornográficas en versiones específicas cuando se encuentren disponibles
-                    - Integración con SABnzbd y NZBGet
-                    - Búsqueda manual
-                - [Código abierto](https://github.com/klassicstudios/Bonarr)
-                - Sistemas operativos
-                    - Windows 
-                    - Linux 
-                    - macOS 
-                    - Raspberry Pi
-                    - +
-            - [Lidarr](https://lidarr.audio/)
-                - Bifucado de "[Sonarr](https://sonarr.tv/)" pero para música
-                - Funciones
-                    - Calendario de estrenos
-                    - Búsqueda manual
-                - [Código abierto](https://github.com/Lidarr/Lidarr)
-                - Sistemas operativos
-                    - Linux
-                    - Windows
-                    - macOS
-            - [Mylar](https://github.com/evilhero/mylar)
-                - Funciones
-                    - Descarga automáticamente cómics en formato .cbr o .cbz de .nzb y .torrent
-                    - Funciona con SABnzbd, NZBGET y soporte para varios clientes torrent
-                    - Calendario de estrenos de usuarios específicos o arcos narrativo 
-                - Compilado en Python
-                - Estado: Alfa, probablemente con algunos errores
     - Contraseñas
         - [Bitwarden](https://bitwarden.com/)
             - [Código abierto](https://github.com/bitwarden)
