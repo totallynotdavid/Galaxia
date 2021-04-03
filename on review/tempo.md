@@ -12,6 +12,7 @@ https://91porn.com/
 http://avno1.playno1.com/
 https://arcjav.com/ipx-530/
 
--https://arcjav.com/ gOOGLE DRIVE
--https://357x.blogspot.com/ gOOGLE DRIVE, BUT COMPRIMED
--https://www.tokyotosho.info/ Torrent Asia
+- https://arcjav.com/ gOOGLE DRIVE
+- https://357x.blogspot.com/ gOOGLE DRIVE, BUT COMPRIMED
+- https://www.tokyotosho.info/ Torrent Asia
+- https://everia.club/ revistas
