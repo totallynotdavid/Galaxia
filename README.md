@@ -17,6 +17,7 @@
 <p align="center">
   <b>G L O S A R I O</b>
   <br>
-  <a><strong>Transmisión general</strong> significa que aquel sitio provee alguna forma de contenido en emisión en continuo y alguna forma de descarga, ya sea a través de servidores de terceros o a través de una red entre pares.</a>
+  <a><strong>General</strong> significa que aquel sitio o aplicación provee soporte para varios sitios o archivos.</a>
   <br>
+  <a><strong>Transmisión general</strong> significa que aquel sitio provee alguna forma de contenido en emisión en continuo y alguna forma de descarga, ya sea a través de servidores de terceros o a través de una red entre pares.</a>
 </p>

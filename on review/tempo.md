@@ -14,5 +14,10 @@ https://arcjav.com/ipx-530/
 
 - https://arcjav.com/ gOOGLE DRIVE
 - https://357x.blogspot.com/ gOOGLE DRIVE, BUT COMPRIMED
-- https://www.tokyotosho.info/ Torrent Asia
+- <https://www.tokyotosho.info/> Torrent Asia
 - https://everia.club/ revistas
+- https://www.zenra.net/blog
+- https://panpicks.com/
+- https://wqewq5asewqe.xyz/ 98 tang
+- https://hjd2048.com/2048/ torrent but not account and search limited to 300 seconds
+- https://exoticaz.to/
