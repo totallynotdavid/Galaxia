@@ -23,496 +23,141 @@ Nombre|Funciones|Código abierto|Sistemas operativos
 [Lidarr](https://lidarr.audio/): Bifucado de "[Sonarr](https://sonarr.tv/). | <ul> <li>Calendario de estrenos. <li> Búsqueda de manual. | `Sí` ([Código abierto en Github](https://github.com/Lidarr/Lidarr)) | <ul> <li>Linux <li>Windows <li>macOS </ul>
 [Mylar](https://github.com/evilhero/mylar) | <ul> <li>Descarga automáticamente cómics en formato .cbr o .cbz de `.nzb` y `.torrent`. <li>Funciona con SABnzbd, NZBGET y soporte para varios clientes torrent. <li>Calendario de estrenos de usuarios específicos o arcos narrativo. | `Sí` ([Código abierto en Github](https://github.com/evilhero/mylar)) ¡Review the [fork](https://github.com/mylar3/mylar3)! <br>Está compilado en Python. | Estado: Alfa en 2019, no estable.
 
-    - Automatización
-    - Contraseñas
-        - [Bitwarden](https://bitwarden.com/)
-            - [Código abierto](https://github.com/bitwarden)
-            - Sistemas operativos
-                - Windows
-                - macOS
-                - Linux
-                - Extensiones
-                    - Chrome
-                    - Firefox
-                    - Safari
-                    - Vivaldi
-                    - Opera
-                    - Brave
-                    - Edge
-                    - Tor
-                - Versión web
-        - [Generador de contraseñas](getpass.xyz)
-    - Organización
-        - [Filebot](https://www.filebot.net/) `de pago`
-            - Funciones
-                - Organizar y renombrar películas y series de televisión
-                    - Información de [TheTVDB](https://thetvdb.com), [AniDB](https://anidb.net) o [TVmaze](http://www.tvmaze.com)
-                    - Revertir al nombre original usando historial interno o el nombre del torrent original
-                - Descargar y pegar subtítulos, previsualización y solución de problemas el encodificar
-                    - OpenSubtitles
-                    - Subir subir subtítulos junto al hash del video
-                - Descargar diseño, ilustración o fotografía de una publicación
-                - Automatización disponible
-            - Solo versión de pago
-            - Sistemas operativos
-                - Windows
-                - macOS
-                - Linux
-        - [Picard](https://picard.musicbrainz.org/)
-            - Funciones
-                - Organizar música incluso sin metadatos
-                    - A través de huella digital de audio AcousticID
-                - Insertar metadatos
-                - Complementos disponibles
-            - [Código abierto](https://github.com/musicbrainz/picard)
-                - Escrito en Python
-            - Formatos
-                - .mp3
-                - .flac
-                - .ogg
-                - .m4a
-                - .wma
-                - .wav
-                - +
-            - Sistemas operativos
-                - Windows
-                - macOS
-                - Linux
-        - [Sincronización de subtítulos](https://github.com/smacke/subsync)
-            - Línea de comando
-                - Escrito en Python
-            - Funciones
-                - Sincronización automática de subtítulos o corección a través de otro subtítulo disponible
-            - Requerido
-                - FFmpeg
-                - Python
-    - Red
-        - Administrador de descargas
-            - [qBittorrent](https://www.qbittorrent.org)
-                - Funciones
-                    - Descarga archivos .torrent
-                    - Motor de búsqueda opcional
-                - [Código abierto](https://github.com/qbittorrent/qBittorrent)
-                    - Escrito en C++
-                - Sistemas operativos
-                    - FreeBSD 
-                    - Linux 
-                    - macOS 
-                    - OS/2 
-                    - Windows
-                - Disponible en más de 70 lenguajes
-            - [uGet](https://ugetdm.com/)
-                - Funciones
-                    - Descarga multiconección
-                    - Monitoreo del portapapeles
-                    - Descarga y unión del mismo archivo de varios servidore
-                - [Código abierto](https://sourceforge.net/p/urlget/uget2/ci/master/tree/)
-                - Sistemas operativos
-                    - Linux
-                    - BSD
-                    - Windows
-                    - Android
-        - [NetLimiter](https://netlimiter.com/)
-            - Funciones
-                - Control de tráfico de internet
-                - Herramienta de monitoreo de internet
-                - Bloquear conexión a ciertas aplicaciones
-                - Establecer cuotas límite para distintas aplicaciones
-            - Aplicación nativa para Windows
+## Contraseñas
+
+|Nombre|Funciones|Código Abierto|Sistemas operativos|
+------|---------|--------------|-------------------|
+[Bitwarden](https://bitwarden.com/)| <ul> <li>Gestor de contraseñas y notas. <li>Generador de contraseñas </ul>|`Sí`, en [Github](https://github.com/bitwarden) | <ul> <li>Extensiones para navegadores (Chrome, Firefox, Safari, Vivaldi, Opera, Brave, Edge, Tor) <li>Aplicación web<li>Windows <li>macOS <li>Linux </ul>
+
+## Organización
+
+|Nombre|Funciones|Formatos|Código Abierto|Sistemas operativos|
+|------|---------|--------|--------------|-------------------|
+[Filebot](https://www.filebot.net/) `De pago`| <ul> <li> Organizar y renombrar películas y series de televisión.<ul> <li>Información de [TheTVDB](https://thetvdb.com), [AniDB](https://anidb.net) o [TVmaze](http://www.tvmaze.com). <li>Revertir al nombre original usando historial interno o el nombre del torrent original.</ul> <li>Descargar y pegar subtítulos, previsualzación y solución de problemas al encodificar. <ul><li>OpenSubtitles. <li>Subir subtítulos junto al hash del video.</ul> <li> Descargar diseño ilustración o fotografía de una publicación. <li> Automatización disponible.</ul>| Archivos multimedia, no está listado (¡Pendiente!). |No, solo posee una versión de pago.| Windows </br> macOs </br> Linux
+[Picard](https://picard.musicbrainz.org/)| <ul> <li>Organizar música incluso sin metadatos. <ul><li>A través de huella digital de audio (AcousticID).</ul> <li>Insertar metadatos. <li>Complementos disponibles.</ul>|`.mp3` </br> `flac` </br> `.ogg` </br> `.m4a` </br> `.wma` </br> `.wav` </br> Entre otros. |`Sí`, disponible en [Github](https://github.com/musicbrainz/picard)<ul><li>Escrito en Python.</ul>| Windows </br> macOS </br> Linux
+[FFsubsync](https://github.com/smacke/ffsubsync)|<ul><li>Reordenar la sincronización de subtítulos. <li>Interfaz de líneas de comandos.<ul><li>Escrito en lenguaje Python.</ul> <li>REQUERIDO:<ul><li>FFmpeg <li>Python</ul></ul>|`.srt`|`Sí`, disponible en [Github](https://github.com/smacke/ffsubsync)|Windows </br> macOS </br> Linux
+
+## Red
+### Control
+|Nombre|Funciones|Sistemas operativos|
+|------|---------|-------------------|
+[NetLimiter](https://netlimiter.com/)|<ul><li>Control de tráfico de internet. <li>Herramienta de monitoreo de internet. <li>Bloquear conexión a ciertas aplicaciones. <li>Establecer cuotas límite para distintas aplicaciones.| Windows
+
+### Descarga de archivos
+|Nombre|Funciones|Código Abierto|Sistemas operativos|
+|------|---------|--------------|-------------------|
+[qBittorrent](https://www.qbittorrent.org)|<ul><li>Cliente P2P. <li>Motor de búsqueda.</ul>|`Sí`, disponible en [Github](https://github.com/qbittorrent/qBittorrent) <ul><li>Escrito en C++.</ul>| Windows </br> macOS </br> Linux </br> Unix
+[uGet](https://ugetdm.com/)|<ul><li>Descarga multiconexión. <li>Monitoreo del portapapeles. <li>Descarga y unión del mismo archivo de varios servidores.|`Sí`, disponible en [SourceForge](https://sourceforge.net/p/urlget/uget2/ci/master/tree/)| Linux </br> Windows </br> BSD </br> Android
+
+# Multimedia
+
+## Escritura
+
+### Cuaderno de notas
+
+|Nombre|Características|Código Abierto|Sistemas operativos|
+|------|---------------|--------------|-------------------|
+[Roam Research](https://roamresearch.com/) `De pago` `Gratuito`|Simple y práctico. </br>Sincronización de notas. </br>Posee diversos atajos de teclado.|No.|Aplicación web,
+[Manifest](https://www.manifest.app/)|Simple y práctico. </br>Anónimo y "seguro" (se almacena en el navegador de forma local). </br>Modo oscuro disponible.|`Sí`, disponible en [Github](https://github.com/jonathontoon/manifest/)
+[Microtetha](https://notepad.microtheta.com/)
+
+### Publicación
+
+*Plataformas*:
+|Nombre|Características|Sistemas operativos|Adicional|
+|------|---------------|-------------------|---------|
+[write.as](https://write.as/)|Simple y práctico. </br> Publica en varios sitios a la vez: <ul><li>Tumblr <li>ghost <li>Mastodon <li>Pleroma</ul>|Aplicación web|Disponible en [Write Freely](https://writefreely.org/) como herramienta para instalar en un servidor.
+
+*Asistentes para escribir: TRADUCCIÓN*
+|Nombre|Características|Sistemas operativos|Adicional|
+|------|---------------|-------------------|---------|
+[Deepl](https://www.deepl.com/es/translator) `De pago` `Gratuito`|Lenguajes disponibles incluyen: <ul><li>**Inglés** <li>Español <li>**Alemán** <li>Chino <li>Francés;<li>Portugués <li>Italiano <li>Polaco <li>Ruso <li>Neerlandés</ul> La versión gratuita tiene un límite de palabras (5000). </br> Traducción de documentos disponible.| Aplicación nativa para: <ul><li>Windows <li>macOS </ul>|/No/
+Papago ¡PENDIENTE!
+
+*Asistentes para escribir: VARIOS*
+|Nombre|Características|Sistemas operativos|
+|------|---------------|-------------------|
+[ASCIIFlow](asciiflow.com)|Crea tablas o cualquier cosa que puedas imaginar al estilo ASCII.|Aplicación web
+
+## Imágenes (PENDIENTE)
+
+### Búsqueda inversa de imágenes:
+
+|Nombre|Características|Sitios compatibles|
+|------|---------------|------------------|
+[Image Operations](https://imgops.com/)|Pega o sube una imagen o pega el enlace de una imagen: <ul><li>También puedes insertar `imgops.com/[]` para automatizar la búsqueda.</ul> Edición básica de imágenes: <ul><li>Plataforma nativa <li>Pixlr <li>Picmonkey <li>Luna Pic <li>Szoter </ul> |<ul><li>Imágenes de Google <li>Bing Images <li>Tinyeye <li>Karmadecay (Reddit) <li>Yandex <li>Baidú <li>So (REVISAR) <li>Sogou </ul> 
+[`EN`] [iqdb](https://iqdb.org)|Búsqueda de imágenes relacionadas a series y películas de animación japonesas, incluyendo historietas japonesas (de adultos también).|PENDIENTE
+[`EN`] [Saucenao](https://saucenao.com/)
+[`JP`] [ASCCI2D](https://www.ascii2d.net)
+[`EN`] [trace.moe](https://trace.moe/)
+
+### Metadatos
+
+|Nombre|Información disponible|
+|------|----------------------|
+[Regex Info](http://exif.regex.info/)|EXIF/XMP/GPS <ul><li>Miniaturas ocultas. <li>Datos sobre la ubicación. <li>Modelo de la cámara. <li>Fecha <li>Entre otros.</ul>
+[Meta Pics](http://metapicz.com/)|Miniaturas ocultas </br> Datos sobre la ubicación. </br>Modelo de la cámara. </br>Fecha. <br>Entre otros.
+[Page Headers](https://pageheaders.com/)|Edad del archivo (imagen). </br> Tipo de archivo. </br> Tipo de hospedaje.
+[Rex Swain's HTTP Viewer](http://www.rexswain.com/)|Edad del archivo (imagen). </br> Tipo de archivo. </br> Tipo de hospedaje.
+
+### Resolución de imágenes
+
+|Nombre|Características|Código abierto|Sistemas operativos|
+|------|---------------|--------------|-------------------|
+[Dynamic Drive](https://tools.dynamicdrive.com)|Muestra de varias versiones amplificadas de la imagen.|`No`|Aplicación web
+[Waifu2x](http://waifu2x.udp.jp/)|Mejora de la resolución de imágenes usando redes neuronales convolucionales. </br> Funciona mejor en imágenes de anime.|`Sí`, disponible en [Github](https://github.com/nagadomi/waifu2x).|Aplicación web
+
+*Versiones bifurcadas de Waifu2x*
+|Nombre|Características|Código abierto|Sistemas operativos|
+|------|---------------|--------------|-------------------|
+[`JP`] ,[`+`]  [waifu-2x-cafee](https://github.com/lltcggie/waifu2x-caffe) GUI|**Requerido: GPU Nvidia**.</br>Disponible en varios idiomas: <ul><li>Inglés <li>Japonés <li>Chino simplificado <li> Chino tradicional <li>Coreano <li>Turco <li>Español <li>Francés</ul>|`Sí`, disponible en [Github](https://github.com/lltcggie/waifu2x-caffe)|Windows Vista o superior.
+[`EN`] [waifu2x ncnn vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)|El autor recomienda usar GPU de marca Intel, AMD o Nvidia.
+[`EN`] [waifu 2x, solo conversión](https://github.com/DeadSix27/waifu2x-converter-cpp), [`EN`] [GUI](https://github.com/YukihoAA/waifu2x_snowshell), ¡diferentes autores!
+
+### Búsqueda de tipografía
+
+|Nombre|Características|Sistemas operativos|
+|------|---------------|-------------------|
+[What the Font](https://www.myfonts.com/WhatTheFont/)|d|d
+[What font is](https://www.whatfontis.com/)|d|d
+
+## Videos
+|Nombre|Características|Código abierto|Sistemas operativos|
+|------|---------------|--------------|-------------------|
+[FFmpeg](https://ffmpeg.org/)|Grabar, convertir y reproducir audio y video; entre otros.|`Sí`, disponible en [ffmpeg.org](https://git.ffmpeg.org/ffmpeg.git).|Windows </br> macOS </br> Linux
+[HandBrake](https://handbrake.fr/)|Convierte videos de cualquier formato a casi cualquier formato. </br>Opciones preconfiguradas. </br> Formatos disponibles: <ul><li>Contenedor de archivos: `.mp4` (`.m4v`) y `.mkv`. <li>Codificador de video: H.265 (x265 y QuickSync), H.264 (x264 y QuickSync), H.265 MPEG-4 y MPEG-2, VP8, VP9 y Theor. <li>Codificador de audio: `.aac` / `.he-aac`, `.mp3`, `.flac`, `.ac3` o Vorbi. <li>Adaptador de audio: `.ac-3`, `.e-ac3`, `.dts`, `.dts-hd`, TrueHD, `.aac` y pistas `.mp3`.</ul> Subtítulos (VobSub, Closed Captions CEA-608, SSA, `.srt`). </br> Calidad constante o tasa de bits promedio del codificador del video. </br> Soporte para VFR y CFR. </br> Previsualización.|`Sí`, disponible en [Github](https://github.com/HandBrake/HandBrake)|Windows </br> macOS </br> Linux
+
+## Videojuegos
+
+|Nombre|Características|Código abierto|Sistemas operativos|
+|------|---------------|--------------|-------------------|
+[Goldberg Steam Simulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator)|Emulador de las funciones en línea de Steam en LAN.|`Sí`, disponible en [Gitlab](https://gitlab.com/Mr_Goldberg/goldberg_emulator).|Windows </br> macOS </br> Linux
+[Cream API](https://cs.rin.ru/forum/viewtopic.php?t=70576)|<ul><li>Desbloquear episodios descargable en Steam. <li>Funciona con todas las versiones conocidas de SteamApps (2 al 8). <li>Funciona con todas las versiones conocidas de SteamUser (9 al 20). <li>Funciona con videojuegos que hacen uso de steamclient(64).dll.
+
+# Descarga
+
+## Aplicación nativa
+
+### General
+|Nombre|Características|Código abierto|Sistemas operativos|
+|------|---------------|--------------|-------------------|
+[`EN`] [FileMasta](https://ohhsodead.github.io/FileMasta/) `General`|Búsqueda de enlaces directos gracias a [od-database](https://github.com/simon987/od-database): <ul><li>Video <li>Música <li>Libros <li>Software <li>Videojuegos <li>Subtítulos <li>Entre otros|`Sí`, disponible en [Github](https://github.com/ohhsodead/FileMasta)|Windows
+[`EN`] [RipMeApp](https://github.com/RipMeApp/ripme) `Imágenes`|Requerido: Java. </br> [Lista](https://github.com/ripmeapp/ripme/wiki/Supported-Sites) completa de sitios soportados.  </br><ul><li>Descarga imágenes en grupo y videos. <li>Revisa direcciones en búsqueda de nuevas actualizaciones. <li>Lista en espera.</ul>|`Sí`, disponible en [Github](https://github.com/RipMeApp/ripme).|Windows </br> macOS </br> Linux
+[`EN`] [gallery-dl](https://github.com/mikf/gallery-dl) `Imágenes`|<ul><li>Requerido: <ul><li>[Python](https://www.python.org/downloads/) 3.4+. <li>[Requests](https://requests.readthedocs.io/en/master/). <li>[youtube-dl](https://ytdl-org.github.io/youtube-dl/) para descarga de videos. </ul> <li>A través de la línea de comando. <li>Descargar galerías de imágenes y colecciones. <li> [Lista](https://github.com/mikf/gallery-dl/blob/master/docs/supportedsites.md) de sitios soportados.</ul>|`Sí`, disponible en [Github](https://github.com/mikf/gallery-dl)|Windows </br> macOS </br> Linux
+[`EN`] [snscrape](https://github.com/JustAnotherArchivist/snscrape) `Redes sociales`|<ul><li>Requerido: <ul><li>Python 3.6+ <li>libxml2 <li>libxslt</ul> <li>Búsqueda de perfiles usuario, hashtags, búsquedas en redes sociales. <li>Sitios soportados: Facebook, Gab, Instagram, Twitter, VKontakte, Sina Weibo.|`Sí`, disponible en [Github](https://github.com/JustAnotherArchivist/snscrape).|Windows </br> macOS </br> Linux
+[`EN`] [Comics-DL](https://github.com/The-Eye-Team/Comics-DL)|<ul><li>Archivado de historietas <li>Sitios soportados: <ul><li>[readcomicsonline.ru](https://readcomicsonline.ru/) <li>[E-Hentai](https://e-hentai.org/) <li>[My Reading Manga](https://myreadingmanga.info/) <li>[Dounjins.com](https://doujins.com/) <li>[NHentai](https://nhentai.net/) <li>[Pururin](https://pururin.io/)</ul></ul>|`Sí`, disponible en [Github](https://github.com/The-Eye-Team/Comics-DL)|Windows </br> macOS </br> Linux
+
+### Archivado de sitios web
+|Nombre|Características|Lenguaje|Código abierto|Sistemas operativos|
+|------|---------------|--------|--------------|-------------------|
+[`EN`] [Webrecorder](https://webrecorder.io/)
+[`EN`] [Web Archiving Integration Layer](https://github.com/machawk1/wail)|Archivado de sitios web en general.</br> Herramientas incluidas: <ul><li>[Heritrix 3.2.0](https://github.com/internetarchive/heritrix3) <li>[OpenWayback 2.4.0](https://github.com/iipc/openwayback) <li>Apache Tomcat <li>[pyinstaller](https://github.com/pyinstaller/pyinstaller/) <li>[MemGator](https://github.com/oduwsdl/memgator)</ul>|Python|`Sí`, disponible en [Github](https://github.com/oduwsdl/memgator)|Windows </br> macOS
+
 - Multimedia
-    - Escritura
-        - Cuaderno de notas
-            - [Roam Research](https://roamresearch.com/)
-                - Simple y práctico
-                - Funciones
-                    - Sincronización
-                    - Atajos de teclado
-            - [Manifest](https://www.manifest.app/)
-                - Simple y práctico
-                - Funciones
-                    - Anónimo y 'seguro'
-                    - Modo oscuro disponible
-                - [Github](https://github.com/jonathontoon/manifest/issues)
-            - [Microtetha](https://notepad.microtheta.com/)
-        - Publicación
-            - Plataformas
-                - [write.as](https://write.as/)
-                    - Simple y práctico
-                    - Funciones
-                        - Publica en varios sitios a la vez:
-                            - Tumblr
-                            - ghost
-                            - Mastodon
-                            - Pleroma 
-                    - Disponible en [Write Freely](https://writefreely.org/) como herramienta para instalar en un servidor
-            - Escribir
-                - Traducción
-                    - [Deepl](https://www.deepl.com/es/translator)
-                        - Lenguajes disponibles incluyen:  
-                            - **Inglés**
-                            - Español
-                            - **Alemán**
-                            - Francés
-                            - Portugués
-                            - Italiano
-                            - Polaco
-                            - Ruso
-                            - Neerlandés
-                        - Gratuito (límite de palabras)
-                        - Traducción de documentos disponible
-                        - **Aplicación nativa para Windows**
-                - Varios
-                    - [ASCIIFlow](asciiflow.com)
-                        - Crea tablas o cualquier cosa que puedas imaginar al estilo ASCII
-    - Imágenes
-        - Búsqueda reversa de imágenes
-            - [Image Operations](https://imgops.com/)
-                - Funciones
-                    - Pega o sube una imagen o pega el enlace de una imagen
-                        - También puedes insertar `imgops.com/[]` para automatizar la búsqueda
-                    - Herramienta de búsqueda de imágenes
-                        - Edición básica de la imagen
-                            - Nativo
-                            - Pixlr
-                            - Picmonkey
-                            - Luna Pic
-                            - Szoter
-                        - Sitios soportados
-                            - Google Images
-                            - Bing Images
-                            - Tinyeye
-                            - Karmadecay (Reddit)
-                            - Yandex
-                            - Baidú
-                            - So
-                            - Sogou
-                        - Anime
-                            -  ^^EN^^ [Búsqueda de imágenes de anime](https://iqdb.org)
-                                - Varios sitios soportados
-                            - ^^EN^^ [Saucenao](https://saucenao.com/)
-                            - ^^JP^^ [ASCCI2D](https://www.ascii2d.net)
-                            - ^^EN^^ [WAIT](https://trace.moe/)
-                    - Revisa los metadatos de la imagen
-                        - [Regex Info](http://exif.regex.info/)
-                            - EXIF/XMP/GPS
-                                - Miniaturas ocultas 
-                                - Datos sobre ubicación
-                                - Modelo de la cámara
-                                - Fecha
-                                - +
-                        - [Meta Pics](http://metapicz.com/)
-                            - Miniaturas ocultas 
-                            - Datos sobre ubicación
-                            - Modelo de la cámara
-                            - Fecha
-                            - +
-                        - [Page Headers](https://pageheaders.com/)
-                            - Edad del archivo (imagen)
-                            - Tipo de archivo
-                            - Tipo de hospedaje
-                        - [Rex Swain's HTTP Viewer](http://www.rexswain.com/)
-                            - Edad del archivo (imagen)
-                            - Tipo de archivo
-                            - Tipo de hospedaje
-                    - Resolución de imagen
-                        - [Dynamic Drive](https://tools.dynamicdrive.com)
-                            - Muestra de varias versiones mejoradas de la imagen
-                        - [Waifu2x](http://waifu2x.udp.jp/)
-                            - Mejora de la resolución usando redes neuronales
-                            - Funciona mejor en imágenes de anime
-                    - Tipografía
-                        - [What the Font](https://www.myfonts.com/WhatTheFont/)
-                        - [What font is](https://www.whatfontis.com/)
-        - [waifu2x en línea](http://waifu2x.udp.jp/)
-            Funciones
-                Mejora la resolución de ilustraciones de tipo anime utilizando redes 
-neuronales convolucionales
-                También es compatible con fotografías
-            [Código abierto](https://github.com/nagadomi/waifu2x)
-            Disponible para Linux
-            Versiones bifurcadas para Windows
-                ^^JP,+^^ [waifu-2x-cafee](https://github.com/lltcggie/waifu2x-caffe) GUI
-                    **GPU Nvidia**
-                    Idiomas disponibles
-                        Inglés
-                        Japonés
-                        Chino simplificado
-                        Chino tradicional
-                        Coreano
-                        Turco
-                        Español
-                        Ruso
-                        Francés
-                ^^EN^^ [waifu2x ncnn vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
-                    Funciona mejor en GPU de Intel, AMD, Nvidia
-                ^^EN^^ [waifu 2x, solo conversión](https://github.com/DeadSix27/waifu2x-converter-cpp)
-                    ^^EN^^ [GUI](https://github.com/YukihoAA/waifu2x_snowshell)
-                        **Solo con GPU de Nvidia**
-    - Videos
-        - [FFmpeg](https://ffmpeg.org/)
-            - Funciones
-                - Grabar, convertir y reproducir audio y video
-                - +
-            - [Código abierto](https://git.ffmpeg.org/ffmpeg.git), también en [GitHub](https://github.com/FFmpeg/FFmpeg)
-            - Sistemas operativos
-                - Windows
-                - Linux
-                - macOS
-        - [HandBrake](https://handbrake.fr/)
-            - Funciones
-                - Convierte videos de cualquier formato a casi cualquier formato
-                - Opciones preconfiguradas
-                - Formatos disponibles
-                    - Contenedor de archivos: .mp4(.m4v) y .mkv
-                    - Codificador de video: H.265 (x265 y QuickSync), H.264 (x264 y QuickSync), H.265 MPEG-4 y MPEG-2, VP8, VP9 y Theor
-                    - Codificador de audio: .aac / .he-aac, .mp3, .flac, .ac3 o Vorbi
-                    - Adaptador de audio: .ac-3, .e-ac3, .dts, .dts-hd, TrueHD, .aac y pistas .mp3
-                - Subtítulos (VobSub, Closed Captions CEA-608, SSA, SRT)
-                - Calidad constante o tasa de bits promedio del codificador del video
-                - Soporte para VFR y CFR
-                - Previsualización
-            - [Código abierto](https://github.com/HandBrake/HandBrake)
-            - Sistemas operativos
-                - Windows
-                - macOS
-                - Linux
-    - Videojuegos
-        - [Goldberg Steam Simulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator)
-            - Funciones
-                - Emulador de las funciones en línea de Steam en LAN
-            - Código abierto
-            - Sistemas operativos
-                - Windows
-                - Linux
-        - [Cream API](https://cs.rin.ru/forum/viewtopic.php?t=70576)
-            - Funciones
-                - Desbloquear episodios descargable en Steam
-                - Funciona con todas las versiones conocidas de SteamApps (2 al 8)
-                - Funciona con todas las versiones conocidas de SteamUser (9 al 20)
-                - Funciona con videojuegos que hacen uso de steamclient(64).dll
 - Herramienta de descarga
     - Aplicación nativa
-        - General (aplicaciones que tienen soporte para varios sitios)
-            - ^^EN^^ [FileMasta](https://ohhsodead.github.io/FileMasta/) `General`
-                - Características
-                    - Búsqueda de enlaces directos gracias a [od-database](https://github.com/simon987/od-database)
-                        - Video
-                        - Música
-                        - Libros
-                        - Software
-                        - Videojuegos
-                        - Subtítulos
-                        - +
-                - [Código abierto](https://github.com/ohhsodead/FileMasta)
-                - Sistema operativo
-                    - Windows
-            - ^^EN^^ [RipMeApp](https://github.com/RipMeApp/ripme) `Imágenes`
-                - Funciones
-                    - Descarga imágenes en grupo y videos
-                    - Revisa direcciones en búsqueda de nuevas actualizaciones
-                    - Lista en espera
-                - Compila en Java
-                - Codigo abierto
-                - Servidores disponibles:
-                    - Tablones en general ([4chan](4chan.org), [Hispachan](hispachan.org))
-                    - [500px](https://web.500px.com/)
-                    - [DeviantArt](https://www.deviantart.com/)
-                    - [Dribbble](https://dribbble.com/)
-                    - [E-Hentai](https://e-hentai.org/)
-                    - [Erome](https://www.erome.com/)
-                    - [Flickr](https://www.flickr.com/)
-                    - [Gfycat](https://gfycat.com/)
-                    -  [Imgur](https://imgur.com/)
-                    - [Instagram](https:://www.instagram.com)
-                    - [ModelMayhem](https://www.modelmayhem.com/)
-                    - [NHentai](https://nhentai.net/)
-                    - [Photobucket](https://photobucket.com/)
-                    - [Pornhub](https://www.pornhub.com/)
-                    - [Reddit](https://www.reddit.com)
-                    - [Tumblr](https://www.tumblr.com)
-                    - [Twitter](https://www.twitter.com)
-                    - [Vidble](https://www.vidble.com/)
-                    - [VK](https://vk.com/)
-                    - [Webtoon](https://www.webtoons.com/en/)
-            - ^^EN^^ [gallery-dl](https://github.com/mikf/gallery-dl) `Imágenes`
-                - Línea de comando
-                - Funciones
-                    - Descargar galerías de imágenes y colecciones
-                - Servidores disponibles:
-                    - [4chan.org](https://www.4chan.org/)
-                        - Tablón
-                        - Hilo
-                    - [8kun](https://8kun.top/)
-                        - Tablón
-                        - Hilo
-                    - [Archive.moe](https://archived.moe/)
-                        - Hilo
-                    - [ArtStation](https://www.artstation.com/)
-                        - Álbumes
-                        - Listado de ilustraciones
-                        - Retos
-                        - Imágenes individuales
-                        - Me gusta
-                        - Resultados de búsqueda
-                        - Perfiles de usuario
-                    - [Behance](https://www.behance.net/)
-                        - Colecciones
-                        - Galerías
-                        - Perfiles de usuario
-                    - [Blogger](https://www.blogger.com/)
-                        - Blog
-                        - Entradas
-                    - [DeviantArt](https://www.deviantart.com/)
-                        - Colecciones
-                        - Deviation
-                        - Favoritos
-                        - Libros
-                        - Galerías
-                        - Popular
-                        - Imágenes
-                        - Scrap
-                        - Sta.sh
-                        - Perfiles de usuario
-                    - [E-Hentai](https://e-hentai.org/)
-                        - Favoritos
-                        - Galerías
-                        - Resultados de búsqueda
-                    - [ExHentai](https://exhentai.org/)
-                        - Favoritos
-                        - Galerías
-                        - Resultados de búsqueda
-                    - [Flickr](https://www.flickr.com/)
-                        - Álbumes
-                        - Favoritos
-                        - Galerías
-                        - Grupos
-                        - Imágenes individuales
-                        - Resultados de búsqueda
-                        - Perfiles de usuario 
-                    - [Gfycat](https://gfycat.com/)
-                        - Imágenes individuales
-                    - [Hentai2Read](https://hentai2read.com/)
-                    - [Hitomi](https://hitomi.la/)
-                    - [Imgur](https://imgur.com/)
-                    - [Instagram](https://www.instagram.com/)
-                        - Canales 
-                        - Imágenes individuales
-                        - Historias
-                        - Búsqueda de tags
-                        - Perfiles de usuario
-                    - [Mangadex](https://mangadex.org/)
-                    - [Naver](https://blog.naver.com/)
-                        - Blog
-                        - Entrada
-                    - [Newgrounds](https://www.newgrounds.com/)
-                        - Arte
-                        - Audio
-                        - Imágenes individuales
-                        - Archivos multimedia
-                        - Película
-                        - Perfiles de usuario
-                    - [NHentai](https://nhentai.net/)
-                    - [Patreon](https://www.patreon.com/)
-                        - Creador
-                        - Entradas
-                        - Perfiles de usuario
-                    - [Pinterest](https://www.pinterest.com/)
-                        - Tablones
-                        - Pins
-                        - Enlaces pin.it
-                        - Pins relacionados
-                    - [Pixiv](https://www.pixiv.net/)
-                        - Favoritos
-                        - Seguidos
-                        - Enlaces pixiv.me
-                        - Clasificación
-                        - Resultados de búsqueda
-                        - Perfiles de usuario
-                        - Imágenes individuales
-                    - [Pornhub](https://www.pornhub.com/)
-                        - Galerías
-                        - Perfiles de usuario
-                    - [Read Comic Online](https://readcomiconline.to/)
-                    - [Reddit](https://www.reddit.com/)
-                        - Imágenes individuales
-                        - Entradas
-                        - Subreddits
-                        - Perfiles de usuario
-                    - [Slideshare](https://www.slideshare.net/)
-                        - Presentaciones
-                    - [Tsumino](https://www.tsumino.com/)
-                    - [Tumblr](https://www.tumblr.com/)
-                        - Me gusta
-                        - Entradas
-                        - Búsqueda de tags
-                        - Perfiles de usuario
-                    - [Twitter](https://twitter.com/)
-                        - Lineas de tiempo multimedia
-                        - Resultados de búsqueda
-                        - Líneas de tiempo
-                        - Tweets
-                    - Y más
-                - Código abierto
-                - Requerido
-                    - [Python](https://www.python.org/downloads/) 3.4+
-                    - [Requests](https://requests.readthedocs.io/en/master/)
-                    - [youtube-dl](https://ytdl-org.github.io/youtube-dl/) para descarga de videos
-            - ^^EN^^ [snscrape](https://github.com/JustAnotherArchivist/snscrape) `Redes sociales`
-                - Funciones
-                    - Búsqueda de perfiles usuario, hashtags, búsquedas en redes sociales
-                - Servidores disponibles
-                    - Facebook
-                        - Perfiles de usuario
-                        - Grupos
-                    - Gab
-                        - Entradas de perfiles de usuario
-                        - Vídeos e imágenes
-                        - Comentario
-                    - Instagram
-                        - Perfiles de usuario
-                        - Hashtags
-                        - Localización
-                    - Twitter
-                        - Perfiles de usuario
-                        - Hashtags
-                        - Búsqueda 
-                        - Hilo
-                        - Listas
-                            - Miembros
-                            - Entradas
-                    - VKontakte
-                        - Perfiles de usuario
-                - Código abierto
-                - Requerido
-                    - Python 3.6+
-                    - libxml2 
-                    - libxslt
-            - ^^EN^^ [Comics-DL](https://github.com/The-Eye-Team/Comics-DL)
-                - Archivado de cómics
-                - Servidores disponibles
-                    - [readcomicsonline.ru](https://readcomicsonline.ru/)
-                    - [E-Hentai](https://e-hentai.org/)
-                    - [My Reading Manga](https://myreadingmanga.info/)
-                    - [Dounjins.com](https://doujins.com/)
-                    - [NHentai](https://nhentai.net/)
-                    - [Pururin](https://pururin.io/)
-                - Código abierto
         - Archivado de sitios web
-            - ^^EN^^ [Webrecorder](https://webrecorder.io/)
-            - ^^EN^^ [Web Archiving Integration Layer](https://github.com/machawk1/wail)
-                - Funciones
-                    - Archivado de sitios web en general
-                - Herramientas incluidas
-                    - [Heritrix 3.2.0](https://github.com/internetarchive/heritrix3)
-                    - [OpenWayback 2.4.0](https://github.com/iipc/openwayback)
-                    - Apache Tomcat 
-                    - [pyinstaller](https://github.com/pyinstaller/pyinstaller/)
-                    - [MemGator](https://github.com/oduwsdl/memgator)
-                - Compilado en Python (aunque no necesario gracias a pyinstaller)
-                - Código abierto
-                - Sistemas operativos
-                    - Windows
-                    - macOS
+
         - ^^EN^^ [chimera](https://notabug.org/Aesir/chimera) `Spotify`
             - Funciones
                 - Descarga música directamente desde servidores de pago
