@@ -153,326 +153,88 @@ Papago ¡PENDIENTE!
 [`EN`] [Webrecorder](https://webrecorder.io/)
 [`EN`] [Web Archiving Integration Layer](https://github.com/machawk1/wail)|Archivado de sitios web en general.</br> Herramientas incluidas: <ul><li>[Heritrix 3.2.0](https://github.com/internetarchive/heritrix3) <li>[OpenWayback 2.4.0](https://github.com/iipc/openwayback) <li>Apache Tomcat <li>[pyinstaller](https://github.com/pyinstaller/pyinstaller/) <li>[MemGator](https://github.com/oduwsdl/memgator)</ul>|Python|`Sí`, disponible en [Github](https://github.com/oduwsdl/memgator)|Windows </br> macOS
 
-- Multimedia
-- Herramienta de descarga
-    - Aplicación nativa
-        - Archivado de sitios web
+### Específicos
+|Nombre|Sitios soportados|Características|Código abierto|Sistemas operativos|
+|------|-----------------|---------------|--------------|-------------------|
+[`EN`] [chimera](https://notabug.org/Aesir/chimera)| Necesario tener cuentas de pago para todos los servicios, excepto Deezer:</br> </br>`Spotify` </br> Deezer </br> Tidal </br> Qobuz </br> Soundcloud </br> Napster </br> Google Play Music (Necesario tener un móvil conectado a internet).|<ul><li>Descarga música directamente desde servidores de pago. <li>Interfaz API disponible.</ul>|`Sí`, disponible en [Notabug](https://notabug.org/Aesir/chimera)|<ul><li>Windows <li>OSX (sin probar) <li>Linux (sin probar) <li>Android (sin probar), [guía](https://notabug.org/Aesir/chimera/wiki/Android)</ul>
+[`EN`] [Crunchyroll Downloader](https://github.com/ThePBone/CrunchyrollDownloader)|Crunchyroll|<ul><li>Descarga episodios completos en .mp4. <li>Descarga listas de reproducción de emisión directa .m3u HLS. <li>Eliminar restricciones regionales (proxy nativo en Estados Unidos de América). <li>Filtrar episodios por series, temporadas y colecciones.</ul>|`Sí`, disponible en [Github](https://github.com/ThePBone/CrunchyrollDownloader).|Windows </br> macOS </br> Linux
+[`EN`] [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix)  `Deezer`|Deezer|Descarga de forma directa de los servidores de Deezer. <ul><li>Descarga en formato .mp3 y .flac. <li>Busca y descubre música en la misma aplicación. <li>Descarga música directamente de un enlace URL. <li>Descarga la discografía de un artista. <li>Ve tu lista de reproducción pública en Deezer. <li> Archivos de música con metadatos (ID3 y comentarios Vorbis). <li>Implementación con las API de Spotify (Sin servicios de terceros).|`Sí`, disponible en [Notabug](https://notabug.org/RemixDevs/DeezloaderRemix)|Windows </br> macOS </br> Linux
+[`EN`] [GooBooDoo](https://github.com/vaibhavk97/GoBooDo) `Google Play Books`| Google Play Books|Descarga libros con vista previa disponible de Google Libros y proxys. Compilado en Python, requerido:. <ul><li>requests <li>bs4 <li>Pillow <li>fpdf <li>html5lib|`Sí`, disponible en [Github](https://github.com/vaibhavk97/GoBooDo)|Windows </br> macOS </br> Linux
+[`EN`] [Raccoon](https://raccoon.onyxbits.de/) `Google Play Store`|Google Play Store|[Desarrollado en Java].<ul><li>Descarga .apk de los servidores de Google. <li>Evita bloqueos regionales. <li>Instala "split apk". <li>Descarga versiones anteriores .apk. <li>Simula un ambiente móvil muy específico (es necesario un dispositivo móvil y **adb**) y descargas específicas para un modelo específico Android.</ul>|No|Windows </br> macOS </br> Linux
+[`EN`] [Megabasterd](https://github.com/tonikelope/megabasterd) `Mega`|[Mega](https://mega.nz)|[Compilado en Java]<ul><li>Evita los límites de los servidores de Mega.nz. <li>Interfaz de usuario pésimo. <li>Actualizaciones constantes.</ul>|`Sí`, disponible en [Github](https://github.com/tonikelope/megabasterd)|Windows </br> macOS </br> Linux
+[`EN`] [Udeler GUI](https://github.com/FaisalUmair/udemy-downloader-gui) `Udemy`|Udemy|Necesario una cuenta de pago de Udemy.</br>Funciones: <ul><li>Calidad de video. <li>Varios cursos a la vez. <li>Pausar y continuar la descarga <li>Escoge el directorio de descarga <li>Multilenguaje (inglés, italiano y español).|`Sí`, disponible en [Github](https://github.com/FaisalUmair/udemy-downloader-gui)|Windows </br> macOS </br> Linux
 
-        - ^^EN^^ [chimera](https://notabug.org/Aesir/chimera) `Spotify`
-            - Funciones
-                - Descarga música directamente desde servidores de pago
-                - Interfaz API disponible
-            - **Necesario cuenta de pago** para todos excepto Deezer
-            - Servidores disponibles
-                - Deezer 
-                - Tidal 
-                - Qobuz 
-                - soundcloud 
-                - napster 
-                - Google Play Music
-                    - Necesario un móvil conectado a Internet
-                - Spotify
-            - Código abierto
-            - Sistemas operativos
-                - Windows
-                - OSX (no probado en su totalidad por el autor)
-                - Linux (no probado en su totalidad por el autor)
-                - Android (no probado en su totalidad por el autor) [Instalación](https://notabug.org/Aesir/chimera/wiki/Android)
-        - ^^EN^^ [Crunchyroll Downloader](https://github.com/ThePBone/CrunchyrollDownloader)
-            - Funciones
-                - Descarga episodios completos en .mp4
-                - Descarga listas de reproducción de emisión directa .m3u HLS
-                - Eliminar restricciones regionales (proxy nativo en Estados Unidos de América)
-                - Filtrar episodios por series, temporadas y colecciones
-            - Código abierto
-            - Sistemas operativos
-                - Windows
-                - macOS
-                - Linux
-        - ^^EN^^ [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix)  `Deezer`
-            - Descarga de forma directa de los servidores de Deezer
-            - Funciones
-                - Descarga en formato .mp3 y .flac
-                - Busca y descubre música en la misma aplicación
-                - Descarga música directamente de un enlace URL
-                - Descarga la discografía de un artista
-                - Ve tu lista de reproducción pública en Deezer
-                - Archivos de música con metadatos (ID3 y comentarios Vorbis)
-                - Implementación con las API de Spotify (Sin servicios de terceros)
-            - Código abierto
-            - Sistemas operativos
-                - Windows
-                - Linux
-                - macOS
-        - ^^EN^^ [GooBooDoo](https://github.com/vaibhavk97/GoBooDo) `Google Play Books`
-            - Funciones
-                - Descarga libros con vista previa disponible de Google Libros y proxys.
-            - Compila en Python
-            - Requerido
-                - requests
-                - bs4
-                - Pillow
-                - fpdf
-                - html5lib
-        - ^^EN^^ [Raccoon](https://raccoon.onyxbits.de/) `Google Play Store`
-            - Funciones
-                - Descarga .apk de los servidores de Google
-                - Evita bloqueos regionales
-                - Instala "split apk"
-                - Descarga versiones anteriores .apk
-                - Simula un ambiente móvil muy específico (es necesario un dispositivo móvil y **adb**) y descargas específicas para un modelo específico Android.
-            - Compilado en Java
-            - Sistemas operativos
-                - Windows
-                - Linux
-                - macOS
-        - Instagram
-            - ^^EN^^ [Instagram Scraper](https://github.com/dankmemes/instagram-scraper)
-                - Descarga de Instagram
-                    - Perfiles privados (siempre y cuando tengas acceso) o públicos
-                    - Hashtags
-                - Compila en Python
-                - Código abierto
-            - ^^EN^^ [Instaloader](https://instaloader.github.io/)
-                - Detecta cambios en el nombre de usuario
-                - Funciones:
-                    - Perfiles privados (siempre y cuando tengas acceso) o públicos
-                    - Historias
-                    - Noticias
-                    - Imágenes guardadas
-                    - Descripción de publicaciones
-                    - Comentarios
-                    - Hashtag
-                - Compila en Python
-                - Código abierto
-            - ^^EN^^ [PyInstaLive](https://github.com/notcammy/PyInstaLive)
-                - Requisitos
-                    - [ffmpeg](https://ffmpeg.org/download.html)
-                    - [Git](https://git-scm.com/downloads)
-                    - [Python 2.7.x or 3.5>=](https://www.python.org/downloads/)
-                    - [pip + setuptools](https://pip.pypa.io/en/stable/installing/)
-                - Funciones
-                    - Transmisiones en vivo (también detecta transmisiones en vivo donde el usuario específico está de invitado)
-                    - Repeticiones guardadas de transmisiones en vivo
-                    - Transmisiones en vivo y repetición de comentarios
-                    - Transmisiones en vivo y repeticiones guardadas de las personas que sigues
-                - Compila en Python
-                - Código abierto
-            - ^^EN^^ [InstaLooter](https://github.com/althonos/InstaLooter)
-                - Funciones
-                    - Descargar cualquier video o imagen de un perfil de usuario sin hacer uso del API de Instagram
-                - Codigo abierto
-                - Requerido
-                    - coloredlogs
-                    - dateutil
-                    - docopt
-                    - fs
-                    - requests
-                    - six
-                    - tenacity
-                    - tqdm
-                    - verboselogs
-        - ^^EN^^ [Megabasterd](https://github.com/tonikelope/megabasterd) `Mega`
-            - Funciones
-                - Evita los límites de los servidores de Mega.nz
-                - Interfaz de usuario pésimo
-            - Servidor disponible
-                - [Mega](https://mega.nz)
-            - Código abierto
-                - Compila en Java
-                - Actualizaciones constantes
-            - Sistemas operativos
-                - Windows
-                - macOS
-                - Linux
-        - Reddit
-            - ^^EN^^ [timesearch](https://github.com/voussoir/timesearch)
-                - Archivados de subreddits
-                - Código abierto
-                - Requerido (revisar detalles en la página en GitHub)
-                    - markdown
-                    - praw
-                    - voussoirkit
-            - ^^EN^^ [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader)
-                - Funciones
-                    - Escanear comentarios y entradas de distintos sitios de Reddit en búsqueda de imágenes o videos 
-                        - Ejemplo
-                            - Lista de tus fotos a favor
-                            - Lista de entradas guardadas
-                            - Subreddits
-                            - Multireddits de usuario
-                    - Filtros de búsqueda
-                        - Ejemplo
-                            - Entradas con la palabra tal en el título con un mínimo de tantos votos a favor en tal subreddit
-                - Sistemas operativos
-                    - Windows
-                    - macOS
-                    - Ubuntu
-        - Spotify
-            - ^^EN^^ [Downtify Premium](https://github.com/Superhackman/downtify-premium)
-                - Bifurcado de [Downtify](https://github.com/Shawak/downtify)
-                - Funciones
-                    - Descarga directamente de los servidores de Spotify
-                    - Formato .mp3
-                - Necesario cuenta de pago
-            - ^^EN^^ [XSpotify](https://github.com/meik97/XSpotify)
-                - Descarga directamente de los servidores de Spotify
-                - Funciones
-                    - Calidad y formato (cuenta gratuita): 160 kb/s, 32-bit, 44100 Hz .ogg
-                    - Calidad y formato (cuenta de pago): 320 kb/s, 32-bit, 44100 Hz .ogg
-                    - Metadatos: artista, título, álbum y caratula del álbum
-                - Código abierto
-                - Requerido
-                    - Microsoft's [Visual C++ Redistributable Runtimes](https://github.com/abbodi1406/vcredist)
-            - Extra
-                - ^^EN^^ [SpotMyBackup](https://www.spotmybackup.com/)
-                    - Funciones
-                        - Exporta e importa tu lista de reproducción y canciones de Spotify
-                    - [Código abierto](https://github.com/secuvera/SpotMyBackup/)
-        - ^^EN^^ [Udeler GUI](https://github.com/FaisalUmair/udemy-downloader-gui) `Udemi`
-            - Necesario una cuenta de pago de Udemy
-            - Funciones
-                - Calidad de video
-                - Varios cursos a la vez
-                - Pausar y continuar la descarga
-                - Escoge el directorio de descarga
-                - Multilenguaje
-                    - Inglés
-                    - Italiano
-                    - Español
-            - Código abierto
-            - Sistemas operativos
-                - Windows
-                - macOS
-                - Linux
-    - Aplicación web
-        - General (aplicación web que tienen soporte para varios sitios)
-            - Banco de imágenes
-                - ^^EN^^ [Downloader.la](https://downloader.la/)
-                    - Funciones
-                        - Descarga imágenes sin marca de agua de varios bancos de imágenes
-                    - Servidores disponibles
-                        - Shutterstock
-                        - Adobe Stoc
-                        - Getty Images
-                        - Picfair
-                        - lovePik
-                        - freePik
-                        - 123RF
-                        - +
-                - ^^EN^^ [Tomato](https://tomato.to/)
-                    - Funciones
-                        - Descarga imágenes sin marca de agua de varios bancos de imágenes
-                    - Servidores disponibles
-                        - Adobestock 
-                        - Gettyimages 
-                        - 500px.com 
-                        - Flickr
-                        - 123RF
-                        - Filmmagic 
-                        - NBA Photostore
-                        - +
-            - Documentos
-                - ^^EN^^ [DocDownloader](https://docdownloader.com/)
-                    - Scribd
-                    - Isuu
-                    - Slideshare
-                    - Academia.edu
-        - Generador de enlaces de descarga de servidores de pago
-            - filehostlist.miraheze.org	Lista completa
-            - reevown.com		Uploaded (1GB/H), rapidgator (2 downloads per day), 1fichier, filefactory, uptobox, uploadboy (1GB), k2s (1GB)
-            - hyperdebrid.net		depositfiles (3 enlaces/día), rapidgator (.5GB/día), turbobit (.5/day), uploaded (1.5GB/día), userscloud (1GB/día), zippyshare (ilimitado)
-            - cocoleech.com		[5 enlaces/día] Goloady (300MB), Katfile (Ilimitado), Rapidgator (.5GB), Uploaded.net (1GB), Nitroflare (300MB), Zippyshare, Upload.ee, anonfile
-            - dailyleech.com		6$/month
-            - vnz-leech.com		Confusión
-            - get4all.org		Confusión
-        - Microsoft
-            - ^^EN^^ [Generador de enlaces de la tienda de Microsoft](https://store.rg-adguard.net/)
-                - Funciones
-                    - Descarga directa desde los servidores de Microsoft
-                    - Versiones disponibles
-                        - Rápido
-                        - Lento
-                        - Prelanzamiento
-                        - Por defecto
-                - Requerido (solo uno es necesario)
-                    - Enlace URL
-                    - Identificación del producto
-                    - Nombre de la familia del paquete
-                    - Identificación de la categoría
-            - ^^EN^^ [Generador de enlaces de .isos de Microsoft](https://tb.rg-adguard.net/public.php)
-                - Funciones
-                    - Descarga directa desde los servidores de Microsoft
-                    - Versiones disponibles
-                        - Tipo
-                        - Versión
-                        - Edición
-                        - Lenguaje
-        - ^^EN^^ [APKCombo](https://apkcombo.com/es-pe/apk-downloader/) `Google Play Store`
-            - Funciones
-                - Desde desde los servidores de la tienda de Googl
-                - Opciones múltiples
-                    - Tipo de dispositivo
-                        - Por defecto
-                        - Teléfono
-                        - Tableta
-                        - Televisión
-                    - Arquitectura del dispositivo
-                        - Por defecto
-                        - armeabi-v7a
-                        - arm64-v8a
-                        - x86
-                        - x86_64
-                    - Versión de Android
-                        - Por defecto
-                        - 4.4
-                        - 5.0
-                        - 5.1
-                        - 6.0
-                        - 7.0
-                        - 7.1
-                        - 8.0
-                        - 8.1
-                        - 9.0
-                        - 10
-                - Evitar restricciones regionales
-        - ^^EN^^ [DLScrib](https://dlscrib.com/) `Scribd`
-            - Funciones
-                - Descarga documentos desde los servidores de Scribd
-    - Línea de comando
-        - ^^EN^^ [aria2](https://aria2.github.io/)
-            - Características
-                - Multiconección y multidescarga
-                - Uso de poco espacio y pocos recursos
-                - Cliente Bittorrent
-                - Metaenlaces activado
-                    - [The Metalink Download Description Format](http://tools.ietf.org/html/rfc5854) (aka Metalink v4)
+### Instagram
+|Nombre|Características|Código abierto|Sistemas operativos|
+|------|---------------|--------------|-------------------|
+[`EN`] [Instagram Scraper](https://github.com/dankmemes/instagram-scraper)|[Compilado en Python] <ul><li>Perfiles privados (siempre y cuando tengas acceso) o públicos. <li>Hashtags.</ul>|`Sí`, disponible en [Github](https://github.com/dankmemes/instagram-scraper)|Windows </br> macOS </br> Linux
+[`EN`] [Instaloader](https://instaloader.github.io/)|[Compilado en Python] <ul><li>Perfiles privados (siempre y cuando tengas acceso) o públicos. <li>Historias <li>Noticias <li>Imágenes guardadas <li>Descripción de publicaciones <li>Comentarios <li>Hashtag | `Sí`, disponible en [Github](https://instaloader.github.io/)|Windows </br> macOS </br> Linux
+[`EN`] [PyInstaLive](https://github.com/notcammy/PyInstaLive)|[Compilado en Python] </br>Funciones: <ul><li>Transmisiones en vivo (también detecta transmisiones en vivo donde el usuario específico está de invitado). <li>Repeticiones guardadas de transmisiones en vivo. <li>Transmisiones en vivo y repetición de comentarios. <li>Transmisiones en vivo y repeticiones guardadas de las personas que sigues.</ul> Requisitos: <ul><li>[ffmpeg](https://ffmpeg.org/download.html) <li>[Git](https://git-scm.com/downloads) <li>[Python 2.7.x or 3.5>=](https://www.python.org/downloads/) <li>[pip + setuptools](https://pip.pypa.io/en/stable/installing/)</ul>|`Sí`, disponible en [Github](https://github.com/notcammy/PyInstaLive)|Windows </br> macOS </br> Linux
+[`EN`] [InstaLooter](https://github.com/althonos/InstaLooter)|Descargar cualquier video o imagen de un perfil de usuario sin hacer uso del API de Instagram.</br>Requerido:<ul><li>coloredlogs <li>dateutil <li>docopt <li>fs <li>requests <li>six <li>tenacity <li>tqdm <li>verboselogs</ul>|`Sí`, disponible en [Github](https://github.com/althonos/InstaLooter)|Windows </br> macOS </br> Linux
 
-                    - Metalink version 3 
-                    - [Metalink/HTTP](http://tools.ietf.org/html/rfc6249).
-                - Control remoto
-                    - JSON-RPC (HTTP y WebSocket)
-                    - XML-RPC
-            - Protocolos
-                - HTTP/HTTPS 
-                - FTP 
-                - SFTP
-                - BitTorrent
-                - Metalink
-- Mejora personal
-    - ^^EN^^ [Entrenamiento físico](nytimes.com/interactive/projects/well/workouts/)
-    - ^^EN^^ [Typing](typing.com)
-        - Funciones
-            - Practica mecanografía
-    - Organización del tiempo
-        - ^^EN^^ [Timo](https://hellotimo.co/)
-            - Simple y bonita interfaz
-            - Funciones
-                - Seguimiento de lo que tienes que hacer
-                - Modo noche
-        - ^^EN^^ [TodoHQ](https://todohq.co/)
-            - Funciones
-                - Crea listas de cosas por realizar
-                - Sincronización
-                - Modo noche disponible
-            - Simple y bonita interfaz
+### Reddit
+|Nombre|Características|Código abierto|Sistemas operativos|
+|------|---------------|--------------|-------------------|
+[`EN`] [timesearch](https://github.com/voussoir/timesearch)|Archivado de subreddits.</br>Requerido:<ul><li>markdown <li>praw <li>voussoirkit</ul>|`Sí`, disponible en [Github](https://github.com/voussoir/timesearch).|Windows </br> macOS </br> Linux
+[`EN`] [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader)|Escanear comentarios y entradas de distintos sitios de Reddit en búsqueda de imágenes o videos. Ejemplos: <ul><li>Lista de tus fotos a favor. <li>Lista de entradas guardadas. <li>Subreddits. <li>Multireddits de usuario</ul> Filtros de búsqueda: Entradas con la palabra tal en el título con un mínimo de tantos votos a favor en tal subreddit.|`Sí`, disponible en [Github](https://github.com/shadowmoose/RedditDownloader)|Windows </br> macOS </br> Linux
+
+### Spotify
+|Nombre|Características|Código abierto|Sistemas operativos|
+|------|---------------|--------------|-------------------|
+[`EN`] [Downtify Premium](https://github.com/Superhackman/downtify-premium)|[Bifurcado de [Downtify](https://github.com/Shawak/downtify)]. </br> Necesario una cuenta de pago. </br> Funciones: <ul><li>Descarga directamente de los servidores de Spotify. <li>Formato .mp3.</ul>|`Sí`, disponible en [Github](https://github.com/Superhackman/downtify-premium)|Desconocido
+[`EN`] [XSpotify](https://github.com/meik97/XSpotify)|[Requerido: Microsoft's [Visual C++ Redistributable Runtimes](https://github.com/abbodi1406/vcredist)]. </br> Descarga directamente de los servidores de Spotify. </br> Funciones: <ul><li>Calidad y formato (cuenta gratuita): 160 kb/s, 32-bit, 44100 Hz .ogg. <li>Calidad y formato (cuenta gratuita): 160 kb/s, 32-bit, 44100 Hz .ogg. <li>Calidad y formato (cuenta gratuita): 160 kb/s, 32-bit, 44100 Hz .ogg.</ul>|`Sí`, disponible en [Github](https://github.com/meik97/XSpotify)|Windows
+[`EN`] [SpotMyBackup](https://www.spotmybackup.com/)|Exporta e importa tu lista de reproducción y canciones de Spotify, pero tiene un repositorio en [Github](https://github.com/secuvera/SpotMyBackup/).|`No`|Aplicación web
+
+## Aplicación web
+
+### General
+*Banco de imágenes*
+|Nombre|Características|Sitios soportados|
+|------|---------------|-----------------|
+[`EN`] [Downloader.la](https://downloader.la/)|Descarga imágenes sin marca de agua de varios bancos de imágenes.|Shutterstock, Adobe Stock, Getty Images, Picfair, lovePik, freePik, 123RF, entre otros.
+[`EN`] [Tomato](https://tomato.to/)|Descarga imágenes sin marca de agua de varios bancos de imágenes.|Adobestock, Gettyimages, 500px.com, Flickr, 123RF, Filmmagic, NBA Photostore, entre otros.
+
+*Documentos*
+|Nombre|Sitios soportados|
+|------|-----------------|
+[`EN`] [DocDownloader](https://docdownloader.com/)|Scribd, Isuu, Slideshare, Academia.edu
+
+### Generador de enlaces de descarga
+[Lista completa](filehostlist.miraheze.org), revisión rápida.
+|Nombre|Sitios soportados|
+|------|-----------------|
+reevown.com|Uploaded (1GB/H) </br> rapidgator (2 downloads per day) </br> 1fichier </br> filefactory </br> uptobox </br> uploadboy (1GB) </br> k2s (1GB)
+hyperdebrid.net|depositfiles (3 enlaces/día) </br> rapidgator (.5GB/día) </br> turbobit (.5/day) </br> uploaded (1.5GB/día) </br> userscloud (1GB/día) </br> zippyshare (ilimitado)
+cocoleech.com|[5 enlaces/día] Goloady (300MB) </br> Katfile (Ilimitado) </br> Rapidgator (.5GB) </br> Uploaded.net (1GB) </br> Nitroflare (300MB) </br> Zippyshare </br> Upload.ee </br> anonfile
+dailyleech.com|Cuesta 6 dólares mensuales, no recuerdo por qué lo incluí.
+vnz-leech.com|Confusión, revisar.
+get4all.org|Confusión, revisar.
+
+### Microsoft
+|Nombre|Características|Requerido|
+|------|---------------|---------|
+[`EN`] [Generador de enlaces de la tienda de Microsoft](https://store.rg-adguard.net/)|Descarga directa desde los servidores de Microsoft. </br>Versiones disponibles: <ul><li>Rápido, Lento, Prelanzamiento, Por defecto.</ul>|Solo uno es necesario:<ul><li>Enlace URL <li>Identificación del producto <li>Nombre de la familia del paquete <li>Identificación de la categoría
+[`EN`] [Generador de enlaces de .isos de Microsoft](https://tb.rg-adguard.net/public.php)|Descarga directa desde los servidores de Microsoft. </br> Versiones disponibles: <ul><li>Tipo <li>Versión <li> Edición <li>Lenguaje</ul>|Ninguno
+
+### Específicos
+|Nombre|Sitios soportados|Características|
+|------|-----------------|---------------|
+[`EN`] [APKCombo](https://apkcombo.com/es-pe/apk-downloader/) `Google Play Store`|Google Play Store|Desde desde los servidores de la tienda de Google.</br>Evitar restricciones regionales. </br> Opciones múltiples: <ul><li>Tipo de dispositivo (Por defecto, Teléfono, Tableta, Televisión). <li>Arquitectura del dispositivo (Por defecto, armeabi-v7a, arm64-v8a, x86, x86_64). <li>Versión de Android (Por defecto, 4.4, 5.0, 5.1, 6.0, 7.0, 7.1, 8.0, 8.1, 9.0, 10)
+[`EN`] [DLScrib](https://dlscrib.com/) `Scribd`|Scribd|Descarga documentos desde los servidores de Scribd.
+
+## Línea de comando
+|Nombre|Características|Protocolos|
+|------|---------------|----------|
+[`EN`] [aria2](https://aria2.github.io/)|<ul><li>Multiconección y multidescarga. <li>Uso de poco espacio y pocos recursos. <li>Cliente Bittorrent. <li>Metaenlaces activado.<ul><li>[The Metalink Download Description Format](http://tools.ietf.org/html/rfc5854) (aka Metalink v4). <li>Metalink version 3. <li>[Metalink/HTTP](http://tools.ietf.org/html/rfc6249).</ul> <li>Control remoto: <ul><li>JSON-RPC (HTTP y WebSocket). <li>XML-RPC.</ul></ul>|HTTP/HTTPS </br> FTP </br> SFTP </br> BitTorrent </br> Metalink
+
+# Mejora personal
+|Nombre|Características|
+|------|---------------|
+[`EN`] [Entrenamiento físico](nytimes.com/interactive/projects/well/workouts/)|Ejercicios y ejemplos.
+[`EN`] [Typing](typing.com)|Practica mecanografía.
+
+## Organización del tiempo
+|Nombre|Características|
+|------|---------------|
+[`EN`] [Timo](https://hellotimo.co/)|Simple y bonita interfaz. </br> Funciones: <ul><li>Seguimiento de lo que tienes que hacer. <li>Modo oscuro.</ul>
+[`EN`] [TodoHQ](https://todohq.co/)|Simple y bonita interfaz. </br> Funciones: <ul><li>Crea listas de cosas por realizar. <li>Sincronización. <li>Modo oscuro.</ul>
