@@ -1,10 +1,10 @@
 <p align="center">
     <img src="https://i.imgur.com/QPqBLI8.jpg" width="450">
     <br>
-     <a href="notes/basededatos.md">Base de datos</a> | 
+     <a href="notes/basededatos.md">Base de datos</a> X | 
      <a href="notes/biblioteca.md">Biblioteca</a> X | 
      <a href="notes/busqueda.md">Búsqueda</a> |
-     <a href="notes/directoriopublico.md">Directorio público</a> | 
+     <a href="notes/directoriopublico.md">Directorio público</a> X | 
      <a href="notes/discoteca.md">Discoteca</a> | 
      <a href="notes/herramienta.md">Herramientas</a> X | 
      <a href="notes/mediateca.md">Mediateca</a> X | 
