@@ -6,7 +6,7 @@
      <a href="notes/busqueda.md">Búsqueda</a> |
      <a href="notes/directoriopublico.md">Directorio público</a> | 
      <a href="notes/discoteca.md">Discoteca</a> | 
-     <a href="notes/herramienta.md">Herramientas</a> | 
+     <a href="notes/herramienta.md">Herramientas</a> X | 
      <a href="notes/mediateca.md">Mediateca</a> X | 
      <a href="notes/pasatiempo.md">Pasatiempo</a> | 
      <a href="notes/pirateria.md">Piratería</a> | 
