@@ -29,3 +29,5 @@ https://arcjav.com/ipx-530/
 - https://www.pluralsight.com/redeemlink/genericV4?redemptionId=4d3b4105-3a95-4748-8807-f7bf00fe5bbc&mac=e0ca15fcc3991ce3db6cccad1ce1fee98afc3686349acd7fe73a1706324b9547#
 - https://removebackground.app/
 - https://www.zenra.net/free-jav-reverse-image-search
+- https://lingyourlanguage.com/
+- https://huggingface.co/autonlp
