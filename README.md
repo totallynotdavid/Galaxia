@@ -21,3 +21,43 @@
   <br>
   <a><strong>Transmisión general</strong> significa que aquel sitio provee alguna forma de contenido en emisión en continuo y alguna forma de descarga, ya sea a través de servidores de terceros o a través de una red entre pares.</a>
 </p>
+
+## Software
+- 7-Zip
+- Authy Desktop
+- Deluge & Qbittorrent
+- Docker
+- Git
+- JDownloader
+- MPC-HC
+- Firefox
+  - Extensions
+    - Bitwarden
+    - Bypass Paywalls
+    - Clickbait Remover for Youtube
+    - Dark Reader
+    - Imagus
+    - Reverse Image Search
+    - Tampermonkey
+      - adLBypasser
+      - Auto Load Big Image
+      - eHunter_nhentai_support
+      - Google Image Direct View
+      - Instagram Source Opener
+      - Login reminder popup remover
+      - Nhentai Favorites Scraper
+      - NHentai Improved
+      - RARBG Advanced Filters
+      - Scribd.com Unblur
+      - Switch to Mobile Wikipedia/Wiktionary and back, Autoload Mobile
+      - Symbolab Pro
+      - Video Quality Fixer for Twitter
+    - Translate Web Pages
+    - uBlock Origin
+    - Universal Bypass
+- Microsoft Edge
+- Node.js
+- OBS Studio
+- Python
+- Spotify
+- WSL
