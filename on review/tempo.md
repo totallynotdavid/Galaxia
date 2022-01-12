@@ -121,3 +121,18 @@ https://7mmtv.tv/
 https://av-converter.com/ convert files with ffmpeg online
 
 - https://markodenic.com/free-certifications-for-developers/
+
+https://web3isgoinggreat.com/
+
+## Efectos de sonido:
+https://sfxcellar.accusonus.com/free-sound-effects
+
+https://music-for-video.com/blog/free-sound-effects-for-videomakers
+
+http://sweetsoundeffects.com/
+
+The motherload of free SFX.
+
+https://sonniss.com/gameaudiogdc
+
+ADSR Sample Manager.
