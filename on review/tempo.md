@@ -136,3 +136,6 @@ The motherload of free SFX.
 https://sonniss.com/gameaudiogdc
 
 ADSR Sample Manager.
+
+- [Download from Slideshare](https://www.slidesharedownloader.com/)
+- [Wutsearch](https://wutsearch.com/): Metabuscador
