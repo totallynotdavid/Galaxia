@@ -20,3 +20,9 @@ View files
 ./rclone lsd unishared:Comics
 
 ./rclone copy unishared:"Repositorio de libros y multimedia [BIBFIS]" personal:server/bibfis --stats 2s -vv
+
+# docker
+docker run -v C:/users/david:/my_files --name javinizer -p 8600:8600 -d jvlflame/javinizer:latest
+
+#yt-dlp
+./yt-dlp -a "D:/yt-dlp/dist/scraping/text.txt" --cookies-from-browser edge --concurrent-fragments 3 --sleep-interval 10

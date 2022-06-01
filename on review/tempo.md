@@ -34,7 +34,12 @@ https://arcjav.com/ipx-530/
 - https://textbooks.math.gatech.edu/ila/overview.html
 - https://kav.so/category/korean/
 - https://codedamn.com/dashboard
+
+## Courses
+
 - https://pjreddie.com/courses/computer-vision/
+- [Qiskit](https://learn.qiskit.org/course/ch-prerequisites/environment-setup-guide-to-work-with-qiskit-textbook): Quantum tools for simulations.
+
 - https://thebypasser.com/versions/version2.html Bypass Linkvertise
 - https://www.redditreads.com/subreddits books mentioned
 - Nudlnude 2 weird h 
@@ -55,6 +60,7 @@ https://chaturbot.co/ Find current accounts from actress on Chaturbate
 - https://www.apestan.com/ Quejas de una empresa
 
 # Cambio dolar-sol
+
 https://www.cocosylucasbcp.com/
 https://cambioseguro.com/
 https://www.jetperu.com.pe/calcula-tus-cambios
@@ -108,6 +114,7 @@ https://www.espanol.skyscanner.com/ Book flights
 
 ### Third generation
 - Download posts from Onlyfans: https://chrome.google.com/webstore/detail/downloader-for-onlyfansco/pdbbabjcnanbkimdgcdfbnghhmchomnh
+- Reverse search engine takes charge of screenshot: https://chrome.google.com/webstore/detail/huntress-reverse-image-se/nkhjamjppefmeceaokadfacbdmmcmdpg/related?hl=en
 ## Firefox
 
 # Download
@@ -139,3 +146,81 @@ ADSR Sample Manager.
 
 - [Download from Slideshare](https://www.slidesharedownloader.com/)
 - [Wutsearch](https://wutsearch.com/): Metabuscador
+- https://weird-old-book-finder.glitch.me/
+- Search for [podcasts](https://www.listennotes.com/)
+- [Bibliogram Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md): Useful for RSS feeds of Instagram profiles
+- [Picuki](https://www.picuki.com/): RSS of Instagram profiles
+- [Tips for RSS on Social Media](https://bootcamp.uxdesign.cc/how-i-set-up-my-social-media-diet-via-rss-4b1e936be09d)
+- [Docusaurus](https://docusaurus.io/): Similar to Hugo.
+- [Publii](https://getpublii.com/dev/): Similar to Hugo, but themes are expensive, not worth it.
+- [Visme](https://www.visme.co/templates/videos/): Plantillas para videos, presentaciones, mapas, infografías.
+- [Nordic 9](https://nordic9.com/knowledge/content/newsletter/): Noticias para inversores, pasados correos.
+- [Parsehub](https://www.parsehub.com/pricing): Scraping, código cerrado y limitado, tiene costo, aunque tiene versión gratuita.
+- [Browse AI](https://dashboard.browse.ai/tasks): Scraping daily, only one bot, connects with Zapier
+- [Tally](https://tally.so/dashboard): Formulario tipo Google Forms
+- [Strike](https://strike.market/): Stock market
+- [Oldest Search](https://www.oldestsearch.com/): Resultado de Google más antiguo. Usan CSE.
+- [Crwd](https://www.crwd.to/discord/): Archivar Discord de forma pública, solo sirve para admins.
+- [Vampire69](https://www.vampire69blog.com/): List of possible reverse searched models or something.
+- [Huggingface](https://huggingface.co/models): Datasets para entrenamiento de modelos de ML.
+- [ArchInstall](https://python-archinstall.readthedocs.io/en/latest/index.html): Instalar más fácilmente Arch ISO.
+- [Pixabay Music](https://pixabay.com/music/): Royalty free music.
+- [nibbler](https://nibbler.silktide.com/): Test any site (such as accesibility, tracking and so on).
+
+https://activity-graph.herokuapp.com/graph?username=totallynotdavid&theme=xcode&custom_title=Activity%20Graph&hide_border=true
+
+- [Product Flair](https://www.productflair.io/images): Ideas para miniaturas
+
+## Animations
+
+- [Finsweet](https://www.finsweet.com/lottieflow/): Animaciones para íconos, gratis y simple
+- [Lottie](https://lottiefiles.com/): Objects animation, CSS
+
+## Íconos
+
+- [Unicons](https://iconscout.com/unicons): Solo el de línea es gratuito.
+
+## Ilustraciones
+
+- [Storyset](https://storyset.com/): Gratuitos.
+- [Vectores e ilustraciones 3D](https://icons8.com/illustrations): Gratuitos.
+- [GetIllustrations](https://www.getillustrations.com/): For ideas, these are not free.
+
+## Sonidos
+
+- [Soundbible](https://soundbible.com/): Efectos de sonido gratuitos
+
+## Noticias
+
+- [MedicalXpress](https://medicalxpress.com/): Noticias sobre salud.
+- [CurrenstAPI](https://currentsapi.services/en): Obtener noticias en formato JSON.
+- [Newscatcher](https://newscatcherapi.com/news-api): Obtener noticias en formato JSON.
+- [Newsdata](https://newsdata.io/docs): API con límite de 200 al día.
+
+## Problemas
+
+- [UPhysicsC](http://www.uphysicsc.com/home.html): Lista de problemas de física
+
+## Front-ends
+
+- [Lista de alternativas](https://hackmd.io/MCpUlTbLThyF6cw_fywT_g?view#Facebook)
+- [Front-end feeds](https://github.com/impressivewebs/frontend-feeds)
+
+## Descubrir
+
+- [WebsiteIQ](https://www.websiteiq.com/explore/)
+
+## Notion
+
+- [Potion](https://potion.so/templates): templates
+- [Idea](https://easlo.notion.site/Company-Home-4a2ca7d4d25f48a8996ca3b36038fc97)
+
+## Capturas de pantalla
+
+- [Ray](https://ray.so/): Beatiful images of code
+- [Screenshot rocks](https://screenshot.rocks/): Screenshots browser
+
+## Trabajo
+
+- [Teachers pay Teachers](https://www.teacherspayteachers.com/): Vender material de estudio.
+- [UserInterviews](https://www.userinterviews.com/studies/online?sort=-id): Entrevistas usando webcam.
