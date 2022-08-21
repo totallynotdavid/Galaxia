@@ -11,7 +11,7 @@
        - [Multimedia](#multimedia)
        - [Tienda de aplicaciones de Android](#tienda-de-aplicaciones-de-Android)
      - [Repositorios de aplicaciones en hospedaje de terceros](#repositorios-de-aplicaciones-en-hospedaje-de-terceros)
-3. [Videoteca](#videoteca)
+3. [Video](#Video)
    - [Cursos](#cursos)
    - [Cine y series de televisión](#cine-y-series-de-televisión)
      - [Producción estadounidense y europea](#producción-estadounidense-y-europea)
@@ -30,7 +30,8 @@
        - [Set de fotografía (legal)](#set-de-fotografía-(legal))
      - [Producción surcoreana](#producción-surcoreana)
      - [Amateur asiático](#amateur-asiático)
-   
+4. [Imágenes](#Imágenes)
+
 # General
 
 > General: película, programa de televisión, software (aplicación y videojuego), música y contenido adulto **con enfoque occidental**.
@@ -182,8 +183,21 @@ Entretenimiento
   ------|----------|---------|----
   [Android Zone](https://android-zone.ws/)|Original y modificado|UserUpload, Uploaded, entre otros (depende del usuario)|Foro
   [HIFI 2007](https://hifi2007reviews.com/)|Modificadas|Appbox, Solidfiles, Mega, PCloud
-  
-# Videoteca
+
+# Imágenes
+
+  Nombre|Sitio|Interfaz|Adicional|
+  ------|-----|--------|---------|
+  [Leakxxx](https://leakxxx.com/) | Reddit | ⭐⭐⭐| `Contenido en vivo`
+  [Pholder](https://pholder.com/) | Reddit | ⭐⭐| `Copias de publicaciones pasadas`
+  [Scroller](https://scrolller.com/) | Reddit | ⭐⭐⭐⭐| `Visor`
+  [reddtits](https://reddtits.me/) | Reddit | ⭐⭐| `Contenido en vivo`
+  [NSFW Pub](https://nsfwpub.com/) | Reddit | ⭐⭐⭐| `Contenido en vivo`
+
+
+
+# Video
+
 ## General
 
   Nombre|Transmisión|Contenido|Subtítulos
@@ -410,6 +424,7 @@ Nombre|Librería|Calidad|Interfaz
 
 <details>
    <summary>ViperGirls</summary>
+
 + [ViperGirls](https://vipergirls.to/forum.php)
 + Herramientas
    + [Viper Ripper](https://vipergirls.to/threads/1498244): Descarga álbumes de una entrada directamente y soporta varios hospedajes usados en el foro.
@@ -430,14 +445,24 @@ Cómic|Popular|Uploaded, Rapidgator
 
 ### Producción estadounidense y europea
 
+#### Transimisión y descarga
+
 Nombre|Librería|Calidad|Servidor|Hospedaje
 ------|--------|-------|--------|---------
 [Porn4k](https://porn4k.to/)|5313 vídeos|720, 1080|Vidoza|Oboom, Uploaded, Rapidgator
 [Film1k](https://www.film1k.com/)|3680 películas|360, 480, 720|Fembed|Fembed
 
+#### Transmisión
+
+Nombre|Librería|Calidad|Servidor
+------|--------|-------|--------
+[PornHoarder](https://pornhoarder.tv/)|720 000 vídeos|720|
+
 <details>
    <summary>P2P (.torrent)</summary>
-   
+
+   #### Descarga
+
    Nombre|Contenido
    ------|---------
    [PornoLab](https://pornolab.net/forum/index.php)|Cine erótico, amateur (pornhub, chaturbate), sitios web completos, JAV, revistas y sets de fotografías

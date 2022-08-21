@@ -96,17 +96,7 @@ https://www.jetperu.com.pe/calcula-tus-cambios
 # Movies
 - https://shoow.in/
 - https://xxxsave.net/result/ download from Pornhub
-- https://scrolller.com/ reddit for images
 
-# Discover content
-## Reddit frontend
-https://leakxxx.com/user/AlexiaOnly
-https://reddtits.me/
-https://nsfwpub.com/
-
-https://pholder.com/ Reddit Mirror
-
-https://pornhoarder.tv/
 
 https://manolo.rocks/ Quiénes visitan 
 https://www.espanol.skyscanner.com/ Book flights
@@ -154,7 +144,6 @@ ADSR Sample Manager.
 <<<<<<< HEAD
 - https://weird-old-book-finder.glitch.me/
 - Search for [podcasts](https://www.listennotes.com/)
-- [Bibliogram Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md): Useful for RSS feeds of Instagram profiles
 - [Picuki](https://www.picuki.com/): RSS of Instagram profiles
 - [Tips for RSS on Social Media](https://bootcamp.uxdesign.cc/how-i-set-up-my-social-media-diet-via-rss-4b1e936be09d)
 - [Docusaurus](https://docusaurus.io/): Similar to Hugo.
