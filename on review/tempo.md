@@ -102,6 +102,11 @@ https://www.jetperu.com.pe/calcula-tus-cambios
 ## Reddit frontend
 https://leakxxx.com/user/AlexiaOnly
 https://reddtits.me/
+https://nsfwpub.com/
+
+https://pholder.com/ Reddit Mirror
+
+https://pornhoarder.tv/
 
 https://manolo.rocks/ Quiénes visitan 
 https://www.espanol.skyscanner.com/ Book flights
@@ -167,6 +172,8 @@ ADSR Sample Manager.
 - [ArchInstall](https://python-archinstall.readthedocs.io/en/latest/index.html): Instalar más fácilmente Arch ISO.
 - [Pixabay Music](https://pixabay.com/music/): Royalty free music.
 - [nibbler](https://nibbler.silktide.com/): Test any site (such as accesibility, tracking and so on).
+- https://fapello.com/ Onlyfans content
+- https://fappy.ml/egirls_station/index.php?/category/1869
 
 https://activity-graph.herokuapp.com/graph?username=totallynotdavid&theme=xcode&custom_title=Activity%20Graph&hide_border=true
 
