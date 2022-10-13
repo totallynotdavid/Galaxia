@@ -227,3 +227,7 @@ https://activity-graph.herokuapp.com/graph?username=totallynotdavid&theme=xcode&
 
 - [Cloudflare doesn't let you stream](https://lively-sunset-8675.protobb.workers.dev/1:/)
 >>>>>>> 4ed14c62241850ba508f158ec65c045a9de5bdd2
+
+https://dropnudes.com/
+
+https://clipdrop.co/image-upscaler
