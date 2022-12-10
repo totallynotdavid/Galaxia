@@ -131,16 +131,16 @@ Características adicionales:
 
 # IRC
 
-  Nombre|Filtros
-  ------|-------
-  [mibbit](https://search.mibbit.com/networks)|103 redes, miles de canales
-  [ixIRC](https://ixirc.com/)|16 redes, 22 canales y 192119 paquetes XDCC
-  [XDCC](https://www.xdcc.eu/)|27 redes, 73 canales y 1093523 paquetes XDCC
-  [SunXDCC](https://sunxdcc.com/)|10 redes, 18 canales
+  | Nombre | Filtros |
+  | ------ | ------- |
+  | [mibbit](https://search.mibbit.com/networks) | 103 redes, miles de canales |
+  | [ixIRC](https://ixirc.com/) | 16 redes, 22 canales y 192119 paquetes XDCC |
+  | [XDCC](https://www.xdcc.eu/) | 27 redes, 73 canales y 1093523 paquetes XDCC |
+  | [SunXDCC](https://sunxdcc.com/) | 10 redes, 18 canales |
     
 # Otros
 
-  Nombre|Contenido
-  ------|---------
-  [Steam Database](https://steamdb.info/)|Seguimiento sobre las actualizaciones de aplicaciones y paquetes, además de información pública general del videojuego
-  [MusicBrainz](https://musicbrainz.org/)|Información general de canciones publicadas
+  | Nombre | Contenido |
+  | ------ | --------- |
+  | [Steam Database](https://steamdb.info/) | Seguimiento sobre las actualizaciones de aplicaciones y paquetes, además de información pública general del videojuego |
+  | [MusicBrainz](https://musicbrainz.org/) | Información general de canciones publicadas |

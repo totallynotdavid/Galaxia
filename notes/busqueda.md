@@ -2,30 +2,30 @@
 
 <a href="https://weboas.is/">Web Oasis</span></a>
 
-|Índice de sitios|Extras|
-|----------------|------|
-Torrent </br> Emisión directa de películas y series de televisión </br> Foros </br> Subreddits </br> Programación </br> Noticias, libros y audiolibros </br> Herramientas | Noticias </br> Radio </br> Foro </br> [Conversación](https://webchat.is/home)
+| Índice de sitios | Extras |
+| ---------------- | ------ |
+| Torrent </br> Emisión directa de películas y series de televisión </br> Foros </br> Subreddits </br> Programación </br> Noticias, libros y audiolibros </br> Herramientas | Noticias </br> Radio </br> Foro </br> [Conversación](https://webchat.is/home) |
 
 </center>
 
 # General
 
-|Sitio|Características|Categorías|
-|-----|---------------|----------|
-[`EN`] [FilePursuit](https://filepursuit.com/)|Motor de búsqueda con su propio indizador web. <br> <ul><li>Búsqueda por categorías en directorios públicos. <li>Navegar manualmente directorios públicos. <li>Filro por tipo de archivo. <li>Búsqueda manual,</ul> | <ul><li>videos, <li>audios, <li>libros ,<li>archivos, <li>aplicaciones de Android.
+| Sitio | Características | Categorías |
+| ----- | --------------- | ---------- |
+| [`EN`] [FilePursuit](https://filepursuit.com/) | Motor de búsqueda con su propio indizador web. <br> <ul><li>Búsqueda por categorías en directorios públicos. <li>Navegar manualmente directorios públicos. <li>Filtro por tipo de archivo. <li>Búsqueda manual,</ul> | <ul><li>videos, <li>audios, <li>libros ,<li>archivos, <li>aplicaciones de Android. |
 
 ## Solicitudes de búsqueda prestablecidas
 
 ### Google
-|Sitio|Categorías|Adicional|
-|-----|----------|---------|
-[`EN`] [FileChef](https://filechef.com/) `Libre de publicidad`|<ul><li>series de televisión, películas y videos; <li> libros; <li> música; <li>software y videojuegos; <li>imágenes; <li>entre otros.</ul>
-[`EN`] [Abifog Open Directory Search Tool](https://opendirsearch.abifog.com/)|<ul><li>videos, <li>audios, <li> libros, <li>imágenes, <li>archivos.</ul>
-[`EN`] [Eye of Justice](https://www.eyeofjustice.com/od/)|<ul><li>videos; <li>audios; <li> libros; <li>imágenes; <li>software y videojuegos; <li>comprimidos.
-[`EN`] [NMHDDS](https://doyou.needmorehdd.space/)|<ul><li>series de televisión, películas y videos; <li> libros; <li> música; <li>software y videojuegos; <li>imágenes; <li>ISO/DMG.</ul>
-[`EN`] [Filer](https://rsch.neocities.org/gen2/filer.html)|<ul><li>imágenes; <li>música; <li> videos; <li>software; <li>documentos; <li>archivos; <li>torrent; <li>indefinidos.|<ul><li>Directorios públicos, <li>Google Drive (antes), <li>Google Drive (carpeta), <li>servidores porn.if </ul>
-[`EN`] [Lumpysoft](https://lumpysoft.com/)|<ul><li>videos; <li>audios; <li> libros; <li>imágenes; <li>software y videojuegos; <li>comprimidos.|[Código abierto](https://github.com/level42ca/lumpysoft) alojado en Github.
-[`EN`] [LENDX](https://lendx.org/)|<ul><li>libros, <li>videos, <li>audios, <li>software, <li>imágenes, <li>FTP.
+| Sitio | Categorías | Adicional |
+| ----- | ---------- | --------- |
+| [`EN`] [FileChef](https://filechef.com/) `Libre de publicidad` | <ul><li>series de televisión, películas y videos; <li> libros; <li> música; <li>software y videojuegos; <li>imágenes; <li>entre otros.</ul> |
+| [`EN`] [Abifog Open Directory Search Tool](https://opendirsearch.abifog.com/) | <ul><li>videos, <li>audios, <li> libros, <li>imágenes, <li>archivos.</ul> |
+| [`EN`] [Eye of Justice](https://www.eyeofjustice.com/od/) | <ul><li>videos; <li>audios; <li> libros; <li>imágenes; <li>software y videojuegos; <li>comprimidos. |
+| [`EN`] [NMHDDS](https://doyou.needmorehdd.space/) | <ul><li>series de televisión, películas y videos; <li> libros; <li> música; <li>software y videojuegos; <li>imágenes; <li>ISO/DMG.</ul> |
+| [`EN`] [Filer](https://rsch.neocities.org/gen2/filer.html) | <ul><li>imágenes; <li>música; <li> videos; <li>software; <li>documentos; <li>archivos; <li>torrent; <li>indefinidos.|<ul><li>Directorios públicos, <li>Google Drive (antes), <li>Google Drive (carpeta), <li>servidores porn.if </ul> |
+| [`EN`] [Lumpysoft](https://lumpysoft.com/)|<ul><li>videos; <li>audios; <li> libros; <li>imágenes; <li>software y videojuegos; <li>comprimidos. | [Código abierto](https://github.com/level42ca/lumpysoft) alojado en Github. |
+| [`EN`] [LENDX](https://lendx.org/) | <ul><li>libros, <li>videos, <li>audios, <li>software, <li>imágenes, <li>FTP. |
 
 ### Metabuscador
 |Sitio|Características|Categorías|Motores de búsqueda|
