@@ -1,0 +1,13 @@
+on:
+  schedule:
+    - cron: "0 23 * * *"
+name: Generador de TOC
+jobs:
+  generateTOC:
+    name: TOC Generator
+    runs-on: ubuntu-latest
+    steps:
+      - uses: technote-space/toc-generator@v4
+        with:
+          GITHUB_TOKEN: ${{ secrets.LINK_CHECK_404 }}
+          CHECK_ONLY_DEFAULT_BRANCH: true

@@ -1,4 +1,5 @@
-Índice
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 # Administración
 
