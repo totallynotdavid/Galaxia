@@ -1,4 +1,4 @@
-<center>
+<!--center>
 
 <a href="https://weboas.is/">Web Oasis</span></a>
 
@@ -6,7 +6,7 @@
 | ---------------- | ------ |
 | Torrent </br> Emisión directa de películas y series de televisión </br> Foros </br> Subreddits </br> Programación </br> Noticias, libros y audiolibros </br> Herramientas | Noticias </br> Radio </br> Foro </br> [Conversación](https://webchat.is/home) |
 
-</center>
+</center-->
 
 # General
 

@@ -1,0 +1,31 @@
+{
+    "name": "galaxia",
+    "version": "0.0.1",
+    "description": "Colección de enlaces valiosos en Internet con sugerencias prácticas de uso",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+      "npm-run-all": "^4.1.5",
+      "@tailwindcss/typography": "^0.5.9",
+      "tailwindcss": "^3.2.4"
+    },
+    "scripts": {
+      "start:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css -w",
+      "start:hugo": "hugo server",
+      "start": "run-p start:*",
+      "build:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css -m",
+      "build:hugo": "hugo --minify",
+      "build": "run-s build:*"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/totallynotdavid/Galaxia.git"
+    },
+    "keywords": [
+      "hugo",
+      "tailwind",
+      "awesome-list"
+    ],
+    "author": "totallynotdavid",
+    "license": "ISC"
+  }

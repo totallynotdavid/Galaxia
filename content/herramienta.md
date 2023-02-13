@@ -1,6 +1,3 @@
-<!-- START doctoc -->
-<!-- END doctoc -->
-
 # Administración
 
 ## Almacenamiento en la nube
