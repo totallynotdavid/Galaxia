@@ -4,7 +4,13 @@ description: "Selección y recomendación de software y extensiones para mejorar
 date: 2023-10-01
 ---
 
-### Sofware
+## Sofware
+
+### Activador
+
+[Microsoft Activation Scripts](https://massgrave.dev/) (MAS) es un script para activar Windows y Office.
+
+### Extensiones para navegador
 
 #### Importantes
 
