@@ -3,7 +3,12 @@
 <head>
     {{ partial "head.html" . }}
 </head>
-<body>
+<body class="bg-gray-800">
+{{ partial "header.html" . }}
+
 {{ block "main" . }}{{ end }}
+
+{{ partial "footer.html" . }}
+{{ partial "script-footer.html" . }}
 </body>
 </html>

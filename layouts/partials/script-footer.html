@@ -1,0 +1,2 @@
+{{ $js := resources.Get "js/themeToggle.js" }}
+<script src="{{ $js | resources.Minify | resources.Fingerprint }}"></script>

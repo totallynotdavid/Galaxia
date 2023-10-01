@@ -1,0 +1,18 @@
+<header class="bg-gray-900 p-4 w-full">
+  <div class="container max-w-1440 mx-auto flex items-center justify-between">
+      <a href="/" class="flex items-center text-white text-2xl font-bold">
+        {{ partial "logo.html" . }}
+        <span>Galaxia</span>
+      </a>
+
+      <nav>
+          <ul class="flex space-x-4">
+              <li><a href="/" class="text-white hover:text-gray-300">Inicio</a></li>
+          </ul>
+          <div id="themeToggle" class="cursor-pointer">
+              <span class="dark:hidden">🌙</span>
+              <span class="hidden dark:inline">☀️</span>
+          </div>
+      </nav>
+  </div>
+</header>
