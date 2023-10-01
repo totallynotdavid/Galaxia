@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = "https://totallynotdavid.github.io/galaxia/"
 languageCode = 'en-us'
 title = 'Hugo & Tailwind 3.0'
 disableKinds = ["taxonomy","taxonomyTerm"]
