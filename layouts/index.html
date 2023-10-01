@@ -1,25 +1,48 @@
 {{ define "main" }}
-<div class="bg-gray-800 min-h-screen flex items-center justify-center">
-    <div class="container max-w-1440 bg-gray-700 rounded-lg p-6 flex">
-      <div class="mx-6">
-        <h1 class="text-white text-2xl font-bold mb-4">Busca las <span class="text-purple-500">páginas</span> que realmente te interesan.</h1>
-        <p class="text-white text-base opacity-75">Internet tiene muchísimas herramientas. Muchas de ellas, desconoces. Encuéntralas y utílizalas en tus propios proyectos.</p>
-        <div class="flex mt-4">
-          <div class="mx-6">
-            <h2 class="text-white text-lg font-medium">10k+</h2>
-            <p class="text-white text-xs opacity-60">ENLACES</p>
-          </div>
-          <div class="mx-6">
-            <h2 class="text-white text-lg font-medium">1</h2>
-            <p class="text-white text-xs opacity-60">CONTRIBUIDOR</p>
-          </div>
-          <div class="mx-6">
-            <h2 class="text-white text-lg font-medium">X</h2>
-            <p class="text-white text-xs opacity-60">VISITAS</p>
-          </div>
+<div class="bg-gray-800 min-h-screen flex flex-col items-center justify-center p-8">
+    <!-- Presentación -->
+    <div class="container max-w-1440 bg-gray-700 rounded-lg p-8 flex flex-col md:flex-row space-y-8 md:space-y-0 md:space-x-8 mb-8">
+        <!-- Left content -->
+        <div class="flex-1">
+            <h1 class="text-white text-2xl font-bold mb-4">
+              Encuentra las <span class="text-purple-500">páginas</span> que realmente te interesan.
+            </h1>
+            <p class="text-white text-base opacity-75 mb-6">
+              La web está llena de recursos escondidos. Hemos recopilado herramientas y enlaces valiosos que podrías haber pasado por alto.
+            </p>
+            <div class="flex mt-4 space-x-6">
+                <div class="mx-6">
+                    <h2 class="text-white text-lg font-medium">10k+</h2>
+                    <p class="text-white text-xs opacity-60">ENLACES</p>
+                </div>
+                <div class="mx-6">
+                    <h2 class="text-white text-lg font-medium">1</h2>
+                    <p class="text-white text-xs opacity-60">CONTRIBUIDOR</p>
+                </div>
+                <div class="mx-6">
+                    <h2 class="text-white text-lg font-medium">X</h2>
+                    <p class="text-white text-xs opacity-60">VISITAS</p>
+                </div>
+            </div>
         </div>
-      </div>
-      <img src="https://i.imgur.com/adiHcLl.png" class="rounded-l-lg">
+
+        <!-- Imagen -->
+        <div class="md:w-1/3">
+            <img src="https://i.imgur.com/adiHcLl.png" class="rounded-lg">
+        </div>
     </div>
-  </div>
+
+    <!-- Posts box -->
+    <div class="container max-w-1440 bg-gray-700 rounded-lg p-8">
+        <h2 class="text-white text-xl font-bold mb-6">Secciones</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {{ range .Site.RegularPages }}
+            <a href="{{ .RelPermalink }}" class="block bg-gray-600 p-4 rounded-lg transition hover:bg-gray-500 hover:shadow-lg">
+                <h3 class="text-white text-xl mb-2">{{ .Title }}</h3>
+                <p class="text-white opacity-75">{{ .Description }}</p>
+            </a>
+        {{ end }}
+        </div>
+    </div>
+</div>
 {{ end }}
