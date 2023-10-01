@@ -1,3 +1,9 @@
+---
+title: "Discoteca"
+description: "Directorio para descarga y búsqueda de audios: desde audiolibros hasta bandas sonoras y música libre de uso."
+date: 2023-10-01
+---
+
 ## Popular __en continuo__ 
 - [slide](https://slider.kz/)
 - [VKMusic](https://denr01.com/vkmusic/)

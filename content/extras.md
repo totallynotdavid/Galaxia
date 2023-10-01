@@ -1,3 +1,10 @@
+---
+title: "Extras"
+draft: true
+description: "Pendientes de clasificación"
+date: 2023-10-01
+---
+
 ## Multimedia
 1. Cine
    - [Movidy](https://movidy.co/), cine en castellano, español latino

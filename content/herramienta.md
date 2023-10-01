@@ -1,3 +1,9 @@
+---
+title: "Herramientas"
+description: "Opciones para usuarios avanzados o con necesidades específicas: automatización, búsqueda inversa, descarga, etc."
+date: 2023-10-01
+---
+
 # Administración
 
 ## Almacenamiento en la nube

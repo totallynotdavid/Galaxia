@@ -1,3 +1,9 @@
+---
+title: "Mediateca"
+description: "Donde poder ver o descargar contenido multimedia en internet: software, películas, series de TV y revistas."
+date: 2023-10-01
+---
+
 ## Índice
 1. [General](#general)
 2. [Software](#software)

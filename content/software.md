@@ -1,3 +1,9 @@
+---
+title: "Software"
+description: "Selección y recomendación de software y extensiones para mejorar tu experiencia."
+date: 2023-10-01
+---
+
 ### Sofware
 
 #### Importantes

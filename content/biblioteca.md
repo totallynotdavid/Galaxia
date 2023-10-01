@@ -1,3 +1,9 @@
+---
+title: "Biblioteca"
+description: "Directorio extenso de bibliotecas digitales y recursos en línea: libros, artículos académicos, cómics, revistas, etc"
+date: 2023-10-01
+---
+
 ## Índice
 - [Bibliotecas digitales](#bibliotecas-digitales)
   - [Estándar](#estándar)
