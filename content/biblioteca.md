@@ -58,6 +58,7 @@ date: 2023-10-01
 ### Academia
 
 [Academic Torrents](https://academictorrents.com/) `torrent`:
+
 - Artículos científicos, cursos y sets de datos
 - Tamaño: grande
 
