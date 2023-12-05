@@ -4,212 +4,149 @@ description: "Para enlaces que te harán decir: \"¡Esto es justo lo que necesit
 date: 2023-10-01
 ---
 
-# RSS
+## RSS
 
 | Nombre | Sitio | Enlace | Adicional |
 | ------ | ----- | ------ | --------- |
 | Bibliogram | Instagram | [Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) |
 
-
 - Aprendizaje
-    - Diseño
-        - ^^EN^^ [The Bézier Game](https://bezier.method.ac/)
-            - Videojuego para aprender a usar la pluma
-        - ^^EN^^ [Kern Type](https://type.method.ac/)
-            - Aprende a distribuir correctamente el espacio entre letras en un texto
-    - Idiomas
-        - Inglés
-            - ^^EN^^ [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
-            - ^^EN^^ [British Council's Learning English](https://learnenglish.britishcouncil.org/)
+  - Diseño
+    - ^^EN^^ [The Bézier Game](https://bezier.method.ac/)
+      - Videojuego para aprender a usar la pluma
+    - ^^EN^^ [Kern Type](https://type.method.ac/)
+      - Aprende a distribuir correctamente el espacio entre letras en un texto
+  - Idiomas
+    - Inglés
+      - ^^EN^^ [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
+      - ^^EN^^ [British Council's Learning English](https://learnenglish.britishcouncil.org/)
 - Compras
-    - ^^EN,ES,+^^ [camelcamelcamel](https://camelcamelcamel.com/)
-        - Funciones
-            - Seguimiento a los precios de Amazon
-            - Tablas históricas de precios por producto
-            - Seguimiento al precio de un producto determinado
-        - Idiomas disponibles
-            - Español
-            - Inglés
-            - Alemán
-            - Francés
-            - Italiano
-        - Extensiones
-            - Mozilla
-            - Chrome
-    - ^^EN^^ [wirecutter](https://thewirecutter.com/)
-        - Recomendaciones
-        - Características
-            - Reseñas 
-            - Ofertas 
-            - Consejos al comprar
-        - Categorías
-            - Electrónicos
-            - Casa y jardín
-            - Cocina
-            - Electrodomésticos
-            - Salud
-            - Software y aplicaciones
-            - +
+  - ^^EN,ES,+^^ [camelcamelcamel](https://camelcamelcamel.com/)
+    - Funciones
+      - Seguimiento a los precios de Amazon
+      - Tablas históricas de precios por producto
+      - Seguimiento al precio de un producto determinado
+    - Idiomas disponibles
+      - Español
+      - Inglés
+      - Alemán
+      - Francés
+      - Italiano
+    - Extensiones
+      - Mozilla
+      - Chrome
+  - ^^EN^^ [wirecutter](https://thewirecutter.com/)
+    - Recomendaciones
+    - Características
+      - Reseñas
+      - Ofertas
+      - Consejos al comprar
+    - Categorías
+      - Electrónicos
+      - Casa y jardín
+      - Cocina
+      - Electrodomésticos
+      - Salud
+      - Software y aplicaciones
+      - +
         - Propiedad de The New York Times
-- Creación de contenido
-    - Archivo
-        - ^^EN^^ [Pexels](https://www.pexels.com/) `Imágenes y videos`
-            - Imágenes contribuidas por la comunidad
-            - Características
-                - Descarga imágenes y videos de archivo
-                - Licencia de uso personal y comercial gratuito
-                - Atribución no requerida
-        - ^^EN^^ [BentenSound](https://bentensound.com/) `Música`
-            - Plataforma descentralizada
-            - Características
-                - Descarga de música de archivo
-                - Licencia de uso comercial
-                - Atribución requerida
-        - ^^EN^^ [Videvo](https://www.videvo.net/) `Videos, música y sonidos`
-            - Imágenes de archivo de videos, música y sonidos
-            - Características
-                - Descarga videos (varios disponibles en 4K), música y sonidos de archivo
-                - Licencia de uso personal y comercial gratuito
-                - Atribución requerida a menos que uses la versión de pago
-                - Versión de pago
-        - Obras de arte
-            - ^^EN^^ [Acceso Abierto de Smithsonian](https://www.si.edu/openaccess)
-            - ^^EN^^ [Colección en dominio público del Museo Metropolitano de Arte](https://www.metmuseum.org/art/collection/search#!?searchField=All&showOnly=openAccess&sortBy=Relevance&offset=0&pageSize=0)
-                - Contenido
-                    - Fotografías
-                    - Pinturas
-                    - Objetos
-            - ^^EN^^ [Colección del Instituto de Arte de Chicago](https://www.artic.edu/collection)
-                - Contenido
-                    - Pinturas y fotografías de objetos en dominio público
-                    - Pinturas y fotografías de objetos con licencias cerradas
-            - ^^EN^^ [Colour our Collections](https://library.nyam.org/colorourcollections/)
-                - Imágenes en dominio público
-                - Contenido
-                    - Fotografías medievales y modernas de dibujos
-                    - Dibujos sin colorear, solo trazos
-    - Diseño
-        - General `servidor`
-            - General
-                - {{table}}
-                    - **Nombre**
-                        - **Contenido**
-                            - **Hospedaje**
-                    - [Graphicex](https://graphicex.com/)
-                        - Vector, imagen de archivo, textura, tipografía, plantilla para Photoshop, Indesign, Lightroom y Power Point (166005)
-                            - Zippyshare, Rapidgator, Prefiles, entre otros
-                    - [Audio wareZ](https://audioz.download/) `foro`
-                        - Software y complementos de edición de audio, revistas, cursos y muestras (89160)
-                            - Rapidgator, Uploaded, Nitroflare `Usenet`
-                    - [vestathemes](https://vestathemes.com/) `wordpress`
-                        - Plantillas y complementos para Wordpress (28900)
-                            - Propio
-                    - [CG Persia](https://cgpersia.com/)
-                        - Software (2D, 3D, VFX), texturas, modelos 3D y cursos (19230)
-                            - Rapidgator, Alfafile, Nitroflare
-                    - [GFX-Hub](https://gfx-hub.net/)
-                        - Software, complemento, modelo 3D, material, textura, efectos de video y sonido, libros y revistas (15850)
-                            - Hitfile, Nitroflare
-            - Inaccesible
-                - {{table}}
-                    - **Nombre**
-                        - **Contenido**
-                            - **Foro**
-                    - [CGPeers](cgpeers.com) `cerrado`
-                        - Software (2D, 3D, VFX), texturas, modelos 3D y cursos, entre otros
-                            - Sí
-                    - [GFXDomain](https://forum.gfxdomain.net/) `cerrado`
-                        - Software (2D, 3D, VFX, edición), complementos, tutoriales, modelos 3D y texturas
-                            - Sí
-                    - [Web4Sync](https://web4sync.com/) `de pago`
-                        - Desarrollo y diseño web (complemento, tema para Wordpress, entre otros)
-                            - Sí
-        - Animación
-            - ^^EN^^ [Piskel](https://www.piskelapp.com/)
-                - Aplicación web gratuita (cuenta necesaria)
-                - Características
-                    - Editor en línea de sprites
-                    - Arte de píxeles
-                    - Previsualización
-                    - Exportar en formato .gif o .png
-                    - Galería privada
-                - [Código abierto](https://github.com/piskelapp/piskel)
-                - Sistemas operativos (limitados en comparación a la web)
-                    - Windows
-                    - macOS
-                    - Linux
-        - Edición gráfica
-            - ^^EN^^ [Vectr](https://vectr.com/)
-                - Aplicación web gratuita
-                - Características
-                    - Capas de edición
-                    - Herramienta pluma y lápiz
-                    - Texto
-                    - Subida de imágenes
-                    - Exporta en .svg, .png y .jpg
-            - ^^EN^^ [Method Draw](https://editor.method.ac/)
-                - Aplicación web gratuita
-                - Características
-                    - Capas de edición
-                    - Herramienta pluma y lápiz
-                    - Formas
-                    - Cuentagotas
-                    - Texto
-                    - Subida de imágenes
-                    - Exporta en .svg y .png
-                - [Código abierto](https://github.com/methodofaction/Method-Draw)
-        - Tipografías
-            - ^^EN^^ [FontSquirrel](https://www.fontsquirrel.com/)
-                - Características
-                    - Tipografías libres de uso comercial (varios lenguajes disponibles)
-                    - Generador de tipografías web
-                    - Identificador de tipografías
-            - ^^EN^^ [Freebies.ByPeople](https://www.bypeople.com/category/free-fonts/)
-                - Características
-                    - Tipografías libres de uso comercial
-                - Formatos
-                    - OTF
-                    - TTF
-                    - EOT
-                    - WOFF
-                    - WOFF2
-        - Paletas de color
-            - ^^EN^^ [Color Hunt](https://colorhunt.co)
-            - ^^EN^^ [Cohesive Colors](https://javier.xyz/cohesive-colors/)
-    - Documentos
-        - Presentación
-            - ^^EN^^ [SlidesCarnival](https://www.slidescarnival.com/)
-                - Funciones
-                    - Descarga plantillas gratuitamente
-                    - Contenido
-                        - Plantillas para Power Point
-                        - Temas para Google Slides
-                        - Plantilas de Canva
-                    - Filtro por contenido
-        - Textos
-            - ^^EN^^ [Quetext](https://www.quetext.com/) `Detección de plagio`
-                - Funciones
-                    - Detección de plagio
-                    - Asistente de citación y referencias
-                - Servicio gratuito en línea
-            - ^^EN^^ [ExtractPDF](https://www.extractpdf.com/)
-                - Funciones
-                    - Extrae imágenes, textos y tipografías de un archivo .pdf
-                    - Tamaño máximo: 25 mb
-                    - Sin registro necesario
-    - Grabación
-        - Captura de pantalla
-            - ^^EN^^ [RecordScreen](https://recordscreen.io/)
-                - Características
-                    - Grabación de pantalla en el navegador
-                    - Aplicación web
-    - Música
-        - ^^EN^^ [Moises.ai](https://moises.ai/) `Separar voz de música`
-            - Características
-                - Cinco subidas de máximo 5 minutos al mes
-                - 7 días de disponibilidad
-                - Separa voz de varios instrumentos (bajo, batería, guitarra, etc)
-                - También servicio de pago
+
+# Recursos para Creación de Contenido
+
+### Archivo
+
+| Fuente | Tipo | Características | Enlace |
+| ------ | ---- | --------------- | ------ |
+| Pexels | Imágenes y videos | - Comunidad contribuye imágenes<br> - Descarga gratuita<br> - Licencia de uso personal y comercial<br> - Atribución no requerida | [Pexels](https://www.pexels.com/) |
+| BentenSound | Música | - Plataforma descentralizada<br> - Descarga de música de archivo<br> - Licencia de uso comercial<br> - Atribución requerida | [BentenSound](https://bentensound.com/) |
+| Videvo | Videos, música y sonidos | - Descarga de videos, música y sonidos<br> - Licencia gratuita y comercial<br> - Atribución requerida / versión de pago | [Videvo](https://www.videvo.net/) |
+
+#### Obras de Arte
+
+| Fuente | Descripción | Enlace |
+| ------ | ----------- | ------ |
+| Acceso Abierto de Smithsonian | Contenidos diversos de arte | [Smithsonian](https://www.si.edu/openaccess) |
+| Museo Metropolitano de Arte | Colección en dominio público | [Metropolitan Museum](https://www.metmuseum.org/art/collection) |
+| Instituto de Arte de Chicago | Pinturas y fotografías en dominio público y con licencias | [Art Institute of Chicago](https://www.artic.edu/collection) |
+| Colour our Collections | Imágenes en dominio público para colorear | [Colour our Collections](https://library.nyam.org/colorourcollections/) |
+
+## Diseño
+
+### General
+
+| Nombre | Contenido | Hospedaje | Enlace |
+| ------ | --------- | --------- | ------ |
+| Graphicex | Vectores, imágenes, texturas, plantillas | Zippyshare, Rapidgator, etc. | [Graphicex](https://graphicex.com/) |
+| Audio wareZ | Software y complementos de audio | Rapidgator, Uploaded, Nitroflare | [Audio wareZ](https://audioz.download/) |
+| vestathemes | Plantillas Wordpress | Propio | [vestathemes](https://vestathemes.com/) |
+| CG Persia | Software 2D/3D, texturas, modelos | Rapidgator, Alfafile, Nitroflare | [CG Persia](https://cgpersia.com/) |
+
+### Inaccesible
+
+| Nombre | Contenido | Foro | Enlace |
+| ------ | --------- | ---- | ------ |
+| CGPeers | Software 2D/3D, texturas, modelos | Sí | [CGPeers](cgpeers.com) |
+| GFXDomain | Software, complementos, tutoriales | Sí | [GFXDomain](https://forum.gfxdomain.net/) |
+| Web4Sync | Desarrollo y diseño web | Sí | [Web4Sync](https://web4sync.com/) |
+
+### Animación
+
+| Nombre | Características | Enlace |
+| ------ | --------------- | ------ |
+| Piskel | Editor en línea de sprites, arte de píxeles, exporta en .gif/.png | [Piskel](https://www.piskelapp.com/) |
+
+### Edición Gráfica
+
+| Nombre | Características | Enlace |
+| ------ | --------------- | ------ |
+| Vectr | Edición con capas, herramientas de dibujo, exporta en varios formatos | [Vectr](https://vectr.com/) |
+| Method Draw | Capas de edición, herramientas de dibujo, exporta en .svg y .png | [Method Draw](https://editor.method.ac/) |
+
+### Tipografías
+
+| Nombre | Características | Enlace |
+| ------ | --------------- | ------ |
+| FontSquirrel | Tipografías libres de uso comercial, generador de tipografías web | [FontSquirrel](https://www.fontsquirrel.com/) |
+| Freebies.ByPeople | Tipografías libres de uso comercial en varios formatos | [Freebies.ByPeople](https://www.bypeople.com/category/free-fonts/) |
+
+### Paletas de color
+
+| Nombre | Enlace |
+| ------ | ------ |
+| Color Hunt | [Color Hunt](https://colorhunt.co) |
+| Cohesive Colors | [Cohesive Colors](https://javier.xyz/cohesive-colors/) |
+
+## Documentos
+
+### Presentación
+
+| Nombre | Funciones | Enlace |
+| ------ | --------- | ------ |
+| SlidesCarnival | Plantillas para presentaciones, filtro por contenido | [SlidesCarnival](https://www.slidescarnival.com/) |
+
+### Textos
+
+| Nombre | Funciones | Enlace |
+| ------ | --------- | ------ |
+| Quetext | Detección de plagio, asistente de citación | [Quetext](https://www.quetext.com/) |
+| ExtractPDF | Extrae imágenes, textos y tipografías de PDF | [ExtractPDF](https://www.extractpdf.com/) |
+
+## Grabación
+
+### Captura de Pantalla
+
+| Nombre | Características | Enlace |
+| ------ | --------------- | ------ |
+| RecordScreen | Grabación de pantalla en navegador | [RecordScreen](https://recordscreen.io/) |
+
+## Música
+
+### Separar voz de música
+
+| Nombre | Características | Enlace |
+| ------ | --------------- | ------ |
+| Moises.ai | Separación de voz e instrumentos, límite de subidas | [Moises.ai](https://moises.ai/) |
+
 - Compartir archivos
     - A través de internet
         - General
@@ -227,7 +164,7 @@ date: 2023-10-01
                     - Características
                         - Comparte archivos de forma simple y privada
                         - Límite de 1GB de forma anónima y límite de 2.5GB para usuario de Firefox
-                        - Cifrado de extremo a extremo 
+                        - Cifrado de extremo a extremo
             - Ocasional
                 - ^^EN^^ [Smash](https://fromsmash.com/)
                     - Sencillo y fácil
@@ -264,7 +201,7 @@ date: 2023-10-01
                         - Alemán
                         - Francés
                         - Portugués
-                        - +
+                        - Entre otros
     - A través de una conexión Wi-Fi directa
         - ^^EN^^ [Snapdrop](https://snapdrop.net/)
             - Aplicación web
@@ -321,8 +258,8 @@ date: 2023-10-01
                 - Lista de reproducción
                 - Letra de la canción
             - Formatos
-                - MP4 H.264 (AAC or MP3) 
-                - WAVE PCM 
+                - MP4 H.264 (AAC or MP3)
+                - WAVE PCM
                 - Ogg Theora Vorbis
             - Complementos
 - Seguridad
@@ -336,25 +273,25 @@ date: 2023-10-01
                     - Windows 7 (32 y 64 bits)
                     - Windows XP, Vista, Windows 7/8, 10
             - Formatos disponibles
-                - PE (.exe, .scr, .pif, .dll, .com, .cpl, etc.) 
+                - PE (.exe, .scr, .pif, .dll, .com, .cpl, etc.)
                 - Office (.doc, .docx, .ppt, .pps, .pptx, .ppsx, .xls, .xlsx, .rtf, .pub)
                 - PDF (.pdf)
                 - APK (.apk)
                 - Ejecutable Java (.jar)
-                - Componente de órdenes de Windows (.sct) 
-                - Accesos directos de Windows (.lnk) 
-                - Ayuda de Windows (.chm) 
+                - Componente de órdenes de Windows (.sct)
+                - Accesos directos de Windows (.lnk)
+                - Ayuda de Windows (.chm)
                 - Aplicación HTML (.hta)
-                - Archivo de órdenes de Windows (*.wsf), 
+                - Archivo de órdenes de Windows (*.wsf),
                 - Javascript (.js)
-                - Visual Basic (*.vbs, *.vbe)
-                - Shockwave Flash (.swf), 
+                - Visual Basic (*.vbs,*.vbe)
+                - Shockwave Flash (.swf),
                 - Perl (.pl)
                 - Powershell (.ps1, .psd1, .psm1)
                 - Gráficos vectoriales escalables (.svg)
                 - Órdenes de Python (.py) y Perl (.pl)
                 - Ejectuables Linux ELF
-                - MIME RFC 822 (*.eml), 
+                - MIME RFC 822 (*.eml),
                 - Paquetes de instalación de Microsoft (*.msi)
                 - Archivos de mensaje de Outlook (*.msg)
     - Privacidad
@@ -423,7 +360,7 @@ date: 2023-10-01
                 - Corrientes de agua
                 - Río
                 - Gotas
-                - +
+                - Entre otros
             - Temporizador
             - Necesario iniciar sesión
         - Extensiones

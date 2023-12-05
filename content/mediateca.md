@@ -5,6 +5,7 @@ date: 2023-10-01
 ---
 
 ## Índice
+
 1. [General](#general)
 2. [Software](#software)
    - [Aplicación](#aplicación)
@@ -17,7 +18,7 @@ date: 2023-10-01
        - [Multimedia](#multimedia)
        - [Tienda de aplicaciones de Android](#tienda-de-aplicaciones-de-Android)
      - [Repositorios de aplicaciones en hospedaje de terceros](#repositorios-de-aplicaciones-en-hospedaje-de-terceros)
-3. [Video](#Video)
+3. [Video](#video)
    - [Cursos](#cursos)
    - [Cine y series de televisión](#cine-y-series-de-televisión)
      - [Producción estadounidense y europea](#producción-estadounidense-y-europea)
@@ -32,7 +33,7 @@ date: 2023-10-01
      - [Producción estadounidense y europea](#producción-estadounidense-y-europea)
      - [Producción japonesa](#producción-japonesa)
        - [Animación pornográfica](#animación-pornográfica)
-       - [JAV](#JAV)
+       - [JAV](#jav)
        - [Set de fotografía (legal)](#set-de-fotografía-(legal))
      - [Producción surcoreana](#producción-surcoreana)
      - [Amateur asiático](#amateur-asiático)
@@ -51,7 +52,7 @@ date: 2023-10-01
   [RuTracker](https://rutracker.org/forum/index.php)|Confiable|General, anime, libro (+audiolibro), revistas, tutoriales
   [TGx](https://torrentgalaxy.to/)|Regular|General, anime, libros, documentales
   [GloTorrents](https://glodls.to/)|Cuidado|General, anime, libro, set de fotografía
-  [Kickass Torrents](https://katcr.co/)|Cuidado|General, anime, libro, magazín, set de fotografía (suave y explícito) 
+  [Kickass Torrents](https://katcr.co/)|Cuidado|General, anime, libro, magazín, set de fotografía (suave y explícito)
   [ProStyleX](https://prostylex.org/)|Cuidado|General, anime, JAV, hentai, set de fotografía
   <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" width="17"> [rutor](http://rutor.info/)|Cuidado|General, anime, cine extranjero, comedia en vivo, documentales
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17">[JoyMaxim](https://joymaxim.com/)|Cuidado|Cine, programas de televisión, doramas, documentales, videojuegos, animación japonesa
@@ -73,6 +74,7 @@ date: 2023-10-01
 </details>
 
 # Software
+
 ## Aplicación
 
   Nombre|Hospedaje|Categorías
@@ -83,6 +85,7 @@ date: 2023-10-01
   [haxNode](https://haxnode.com/) `1010`|Usersdrive, SnowFiles|Aplicaciones de Windows, Android y macOS
   
 ## Videojuegos
+
 ### Antiguos
 
   Nombre|Hospedaje
@@ -122,6 +125,7 @@ date: 2023-10-01
 ## Móviles
 
 ### Aplicaciones nativas
+
 [microG](https://microg.org/): Es una reimplementación de las bibliotecas del espacio de usuario de Android. También es [código abierto](https://github.com/microg)
 
 #### Bloqueo de publicidad
@@ -130,13 +134,13 @@ date: 2023-10-01
    ------|------|--------------|-----
    [AdAway](https://adaway.org/)|2.1|[Sí](https://github.com/AdAway/AdAway)|Necesario un dispositivo ruteado; sistema de bloqueo similar a uBlock Origin
    [Blockada](https://blokada.org/)|5.0|[Sí](https://github.com/blokadaorg/blokada)|No requiere dispositivo ruteado ya que hace uso de una API de una VPN
-                    
+
 #### Multimedia
 
 Entretenimiento
 
 <details>
-   
+
    <summary>1. General</summary>
 
    Nombre|Mínimo|Contenido|Sistema Operativo|Notas
@@ -145,7 +149,7 @@ Entretenimiento
    [Kokotime](https://www.kokotime.tv/)|4.1|Películas y programas de televisión|Android|Reproductor nativo, subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">, funciona con Chromecast
    [Viva](https://vivatv.io/)|4.0?|Películas, programas de televisión y en vivo|Android, Amazon Fire TV y Fire Stick|Sincronización con [Trakt](https://trakt.tv/); subtítulos <img src="https://static.opensubtitles.org/gfx/logo.gif" width="37">; funciona con Real-debrid, Alldebrid y Premiumize
    [BeeTV](https://beetvapk.net/)|4.0|Películas y programas de televisión|Android y Firestick|Interfaz regular
-   
+
 </details>
 
 <details>
@@ -162,7 +166,7 @@ Entretenimiento
    [H-DLR](https://cylonu87.github.io/HDLR/)|4.4|Android|No|Subtítulos en varios idiomas; descarga de episodios
    [NineAnimator](https://nineanimator.marcuszhou.com/)[Código abierto](https://github.com/SuperMarcus/NineAnimator)|11.2|iOS|No|Descarga de episodios; modo oscuro; imagen en imagen (solo en iPads); funciona con Chromecast (limitado) y AirPlay
    </details>
-   
+
    <details>
    <summary>  Manga para sistemas Android</summary>
 
@@ -170,9 +174,9 @@ Entretenimiento
    ------|------|----------|--------|----
    [Tachiyomi](https://tachiyomi.org/) [Código abierto](https://github.com/inorichi/tachiyomi)|5.0|No|Sí|Traducciones en varios idiomas; seguimiento con MyAnimeList, AniList, [Kitsu](https://kitsu.io/) y [Shikimori](https://shikimori.one/); modo oscuro; extensiones
    [MangaDLR](https://cylonu87.github.io/androidapps/mangadlr)|4.1|No|Sí|Traducciones en varios idiomas
-   
+
    </details>
-   
+
 </details>
 
 #### Tienda de aplicaciones para Android
@@ -200,8 +204,6 @@ Entretenimiento
   [reddtits](https://reddtits.me/) | Reddit | ⭐⭐| `Contenido en vivo`
   [NSFW Pub](https://nsfwpub.com/) | Reddit | ⭐⭐⭐| `Contenido en vivo`
 
-
-
 # Video
 
 ## General
@@ -211,6 +213,7 @@ Entretenimiento
   [Daxiv](https://daxiv.com/)|Emisión en continuo|Cine y series de televisión estadounidenses, europeos y asiáticos; cine adulto surcoreano|En varios idiomas <img src="https://static.opensubtitles.org/gfx/logo.gif" width="39">
 
 ## Cursos
+
 ### General `.torrent` `mismo administrador`
 
   Nombre|Idioma|Contenido
@@ -225,11 +228,13 @@ Entretenimiento
   Nombre|Descripción|Contenido|Hospedaje
   ------|-----------|---------|---------
   [CosmoLearning](https://cosmolearning.org/) `Estudiante`|Cursos y documentales ordenados por categorías  y autor más listas de reproducción|1791 documentales y 1293 cursos|Youtube
-                        
+
 ## Cine y series de televisión
+
 ### Producción estadounidense y europea
 
 #### General
+
 <details>
    <summary>Emisión en continuo</summary>
 
@@ -254,7 +259,7 @@ Entretenimiento
    <summary>Descarga</summary>
    <details>
       <summary>--->IRC</summary>
-    
+
   Red|Canal
   ---|-----
   [SceneP2P](https://scenep2p.net/)|THE.SOURCE
@@ -352,7 +357,7 @@ Nombre|Librería|Idioma|Emisión en continuo|Hospedaje
 #### En vivo
 
   [U.S. TV](https://ustvgo.tv/) y [123TV](http://123tvnow.com/)
-                
+
 ### Producción asiática
 
 #### General
@@ -400,7 +405,7 @@ Nombre|Contenido|Servidores
 
 <details>
    <summary>Descarga</summary>
-   
+
    Nombre|Librería|Calidad|Hospedaje
    ------|--------|-------|---------
    [Frozen-Layer](https://www.frozen-layer.com/)|42562 (p2p), 8788 (Servidor)|720, 1080|Mediafire, Mega
@@ -410,12 +415,12 @@ Nombre|Contenido|Servidores
 
 <details>
    <summary>Servidor</summary>
-   
+
    Nombre|Librería|Calidad|Hospedaje|Nota
    ------|--------|-------|---------|----
    [AnimeKayo](https://animekayo.com/)|2314 series, 472 películas|480, 720, 1080|Google Drive|Contiene algunos doblajes
    [Anime Kaizoku](https://animekaizoku.com/)|1458 series, 312 películas|480, 720, 1080|Google Drive, OneDrive
-    
+
 </details>
 
 #### Dorama
@@ -431,9 +436,9 @@ Nombre|Librería|Calidad|Interfaz
 <details>
    <summary>ViperGirls</summary>
 
-+ [ViperGirls](https://vipergirls.to/forum.php)
-+ Herramientas
-   + [Viper Ripper](https://vipergirls.to/threads/1498244): Descarga álbumes de una entrada directamente y soporta varios hospedajes usados en el foro.
+- [ViperGirls](https://vipergirls.to/forum.php)
+- Herramientas
+  - [Viper Ripper](https://vipergirls.to/threads/1498244): Descarga álbumes de una entrada directamente y soporta varios hospedajes usados en el foro.
 
 Contenido|Sitios|Servidor|Nota
 ---------|------|--------|----
@@ -443,7 +448,7 @@ Set de fotografías|"Escena"|imx.to|Keep2Share
 Pornografía|"Escena"|Keep2Share|Calidad: 720, 1080, 2160
 Revistas|-|Uploaded, Rapidgator
 Hentai subtitulado y doblado al inglés (OVA y videojuego)|Popular|Keep2Share, Filesmonter (`150kbps`)
-Videojuegos 3D|Popular|Keep2share, Rapidgator, Uploaded 
+Videojuegos 3D|Popular|Keep2share, Rapidgator, Uploaded
 Cómic|Popular|Uploaded, Rapidgator
 
 `Posee más categorías`
@@ -467,15 +472,16 @@ Nombre|Librería|Calidad|Servidor
 <details>
    <summary>P2P (.torrent)</summary>
 
-   #### Descarga
+#### Descarga
 
    Nombre|Contenido
    ------|---------
    [PornoLab](https://pornolab.net/forum/index.php)|Cine erótico, amateur (pornhub, chaturbate), sitios web completos, JAV, revistas y sets de fotografías
-   
+
 </details>
 
 ### Producción japonesa
+
 #### General
 
 Nombre|Contenido|Emisión en continuo|Descarga
@@ -521,7 +527,7 @@ Nombre|Librería|Calidad|Subtítulo
 
 <details>
    <summary>Emisión en continuo</summary>
-   
+
    <details>
    <summary>Legal (interfaz en inglés)</summary>
   
@@ -537,12 +543,12 @@ Nombre|Librería|Calidad|Subtítulo
    [JPornAccess](https://jpornaccess.com/)|El estudio más grande sin censura|No|{{5}}/{{10}}|Dreamroom
    [nanairo](https://nanairo.co/ja/)|Grabado en cuartos de hotel con buena iluminación|No|{{10}}/{{10}}|S-Cute
    <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="17">[SOD](https://ec.sod.co.jp/prime/sod_free/)|JAV de los 90 y 2000|Sí|{{6}}/{{10}}|SOD
-     
+
    </details>
-   
+
    <details>
    <summary>Terceros</summary>
-   
+
    Nombre|Censura|Interfaz|Calidad|Nota
    ------|-------|--------|-------|----
    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [Netflav](https://netflav.com/)|Sí/No|{{10}}/{{10}}|480,720|Descarga + `.torrent`
@@ -555,7 +561,7 @@ Nombre|Librería|Calidad|Subtítulo
    [HPJAV](https://hpjav.tv/)|Sí/No|{{5}}/{{10}}|480,720,1080|Descarga
    [JAV-tc](https://javtc.tv/)|Sí/No|{{5}}/{{10}}|480,720,1080|Algunos se pueden descargar
    [TW DVD](http://twdvd.com/video/) [1](https://oursogo.com/adult.html)|Sí/No|{{5}}/{{10}}|480,720|Pornografía occidental
-   
+
    </details>
 </details>
 
@@ -567,7 +573,7 @@ Nombre|Censura|Calidad|Interfaz
 [JAVJunkies](https://www.javbus.com/en)|Sí|720, 1080|{6}}/{{10}}
 [OneJAV](https://onejav.com/)|Sí|720,1080|{{9}}/{{10}}
 [JavBus](https://www.javbus.com/en)|Sí/No|480, 720|{{8}}/{{10}}
-[Jav Torrent](https://javzt.blogspot.com/)|No|720|{{5}}/{{10}} 
+[Jav Torrent](https://javzt.blogspot.com/)|No|720|{{5}}/{{10}}
 [SekTorrent](https://sektorrent5.org/)|Sí/No|Desconocido|{{5}}/{{10}}
 
 </details>

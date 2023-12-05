@@ -5,6 +5,7 @@ date: 2023-10-01
 ---
 
 ## Índice
+
 - [Bibliotecas digitales](#bibliotecas-digitales)
   - [Estándar](#estándar)
   - [Comunidad o terceros](#comunidad-o-terceros)
@@ -22,7 +23,7 @@ date: 2023-10-01
   - [Revistas](#revistas)
     - [Producción estadounidense o europea](#producción-estadounidense-o-europea)
     - [Producción china](#producción-china)
-     
+
 # Bibliotecas digitales
 
 ## Estándar
@@ -57,8 +58,8 @@ date: 2023-10-01
 ### Academia
 
 [Academic Torrents](https://academictorrents.com/) `torrent`:
-* Artículos científicos, cursos y sets de datos
-* Tamaño: grande
+- Artículos científicos, cursos y sets de datos
+- Tamaño: grande
 
 | Nombre | Idioma | Contenido | Tamaño |
 | ------ | ------ | --------- | ------ |
@@ -81,6 +82,7 @@ date: 2023-10-01
 ## Libros
 
 ### General
+
 1. IRC
 
    | Nombre | Canal |
@@ -124,7 +126,7 @@ date: 2023-10-01
  1. [KissLightNovels](https://kisslightnovels.info/) `Buena interfaz`
  2. [NovelPlanet](https://novelplanet.com/)
  3. [LHNovels](https://lhnovels.net/)
-            
+
 ## Cómics
 
 ### Estadounidense y europeo
@@ -141,13 +143,13 @@ date: 2023-10-01
    | [Mangadex](https://www.mangadex.org/) | Manga [`JP`] y algunos cómics web | [`EN`], [`ES`], entre otros |
    | [TuMangaOnline](https://tmofans.com/) | Manga, manhua y doujinshi | [`ES`] |
 
-   - Manhwa
-   
-     - [Toonily](https://toonily.com/)
-     - [Mangazuki](https://raws.mangazuki.co/) `raw`
-   
-   - Doujinshi
-   
+- Manhwa
+
+  - [Toonily](https://toonily.com/)
+  - [Mangazuki](https://raws.mangazuki.co/) `raw`
+
+- Doujinshi
+
      | Nombre | Librería | Interfaz | Traducción | Publicidad |
      | ------ | -------- | -------- | ---------- | ---------- |
      | [Ex-Hentai](https://e-hentai.org/) `descarga` `.torrent` | Grandísimo | {{a}} | [`EN`], [`ES`], [`JP`] y más | {{a}} |
@@ -159,20 +161,20 @@ date: 2023-10-01
      | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [18Cómic](https://18comic.vip/) `descarga` | Mediano | {{a}} | [`ZH`] | {{a}} |
      | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [SekToon](https://sektoon5.org/) | Pequeño-mediano | {{a}} | [`ZH`] | {{a}} |
      | <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17"> [Manamoa](https://manamoa29.net/) | Pequeño | {{a}} | Coreano | {{a}} |
-   
-   - Webtoon
-     - General
-       - Legal
-       
+
+- Webtoon
+  - General
+    - Legal
+
          | Nombre | Contenido | Adulto | Nota |
          | ------ | --------- | ------ | ---- |
          | [Lezhin Cómics](https://www.lezhin.com/en) | Webtoon | Sí | Primeros episodios son gratuitos/1 episodio por día en la sección gratuita |
          | <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17"> [comico](https://www.comico.jp/) | Webtoon y algunos mangas | Sí | Algunos son de pago |
          | [Tapas](https://tapas.io/) | Webtoon | Poco | Tendencia homosexual |
          | <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17"> [Naver](https://comic.naver.com/index.nhn) | Webtoon y algunos cómics | No |
-      
-       - <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="20"> Terceros
-      
+
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="20"> Terceros
+
          | Nombre | Contenido | Adulto | Publicidad |
          | ------ | --------- | ------ | ---------- |
          | [SpoWiki](https://spowiki20.com/bbs/board.php?bo_table=webtoon) | Webtoon | Sí | {{a}} |
@@ -183,13 +185,13 @@ date: 2023-10-01
          | [Wolf](https://wfwf67.com/) | Webtoon, fototoon y manga | Sí | {{a}} |
          | [MeToon](https://metoon17.com/) | Webtoon | Si | {{a}} |
          | [ntoon](https://www.ntoon20.com/) | Webtoon | Si | {{a}} |
-         
-     - <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="20"> Adulto
-     
+
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="20"> Adulto
+
        | Nombre | Contenido | Publicidad |
        | ------ | --------- | ---------- |
        | [Bidong](https://bidongmh.com/) | Webtoon | {{a}} |
-       
+
 ## Revistas
 
 ### Producción estadounidense o europea
@@ -200,7 +202,7 @@ date: 2023-10-01
 | [MagazineLib](https://magazinelib.com/) | Grande (100000) | Noticias, ciencia, salud, entretenimiento, entre otros | VK | No |
 | [DownMagaz](https://downmagaz.com/) | Mediano (68200) | Entretenimiento, ciencia, economía, salud, política, ocio, entre otros | Novafile, Turbobit | Sí |
 | [PDF Giant](http://pdf-giant.com/) `varios idiomas` | Mediano (44700) | Noticias, ciencia, salud, entretenimiento, ocio, entre otros | Novafile | Sí |
-                                
+
 ### Producción china
 
 | Nombre | Retraso | Revistas | Emisión/Descarga |

@@ -14,7 +14,9 @@ Nombre|Funciones|Servidores disponibles|Sistemas operativos
 [Almacenamiento ilimitado en Google Drive](https://github.com/stewartmcgown/uds)|<ul> <li>Almacena ilimitadamente en Google Drive a través de Google Docs.</li> <li>Descarga cualquier archivo almacenado.</li> <li>Separa archivos binarios en Google Docs con texto codificado base64.</li> <li>El tamaño del archivo final es más grande que el original 4:3.</li> </ul>| <ul> <li>Google Drive</li> <ul> | <ul> <li>Aplicación web (Universal)</li> <ul>
 
 ## Automatización
+
 ### Red entre pares y Usenet
+
 Nombre|Funciones|Código abierto|Sistemas operativos
 ------|---------|--------------|-------------------
 [NZBHydra](https://github.com/theotherp/nzbhydra2/) `Metabuscador`|Metabuscador|`Desconocido`| <ul> <li>Windows</li> <li>Linux</li></ul>
@@ -23,7 +25,7 @@ Nombre|Funciones|Código abierto|Sistemas operativos
 [SiCKRAGE](https://sickrage.ca/): Administrador automático de videoteca de series de televisión. | <ul> <li>Proveedor de torrents: <br>1. SceneAccess <br>2. TorrentDay <br>3. Rarbg <br>4. Entre otros <li>Proveedor de .nbz: <br>1. Bin Search <br>2. NZBs <br>3. Usenet-Crawler <br>4. NZBDog <br>5. Entre otros <li>Descarga automática de subtítulos usando los siguientes servidores: <br>1. Addic7ed <br>2. OpenSubtitles <br>3. Popnapisi <br>4. TVSubtiles <br>5. Entre otros <li>Integrado con AniDB. <li>Calendario de estrenos.</ul> | `Desconocido` | <ul> <li>Windows <li>Linux <li>OSX <li>Synology <li>Entre otros.</ul>
 [nefarious](https://lardbit.github.io/nefarious/): Pretende combinar "[Sonarr](https://sonarr.tv/)", "[Radarr](https://www.radarr.video/)" y [Ombi](https://github.com/tidusjar/Ombi). | <ul> <li>Descarga películas y series en versiones específicas cuando se encuentre disponibles. <li>Descarga automáticamente una nueva versión cuando esté disponible. <li>Descubre nuevas películas y series de televisión (por popularidad, géneros, año, etc). <li>Evitar automáticamente la descarga de ciertos torrent. <li>Renombrado automático. <li>Múltiples lenguajes disponibles gracias a "[The Movie Database (TMDb)](https://www.themoviedb.org/)". </ul> | `Sí` ([Código abierto en Github](https://github.com/lardbit/nefarious)). | <ul> <li>Linux <li>Windows <li>macOS </ul>
 [Bazarr](https://www.bazarr.media/): Complemento para "[Sonarr](https://sonarr.tv/)" y "[Radarr](https://www.radarr.video/)". | <ul> <li>Descarga subtítulos deseados tan pronto estén disponibles y actualiza en caso haya alguno nuevo disponible. <li>Búsqueda manual. </ul> | `Sí` ([Código abierto en Github](https://github.com/morpheus65535/bazarr)) | <ul> <li>Linux <li>Windows <li>macOS </ul>
-[Bonarr](https://github.com/klassicstudios/Bonarr): Bifurcado de "[Radarr](https://www.radarr.video/)". | <ul> <li>Descarga películas pornográficas en versiones específicas cuando se encuentren disponibles. <li>Integración con SABnzbd y NZBGet. <li>Búsqueda manual. </ul> | `Sí` ([Código abierto en Github](https://github.com/klassicstudios/Bonarr)) | <ul> <li>Windows <li>Linux <li>macOS <li>Raspberry Pi <li>Entre otros 
+[Bonarr](https://github.com/klassicstudios/Bonarr): Bifurcado de "[Radarr](https://www.radarr.video/)". | <ul> <li>Descarga películas pornográficas en versiones específicas cuando se encuentren disponibles. <li>Integración con SABnzbd y NZBGet. <li>Búsqueda manual. </ul> | `Sí` ([Código abierto en Github](https://github.com/klassicstudios/Bonarr)) | <ul> <li>Windows <li>Linux <li>macOS <li>Raspberry Pi <li>Entre otros
 [Lidarr](https://lidarr.audio/): Bifucado de "[Sonarr](https://sonarr.tv/). | <ul> <li>Calendario de estrenos. <li> Búsqueda de manual. | `Sí` ([Código abierto en Github](https://github.com/Lidarr/Lidarr)) | <ul> <li>Linux <li>Windows <li>macOS </ul>
 [Mylar](https://github.com/evilhero/mylar) | <ul> <li>Descarga automáticamente cómics en formato .cbr o .cbz de `.nzb` y `.torrent`. <li>Funciona con SABnzbd, NZBGET y soporte para varios clientes torrent. <li>Calendario de estrenos de usuarios específicos o arcos narrativo. | `Sí` ([Código abierto en Github](https://github.com/evilhero/mylar)) ¡Review the [fork](https://github.com/mylar3/mylar3)! <br>Está compilado en Python. | Estado: Alfa en 2019, no estable.
 
@@ -42,12 +44,15 @@ Nombre|Funciones|Código abierto|Sistemas operativos
 [FFsubsync](https://github.com/smacke/ffsubsync)|<ul><li>Reordenar la sincronización de subtítulos. <li>Interfaz de líneas de comandos.<ul><li>Escrito en lenguaje Python.</ul> <li>REQUERIDO:<ul><li>FFmpeg <li>Python</ul></ul>|`.srt`|`Sí`, disponible en [Github](https://github.com/smacke/ffsubsync)|Windows </br> macOS </br> Linux
 
 ## Red
+
 ### Control
+
 |Nombre|Funciones|Sistemas operativos|
 |------|---------|-------------------|
 [NetLimiter](https://netlimiter.com/)|<ul><li>Control de tráfico de internet. <li>Herramienta de monitoreo de internet. <li>Bloquear conexión a ciertas aplicaciones. <li>Establecer cuotas límite para distintas aplicaciones.| Windows
 
 ### Descarga de archivos
+
 |Nombre|Funciones|Código Abierto|Sistemas operativos|
 |------|---------|--------------|-------------------|
 [qBittorrent](https://www.qbittorrent.org)|<ul><li>Cliente P2P. <li>Motor de búsqueda.</ul>|`Sí`, disponible en [Github](https://github.com/qbittorrent/qBittorrent) <ul><li>Escrito en C++.</ul>| Windows </br> macOS </br> Linux </br> Unix
@@ -85,11 +90,11 @@ Papago ¡PENDIENTE!
 
 ## Imágenes (PENDIENTE)
 
-### Búsqueda inversa de imágenes:
+### Búsqueda inversa de imágenes
 
 |Nombre|Características|Sitios compatibles|
 |------|---------------|------------------|
-[Image Operations](https://imgops.com/)|Pega o sube una imagen o pega el enlace de una imagen: <ul><li>También puedes insertar `imgops.com/[]` para automatizar la búsqueda.</ul> Edición básica de imágenes: <ul><li>Plataforma nativa <li>Pixlr <li>Picmonkey <li>Luna Pic <li>Szoter </ul> |<ul><li>Imágenes de Google <li>Bing Images <li>Tinyeye <li>Karmadecay (Reddit) <li>Yandex <li>Baidú <li>So (REVISAR) <li>Sogou </ul> 
+[Image Operations](https://imgops.com/)|Pega o sube una imagen o pega el enlace de una imagen: <ul><li>También puedes insertar `imgops.com/[]` para automatizar la búsqueda.</ul> Edición básica de imágenes: <ul><li>Plataforma nativa <li>Pixlr <li>Picmonkey <li>Luna Pic <li>Szoter </ul> |<ul><li>Imágenes de Google <li>Bing Images <li>Tinyeye <li>Karmadecay (Reddit) <li>Yandex <li>Baidú <li>So (REVISAR) <li>Sogou </ul>
 [`EN`] [iqdb](https://iqdb.org)|Búsqueda de imágenes relacionadas a series y películas de animación japonesas, incluyendo historietas japonesas (de adultos también).|PENDIENTE
 [`EN`] [Saucenao](https://saucenao.com/)
 [`JP`] [ASCCI2D](https://www.ascii2d.net)
@@ -126,6 +131,7 @@ Papago ¡PENDIENTE!
 [What font is](https://www.whatfontis.com/)|d|d
 
 ## Videos
+
 |Nombre|Características|Código abierto|Sistemas operativos|
 |------|---------------|--------------|-------------------|
 [FFmpeg](https://ffmpeg.org/)|Grabar, convertir y reproducir audio y video; entre otros.|`Sí`, disponible en [ffmpeg.org](https://git.ffmpeg.org/ffmpeg.git).|Windows </br> macOS </br> Linux
@@ -143,6 +149,7 @@ Papago ¡PENDIENTE!
 ## Aplicación nativa
 
 ### General
+
 |Nombre|Características|Código abierto|Sistemas operativos|
 |------|---------------|--------------|-------------------|
 [`EN`] [FileMasta](https://ohhsodead.github.io/FileMasta/) `General`|Búsqueda de enlaces directos gracias a [od-database](https://github.com/simon987/od-database): <ul><li>Video <li>Música <li>Libros <li>Software <li>Videojuegos <li>Subtítulos <li>Entre otros|`Sí`, disponible en [Github](https://github.com/ohhsodead/FileMasta)|Windows
@@ -152,12 +159,14 @@ Papago ¡PENDIENTE!
 [`EN`] [Comics-DL](https://github.com/The-Eye-Team/Comics-DL)|<ul><li>Archivado de historietas <li>Sitios soportados: <ul><li>[readcomicsonline.ru](https://readcomicsonline.ru/) <li>[E-Hentai](https://e-hentai.org/) <li>[My Reading Manga](https://myreadingmanga.info/) <li>[Dounjins.com](https://doujins.com/) <li>[NHentai](https://nhentai.net/) <li>[Pururin](https://pururin.io/)</ul></ul>|`Sí`, disponible en [Github](https://github.com/The-Eye-Team/Comics-DL)|Windows </br> macOS </br> Linux
 
 ### Archivado de sitios web
+
 |Nombre|Características|Lenguaje|Código abierto|Sistemas operativos|
 |------|---------------|--------|--------------|-------------------|
 [`EN`] [Webrecorder](https://webrecorder.io/)
 [`EN`] [Web Archiving Integration Layer](https://github.com/machawk1/wail)|Archivado de sitios web en general.</br> Herramientas incluidas: <ul><li>[Heritrix 3.2.0](https://github.com/internetarchive/heritrix3) <li>[OpenWayback 2.4.0](https://github.com/iipc/openwayback) <li>Apache Tomcat <li>[pyinstaller](https://github.com/pyinstaller/pyinstaller/) <li>[MemGator](https://github.com/oduwsdl/memgator)</ul>|Python|`Sí`, disponible en [Github](https://github.com/oduwsdl/memgator)|Windows </br> macOS
 
 ### Específicos
+
 |Nombre|Sitios soportados|Características|Código abierto|Sistemas operativos|
 |------|-----------------|---------------|--------------|-------------------|
 [`EN`] [chimera](https://notabug.org/Aesir/chimera)| Necesario tener cuentas de pago para todos los servicios, excepto Deezer:</br> </br>`Spotify` </br> Deezer </br> Tidal </br> Qobuz </br> Soundcloud </br> Napster </br> Google Play Music (Necesario tener un móvil conectado a internet).|<ul><li>Descarga música directamente desde servidores de pago. <li>Interfaz API disponible.</ul>|`Sí`, disponible en [Notabug](https://notabug.org/Aesir/chimera)|<ul><li>Windows <li>OSX (sin probar) <li>Linux (sin probar) <li>Android (sin probar), [guía](https://notabug.org/Aesir/chimera/wiki/Android)</ul>
@@ -169,6 +178,7 @@ Papago ¡PENDIENTE!
 [`EN`] [Udeler GUI](https://github.com/FaisalUmair/udemy-downloader-gui) `Udemy`|Udemy|Necesario una cuenta de pago de Udemy.</br>Funciones: <ul><li>Calidad de video. <li>Varios cursos a la vez. <li>Pausar y continuar la descarga <li>Escoge el directorio de descarga <li>Multilenguaje (inglés, italiano y español).|`Sí`, disponible en [Github](https://github.com/FaisalUmair/udemy-downloader-gui)|Windows </br> macOS </br> Linux
 
 ### Instagram
+
 |Nombre|Características|Código abierto|Sistemas operativos|
 |------|---------------|--------------|-------------------|
 [`EN`] [Instagram Scraper](https://github.com/dankmemes/instagram-scraper)|[Compilado en Python] <ul><li>Perfiles privados (siempre y cuando tengas acceso) o públicos. <li>Hashtags.</ul>|`Sí`, disponible en [Github](https://github.com/dankmemes/instagram-scraper)|Windows </br> macOS </br> Linux
@@ -177,12 +187,14 @@ Papago ¡PENDIENTE!
 [`EN`] [InstaLooter](https://github.com/althonos/InstaLooter)|Descargar cualquier video o imagen de un perfil de usuario sin hacer uso del API de Instagram.</br>Requerido:<ul><li>coloredlogs <li>dateutil <li>docopt <li>fs <li>requests <li>six <li>tenacity <li>tqdm <li>verboselogs</ul>|`Sí`, disponible en [Github](https://github.com/althonos/InstaLooter)|Windows </br> macOS </br> Linux
 
 ### Reddit
+
 |Nombre|Características|Código abierto|Sistemas operativos|
 |------|---------------|--------------|-------------------|
 [`EN`] [timesearch](https://github.com/voussoir/timesearch)|Archivado de subreddits.</br>Requerido:<ul><li>markdown <li>praw <li>voussoirkit</ul>|`Sí`, disponible en [Github](https://github.com/voussoir/timesearch).|Windows </br> macOS </br> Linux
 [`EN`] [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader)|Escanear comentarios y entradas de distintos sitios de Reddit en búsqueda de imágenes o videos. Ejemplos: <ul><li>Lista de tus fotos a favor. <li>Lista de entradas guardadas. <li>Subreddits. <li>Multireddits de usuario</ul> Filtros de búsqueda: Entradas con la palabra tal en el título con un mínimo de tantos votos a favor en tal subreddit.|`Sí`, disponible en [Github](https://github.com/shadowmoose/RedditDownloader)|Windows </br> macOS </br> Linux
 
 ### Spotify
+
 |Nombre|Características|Código abierto|Sistemas operativos|
 |------|---------------|--------------|-------------------|
 [`EN`] [Downtify Premium](https://github.com/Superhackman/downtify-premium)|[Bifurcado de [Downtify](https://github.com/Shawak/downtify)]. </br> Necesario una cuenta de pago. </br> Funciones: <ul><li>Descarga directamente de los servidores de Spotify. <li>Formato .mp3.</ul>|`Sí`, disponible en [Github](https://github.com/Superhackman/downtify-premium)|Desconocido
@@ -192,6 +204,7 @@ Papago ¡PENDIENTE!
 ## Aplicación web
 
 ### General
+
 *Banco de imágenes*
 |Nombre|Características|Sitios soportados|
 |------|---------------|-----------------|
@@ -204,6 +217,7 @@ Papago ¡PENDIENTE!
 [`EN`] [DocDownloader](https://docdownloader.com/)|Scribd, Isuu, Slideshare, Academia.edu
 
 ### Generador de enlaces de descarga
+
 [Lista completa](filehostlist.miraheze.org), revisión rápida.
 |Nombre|Sitios soportados|
 |------|-----------------|
@@ -215,29 +229,34 @@ vnz-leech.com|Confusión, revisar.
 get4all.org|Confusión, revisar.
 
 ### Microsoft
+
 |Nombre|Características|Requerido|
 |------|---------------|---------|
 [`EN`] [Generador de enlaces de la tienda de Microsoft](https://store.rg-adguard.net/)|Descarga directa desde los servidores de Microsoft. </br>Versiones disponibles: <ul><li>Rápido, Lento, Prelanzamiento, Por defecto.</ul>|Solo uno es necesario:<ul><li>Enlace URL <li>Identificación del producto <li>Nombre de la familia del paquete <li>Identificación de la categoría
 [`EN`] [Generador de enlaces de .isos de Microsoft](https://tb.rg-adguard.net/public.php)|Descarga directa desde los servidores de Microsoft. </br> Versiones disponibles: <ul><li>Tipo <li>Versión <li> Edición <li>Lenguaje</ul>|Ninguno
 
 ### Específicos
+
 |Nombre|Sitios soportados|Características|
 |------|-----------------|---------------|
 [`EN`] [APKCombo](https://apkcombo.com/es-pe/apk-downloader/) `Google Play Store`|Google Play Store|Desde desde los servidores de la tienda de Google.</br>Evitar restricciones regionales. </br> Opciones múltiples: <ul><li>Tipo de dispositivo (Por defecto, Teléfono, Tableta, Televisión). <li>Arquitectura del dispositivo (Por defecto, armeabi-v7a, arm64-v8a, x86, x86_64). <li>Versión de Android (Por defecto, 4.4, 5.0, 5.1, 6.0, 7.0, 7.1, 8.0, 8.1, 9.0, 10)
 [`EN`] [DLScrib](https://dlscrib.com/) `Scribd`|Scribd|Descarga documentos desde los servidores de Scribd.
 
 ## Línea de comando
+
 |Nombre|Características|Protocolos|
 |------|---------------|----------|
 [`EN`] [aria2](https://aria2.github.io/)|<ul><li>Multiconección y multidescarga. <li>Uso de poco espacio y pocos recursos. <li>Cliente Bittorrent. <li>Metaenlaces activado.<ul><li>[The Metalink Download Description Format](http://tools.ietf.org/html/rfc5854) (aka Metalink v4). <li>Metalink version 3. <li>[Metalink/HTTP](http://tools.ietf.org/html/rfc6249).</ul> <li>Control remoto: <ul><li>JSON-RPC (HTTP y WebSocket). <li>XML-RPC.</ul></ul>|HTTP/HTTPS </br> FTP </br> SFTP </br> BitTorrent </br> Metalink
 
 # Mejora personal
+
 |Nombre|Características|
 |------|---------------|
 [`EN`] [Entrenamiento físico](nytimes.com/interactive/projects/well/workouts/)|Ejercicios y ejemplos.
 [`EN`] [Typing](typing.com)|Practica mecanografía.
 
 ## Organización del tiempo
+
 |Nombre|Características|
 |------|---------------|
 [`EN`] [Timo](https://hellotimo.co/)|Simple y bonita interfaz. </br> Funciones: <ul><li>Seguimiento de lo que tienes que hacer. <li>Modo oscuro.</ul>
