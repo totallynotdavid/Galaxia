@@ -56,6 +56,7 @@ https://chaturbot.co/ Find current accounts from actress on Chaturbate
 - https://www.subdivx.com/
 - https://www.tusubtitulo.com/index.php
 - https://www.subtitulamos.tv/
+- https://subtitlecat.com/: This one has even subtitles for JAV titles
 
 - https://www.apestan.com/ Quejas de una empresa
 
