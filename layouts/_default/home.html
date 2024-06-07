@@ -44,7 +44,7 @@
                   <div class="flex flex-wrap">
                     {{ $baseURL := .Site.BaseURL }}
                     {{ range .Params.tags }}
-                      <a href="{{ $baseURL }}/tags/{{ . | urlize }}" class="mr-3 text-sm font-medium uppercase text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">{{ . }}</a>
+                      <a href="{{ $baseURL }}tags/{{ . | urlize }}" class="mr-3 text-sm font-medium uppercase text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">{{ . }}</a>
                     {{ end }}
                   </div>
                 </div>
