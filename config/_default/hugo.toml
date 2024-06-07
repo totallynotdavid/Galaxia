@@ -1,0 +1,12 @@
+baseURL = 'https://totallynotdavid.github.io/galaxia/'
+languageCode = 'es'
+DefaultContentLanguage = 'es'
+title = 'Galaxia'
+
+comments = true
+
+[pagination]
+  perPage = 10
+
+[taxonomies]
+  tag = "tags"

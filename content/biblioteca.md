@@ -2,6 +2,11 @@
 title: "Biblioteca"
 description: "Directorio extenso de bibliotecas digitales y recursos en línea: libros, artículos académicos, cómics, revistas, etc"
 date: 2023-10-01
+tags: ["comunidad", "academia", "comics", "manga", "revistas"]
+authors:
+  - name: "David Duran"
+    avatar: "david.webp"
+    twitter: "https://twitter.com/totallynotdavid"
 ---
 
 ## Índice

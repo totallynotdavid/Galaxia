@@ -1,0 +1,13 @@
+headerTitle = "Galaxia"
+search = true
+filePath = true
+
+comments = true
+
+# Edit Page
+repoHost = "GitHub"
+docsRepo = "https://github.com/totallynotdavid/galaxia"
+docsRepoBranch = "master"
+docsRepoSubPath = ""
+editPage = true
+lastMod = true

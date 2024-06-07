@@ -2,6 +2,11 @@
 title: "Base de datos"
 description: "Útiles para categorizar y hacer seguimiento a contenidos multimedia: cine, animación, libros, pornografía, etc."
 date: 2023-10-01
+tags: ["audiovisual", "libros", "adulto", "irc"]
+authors:
+  - name: "David Duran"
+    avatar: "david.webp"
+    twitter: "https://twitter.com/totallynotdavid"
 ---
 
 **Índice**

@@ -1,0 +1,63 @@
+{{ define "main" }}
+<section class="mx-auto max-w-3xl px-4 sm:px-6 xl:max-w-5xl xl:px-0">
+  <div class="flex h-screen flex-col justify-between font-sans">
+    <div class="container max-w-1440 bg-gray-700 rounded-lg p-8">
+        <h2 class="text-white text-xl font-bold mb-6">{{ .Title }}</h2>
+        <div class="flex sm:space-x-24">
+          <div class="hidden h-full max-h-screen min-w-[280px] max-w-[280px] flex-wrap overflow-auto rounded bg-gray-50 pt-5 shadow-md dark:bg-gray-900/70 dark:shadow-gray-800/40 sm:flex">
+            <div class="px-6 py-4">
+              {{ if .IsHome }}
+                <h3 class="font-bold uppercase text-primary-500">All Posts</h3>
+              {{ else }}
+                <a href="/blog" class="font-bold uppercase text-gray-700 hover:text-primary-500 dark:text-gray-300 dark:hover:text-primary-500">All Posts</a>
+              {{ end }}
+              <ul>
+                {{ range $key, $value := .Site.Taxonomies.tags }}
+                  <li class="my-3">
+                    {{ if eq $.Page.Title (title $key) }}
+                      <h3 class="inline px-3 py-2 text-sm font-bold uppercase text-primary-500">{{ $key }} ({{ len $value }})</h3>
+                    {{ else }}
+                      <a href="{{ "/tags/" | relLangURL }}{{ $key | urlize }}" class="px-3 py-2 text-sm font-medium uppercase text-gray-500 hover:text-primary-500 dark:text-gray-300 dark:hover:text-primary-500" aria-label="View posts tagged {{ $key }}">{{ $key }} ({{ len $value }})</a>
+                    {{ end }}
+                  </li>
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+          <div>
+            <ul>
+              {{ range .Paginator.Pages }}
+                <li class="py-5">
+                  <article class="flex flex-col space-y-2 xl:space-y-0">
+                    <dl>
+                      <dt class="sr-only">Published on</dt>
+                      <dd class="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
+                        <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time>
+                      </dd>
+                    </dl>
+                    <div class="space-y-3">
+                      <div>
+                        <h2 class="text-2xl font-bold leading-8 tracking-tight">
+                          <a href="{{ .Permalink }}" class="text-gray-900 dark:text-gray-100">{{ .Title }}</a>
+                        </h2>
+                        <div class="flex flex-wrap">
+                          {{ range .Params.tags }}
+                            <a href="/tags/{{ . | urlize }}" class="px-3 py-1 text-sm font-medium text-gray-500 hover:text-primary-500 dark:text-gray-300 dark:hover:text-primary-500">{{ . }}</a>
+                          {{ end }}
+                        </div>
+                      </div>
+                      <div class="prose max-w-none text-gray-500 dark:text-gray-400">
+                        {{ .Summary }}
+                      </div>
+                    </div>
+                  </article>
+                </li>
+              {{ end }}
+            </ul>
+            {{ partial "pagination.html" . }}
+          </div>
+        </div>
+    </div>
+  </div>
+</section>
+{{ end }}

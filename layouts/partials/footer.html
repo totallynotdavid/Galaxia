@@ -1,5 +1,31 @@
-<footer class="bg-gray-900 p-4 w-full mt-8">
-  <div class="container max-w-1440 mx-auto flex items-center justify-between">
-      <div class="text-white">&copy; {{ now.Year }} Galaxia</div>
+<footer>
+  <div class="mt-16 flex flex-col items-center">
+    <div class="mb-3 flex space-x-4">
+      {{ range .Site.Menus.social -}}
+      <a 
+        href="{{ .URL | relURL }}" 
+        class="text-sm text-gray-500 transition hover:text-gray-600"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <span class="sr-only">
+          {{ .Name | safeHTML }}
+        </span>
+        {{ .Pre | safeHTML }}
+      </a>
+      {{ end -}}
+    </div>
+    <div class="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
+      <div>David Duran</div>
+      <div> • </div>
+      <div>&copy; {{ now.Year }}</div>
+      <div> • </div>
+      <a href="/" class="text-gray-500 dark:text-gray-400">Galaxia</a>
+    </div>
+    <div class="mb-8 text-sm text-gray-500 dark:text-gray-400">
+      <a href="https://totallynotdavid.github.io/">
+        Dumb Ways to Write
+      </a>
+    </div>
   </div>
 </footer>

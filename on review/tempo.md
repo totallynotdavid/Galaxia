@@ -73,6 +73,8 @@ https://www.jetperu.com.pe/calcula-tus-cambios
 - https://hn.lindylearn.io/ 'best' hacker news articles
 - taskwarrior.org
 - https://arxivist.com/ papers
+- https://www.undermind.ai/home/ search papers with ai?
+- https://julius.ai ai computational data (15 por mes? tf)
 - https://www.youdontknowafrica.com/1/
 - https://www.tweakeze.com/ monitor changes in your pc
 
