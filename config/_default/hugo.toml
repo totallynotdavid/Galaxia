@@ -10,3 +10,6 @@ comments = true
 
 [taxonomies]
   tag = "tags"
+
+[permalinks]
+  tags = "/tags/:slug"
