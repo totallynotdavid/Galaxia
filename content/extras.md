@@ -70,15 +70,9 @@ date: 2023-10-01
 6. [Bivector](https://bivector.net/doc.html) - Lista de recursos de ayuda para estudiantes de ciencias de la computación y practicantes de CGI
 7. [Cómo lograr Modo oscuro con React](https://joshwcomeau.com/gatsby/dark-mode/)
 8. [Learn git](https://learngitbranching.js.org/?locale=en_US)
-9. Carding
-   -[Compra y exporta](http://www.2ebox.com/pe/)
-   -[Leaked data](http://www.leakeddata.me/)
-   -[SOCKS](http://www.vipsocks24.net/2017/06/07-06-17-vip-socks-5-servers-1500.html)
-   -[Proxy Checker](https://checkerproxy.net/report/e39ca1bb-5121-47e2-8f7b-bf91e0036a96)
-   -[Check SOCKS](https://check.dichvusocks.us/)
+9. Carding -[Compra y exporta](http://www.2ebox.com/pe/) -[Leaked data](http://www.leakeddata.me/) -[SOCKS](http://www.vipsocks24.net/2017/06/07-06-17-vip-socks-5-servers-1500.html) -[Proxy Checker](https://checkerproxy.net/report/e39ca1bb-5121-47e2-8f7b-bf91e0036a96) -[Check SOCKS](https://check.dichvusocks.us/)
 
-- Física:
-    [Physics Travel Guide](https://physicstravelguide.com/)
+- Física: [Physics Travel Guide](https://physicstravelguide.com/)
 
 ## Tipografias
 
@@ -111,7 +105,7 @@ date: 2023-10-01
 - [Herramientas para Wordpress](https://wpstash.io/)
 - [Juego simple en linea](https://ares.hankstoever.com/)
 - [Lista de sitios académicos, revisar](https://thakursimmichauhan.blogspot.com/)
-- [TeamDrive con varias peliculas](https://td.klprojects.tech/0:/American%20Dad%20S01-S11%20(2005-)/American%20Dad%20S01%20(360p%20re-blurip)/)
+- [TeamDrive con varias peliculas](<https://td.klprojects.tech/0:/American%20Dad%20S01-S11%20(2005-)/American%20Dad%20S01%20(360p%20re-blurip)/>)
 - [Códigos bancarios del Banco de la Nación](https://zonasegura1.bn.com.pe/CCIConsulta/Inicio)
 - [Bibliografia de Isaac Asimov en orden por categorias, larguisima](http://stevenac.net/asimov/Bibliography.htm)
 - [UWP Apps Community](https://uwpcommunity.com/projects/)

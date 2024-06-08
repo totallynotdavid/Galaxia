@@ -38,7 +38,7 @@ Características adicionales:
 - Base datos construida por la comunidad
 - Disponible en más de 49 idiomas
 - API pública
-  
+
 #### [Fechas de publicación de deuvedés y Blu-ray](https://www.dvdsreleasedates.com/)
 
 > Información general sobre películas y series de televisión de **producción europea o estadounidense**, ofrece las fechas de publicación de deuvedés y Blu-Ray y donde adquirirlas.
@@ -50,7 +50,7 @@ Características adicionales:
 Características adicionales:
 
 - Lectura en línea (texto plano)
-  
+
 #### [Korean Movie Database (KMBb)](http://www.kmdb.or.kr/eng/main)
 
 > Información general sobre películas y series de televisión de **producción coreana**: Estudio, director(a), productor(a), inversor(es), reparto, equipo de producción y post-producción; duración y fecha de publicación.
@@ -78,7 +78,7 @@ Características adicionales:
 
 - Algunos mangas disponible para leer de forma gratuita
 - Foro
-  
+
 #### [AniList](https://anilist.co/home), [AniChart](https://anichart.net/)
 
 > Información general sobre manga, películas y series de animación japonesas: autor, estudio, director(a), reparto, equipo de producción y banda sonora.
@@ -115,7 +115,7 @@ Características adicionales:
 #### [ManualsLib](https://www.manualslib.com/)
 
 > Manuales de diversos productos físicos disponibles en directo o descarga, cuenta con más de 2700000 productos de 84595 marcas y 3908257 de manuales en formato PDF.
-  
+
 # Pornografía
 
 ## Estados Unidos de América y Europa
@@ -158,16 +158,16 @@ Características adicionales:
 
 # IRC
 
-  | Nombre | Filtros |
-  | ------ | ------- |
-  | [mibbit](https://search.mibbit.com/networks) | 103 redes, miles de canales |
-  | [ixIRC](https://ixirc.com/) | 16 redes, 22 canales y 192119 paquetes XDCC |
-  | [XDCC](https://www.xdcc.eu/) | 27 redes, 73 canales y 1093523 paquetes XDCC |
-  | [SunXDCC](https://sunxdcc.com/) | 10 redes, 18 canales |
+| Nombre | Filtros |
+| --- | --- |
+| [mibbit](https://search.mibbit.com/networks) | 103 redes, miles de canales |
+| [ixIRC](https://ixirc.com/) | 16 redes, 22 canales y 192119 paquetes XDCC |
+| [XDCC](https://www.xdcc.eu/) | 27 redes, 73 canales y 1093523 paquetes XDCC |
+| [SunXDCC](https://sunxdcc.com/) | 10 redes, 18 canales |
 
 # Otros
 
-  | Nombre | Contenido |
-  | ------ | --------- |
-  | [Steam Database](https://steamdb.info/) | Seguimiento sobre las actualizaciones de aplicaciones y paquetes, además de información pública general del videojuego |
-  | [MusicBrainz](https://musicbrainz.org/) | Información general de canciones publicadas |
+| Nombre | Contenido |
+| --- | --- |
+| [Steam Database](https://steamdb.info/) | Seguimiento sobre las actualizaciones de aplicaciones y paquetes, además de información pública general del videojuego |
+| [MusicBrainz](https://musicbrainz.org/) | Información general de canciones publicadas |

@@ -1,13 +1,13 @@
 ---
 title: "Utilidades"
-description: "Para enlaces que te harán decir: \"¡Esto es justo lo que necesitaba!\""
+description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesitaba!"'
 date: 2023-10-01
 ---
 
 ## RSS
 
 | Nombre | Sitio | Enlace | Adicional |
-| ------ | ----- | ------ | --------- |
+| --- | --- | --- | --- |
 | Bibliogram | Instagram | [Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) |
 
 - Aprendizaje
@@ -48,15 +48,15 @@ date: 2023-10-01
       - Electrodomésticos
       - Salud
       - Software y aplicaciones
-      - +
-        - Propiedad de The New York Times
+      - -
+        * Propiedad de The New York Times
 
 # Recursos para Creación de Contenido
 
 ### Archivo
 
 | Fuente | Tipo | Características | Enlace |
-| ------ | ---- | --------------- | ------ |
+| --- | --- | --- | --- |
 | Pexels | Imágenes y videos | - Comunidad contribuye imágenes<br> - Descarga gratuita<br> - Licencia de uso personal y comercial<br> - Atribución no requerida | [Pexels](https://www.pexels.com/) |
 | BentenSound | Música | - Plataforma descentralizada<br> - Descarga de música de archivo<br> - Licencia de uso comercial<br> - Atribución requerida | [BentenSound](https://bentensound.com/) |
 | Videvo | Videos, música y sonidos | - Descarga de videos, música y sonidos<br> - Licencia gratuita y comercial<br> - Atribución requerida / versión de pago | [Videvo](https://www.videvo.net/) |
@@ -64,7 +64,7 @@ date: 2023-10-01
 #### Obras de Arte
 
 | Fuente | Descripción | Enlace |
-| ------ | ----------- | ------ |
+| --- | --- | --- |
 | Acceso Abierto de Smithsonian | Contenidos diversos de arte | [Smithsonian](https://www.si.edu/openaccess) |
 | Museo Metropolitano de Arte | Colección en dominio público | [Metropolitan Museum](https://www.metmuseum.org/art/collection) |
 | Instituto de Arte de Chicago | Pinturas y fotografías en dominio público y con licencias | [Art Institute of Chicago](https://www.artic.edu/collection) |
@@ -75,7 +75,7 @@ date: 2023-10-01
 ### General
 
 | Nombre | Contenido | Hospedaje | Enlace |
-| ------ | --------- | --------- | ------ |
+| --- | --- | --- | --- |
 | Graphicex | Vectores, imágenes, texturas, plantillas | Zippyshare, Rapidgator, etc. | [Graphicex](https://graphicex.com/) |
 | Audio wareZ | Software y complementos de audio | Rapidgator, Uploaded, Nitroflare | [Audio wareZ](https://audioz.download/) |
 | vestathemes | Plantillas Wordpress | Propio | [vestathemes](https://vestathemes.com/) |
@@ -84,7 +84,7 @@ date: 2023-10-01
 ### Inaccesible
 
 | Nombre | Contenido | Foro | Enlace |
-| ------ | --------- | ---- | ------ |
+| --- | --- | --- | --- |
 | CGPeers | Software 2D/3D, texturas, modelos | Sí | [CGPeers](cgpeers.com) |
 | GFXDomain | Software, complementos, tutoriales | Sí | [GFXDomain](https://forum.gfxdomain.net/) |
 | Web4Sync | Desarrollo y diseño web | Sí | [Web4Sync](https://web4sync.com/) |
@@ -92,28 +92,28 @@ date: 2023-10-01
 ### Animación
 
 | Nombre | Características | Enlace |
-| ------ | --------------- | ------ |
+| --- | --- | --- |
 | Piskel | Editor en línea de sprites, arte de píxeles, exporta en .gif/.png | [Piskel](https://www.piskelapp.com/) |
 
 ### Edición Gráfica
 
 | Nombre | Características | Enlace |
-| ------ | --------------- | ------ |
+| --- | --- | --- |
 | Vectr | Edición con capas, herramientas de dibujo, exporta en varios formatos | [Vectr](https://vectr.com/) |
 | Method Draw | Capas de edición, herramientas de dibujo, exporta en .svg y .png | [Method Draw](https://editor.method.ac/) |
 
 ### Tipografías
 
 | Nombre | Características | Enlace |
-| ------ | --------------- | ------ |
+| --- | --- | --- |
 | FontSquirrel | Tipografías libres de uso comercial, generador de tipografías web | [FontSquirrel](https://www.fontsquirrel.com/) |
 | Freebies.ByPeople | Tipografías libres de uso comercial en varios formatos | [Freebies.ByPeople](https://www.bypeople.com/category/free-fonts/) |
 
 ### Paletas de color
 
-| Nombre | Enlace |
-| ------ | ------ |
-| Color Hunt | [Color Hunt](https://colorhunt.co) |
+| Nombre          | Enlace                                                 |
+| --------------- | ------------------------------------------------------ |
+| Color Hunt      | [Color Hunt](https://colorhunt.co)                     |
 | Cohesive Colors | [Cohesive Colors](https://javier.xyz/cohesive-colors/) |
 
 ## Documentos
@@ -121,13 +121,13 @@ date: 2023-10-01
 ### Presentación
 
 | Nombre | Funciones | Enlace |
-| ------ | --------- | ------ |
+| --- | --- | --- |
 | SlidesCarnival | Plantillas para presentaciones, filtro por contenido | [SlidesCarnival](https://www.slidescarnival.com/) |
 
 ### Textos
 
 | Nombre | Funciones | Enlace |
-| ------ | --------- | ------ |
+| --- | --- | --- |
 | Quetext | Detección de plagio, asistente de citación | [Quetext](https://www.quetext.com/) |
 | ExtractPDF | Extrae imágenes, textos y tipografías de PDF | [ExtractPDF](https://www.extractpdf.com/) |
 
@@ -136,7 +136,7 @@ date: 2023-10-01
 ### Captura de Pantalla
 
 | Nombre | Características | Enlace |
-| ------ | --------------- | ------ |
+| --- | --- | --- |
 | RecordScreen | Grabación de pantalla en navegador | [RecordScreen](https://recordscreen.io/) |
 
 ## Música
@@ -144,7 +144,7 @@ date: 2023-10-01
 ### Separar voz de música
 
 | Nombre | Características | Enlace |
-| ------ | --------------- | ------ |
+| --- | --- | --- |
 | Moises.ai | Separación de voz e instrumentos, límite de subidas | [Moises.ai](https://moises.ai/) |
 
 - Compartir archivos
@@ -282,18 +282,18 @@ date: 2023-10-01
         - Accesos directos de Windows (.lnk)
         - Ayuda de Windows (.chm)
         - Aplicación HTML (.hta)
-        - Archivo de órdenes de Windows (*.wsf),
+        - Archivo de órdenes de Windows (\*.wsf),
         - Javascript (.js)
-        - Visual Basic (*.vbs,*.vbe)
+        - Visual Basic (_.vbs,_.vbe)
         - Shockwave Flash (.swf),
         - Perl (.pl)
         - Powershell (.ps1, .psd1, .psm1)
         - Gráficos vectoriales escalables (.svg)
         - Órdenes de Python (.py) y Perl (.pl)
         - Ejectuables Linux ELF
-        - MIME RFC 822 (*.eml),
-        - Paquetes de instalación de Microsoft (*.msi)
-        - Archivos de mensaje de Outlook (*.msg)
+        - MIME RFC 822 (\*.eml),
+        - Paquetes de instalación de Microsoft (\*.msi)
+        - Archivos de mensaje de Outlook (\*.msg)
   - Privacidad
     - Correo electrónico temporal
       - ^^EN^^ [altmails](https://altmails.com/)
