@@ -1,0 +1,20 @@
+[hugoVersion]
+  extended = true
+  min = "0.80.0"
+  max = ""
+
+[[mounts]]
+  source = "node_modules/@fontsource-variable/space-grotesk/files"
+  target = "assets/fonts"
+
+[[mounts]]
+  source = "assets"
+  target = "assets"
+
+[[mounts]]
+  source = "layouts"
+  target = "layouts"
+
+[[mounts]]
+  source = "hugo_stats.json"
+  target = "assets/watching/hugo_stats.json"
