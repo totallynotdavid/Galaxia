@@ -87,9 +87,11 @@
                             </div>
                             {{ if .Site.Params.comments }}
                                 <div
-                                    class="pb-6 pt-6 text-center text-gray-700 dark:text-gray-300"
-                                    id="comment">
-                                    {{ partial "components/comments.html" . }}
+                                    class="pb-6 pt-6 text-center text-gray-700 dark:text-gray-300">
+                                    <button id="load-comments-button">
+                                        Cargar comentarios
+                                    </button>
+                                    <div id="comments-container"></div>
                                 </div>
                             {{ end }}
                         </div>
