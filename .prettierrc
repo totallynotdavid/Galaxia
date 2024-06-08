@@ -36,10 +36,16 @@
             }
         },
         {
-            "files": ["*.md", "*.json", "*.yaml"],
+            "files": ["*.md", "*.yaml"],
             "options": {
                 "tabWidth": 2,
                 "singleQuote": false
+            }
+        },
+        {
+            "files": ["*.json"],
+            "options": {
+                "tabWidth": 4
             }
         },
         {
