@@ -1,20 +1,18 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ .Site.LanguageCode | default "es" }}">
-<head>
-    <title>{{ .Title }}</title>
-    {{ partial "head.html" . }}
-</head>
-{{ partial "head/body-class.html" . -}}
-<body class="{{ delimit (.Scratch.Get "class") " " }} bg-white pl-[calc(100vw-100%)] text-black antialiased dark:bg-gray-950 dark:text-white">
-  <section class="mx-auto max-w-3xl px-4 sm:px-6 xl:max-w-5xl xl:px-0">
-    <div class="flex h-screen flex-col justify-between font-sans">
-      {{ partial "header.html" . }}
-      <main className="mb-auto">
-        {{ block "main" . }}{{ end }}
-      </main>
-      {{ partial "footer.html" . }}
-    </div>
-  </section>
-    {{ partial "script-footer.html" . }}
-</body>
+    {{ partial "head/head.html" . }}
+    {{ partial "head/body-class.html" . -}}
+    <body
+        class="{{ delimit (.Scratch.Get "class") " " }} bg-white pl-[calc(100vw-100%)] text-black antialiased dark:bg-gray-950 dark:text-white">
+        <section class="mx-auto max-w-3xl px-4 sm:px-6 xl:max-w-5xl xl:px-0">
+            <div class="flex h-screen flex-col justify-between font-sans">
+                {{ partial "header.html" . }}
+                <main className="mb-auto">
+                    {{ block "main" . }}{{ end }}
+                </main>
+                {{ partial "footer.html" . }}
+            </div>
+        </section>
+        {{ partial "script-footer.html" . }}
+    </body>
 </html>
