@@ -627,7 +627,7 @@ video {
     list-style-type: decimal;
     margin-top: 1.25em;
     margin-bottom: 1.25em;
-    padding-left: 1.625em;
+    padding-inline-start: 1.625em;
 }
 
 .prose
@@ -697,7 +697,7 @@ video {
     list-style-type: disc;
     margin-top: 1.25em;
     margin-bottom: 1.25em;
-    padding-left: 1.625em;
+    padding-inline-start: 1.625em;
 }
 
 .prose
@@ -735,12 +735,12 @@ video {
     font-weight: 500;
     font-style: italic;
     color: var(--tw-prose-quotes);
-    border-left-width: 0.25rem;
-    border-left-color: var(--tw-prose-quote-borders);
+    border-inline-start-width: 0.25rem;
+    border-inline-start-color: var(--tw-prose-quote-borders);
     quotes: '\201C' '\201D' '\2018' '\2019';
     margin-top: 1.6em;
     margin-bottom: 1.6em;
-    padding-left: 1em;
+    padding-inline-start: 1em;
 }
 
 .prose
@@ -836,6 +836,11 @@ video {
     margin-bottom: 2em;
 }
 
+.prose :where(video):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 .prose :where(kbd):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
     font-weight: 500;
     font-family: inherit;
@@ -846,9 +851,9 @@ video {
     font-size: 0.875em;
     border-radius: 0.3125rem;
     padding-top: 0.1875em;
-    padding-right: 0.375em;
+    padding-inline-end: 0.375em;
     padding-bottom: 0.1875em;
-    padding-left: 0.375em;
+    padding-inline-start: 0.375em;
 }
 
 .prose :where(code):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
@@ -923,9 +928,9 @@ video {
     margin-bottom: 1.7142857em;
     border-radius: 0.375rem;
     padding-top: 0.8571429em;
-    padding-right: 1.1428571em;
+    padding-inline-end: 1.1428571em;
     padding-bottom: 0.8571429em;
-    padding-left: 1.1428571em;
+    padding-inline-start: 1.1428571em;
 }
 
 .prose
@@ -958,7 +963,7 @@ video {
 .prose :where(table):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
     width: 100%;
     table-layout: auto;
-    text-align: left;
+    text-align: start;
     margin-top: 2em;
     margin-bottom: 2em;
     font-size: 0.875em;
@@ -975,9 +980,9 @@ video {
     color: var(--tw-prose-headings);
     font-weight: 600;
     vertical-align: bottom;
-    padding-right: 0.5714286em;
+    padding-inline-end: 0.5714286em;
     padding-bottom: 0.5714286em;
-    padding-left: 0.5714286em;
+    padding-inline-start: 0.5714286em;
 }
 
 .prose
@@ -1075,11 +1080,6 @@ video {
     margin-bottom: 0;
 }
 
-.prose :where(video):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
-    margin-top: 2em;
-    margin-bottom: 2em;
-}
-
 .prose :where(li):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
@@ -1087,12 +1087,12 @@ video {
 
 .prose
     :where(ol > li):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
-    padding-left: 0.375em;
+    padding-inline-start: 0.375em;
 }
 
 .prose
     :where(ul > li):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
-    padding-left: 0.375em;
+    padding-inline-start: 0.375em;
 }
 
 .prose
@@ -1104,28 +1104,28 @@ video {
 }
 
 .prose
-    :where(.prose > ul > li > *:first-child):not(
+    :where(.prose > ul > li > p:first-child):not(
         :where([class~='not-prose'], [class~='not-prose'] *)
     ) {
     margin-top: 1.25em;
 }
 
 .prose
-    :where(.prose > ul > li > *:last-child):not(
+    :where(.prose > ul > li > p:last-child):not(
         :where([class~='not-prose'], [class~='not-prose'] *)
     ) {
     margin-bottom: 1.25em;
 }
 
 .prose
-    :where(.prose > ol > li > *:first-child):not(
+    :where(.prose > ol > li > p:first-child):not(
         :where([class~='not-prose'], [class~='not-prose'] *)
     ) {
     margin-top: 1.25em;
 }
 
 .prose
-    :where(.prose > ol > li > *:last-child):not(
+    :where(.prose > ol > li > p:last-child):not(
         :where([class~='not-prose'], [class~='not-prose'] *)
     ) {
     margin-bottom: 1.25em;
@@ -1146,7 +1146,7 @@ video {
 
 .prose :where(dd):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
     margin-top: 0.5em;
-    padding-left: 1.625em;
+    padding-inline-start: 1.625em;
 }
 
 .prose
@@ -1173,14 +1173,14 @@ video {
     :where(thead th:first-child):not(
         :where([class~='not-prose'], [class~='not-prose'] *)
     ) {
-    padding-left: 0;
+    padding-inline-start: 0;
 }
 
 .prose
     :where(thead th:last-child):not(
         :where([class~='not-prose'], [class~='not-prose'] *)
     ) {
-    padding-right: 0;
+    padding-inline-end: 0;
 }
 
 .prose
@@ -1188,23 +1188,23 @@ video {
         :where([class~='not-prose'], [class~='not-prose'] *)
     ) {
     padding-top: 0.5714286em;
-    padding-right: 0.5714286em;
+    padding-inline-end: 0.5714286em;
     padding-bottom: 0.5714286em;
-    padding-left: 0.5714286em;
+    padding-inline-start: 0.5714286em;
 }
 
 .prose
     :where(tbody td:first-child, tfoot td:first-child):not(
         :where([class~='not-prose'], [class~='not-prose'] *)
     ) {
-    padding-left: 0;
+    padding-inline-start: 0;
 }
 
 .prose
     :where(tbody td:last-child, tfoot td:last-child):not(
         :where([class~='not-prose'], [class~='not-prose'] *)
     ) {
-    padding-right: 0;
+    padding-inline-end: 0;
 }
 
 .prose
@@ -1883,7 +1883,7 @@ video {
 
     font-weight: 300 700;
 
-    src: url('/fonts/space-grotesk-latin-wght-normal.woff2')
+    src: url('../fonts/space-grotesk-latin-wght-normal.woff2')
         format('woff2-variations');
 
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
