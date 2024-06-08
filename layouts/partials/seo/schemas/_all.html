@@ -1,9 +1,5 @@
 {{- /* }}
-Supported schemas: - Website (homepage) - Organization or Person (homepage) -
-BreadcrumbList (all pages, except homepage) - Article (Article sections —
-globally defined) - NewsArticle (NewsArticle sections — globally defined) -
-BlogPosting (BlogPosting sections — globally defined) - Product (Product
-sections — globally defined) Resources: -
+Resources: -
 https://developers.google.com/search/docs/appearance/structured-data/search-gallery
 - https://schema.org/docs/schemas.html -
 https://bullaki.com/projects/web-design/seo-with-hugo-5-breadcrumbs/ -
@@ -17,8 +13,6 @@ https://bullaki.com/projects/web-design/seo-with-hugo-4-structured-data-markup/
 {{- $t := site.Params.seo.schemas.type }}
 {{- $a := site.Params.seo.schemas.article }}
 {{- $b := site.Params.seo.schemas.blogPosting }}
-{{- $n := site.Params.seo.schemas.newsArticle }}
-{{- $p := site.Params.seo.schemas.product }}
 
 {{- if .IsHome }}
     {{- /* Parse Website schema. */}}
@@ -42,17 +36,7 @@ https://bullaki.com/projects/web-design/seo-with-hugo-4-structured-data-markup/
     {{- partial "seo/schemas/article" . }}
 {{- end }}
 
-{{- /* Parse NewsArticle schema. */}}
-{{- if and (in $n .Section) (.IsPage) }}
-    {{- partial "seo/schemas/newsarticle" . }}
-{{- end }}
-
 {{- /* Parse BlogPosting schema. */}}
 {{- if and (in $b .Section) (.IsPage) }}
     {{- partial "seo/schemas/blogposting" . }}
-{{- end }}
-
-{{- /* Parse Product schema. */}}
-{{- if and (in $p .Section) (.IsPage) }}
-    {{- partial "seo/schemas/product" . }}
 {{- end }}
