@@ -8,24 +8,20 @@
             </h1>
         </div>
         <div class="flex max-w-lg flex-wrap">
-            {{ if .Data.Terms.ByCount }}
-                {{ range .Data.Terms.ByCount }}
-                    <div class="mb-2 mr-5 mt-2">
-                        <a
-                            href="{{ .Page.Permalink }}"
-                            class="mr-3 text-sm font-medium uppercase text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
-                            >{{ .Page.Title }}</a
-                        >
-                        <a
-                            href="{{ .Page.Permalink }}"
-                            class="-ml-2 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
-                            aria-label="View posts tagged {{ .Page.Title }}">
-                            ({{ len .Pages }})
-                        </a>
-                    </div>
-                {{ end }}
-            {{ else }}
-                <p>No tags found.</p>
+            {{ range .Pages }}
+                <div class="mb-2 mr-5 mt-2">
+                    <a
+                        href="{{ .Page.Permalink }}"
+                        class="mr-3 text-sm font-medium uppercase text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                        >{{ .Page.Title }}</a
+                    >
+                    <a
+                        href="{{ .Page.Permalink }}"
+                        class="-ml-2 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
+                        aria-label="View posts tagged {{ .Page.Title }}">
+                        ({{ len .Pages }})
+                    </a>
+                </div>
             {{ end }}
         </div>
     </div>
