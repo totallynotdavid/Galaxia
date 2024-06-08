@@ -1,6 +1,6 @@
 [[main]]
   name = "Tags"
-  url = "/tags/"
+  url = "tags"
   weight = 10
 
 [[social]]

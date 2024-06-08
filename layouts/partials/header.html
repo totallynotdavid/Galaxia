@@ -6,7 +6,7 @@
           {{ partial "svgs/star" . }}
         </div>
         <div class="hidden text-2xl font-semibold sm:block">
-          {{ .Site.Title }}
+          {{ .Site.Params.Title }}
         </div>
       </div>
     </a>
@@ -14,7 +14,7 @@
   <div class="flex items-center space-x-4 leading-5 sm:space-x-6">
     {{ range .Site.Menus.main }}
       {{ if ne .URL "/" }}
-        <a href="{{ .URL }}" class="hidden font-medium text-gray-900 dark:text-gray-100 sm:block">
+        <a href="{{ absURL .URL }}" class="hidden font-medium text-gray-900 dark:text-gray-100 sm:block">
           {{ .Name }}
         </a>
       {{ end }}

@@ -1,9 +1,0 @@
-baseURL = "https://totallynotdavid.github.io/galaxia/"
-languageCode = 'en-us'
-title = 'Galaxia'
-disableKinds = ["taxonomy"]
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
