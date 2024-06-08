@@ -1,40 +1,47 @@
 <div class="mr-5">
-  <button class="relative inline-block text-left" id="theme-switch">
-    {{ partial "svgs/sun.html" . }}
-  </button>
-  <div class="hidden absolute right-0 z-50 mt-2 w-32 origin-top-right divide-y divide-gray-100 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none dark:bg-gray-800" id="theme-menu">
-    <button class="group flex w-full items-center rounded-md px-2 py-2 text-sm" data-theme="light">
-      <div class="mr-2">
+    <button class="relative inline-block text-left" id="theme-switch">
         {{ partial "svgs/sun.html" . }}
-      </div>
-      Light
     </button>
-    <button class="group flex w-full items-center rounded-md px-2 py-2 text-sm" data-theme="dark">
-      <div class="mr-2">
-        {{ partial "svgs/moon.html" . }}
-      </div>
-      Dark
-    </button>
-    <button class="group flex w-full items-center rounded-md px-2 py-2 text-sm" data-theme="system">
-      <div class="mr-2">
-        {{ partial "svgs/monitor.html" . }}
-      </div>
-      System
-    </button>
-  </div>
+    <div
+        class="hidden absolute right-0 z-50 mt-2 w-32 origin-top-right divide-y divide-gray-100 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none dark:bg-gray-800"
+        id="theme-menu">
+        <button
+            class="group flex w-full items-center rounded-md px-2 py-2 text-sm"
+            data-theme="light">
+            <div class="mr-2">{{ partial "svgs/sun.html" . }}</div>
+            Light
+        </button>
+        <button
+            class="group flex w-full items-center rounded-md px-2 py-2 text-sm"
+            data-theme="dark">
+            <div class="mr-2">{{ partial "svgs/moon.html" . }}</div>
+            Dark
+        </button>
+        <button
+            class="group flex w-full items-center rounded-md px-2 py-2 text-sm"
+            data-theme="system">
+            <div class="mr-2">{{ partial "svgs/monitor.html" . }}</div>
+            System
+        </button>
+    </div>
 </div>
 <script>
-  document.getElementById('theme-switch').addEventListener('click', function() {
-    document.getElementById('theme-menu').classList.toggle('hidden');
-  });
-  document.querySelectorAll('[data-theme]').forEach(button => {
-    button.addEventListener('click', function() {
-      const theme = this.getAttribute('data-theme');
-      document.documentElement.setAttribute('data-theme', theme);
-      localStorage.setItem('theme', theme);
-      document.getElementById('theme-menu').classList.add('hidden');
-      const themeIcon = theme === 'dark' ? '{{ partial "svgs/moon.html" . }}' : '{{ partial "svgs/sun.html" . }}';
-      document.getElementById('theme-switch').innerHTML = themeIcon;
+  document
+    .getElementById("theme-switch")
+    .addEventListener("click", function () {
+      document.getElementById("theme-menu").classList.toggle("hidden");
+    });
+  document.querySelectorAll("[data-theme]").forEach((button) => {
+    button.addEventListener("click", function () {
+      const theme = this.getAttribute("data-theme");
+      document.documentElement.setAttribute("data-theme", theme);
+      localStorage.setItem("theme", theme);
+      document.getElementById("theme-menu").classList.add("hidden");
+      const themeIcon =
+        theme === "dark"
+          ? '{{ partial "svgs/moon.html" . }}'
+          : '{{ partial "svgs/sun.html" . }}';
+      document.getElementById("theme-switch").innerHTML = themeIcon;
     });
   });
 </script>
