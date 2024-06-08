@@ -20,6 +20,7 @@ module.exports = {
                 primary: colors.pink,
                 gray: colors.gray
             },
+            display: ["group-hover"],
             typography: ({ theme }) => ({
                 DEFAULT: {
                     css: {
