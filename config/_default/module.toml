@@ -5,7 +5,7 @@
 
 [[mounts]]
   source = "node_modules/@fontsource-variable/space-grotesk/files"
-  target = "assets/fonts"
+  target = "static/fonts"
 
 [[mounts]]
   source = "assets"
