@@ -11,10 +11,10 @@ window.scrollToComment = function () {
 window.addEventListener("scroll", () => {
     const scrollButtons = document.getElementById("scroll-buttons");
     if (window.scrollY > 50) {
-        scrollButtons.classList.remove("md:hidden");
-        scrollButtons.classList.add("md:flex");
+        scrollButtons.classList.remove("opacity-0");
+        scrollButtons.classList.add("opacity-100");
     } else {
-        scrollButtons.classList.remove("md:flex");
-        scrollButtons.classList.add("md:hidden");
+        scrollButtons.classList.remove("opacity-100");
+        scrollButtons.classList.add("opacity-0");
     }
 });
