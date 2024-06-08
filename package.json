@@ -17,6 +17,7 @@
     "hugo": "0.127.0"
   },
   "scripts": {
+    "clean": "shx rm -rf public node_modules",
     "start:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css -w",
     "start:hugo": "exec-bin node_modules/.bin/hugo/hugo server",
     "start": "run-p start:css start:hugo",
