@@ -1,5 +1,14 @@
 title = 'Galaxia'
 search = true
+comments = true
+
+# Edit Page
+repoHost = "GitHub"
+docsRepo = "https://github.com/totallynotdavid/galaxia"
+docsRepoBranch = "master"
+docsRepoSubPath = ""
+editPage = true
+lastMod = true
 
 [seo]
   [seo.title]
@@ -18,11 +27,3 @@ search = true
     sameAs = ["https://github.com/totallynotdavid/"]
     images = ["cover.png"]
     blogPosting = ["blog"]
-
-# Edit Page
-repoHost = "GitHub"
-docsRepo = "https://github.com/totallynotdavid/galaxia"
-docsRepoBranch = "master"
-docsRepoSubPath = ""
-editPage = true
-lastMod = true

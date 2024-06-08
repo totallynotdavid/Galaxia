@@ -1,7 +1,7 @@
 <div
     class="fixed bottom-8 right-8 hidden flex-col gap-3 md:flex"
     id="scroll-buttons">
-    {{ if .Site.Params.comments.provider }}
+    {{ if .Site.Params.comments }}
         <button
             aria-label="Scroll To Comment"
             onclick="scrollToComment()"
