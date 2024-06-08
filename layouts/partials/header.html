@@ -1,12 +1,12 @@
 <header class="flex items-center justify-between py-10">
   <div>
-    <a href="{{ .Site.BaseURL }}" aria-label="{{ .Site.Params.headerTitle }}">
+    <a href="{{ .Site.BaseURL }}" aria-label="{{ .Site.Params.Title }}">
       <div class="flex items-center justify-between">
         <div class="mr-3">
           {{ partial "svgs/star" . }}
         </div>
         <div class="hidden text-2xl font-semibold sm:block">
-          {{ .Site.Params.headerTitle }}
+          {{ .Site.Title }}
         </div>
       </div>
     </a>

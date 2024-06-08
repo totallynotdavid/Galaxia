@@ -1,9 +1,8 @@
 baseURL = 'https://totallynotdavid.github.io/galaxia/'
 languageCode = 'es'
 DefaultContentLanguage = 'es'
-title = 'Galaxia'
-
-comments = true
+enableGitInfo = true
+enableRobotsTXT = true
 
 [pagination]
   perPage = 10

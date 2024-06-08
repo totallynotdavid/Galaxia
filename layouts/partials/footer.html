@@ -16,14 +16,14 @@
       {{ end -}}
     </div>
     <div class="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
-      <div>David Duran</div>
+      <div>{{ .Site.Params.schemaAuthor }}</div>
       <div> • </div>
       <div>&copy; {{ now.Year }}</div>
       <div> • </div>
-      <a href="/" class="text-gray-500 dark:text-gray-400">Galaxia</a>
+      <a href="{{- .Site.BaseURL -}}" class="text-gray-500 dark:text-gray-400">{{ .Site.Title }}</a>
     </div>
     <div class="mb-8 text-sm text-gray-500 dark:text-gray-400">
-      <a href="https://totallynotdavid.github.io/">
+      <a href="{{- .Site.BaseURL -}}">
         Dumb Ways to Write
       </a>
     </div>

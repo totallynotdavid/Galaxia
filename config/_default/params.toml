@@ -1,8 +1,11 @@
-headerTitle = "Galaxia"
+title = 'Galaxia'
 search = true
-filePath = true
 
-comments = true
+## JSON-LD
+schemaType = "Organization"
+schemaName = "Galaxia"
+schemaAuthor = "David Duran"
+schemaAuthorGitHub = "https://github.com/totallynotdavid"
 
 # Edit Page
 repoHost = "GitHub"
