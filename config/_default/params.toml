@@ -1,11 +1,23 @@
 title = 'Galaxia'
 search = true
 
-## JSON-LD
-schemaType = "Organization"
-schemaName = "Galaxia"
-schemaAuthor = "David Duran"
-schemaAuthorGitHub = "https://github.com/totallynotdavid"
+[seo]
+  [seo.title]
+    separator = " | "
+    suffix = ""
+  [seo.favicons]
+    sizes = []
+    icon = "favicon.png"
+    svgIcon = "favicon.svg"
+    maskIcon = "mask-icon.svg"
+    maskIconColor = "white" # white (default)
+  [seo.schemas]
+    type = "Person"
+    logo = "favicon-512x512.png"
+    name = "David" # Name of Organization or Person
+    sameAs = ["https://github.com/totallynotdavid/"]
+    images = ["cover.png"]
+    blogPosting = ["blog"]
 
 # Edit Page
 repoHost = "GitHub"
