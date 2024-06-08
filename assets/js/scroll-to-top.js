@@ -3,7 +3,7 @@ window.scrollToTop = function () {
 };
 
 window.scrollToComment = function () {
-    document.getElementById("comment").scrollIntoView({ behavior: "smooth" });
+    document.getElementById("load-comments-button").scrollIntoView({ behavior: "smooth" });
 };
 
 window.addEventListener("scroll", () => {
