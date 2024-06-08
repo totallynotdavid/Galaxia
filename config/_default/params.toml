@@ -14,7 +14,7 @@ search = true
   [seo.schemas]
     type = "Person"
     logo = "favicon-512x512.png"
-    name = "David" # Name of Organization or Person
+    name = "David Duran"
     sameAs = ["https://github.com/totallynotdavid/"]
     images = ["cover.png"]
     blogPosting = ["blog"]
