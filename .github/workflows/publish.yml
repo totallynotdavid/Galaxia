@@ -3,6 +3,12 @@ name: Deploy to GH Pages
 on:
     push:
         branches: ['master']
+        paths:
+            - '/layouts/'
+            - '/content/'
+            - '/static/'
+            - '/assets/'
+            - '/config/'
     workflow_dispatch:
 
 permissions:
