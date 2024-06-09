@@ -16,9 +16,9 @@
 
 ---
 
-| Publicación y CI | Estado de los enlaces |
-| --- | --- |
-| [![Deploy to GH Pages](https://github.com/totallynotdavid/galaxia/actions/workflows/publish.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/publish.yml) | [![URL Health Check](https://github.com/totallynotdavid/galaxia/actions/workflows/404.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/404.yml) |
+| Publicación y CI | Calidad del código | Estado de los enlaces |
+| --- | --- | --- |
+| [![Deploy to GH Pages](https://github.com/totallynotdavid/galaxia/actions/workflows/publish.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/publish.yml) | [![URL Health Check](https://github.com/totallynotdavid/galaxia/actions/workflows/404.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/404.yml) | [![Audit Hugo Site](https://github.com/totallynotdavid/galaxia/actions/workflows/audit-hugo.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/audit-hugo.yml) |
 
 ---
 
