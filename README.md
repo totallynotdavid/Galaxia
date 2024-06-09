@@ -1,8 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 <p align="center">
     <img src="https://i.imgur.com/bKC4xJd.png" width="450">
     <br>
@@ -18,6 +13,14 @@
      <a href="notes/utilidades.md">Utilidades</a>
     <br>
 </p>
+
+---
+
+| Publicación y CI | Estado de los enlaces |
+| --- | --- |
+| [![Deploy to GH Pages](https://github.com/totallynotdavid/galaxia/actions/workflows/publish.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/publish.yml) | [![URL Health Check](https://github.com/totallynotdavid/galaxia/actions/workflows/404.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/404.yml) |
+
+---
 
 **GLOSARIO**
 
