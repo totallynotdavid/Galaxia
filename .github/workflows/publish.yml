@@ -40,22 +40,23 @@ jobs:
               with:
                   node-version: '20'
 
+            - uses: actions/configure-pages@v3
+
+            - run: '[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true'
+
             - name: Install Hugo CLI
               run: |
                   wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO_VERSION }}/hugo_extended_${{ env.HUGO_VERSION }}_linux-amd64.deb \
                   && sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
-            - name: Install Node.js dependencies
-              run: npm ci
-
-            - name: Build CSS with Tailwind
-              run: npm run build:css
+            - run: sudo snap install dart-sass
 
             - name: Build site with Hugo
               env:
                   HUGO_ENVIRONMENT: production
                   HUGO_ENV: production
               run: |
+                  npm run build:css
                   hugo \
                     --minify \
                     --baseURL "https://totallynotdavid.github.io/galaxia/"
