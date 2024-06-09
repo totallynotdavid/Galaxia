@@ -4,7 +4,7 @@
   max = ""
 
 [[mounts]]
-  source = "node_modules/@fontsource-variable/space-grotesk/files"
+  source = "node_modules/@fontsource-variable/hanken-grotesk/files"
   target = "static/fonts"
 
 [[mounts]]

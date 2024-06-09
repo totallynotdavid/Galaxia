@@ -4,7 +4,7 @@
     "description": "Collection of valuable Internet links with practical usage suggestions",
     "main": "index.js",
     "dependencies": {
-        "@fontsource-variable/space-grotesk": "^5.0.18",
+        "@fontsource-variable/hanken-grotesk": "^5.0.21",
         "@tailwindcss/typography": "^0.5.13",
         "autoprefixer": "^10.4.19",
         "postcss": "^8.4.38",

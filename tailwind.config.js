@@ -3,7 +3,7 @@ const { fontFamily } = require("tailwindcss/defaultTheme");
 const colors = require("tailwindcss/colors");
 
 module.exports = {
-    content: ['./layouts/**/*.html', './content/**/*.md'],
+    content: ["./layouts/**/*.html", "./content/**/*.md"],
     darkMode: "class",
     theme: {
         extend: {
@@ -14,7 +14,7 @@ module.exports = {
                 14: "3.5rem"
             },
             fontFamily: {
-                sans: ['"Space Grotesk Variable"', ...fontFamily.sans]
+                sans: ['"Hanken Grotesk Variable"', ...fontFamily.sans]
             },
             colors: {
                 primary: colors.pink,
