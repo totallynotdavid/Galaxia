@@ -1,0 +1,29 @@
+name: Audit Hugo Site
+
+on:
+    workflow_dispatch:
+    pull_request:
+        paths:
+            - '/layouts/'
+    push:
+        branches: [master]
+        paths:
+            - '/layouts/'
+
+jobs:
+    build-unminified-site:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+
+            - uses: wildtechgarden/audit-build-action-hugo@main
+              with:
+                  base-url: https://totallynotdavid.github.io/galaxia/
+                  config-file: config.toml,config.params.toml
+                  hugo-version: latest
+                  use-lfs: false
+
+            - uses: wildtechgarden/validator-html-action@main
+              with:
+                  output-directory: public
+                  repo-token: ${{ secrets.LINK_CHECK_404 }}
