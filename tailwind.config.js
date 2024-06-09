@@ -3,7 +3,7 @@ const { fontFamily } = require("tailwindcss/defaultTheme");
 const colors = require("tailwindcss/colors");
 
 module.exports = {
-    content: ["./hugo_stats.json"],
+    content: ['./layouts/**/*.html', './content/**/*.md'],
     darkMode: "class",
     theme: {
         extend: {
