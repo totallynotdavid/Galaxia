@@ -16,6 +16,8 @@ jobs:
         steps:
             - uses: actions/checkout@v4
 
+            - run: npm ci
+
             - uses: wildtechgarden/audit-build-action-hugo@main
               with:
                   base-url: https://totallynotdavid.github.io/galaxia/
