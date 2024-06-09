@@ -1880,6 +1880,13 @@ video {
     transition-duration: 150ms;
 }
 
+.transition-colors {
+    transition-property: color, background-color, border-color,
+        text-decoration-color, fill, stroke;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+}
+
 .duration-300 {
     transition-duration: 300ms;
 }
@@ -1963,6 +1970,14 @@ video {
         :where([class~='not-prose'], [class~='not-prose'] *)
     ) {
     color: #f3f4f6;
+}
+
+.hover\:scale-110:hover {
+    --tw-scale-x: 1.1;
+    --tw-scale-y: 1.1;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+        rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+        scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
 .hover\:bg-gray-300:hover {
