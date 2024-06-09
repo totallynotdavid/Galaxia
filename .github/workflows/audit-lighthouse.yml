@@ -1,0 +1,26 @@
+name: User Experience Audit
+
+on:
+    workflow_dispatch:
+    push:
+        branches: [master]
+        paths:
+            - '/layouts/'
+            - '/assets/'
+
+jobs:
+    lighthouse:
+        name: User Experience Audit
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v4
+
+            - uses: treosh/lighthouse-ci-action@v9
+              with:
+                  urls: |
+                      https://totallynotdavid.github.io/galaxia/
+                      https://totallynotdavid.github.io/galaxia/basededatos/
+                  budgetPath: ./.github/budget.json
+                  uploadArtifacts: true
+                  temporaryPublicStorage: true
