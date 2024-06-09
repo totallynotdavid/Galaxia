@@ -3,7 +3,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const themeMenu = document.getElementById("theme-menu");
     const themeIcon = document.getElementById("theme-icon");
 
-    // Get icons from the hidden icons container
     const sunIconElement = document.querySelector("#icons #sun-icon svg");
     const moonIconElement = document.querySelector("#icons #moon-icon svg");
     const monitorIconElement = document.querySelector(
@@ -11,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     );
 
     if (!sunIconElement || !moonIconElement || !monitorIconElement) {
-        console.error("One or more theme icons are not found in the DOM.");
+        console.error("Uno o más iconos no se han encontrado.");
         return;
     }
 
@@ -19,7 +18,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const moonIcon = moonIconElement.outerHTML;
     const monitorIcon = monitorIconElement.outerHTML;
 
-    // Set icons in the theme menu
     const sunIconContainer = document.querySelector(
         ".icon-container[data-icon='sun-icon']"
     );
@@ -46,11 +44,29 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const setTheme = theme => {
         localStorage.setItem("theme", theme);
-        document.documentElement.setAttribute("data-theme", theme);
+
+        if (theme === "system") {
+            document.documentElement.classList.remove("dark");
+            document.documentElement.classList.remove("light");
+            const systemPreference =
+                window.matchMedia("(prefers-color-scheme: dark)").matches ?
+                    "dark"
+                :   "light";
+            document.documentElement.classList.add(systemPreference);
+        } else if (theme === "dark") {
+            document.documentElement.classList.add("dark");
+            document.documentElement.classList.remove("light");
+        } else {
+            document.documentElement.classList.add("light");
+            document.documentElement.classList.remove("dark");
+        }
+
         setIcon(theme);
+        document.dispatchEvent(
+            new CustomEvent("themeChange", { detail: theme })
+        );
     };
 
-    // Attach setTheme to the global window object
     window.setTheme = setTheme;
 
     themeSwitcherButton.addEventListener("click", () => {
@@ -65,13 +81,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 
-    const savedTheme =
-        localStorage.getItem("theme") ||
-        ((
-            window.matchMedia &&
-            window.matchMedia("(prefers-color-scheme: dark)").matches
-        ) ?
-            "dark"
-        :   "light");
+    const savedTheme = localStorage.getItem("theme") || "system";
     setTheme(savedTheme);
 });

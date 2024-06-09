@@ -3,7 +3,9 @@ document.addEventListener("DOMContentLoaded", function () {
     const commentsContainer = document.getElementById("comments-container");
 
     const getCurrentTheme = () => {
-        return document.documentElement.getAttribute("data-theme") || "light";
+        return document.documentElement.classList.contains("dark") ?
+                "dark"
+            :   "light";
     };
 
     if (loadCommentsButton && commentsContainer) {

@@ -1791,12 +1791,12 @@ video {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.opacity-95 {
-    opacity: 0.95;
-}
-
 .opacity-0 {
     opacity: 0;
+}
+
+.opacity-95 {
+    opacity: 0.95;
 }
 
 .shadow-lg {
@@ -2122,10 +2122,6 @@ video {
         display: flex;
     }
 
-    .md\:hidden {
-        display: none;
-    }
-
     .md\:flex-row {
         flex-direction: row;
     }
@@ -2177,10 +2173,6 @@ video {
 
     .md\:leading-14 {
         line-height: 3.5rem;
-    }
-
-    .md\:opacity-0 {
-        opacity: 0;
     }
 }
 
