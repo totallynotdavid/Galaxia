@@ -30,3 +30,4 @@ jobs:
               with:
                   output-directory: public/galaxia/
                   repo-token: ${{ secrets.LINK_CHECK_404 }}
+                  use-existing-workspace: "true"
