@@ -66,18 +66,30 @@ date: 2023-10-01
 
 | Nombre | Características | Código Abierto | Sistemas operativos |
 | --- | --- | --- | --- |
-| [Roam Research](https://roamresearch.com/) `De pago` `Gratuito` | Simple y práctico. </br>Sincronización de notas. </br>Posee diversos atajos de teclado. | No. | Aplicación web, |
-| [Manifest](https://www.manifest.app/) | Simple y práctico. </br>Anónimo y "seguro" (se almacena en el navegador de forma local). </br>Modo oscuro disponible. | `Sí`, disponible en [Github](https://github.com/jonathontoon/manifest/) |
+| [Roam Research](https://roamresearch.com/) `De pago` `Gratuito` | Simple y práctico. <br> Sincronización de notas. <br> Posee diversos atajos de teclado. | No | Aplicación web |
+| [Manifest](https://www.manifest.app/) | Simple y práctico. <br> Anónimo y "seguro" (se almacena en el navegador de forma local). <br> Modo oscuro disponible. | `Sí`, disponible en [Github](https://github.com/jonathontoon/manifest/) |
 
 [Microtetha](https://notepad.microtheta.com/)
 
 ### Publicación
 
-_Plataformas_: |Nombre|Características|Sistemas operativos|Adicional| |------|---------------|-------------------|---------| [write.as](https://write.as/)|Simple y práctico. </br> Publica en varios sitios a la vez: <ul><li>Tumblr <li>ghost <li>Mastodon <li>Pleroma</ul>|Aplicación web|Disponible en [Write Freely](https://writefreely.org/) como herramienta para instalar en un servidor.
+#### Plataformas
 
-_Asistentes para escribir: TRADUCCIÓN_ |Nombre|Características|Sistemas operativos|Adicional| |------|---------------|-------------------|---------| [Deepl](https://www.deepl.com/es/translator) `De pago` `Gratuito`|Lenguajes disponibles incluyen: <ul><li>**Inglés** <li>Español <li>**Alemán** <li>Chino <li>Francés;<li>Portugués <li>Italiano <li>Polaco <li>Ruso <li>Neerlandés</ul> La versión gratuita tiene un límite de palabras (5000). </br> Traducción de documentos disponible.| Aplicación nativa para: <ul><li>Windows <li>macOS </ul>|/No/ Papago ¡PENDIENTE!
+| Nombre | Características | Sistemas operativos | Adicional |
+| --- | --- | --- | --- |
+| [write.as](https://write.as/) | Simple y práctico. <br> Permite publicar en varios sitios a la vez: <ul><li>Tumblr</li><li>Ghost</li><li>Mastodon</li><li>Pleroma</li></ul> | Aplicación web | Disponible en [Write Freely](https://writefreely.org/) como herramienta para instalar en un servidor. |
 
-_Asistentes para escribir: VARIOS_ |Nombre|Características|Sistemas operativos| |------|---------------|-------------------| [ASCIIFlow](asciiflow.com)|Crea tablas o cualquier cosa que puedas imaginar al estilo ASCII.|Aplicación web
+#### Asistentes para escribir: TRADUCCIÓN
+
+| Nombre | Características | Sistemas operativos | Adicional |
+| --- | --- | --- | --- |
+| [DeepL](https://www.deepl.com/es/translator) `De pago` `Gratuito` | Lenguajes disponibles incluyen: <ul><li>**Inglés**</li><li>Español</li><li>**Alemán**</li><li>Chino</li><li>Francés</li><li>Portugués</li><li>Italiano</li><li>Polaco</li><li>Ruso</li><li>Neerlandés</li></ul> La versión gratuita tiene un límite de palabras (5000). <br> Traducción de documentos disponible. | Aplicación nativa para: <ul><li>Windows</li><li>macOS</li></ul> | No disponible en Papago (¡PENDIENTE!) |
+
+#### Asistentes para escribir: VARIOS
+
+| Nombre | Características | Sistemas operativos |
+| --- | --- | --- |
+| [ASCIIFlow](https://asciiflow.com) | Crea tablas o cualquier cosa al estilo ASCII. | Aplicación web |
 
 ## Imágenes (PENDIENTE)
 
@@ -85,49 +97,60 @@ _Asistentes para escribir: VARIOS_ |Nombre|Características|Sistemas operativos|
 
 | Nombre | Características | Sitios compatibles |
 | --- | --- | --- |
-| [Image Operations](https://imgops.com/) | Pega o sube una imagen o pega el enlace de una imagen: <ul><li>También puedes insertar `imgops.com/[]` para automatizar la búsqueda.</ul> Edición básica de imágenes: <ul><li>Plataforma nativa <li>Pixlr <li>Picmonkey <li>Luna Pic <li>Szoter </ul> | <ul><li>Imágenes de Google <li>Bing Images <li>Tinyeye <li>Karmadecay (Reddit) <li>Yandex <li>Baidú <li>So (REVISAR) <li>Sogou </ul> |
-| [`EN`] [iqdb](https://iqdb.org) | Búsqueda de imágenes relacionadas a series y películas de animación japonesas, incluyendo historietas japonesas (de adultos también). | PENDIENTE |
+| [Image Operations](https://imgops.com/) | Pega o sube una imagen o enlace. <br> También puedes insertar `imgops.com/[]` para automatizar la búsqueda. Edición básica de imágenes: <ul><li>Plataforma nativa</li><li>Pixlr</li><li>Picmonkey</li><li>Luna Pic</li><li>Szoter</li></ul> | <ul><li>Imágenes de Google</li><li>Bing Images</li><li>Tinyeye</li><li>Karmadecay (Reddit)</li><li>Yandex</li><li>Baidú</li><li>So (REVISAR)</li><li>Sogou</li></ul> |
+| [`EN`] [iqdb](https://iqdb.org) | Búsqueda de imágenes de series y películas de animación japonesas, incluyendo historietas japonesas (de adultos también). | PENDIENTE |
 
-[`EN`] [Saucenao](https://saucenao.com/) [`JP`] [ASCCI2D](https://www.ascii2d.net) [`EN`] [trace.moe](https://trace.moe/)
+Más recursos:
+
+- [`EN`] [Saucenao](https://saucenao.com/)
+- [`JP`] [ASCCI2D](https://www.ascii2d.net)
+- [`EN`] [trace.moe](https://trace.moe/)
 
 ### Metadatos
 
 | Nombre | Información disponible |
 | --- | --- |
-| [Regex Info](http://exif.regex.info/) | EXIF/XMP/GPS <ul><li>Miniaturas ocultas. <li>Datos sobre la ubicación. <li>Modelo de la cámara. <li>Fecha <li>Entre otros.</ul> |
-| [Meta Pics](http://metapicz.com/) | Miniaturas ocultas </br> Datos sobre la ubicación. </br>Modelo de la cámara. </br>Fecha. <br>Entre otros. |
-| [Page Headers](https://pageheaders.com/) | Edad del archivo (imagen). </br> Tipo de archivo. </br> Tipo de hospedaje. |
-| [Rex Swain's HTTP Viewer](http://www.rexswain.com/) | Edad del archivo (imagen). </br> Tipo de archivo. </br> Tipo de hospedaje. |
+| [Regex Info](http://exif.regex.info/) | EXIF/XMP/GPS. <ul><li>Miniaturas ocultas.</li><li>Datos sobre la ubicación.</li><li>Modelo de la cámara.</li><li>Fecha, entre otros.</li></ul> |
+| [Meta Pics](http://metapicz.com/) | Miniaturas ocultas. <br> Datos sobre la ubicación. <br> Modelo de la cámara. <br> Fecha, entre otros. |
+| [Page Headers](https://pageheaders.com/) | Edad del archivo (imagen). <br> Tipo de archivo. <br> Tipo de hospedaje. |
+| [Rex Swain's HTTP Viewer](http://www.rexswain.com/) | Edad del archivo (imagen). <br> Tipo de archivo. <br> Tipo de hospedaje. |
 
 ### Resolución de imágenes
 
 | Nombre | Características | Código abierto | Sistemas operativos |
 | --- | --- | --- | --- |
 | [Dynamic Drive](https://tools.dynamicdrive.com) | Muestra de varias versiones amplificadas de la imagen. | `No` | Aplicación web |
-| [Waifu2x](http://waifu2x.udp.jp/) | Mejora de la resolución de imágenes usando redes neuronales convolucionales. </br> Funciona mejor en imágenes de anime. | `Sí`, disponible en [Github](https://github.com/nagadomi/waifu2x). | Aplicación web |
+| [Waifu2x](http://waifu2x.udp.jp/) | Mejora la resolución de imágenes usando redes neuronales convolucionales. <br> Funciona mejor en imágenes de anime. | `Sí`, disponible en [Github](https://github.com/nagadomi/waifu2x) | Aplicación web |
 
-_Versiones bifurcadas de Waifu2x_ |Nombre|Características|Código abierto|Sistemas operativos| |------|---------------|--------------|-------------------| [`JP`] ,[`+`] [waifu-2x-cafee](https://github.com/lltcggie/waifu2x-caffe) GUI|**Requerido: GPU Nvidia**.</br>Disponible en varios idiomas: <ul><li>Inglés <li>Japonés <li>Chino simplificado <li> Chino tradicional <li>Coreano <li>Turco <li>Español <li>Francés</ul>|`Sí`, disponible en [Github](https://github.com/lltcggie/waifu2x-caffe)|Windows Vista o superior. [`EN`] [waifu2x ncnn vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)|El autor recomienda usar GPU de marca Intel, AMD o Nvidia. [`EN`] [waifu 2x, solo conversión](https://github.com/DeadSix27/waifu2x-converter-cpp), [`EN`] [GUI](https://github.com/YukihoAA/waifu2x_snowshell), ¡diferentes autores!
+#### Versiones bifurcadas de Waifu2x
+
+| Nombre | Características | Código abierto | Sistemas operativos |
+| --- | --- | --- | --- |
+| [`JP`] ,[`+`] [waifu-2x-cafee](https://github.com/lltcggie/waifu2x-caffe) GUI | **Requerido: GPU Nvidia**. Disponible en varios idiomas: <ul><li>Inglés</li><li>Japonés</li><li>Chino simplificado</li><li>Chino tradicional</li><li>Coreano</li><li>Turco</li><li>Español</li><li>Francés</li></ul> | `Sí`, disponible en [Github](https://github.com/lltcggie/waifu2x-caffe) | Windows Vista o superior. |
+| [`EN`] [waifu2x ncnn vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) | El autor recomienda usar GPU de marca Intel, AMD o Nvidia. |
+| [`EN`] [waifu 2x, solo conversión](https://github.com/DeadSix27/waifu2x-converter-cpp) |  |
+| [`EN`] [GUI](https://github.com/YukihoAA/waifu2x_snowshell) | Diferentes autores. |
 
 ### Búsqueda de tipografía
 
 | Nombre | Características | Sistemas operativos |
 | --- | --- | --- |
-| [What the Font](https://www.myfonts.com/WhatTheFont/) | d | d |
-| [What font is](https://www.whatfontis.com/) | d | d |
+| [What the Font](https://www.myfonts.com/WhatTheFont/) | Reconocimiento de fuentes. | Web |
+| [What Font Is](https://www.whatfontis.com/) | Reconocimiento de fuentes. | Web |
 
 ## Videos
 
 | Nombre | Características | Código abierto | Sistemas operativos |
 | --- | --- | --- | --- |
-| [FFmpeg](https://ffmpeg.org/) | Grabar, convertir y reproducir audio y video; entre otros. | `Sí`, disponible en [ffmpeg.org](https://git.ffmpeg.org/ffmpeg.git). | Windows </br> macOS </br> Linux |
-| [HandBrake](https://handbrake.fr/) | Convierte videos de cualquier formato a casi cualquier formato. </br>Opciones preconfiguradas. </br> Formatos disponibles: <ul><li>Contenedor de archivos: `.mp4` (`.m4v`) y `.mkv`. <li>Codificador de video: H.265 (x265 y QuickSync), H.264 (x264 y QuickSync), H.265 MPEG-4 y MPEG-2, VP8, VP9 y Theor. <li>Codificador de audio: `.aac` / `.he-aac`, `.mp3`, `.flac`, `.ac3` o Vorbi. <li>Adaptador de audio: `.ac-3`, `.e-ac3`, `.dts`, `.dts-hd`, TrueHD, `.aac` y pistas `.mp3`.</ul> Subtítulos (VobSub, Closed Captions CEA-608, SSA, `.srt`). </br> Calidad constante o tasa de bits promedio del codificador del video. </br> Soporte para VFR y CFR. </br> Previsualización. | `Sí`, disponible en [Github](https://github.com/HandBrake/HandBrake) | Windows </br> macOS </br> Linux |
+| [FFmpeg](https://ffmpeg.org/) | Grabar, convertir y reproducir audio y video; entre otros. | `Sí`, disponible en [ffmpeg.org](https://git.ffmpeg.org/ffmpeg.git) | Windows <br> macOS <br> Linux |
+| [HandBrake](https://handbrake.fr/) | Convierte videos de cualquier formato a casi cualquier formato. <br> Opciones preconfiguradas. <br> Formatos disponibles: <ul><li>Contenedor de archivos: `.mp4` (`.m4v`) y `.mkv`.</li><li>Codificador de video: H.265 (x265 y QuickSync), H.264 (x264 y QuickSync), H.265 MPEG-4 y MPEG-2, VP8, VP9 y Theora.</li><li>Codificador de audio: `.aac`, `.he-aac`, `.mp3`, `.flac`, `.ac3` o Vorbis.</li><li>Adaptador de audio: `.ac-3`, `.e-ac3`, `.dts`, `.dts-hd`, TrueHD, `.aac` y pistas `.mp3`.</li></ul> Subtítulos (VobSub, Closed Captions CEA-608, SSA, `.srt`). <br> Calidad constante o tasa de bits promedio del codificador del video. <br> Soporte para VFR y CFR. <br> Previsualización. | `Sí`, disponible en [Github](https://github.com/HandBrake/HandBrake) | Windows <br> macOS <br> Linux |
 
 ## Videojuegos
 
 | Nombre | Características | Código abierto | Sistemas operativos |
 | --- | --- | --- | --- |
-| [Goldberg Steam Simulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) | Emulador de las funciones en línea de Steam en LAN. | `Sí`, disponible en [Gitlab](https://gitlab.com/Mr_Goldberg/goldberg_emulator). | Windows </br> macOS </br> Linux |
-| [Cream API](https://cs.rin.ru/forum/viewtopic.php?t=70576) | <ul><li>Desbloquear episodios descargable en Steam. <li>Funciona con todas las versiones conocidas de SteamApps (2 al 8). <li>Funciona con todas las versiones conocidas de SteamUser (9 al 20). <li>Funciona con videojuegos que hacen uso de steamclient(64).dll. |
+| [Goldberg Steam Simulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) | Emulador de las funciones en línea de Steam en LAN. | `Sí`, disponible en [Gitlab](https://gitlab.com/Mr_Goldberg/goldberg_emulator) | Windows <br> macOS <br> Linux |
+| [Cream API](https://cs.rin.ru/forum/viewtopic.php?t=70576) | <ul><li>Desbloquear episodios descargables en Steam.</li><li>Funciona con todas las versiones conocidas de SteamApps (2 al 8).</li><li>Funciona con todas las versiones conocidas de SteamUser (9 al 20).</li><li>Funciona con videojuegos que hacen uso de `steamclient(64).dll`.</li></ul> |  |  |
 
 # Descarga
 
@@ -145,10 +168,9 @@ _Versiones bifurcadas de Waifu2x_ |Nombre|Características|Código abierto|Siste
 
 ### Archivado de sitios web
 
-| Nombre | Características | Lenguaje | Código abierto | Sistemas operativos |
-| ------ | --------------- | -------- | -------------- | ------------------- |
-
-[`EN`] [Webrecorder](https://webrecorder.io/) [`EN`] [Web Archiving Integration Layer](https://github.com/machawk1/wail)|Archivado de sitios web en general.</br> Herramientas incluidas: <ul><li>[Heritrix 3.2.0](https://github.com/internetarchive/heritrix3) <li>[OpenWayback 2.4.0](https://github.com/iipc/openwayback) <li>Apache Tomcat <li>[pyinstaller](https://github.com/pyinstaller/pyinstaller/) <li>[MemGator](https://github.com/oduwsdl/memgator)</ul>|Python|`Sí`, disponible en [Github](https://github.com/oduwsdl/memgator)|Windows </br> macOS
+| Nombre | Características | Lenguaje | Código Abierto | Sistemas Operativos |
+| --- | --- | --- | --- | --- |
+| [Webrecorder](https://webrecorder.io/) <br/> [Web Archiving Integration Layer](https://github.com/machawk1/wail) | **Archivado de sitios web en general.**<br/> **Herramientas Incluidas:**<ul><li>[Heritrix 3.2.0](https://github.com/internetarchive/heritrix3)</li><li>[OpenWayback 2.4.0](https://github.com/iipc/openwayback)</li><li>Apache Tomcat</li><li>[PyInstaller](https://github.com/pyinstaller/pyinstaller/)</li><li>[MemGator](https://github.com/oduwsdl/memgator)</li></ul> | Python | ✔️ Disponible en [GitHub](https://github.com/oduwsdl/memgator) | Windows <br/> macOS |
 
 ### Específicos
 
@@ -186,48 +208,73 @@ _Versiones bifurcadas de Waifu2x_ |Nombre|Características|Código abierto|Siste
 | [`EN`] [XSpotify](https://github.com/meik97/XSpotify) | [Requerido: Microsoft's [Visual C++ Redistributable Runtimes](https://github.com/abbodi1406/vcredist)]. </br> Descarga directamente de los servidores de Spotify. </br> Funciones: <ul><li>Calidad y formato (cuenta gratuita): 160 kb/s, 32-bit, 44100 Hz .ogg. <li>Calidad y formato (cuenta gratuita): 160 kb/s, 32-bit, 44100 Hz .ogg. <li>Calidad y formato (cuenta gratuita): 160 kb/s, 32-bit, 44100 Hz .ogg.</ul> | `Sí`, disponible en [Github](https://github.com/meik97/XSpotify) | Windows |
 | [`EN`] [SpotMyBackup](https://www.spotmybackup.com/) | Exporta e importa tu lista de reproducción y canciones de Spotify, pero tiene un repositorio en [Github](https://github.com/secuvera/SpotMyBackup/). | `No` | Aplicación web |
 
-## Aplicación web
+## Aplicación Web
 
 ### General
 
-_Banco de imágenes_ |Nombre|Características|Sitios soportados| |------|---------------|-----------------| [`EN`] [Downloader.la](https://downloader.la/)|Descarga imágenes sin marca de agua de varios bancos de imágenes.|Shutterstock, Adobe Stock, Getty Images, Picfair, lovePik, freePik, 123RF, entre otros. [`EN`] [Tomato](https://tomato.to/)|Descarga imágenes sin marca de agua de varios bancos de imágenes.|Adobestock, Gettyimages, 500px.com, Flickr, 123RF, Filmmagic, NBA Photostore, entre otros.
+#### Banco de Imágenes
 
-_Documentos_ |Nombre|Sitios soportados| |------|-----------------| [`EN`] [DocDownloader](https://docdownloader.com/)|Scribd, Isuu, Slideshare, Academia.edu
+| Nombre | Características | Sitios Soportados |
+| --- | --- | --- |
+| [`EN`] [Downloader.la](https://downloader.la/) | Descarga imágenes sin marca de agua de varios bancos de imágenes. | Shutterstock, Adobe Stock, Getty Images, Picfair, lovePik, freePik, 123RF, entre otros. |
+| [`EN`] [Tomato](https://tomato.to/) | Descarga imágenes sin marca de agua de varios bancos de imágenes. | Adobe Stock, Getty Images, 500px.com, Flickr, 123RF, Filmmagic, NBA Photostore, entre otros. |
+
+#### Documentos
+
+| Nombre | Sitios Soportados |
+| --- | --- |
+| [`EN`] [DocDownloader](https://docdownloader.com/) | Scribd, Issuu, Slideshare, Academia.edu |
 
 ### Generador de enlaces de descarga
 
-[Lista completa](filehostlist.miraheze.org), revisión rápida. |Nombre|Sitios soportados| |------|-----------------| reevown.com|Uploaded (1GB/H) </br> rapidgator (2 downloads per day) </br> 1fichier </br> filefactory </br> uptobox </br> uploadboy (1GB) </br> k2s (1GB) hyperdebrid.net|depositfiles (3 enlaces/día) </br> rapidgator (.5GB/día) </br> turbobit (.5/day) </br> uploaded (1.5GB/día) </br> userscloud (1GB/día) </br> zippyshare (ilimitado) cocoleech.com|[5 enlaces/día] Goloady (300MB) </br> Katfile (Ilimitado) </br> Rapidgator (.5GB) </br> Uploaded.net (1GB) </br> Nitroflare (300MB) </br> Zippyshare </br> Upload.ee </br> anonfile dailyleech.com|Cuesta 6 dólares mensuales, no recuerdo por qué lo incluí. vnz-leech.com|Confusión, revisar. get4all.org|Confusión, revisar.
+[Lista completa](https://filehostlist.miraheze.org)
+
+| Nombre | Sitios Soportados |
+| --- | --- |
+| reevown.com | - Uploaded (1GB/H) <br> - Rapidgator (2 descargas por día) <br> - 1fichier <br> - Filefactory <br> - Uptobox <br> - Uploadboy (1GB) <br> - K2S (1GB) <br> - Hyperdebrid.net |
+| depositfiles | - 3 enlaces/día <br> - Rapidgator (0.5GB/día) <br> - Turbobit (0.5/día) <br> - Uploaded (1.5GB/día) <br> - Userscloud (1GB/día) <br> - Zippyshare (ilimitado) <br> - Cocoleech.com |
+| Goloady | - 5 enlaces/día <br> - 300MB |
+| Katfile | - Ilimitado |
+| Rapidgator | - 0.5GB |
+| Uploaded.net | - 1GB |
+| Nitroflare | - 300MB |
+| Zippyshare | - Ilimitado |
+| Upload.ee | - Ilimitado |
+| Anonfile | - Ilimitado |
+| Dailyleech.com | - Ilimitado |
+| vnz-leech.com | Cuesta 6 dólares mensuales (Razón por revisar) |
+| get4all.org | Confusión, revisar |
 
 ### Microsoft
 
 | Nombre | Características | Requerido |
 | --- | --- | --- |
-| [`EN`] [Generador de enlaces de la tienda de Microsoft](https://store.rg-adguard.net/) | Descarga directa desde los servidores de Microsoft. </br>Versiones disponibles: <ul><li>Rápido, Lento, Prelanzamiento, Por defecto.</ul> | Solo uno es necesario:<ul><li>Enlace URL <li>Identificación del producto <li>Nombre de la familia del paquete <li>Identificación de la categoría |
-| [`EN`] [Generador de enlaces de .isos de Microsoft](https://tb.rg-adguard.net/public.php) | Descarga directa desde los servidores de Microsoft. </br> Versiones disponibles: <ul><li>Tipo <li>Versión <li> Edición <li>Lenguaje</ul> | Ninguno |
+| [`EN`] [Generador de Enlaces de la Tienda de Microsoft](https://store.rg-adguard.net/) | Descarga directa desde los servidores de Microsoft.<br>**Versiones disponibles:** Rápido, Lento, Prelanzamiento, Por defecto. | **Solo uno es necesario:**<br> - Enlace URL <br> - Identificación del producto <br> - Nombre de la familia del paquete <br> - Identificación de la categoría |
+| [`EN`] [Generador de Enlaces de .isos de Microsoft](https://tb.rg-adguard.net/public.php) | Descarga directa desde los servidores de Microsoft.<br>**Versiones disponibles:** Tipo, Versión, Edición, Lenguaje. | Ninguno |
 
 ### Específicos
 
-| Nombre | Sitios soportados | Características |
+| Nombre | Sitios Soportados | Características |
 | --- | --- | --- |
-| [`EN`] [APKCombo](https://apkcombo.com/es-pe/apk-downloader/) `Google Play Store` | Google Play Store | Desde desde los servidores de la tienda de Google.</br>Evitar restricciones regionales. </br> Opciones múltiples: <ul><li>Tipo de dispositivo (Por defecto, Teléfono, Tableta, Televisión). <li>Arquitectura del dispositivo (Por defecto, armeabi-v7a, arm64-v8a, x86, x86_64). <li>Versión de Android (Por defecto, 4.4, 5.0, 5.1, 6.0, 7.0, 7.1, 8.0, 8.1, 9.0, 10) |
+| [`EN`] [APKCombo](https://apkcombo.com/es-pe/apk-downloader/) `Google Play Store` | Google Play Store | - Descarga desde los servidores de la tienda de Google.<br> - Evita restricciones regionales.<br> - **Opciones múltiples:** <br> &nbsp;&nbsp;- Tipo de dispositivo (Por defecto, Teléfono, Tableta, Televisión) <br> &nbsp;&nbsp;- Arquitectura del dispositivo (Por defecto, armeabi-v7a, arm64-v8a, x86, x86_64) <br> &nbsp;&nbsp;- Versión de Android (Por defecto, 4.4, 5.0, 5.1, 6.0, 7.0, 7.1, 8.0, 8.1, 9.0, 10) |
 | [`EN`] [DLScrib](https://dlscrib.com/) `Scribd` | Scribd | Descarga documentos desde los servidores de Scribd. |
 
-## Línea de comando
+## Línea de Comando
 
 | Nombre | Características | Protocolos |
 | --- | --- | --- |
-| [`EN`] [aria2](https://aria2.github.io/) | <ul><li>Multiconección y multidescarga. <li>Uso de poco espacio y pocos recursos. <li>Cliente Bittorrent. <li>Metaenlaces activado.<ul><li>[The Metalink Download Description Format](http://tools.ietf.org/html/rfc5854) (aka Metalink v4). <li>Metalink version 3. <li>[Metalink/HTTP](http://tools.ietf.org/html/rfc6249).</ul> <li>Control remoto: <ul><li>JSON-RPC (HTTP y WebSocket). <li>XML-RPC.</ul></ul> | HTTP/HTTPS </br> FTP </br> SFTP </br> BitTorrent </br> Metalink |
+| [`EN`] [aria2](https://aria2.github.io/) | - Multiconexión y multidescarga <br> - Uso eficiente de espacio y recursos <br> - Cliente Bittorrent <br> - Metaenlaces activados:<br> &nbsp;&nbsp;- [The Metalink Download Description Format](http://tools.ietf.org/html/rfc5854) (aka Metalink v4) <br> &nbsp;&nbsp;- Metalink versión 3 <br> &nbsp;&nbsp;- [Metalink/HTTP](http://tools.ietf.org/html/rfc6249) <br> - Control remoto:<br> &nbsp;&nbsp;- JSON-RPC (HTTP y WebSocket) <br> &nbsp;&nbsp;- XML-RPC | - HTTP/HTTPS <br> - FTP <br> - SFTP <br> - BitTorrent <br> - Metalink |
 
-# Mejora personal
-
-| Nombre | Características |
-| --- | --- |
-| [`EN`] [Entrenamiento físico](nytimes.com/interactive/projects/well/workouts/) | Ejercicios y ejemplos. |
-| [`EN`] [Typing](typing.com) | Practica mecanografía. |
-
-## Organización del tiempo
+## Mejora Personal
 
 | Nombre | Características |
 | --- | --- |
-| [`EN`] [Timo](https://hellotimo.co/) | Simple y bonita interfaz. </br> Funciones: <ul><li>Seguimiento de lo que tienes que hacer. <li>Modo oscuro.</ul> |
-| [`EN`] [TodoHQ](https://todohq.co/) | Simple y bonita interfaz. </br> Funciones: <ul><li>Crea listas de cosas por realizar. <li>Sincronización. <li>Modo oscuro.</ul> |
+| [`EN`] [Entrenamiento Físico](https://nytimes.com/interactive/projects/well/workouts/) | Ejercicios y ejemplos. |
+| [`EN`] [Typing](https://typing.com) | Practica mecanografía. |
+
+## Organización del Tiempo
+
+| Nombre | Características |
+| --- | --- |
+| [`EN`] [Timo](https://hellotimo.co/) | Simple y bonita interfaz.<br>**Funciones:** <br> - Seguimiento de tareas <br> - Modo oscuro. |
+| [`EN`] [TodoHQ](https://todohq.co/) | Simple y bonita interfaz.<br>**Funciones:** <br> - Crea listas de tareas <br> - Sincronización <br> - Modo oscuro. |
