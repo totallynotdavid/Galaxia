@@ -1,235 +1,289 @@
-Whatever this is
-Court cases: (bruh)[https://www.judyrecords.com/terms]
-Spicy Lectures on Python [Spicy Lectures](http://scipy-lectures.org/index.html)
+# Resource Compilation
 
-Libraries
-[MIT Journals FULL](https://www.mitpressjournals.org/action/showPublications)
-[MIT Press](https://direct.mit.edu/books)
-[UST](http://digitallibrary.ust.edu.ph/): Mayoritariamente en inglés y latín.
+A curated list of various resources categorized for easy navigation.
 
-https://nhcodes.everythingmoe.com/
+## Court Cases
 
-https://fmhy.xyz/
-https://91porn.com/
-http://avno1.playno1.com/
-https://arcjav.com/ipx-530/
+- [Bruh](https://www.judyrecords.com/terms)
+- [Spicy Lectures on Python](http://scipy-lectures.org/index.html)
 
-- https://arcjav.com/ gOOGLE DRIVE
-- https://357x.blogspot.com/ gOOGLE DRIVE, BUT COMPRIMED
-- <https://www.tokyotosho.info/> Torrent Asia
-- https://everia.club/ revistas
-- https://www.zenra.net/blog
-- https://panpicks.com/
-- https://wqewq5asewqe.xyz/ 98 tang
-- https://hjd2048.com/2048/ torrent but not account and search limited to 300 seconds
-- https://exoticaz.to/
-- http://www.wikilengua.org/index.php/Portada
-- https://play.google.com/store/apps/details?id=com.trigonesoft.rsm&hl=en_US
-- https://pitikapp.com/ Usar tu móvil como pantalla de ordenador.
-- https://draw.chat/ dibujar juntos, audio y video incluido
-- https://brush.ninja/ animación por fotogramas, crear gif
-- https://www.pluralsight.com/redeemlink/genericV4?redemptionId=4d3b4105-3a95-4748-8807-f7bf00fe5bbc&mac=e0ca15fcc3991ce3db6cccad1ce1fee98afc3686349acd7fe73a1706324b9547#
-- https://removebackground.app/
-- https://www.zenra.net/free-jav-reverse-image-search
-- https://lingyourlanguage.com/
-- https://huggingface.co/autonlp
-- https://textbooks.math.gatech.edu/ila/overview.html
-- https://kav.so/category/korean/
-- https://codedamn.com/dashboard
+## Libraries
+
+| Library | Description | Link |
+| --- | --- | --- |
+| MIT Journals FULL | Comprehensive collection of MIT publications | [MIT Journals FULL](https://www.mitpressjournals.org/action/showPublications) |
+| MIT Press | Access to books published by MIT Press | [MIT Press](https://direct.mit.edu/books) |
+| UST | Digital library primarily in English and Latin | [UST](http://digitallibrary.ust.edu.ph/) |
+
+## General Resources
+
+- [nhcodes Everything Moe](https://nhcodes.everythingmoe.com/)
+- [FMHY](https://fmhy.xyz/)
+- [91Porn](https://91porn.com/)
+- [AVNO1 PlayNo1](http://avno1.playno1.com/)
+- [Arcjav IPX-530](https://arcjav.com/ipx-530/)
+
+### **Additional Links**
+
+| Description | Link |
+| --- | --- |
+| Arcjav Google Drive | [arcjav.com](https://arcjav.com/) |
+| 357x Blogspot with Compressed Google Drive | [357x.blogspot.com](https://357x.blogspot.com/) |
+| TokyoTosho Torrent Asia | [TokyoTosho](https://www.tokyotosho.info/) |
+| Everia Club - Revistas | [Everia.club](https://everia.club/) |
+| Zenra Blog | [Zenra.net Blog](https://www.zenra.net/blog) |
+| Panpicks | [Panpicks.com](https://panpicks.com/) |
+| WQEWQ5ASEWQE XYZ - 98 Tang | [WQEWQ5ASEWQE.xyz](https://wqewq5asewqe.xyz/) |
+| HJD2048 - Torrent Limited | [HJD2048](https://hjd2048.com/2048/) |
+| Exoticaz TO | [Exoticaz.to](https://exoticaz.to/) |
+| Wikilengua | [Wikilengua](http://www.wikilengua.org/index.php/Portada) |
+| Trigonesoft RSM App | [Google Play](https://play.google.com/store/apps/details?id=com.trigonesoft.rsm&hl=en_US) |
+| PitikApp - Use Mobile as Computer Screen | [PitikApp](https://pitikapp.com/) |
+| Draw.chat - Collaborative Drawing with Audio/Video | [Draw.chat](https://draw.chat/) |
+| Brush.ninja - Frame Animation & GIF Creation | [Brush.ninja](https://brush.ninja/) |
+| Pluralsight Redeem Link | [Pluralsight](https://www.pluralsight.com/redeemlink/genericV4?redemptionId=4d3b4105-3a95-4748-8807-f7bf00fe5bbc&mac=e0ca15fcc3991ce3db6cccad1ce1fee98afc3686349acd7fe73a1706324b9547#) |
+| Remove Background App | [Removebackground.app](https://removebackground.app/) |
+| Zenra Free JAV Reverse Image Search | [Zenra Free Search](https://www.zenra.net/free-jav-reverse-image-search) |
+| Ling Your Language | [LingYourLanguage.com](https://lingyourlanguage.com/) |
+| Hugging Face AutoNLP | [Huggingface](https://huggingface.co/autonlp) |
+| Georgia Tech Math Textbooks | [Math Textbooks](https://textbooks.math.gatech.edu/ila/overview.html) |
+| KAV Korean Category | [KAV](https://kav.so/category/korean/) |
+| Codedamn Dashboard | [Codedamn](https://codedamn.com/dashboard) |
 
 ## Courses
 
-- https://pjreddie.com/courses/computer-vision/
-- [Qiskit](https://learn.qiskit.org/course/ch-prerequisites/environment-setup-guide-to-work-with-qiskit-textbook): Quantum tools for simulations.
+| Course | Description | Link |
+| --- | --- | --- |
+| Computer Vision by PJ Reddie | Comprehensive computer vision course | [Computer Vision](https://pjreddie.com/courses/computer-vision/) |
+| Qiskit Quantum Tools | Tools for quantum simulations | [Qiskit](https://learn.qiskit.org/course/ch-prerequisites/environment-setup-guide-to-work-with-qiskit-textbook) |
 
-- https://thebypasser.com/versions/version2.html Bypass Linkvertise
-- https://www.redditreads.com/subreddits books mentioned
-- Nudlnude 2 weird h 
+## Unknown Models
 
-# Unknown models 
-Viviane from Hungary, has a twin also in industry. http://www.pornteengirl.com/model/viviann.html
+- **Viviane from Hungary:** Has a twin also in the industry. [More Info](http://www.pornteengirl.com/model/viviann.html)
 
-## Pending download
-Shane’sWorld #32- Campus Invasion, [available](https://pornolab.net/forum/viewtopic.php?t=1994952)
+## Pending Downloads
 
-https://chaturbot.co/ Find current accounts from actress on Chaturbate
+| Item | Description | Link |
+| --- | --- | --- |
+| Shane’sWorld #32 - Campus Invasion | Available for download | [Available](https://pornolab.net/forum/viewtopic.php?t=1994952) |
+| Current Accounts from Actresses on Chaturbate | Find current accounts | [Chaturbot](https://chaturbot.co/) |
 
-## Subtítulos español
-- https://www.subdivx.com/
-- https://www.tusubtitulo.com/index.php
-- https://www.subtitulamos.tv/
-- https://subtitlecat.com/: This one has even subtitles for JAV titles
+## Subtítulos en Español
 
-- https://www.apestan.com/ Quejas de una empresa
+| Website | Description | Link |
+| --- | --- | --- |
+| Subdivx | Subtitles repository | [Subdivx.com](https://www.subdivx.com/) |
+| TuSubtitulo | Subtitle services | [TuSubtitulo.com](https://www.tusubtitulo.com/index.php) |
+| Subtitulamos TV | Subtitle platform | [Subtitulamos.tv](https://www.subtitulamos.tv/) |
+| SubtitleCat | Includes subtitles for JAV titles | [SubtitleCat](https://subtitlecat.com/) |
 
-# Cambio dolar-sol
+## Currency Exchange (Dólar-Sol)
 
-https://www.cocosylucasbcp.com/
-https://cambioseguro.com/
-https://www.jetperu.com.pe/calcula-tus-cambios
+| Service | Description | Link |
+| --- | --- | --- |
+| Cocos y Lucas BCP | Currency exchange services | [Cocos y Lucas BCP](https://www.cocosylucasbcp.com/) |
+| Cambio Seguro | Secure exchange platform | [Cambio Seguro](https://cambioseguro.com/) |
+| Jet Peru | Calculate your currency exchange | [Jet Peru](https://www.jetperu.com.pe/calcula-tus-cambios) |
 
-- https://www.levels.fyi/ sueldos en compañías tecnológicas
-- https://notifier.so/ get notified when something is published
-- https://www.explainxkcd.com/ xkcd explained
-- https://ffprofile.com/#start create firefox profile with specific configurations
-- https://hn.lindylearn.io/ 'best' hacker news articles
-- taskwarrior.org
-- https://arxivist.com/ papers
-- https://www.undermind.ai/home/ search papers with ai?
-- https://julius.ai ai computational data (15 por mes? tf)
-- https://www.youdontknowafrica.com/1/
-- https://www.tweakeze.com/ monitor changes in your pc
+## Financial and Technical Tools
 
-- https://entropy6.com/xmeters/
-- https://openhoangnc.github.io/taskbar-stats/
+| Tool | Description | Link |
+| --- | --- | --- |
+| Levels.fyi | Salaries in tech companies | [Levels.fyi](https://www.levels.fyi/) |
+| Notifier.so | Get notified when content is published | [Notifier.so](https://notifier.so/) |
+| Explain XKCD | Detailed explanations of XKCD comics | [Explainxkcd](https://www.explainxkcd.com/) |
+| FFProfile | Create Firefox profiles with specific settings | [FFProfile](https://ffprofile.com/#start) |
+| Hacker News Articles | Best articles from Hacker News | [LindyLearn.io](https://hn.lindylearn.io/) |
+| TaskWarrior | Task management software | [TaskWarrior](https://taskwarrior.org) |
+| Arxivist | Access academic papers | [Arxivist](https://arxivist.com/) |
+| Undermind AI | Search papers using AI | [Undermind AI](https://www.undermind.ai/home/) |
+| Julius AI | AI computational data (limited usage) | [Julius AI](https://julius.ai) |
+| You Don't Know Africa | African-focused content | [YouDontKnowAfrica](https://www.youdontknowafrica.com/1/) |
+| Tweakeze | Monitor PC changes | [Tweakeze](https://www.tweakeze.com/) |
+| Entropy XMeters | Measurement tools | [Entropy6](https://entropy6.com/xmeters/) |
+| Taskbar Stats | Taskbar statistics | [OpenHoangnc](https://openhoangnc.github.io/taskbar-stats/) |
 
-# AV (pending download)
-- https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=midv033/
-- https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=mifd194/
-- https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=midv035/
+## AV (Pending Downloads)
 
-## Streaming porn
-- https://www.reddit-doesnt-like-this.site/
+| AV Title | Description | Link |
+| --- | --- | --- |
+| AV Title MIDV033 | DMM DVD Detail | [DMM MIDV033](https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=midv033/) |
+| AV Title MIFD194 | DMM DVD Detail | [DMM MIFD194](https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=mifd194/) |
+| AV Title MIDV035 | DMM DVD Detail | [DMM MIDV035](https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=midv035/) |
 
-# Antivirus
-- https://any.run/
-- https://www.hybrid-analysis.com/
+## Streaming Porn
 
-# Cheat sheet
-- https://quickref.me/vim
+- [Reddit-Doesn't-Like-This.site](https://www.reddit-doesnt-like-this.site/)
 
-# Movies
-- https://shoow.in/
-- https://xxxsave.net/result/ download from Pornhub
+## Antivirus Resources
 
+| Service | Description | Link |
+| --- | --- | --- |
+| Any.run | Interactive malware analysis sandbox | [Any.run](https://any.run/) |
+| Hybrid Analysis | Advanced malware analysis | [Hybrid Analysis](https://www.hybrid-analysis.com/) |
 
-https://manolo.rocks/ Quiénes visitan 
-https://www.espanol.skyscanner.com/ Book flights
+## Cheat Sheets
 
-# Extensions
-## Chromium based
-### First generation
+- [Vim Cheat Sheet](https://quickref.me/vim)
 
-### Second generation
+## Movies
 
-### Third generation
-- Download posts from Onlyfans: https://chrome.google.com/webstore/detail/downloader-for-onlyfansco/pdbbabjcnanbkimdgcdfbnghhmchomnh
-- Reverse search engine takes charge of screenshot: https://chrome.google.com/webstore/detail/huntress-reverse-image-se/nkhjamjppefmeceaokadfacbdmmcmdpg/related?hl=en
-## Firefox
+| Service | Description | Link |
+| --- | --- | --- |
+| Shoow.in | Movie streaming platform | [Shoow.in](https://shoow.in/) |
+| XXX Save | Download from Pornhub | [XXXSave](https://xxxsave.net/result/) |
+| Manolo Rocks | Visitor insights | [Manolo Rocks](https://manolo.rocks/) |
+| Skyscanner Español | Book flights | [Skyscanner](https://www.espanol.skyscanner.com/) |
 
-# Download
-https://github.com/MandoCoding/CheveretoDownloader Putme.ga 
-https://github.com/Jules-WinnfieldX/CyberDropDownloader Cyberdrop
+## Browser Extensions
 
-https://www.xcity.org/
-https://ibug.io/blog/2019/05/mathematica-keygen/
-https://7mmtv.tv/
+### Chromium-Based Extensions
 
-https://av-converter.com/ convert files with ffmpeg online
+| Extension | Description | Link |
+| --- | --- | --- |
+| Downloader for OnlyFans | Download posts from OnlyFans | [Chrome Web Store](https://chrome.google.com/webstore/detail/downloader-for-onlyfansco/pdbbabjcnanbkimdgcdfbnghhmchomnh) |
+| Huntress Reverse Image Search | Reverse search with screenshot capabilities | [Chrome Web Store](https://chrome.google.com/webstore/detail/huntress-reverse-image-se/nkhjamjppefmeceaokadfacbdmmcmdpg/related?hl=en) |
 
-- https://markodenic.com/free-certifications-for-developers/
+### Firefox Extensions
 
-https://web3isgoinggreat.com/
+_(No specific extensions listed for Firefox)_
 
-## Efectos de sonido:
-https://sfxcellar.accusonus.com/free-sound-effects
+## Download Tools
 
-https://music-for-video.com/blog/free-sound-effects-for-videomakers
+| Tool | Description | Link |
+| --- | --- | --- |
+| Chevereto Downloader (GitHub) | Download content from Chevereto | [CheveretoDownloader](https://github.com/MandoCoding/CheveretoDownloader) |
+| CyberDrop Downloader (GitHub) | Download content from CyberDrop | [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) |
+| XCity | Miscellaneous download resources | [XCity](https://www.xcity.org/) |
+| Mathematica Keygen Blog Post | Keygen information | [Ibug.io Blog](https://ibug.io/blog/2019/05/mathematica-keygen/) |
+| 7MMTV | Streaming or download platform | [7MMTV](https://7mmtv.tv/) |
+| AV Converter | Convert files with FFmpeg online | [AV Converter](https://av-converter.com/) |
+| Free Certifications for Developers | Access free developer certifications | [MarkoDenic](https://markodenic.com/free-certifications-for-developers/) |
+| Web3 Is Going Great | Web3 resources and information | [Web3IsGoingGreat](https://web3isgoinggreat.com/) |
 
-http://sweetsoundeffects.com/
+## Sound Effects
 
-The motherload of free SFX.
+| Source | Description | Link |
+| --- | --- | --- |
+| SFX Cellar Accusonus | Free sound effects | [SFX Cellar](https://sfxcellar.accusonus.com/free-sound-effects) |
+| Music for Video | Free sound effects for videomakers | [Music-for-Video](https://music-for-video.com/blog/free-sound-effects-for-videomakers) |
+| Sweet Sound Effects | Comprehensive free SFX collection | [Sweet Sound Effects](http://sweetsoundeffects.com/) |
+| Sonniss Game Audio GDC | Game audio resources | [Sonniss](https://sonniss.com/gameaudiogdc) |
+| ADSR Sample Manager | Sample management tool | _[No direct link provided]_ |
 
-https://sonniss.com/gameaudiogdc
+## Additional Resources
 
-ADSR Sample Manager.
+| Resource | Description | Link |
+| --- | --- | --- |
+| Slideshare Downloader | Download presentations from Slideshare | [Slideshare Downloader](https://www.slidesharedownloader.com/) |
+| Wutsearch | Metasearch engine | [Wutsearch](https://wutsearch.com/) |
+| Weird Old Book Finder | Find obscure old books | [Weird Old Book Finder](https://weird-old-book-finder.glitch.me/) |
+| Podcasts Search | Find and search podcasts | [ListenNotes](https://www.listennotes.com/) |
+| Picuki | RSS for Instagram profiles | [Picuki](https://www.picuki.com/) |
+| RSS Tips for Social Media | How to set up an RSS diet for social media | [UX Design Blog](https://bootcamp.uxdesign.cc/how-i-set-up-my-social-media-diet-via-rss-4b1e936be09d) |
+| Docusaurus | Documentation site generator similar to Hugo | [Docusaurus](https://docusaurus.io/) |
+| Publii | Static site generator similar to Hugo | [Publii](https://getpublii.com/dev/) |
+| Visme Templates | Templates for videos, presentations, etc. | [Visme](https://www.visme.co/templates/videos/) |
+| Nordic 9 Newsletters | Investor news and past emails | [Nordic9](https://nordic9.com/knowledge/content/newsletter/) |
+| ParseHub | Web scraping tool (paid and free versions) | [ParseHub](https://www.parsehub.com/pricing) |
+| Browse AI | Daily scraping with Zapier integration | [Browse AI](https://dashboard.browse.ai/tasks) |
+| Tally | Form builder similar to Google Forms | [Tally](https://tally.so/dashboard) |
+| Strike Market | Stock market platform | [Strike](https://strike.market/) |
+| Oldest Search | Search Google's oldest results | [Oldest Search](https://www.oldestsearch.com/) |
+| Crwd | Public Discord archiving for admins | [Crwd](https://www.crwd.to/discord/) |
+| Vampire69 Blog | List of possible reverse-searched models | [Vampire69](https://www.vampire69blog.com/) |
+| Hugging Face Models | Datasets for ML model training | [Huggingface Models](https://huggingface.co/models) |
+| ArchInstall | Simplified Arch Linux installation | [ArchInstall](https://python-archinstall.readthedocs.io/en/latest/index.html) |
+| Pixabay Music | Royalty-free music | [Pixabay Music](https://pixabay.com/music/) |
+| Nibbler | Website testing tool (accessibility, tracking) | [Nibbler](https://nibbler.silktide.com/) |
+| Fapello | OnlyFans content | [Fapello](https://fapello.com/) |
+| Fappy ML - Egirls Station | E-girls content | [Fappy](https://fappy.ml/egirls_station/index.php?/category/1869) |
 
-- [Download from Slideshare](https://www.slidesharedownloader.com/)
-- [Wutsearch](https://wutsearch.com/): Metabuscador
-- https://weird-old-book-finder.glitch.me/
-- Search for [podcasts](https://www.listennotes.com/)
-- [Picuki](https://www.picuki.com/): RSS of Instagram profiles
-- [Tips for RSS on Social Media](https://bootcamp.uxdesign.cc/how-i-set-up-my-social-media-diet-via-rss-4b1e936be09d)
-- [Docusaurus](https://docusaurus.io/): Similar to Hugo.
-- [Publii](https://getpublii.com/dev/): Similar to Hugo, but themes are expensive, not worth it.
-- [Visme](https://www.visme.co/templates/videos/): Plantillas para videos, presentaciones, mapas, infografías.
-- [Nordic 9](https://nordic9.com/knowledge/content/newsletter/): Noticias para inversores, pasados correos.
-- [Parsehub](https://www.parsehub.com/pricing): Scraping, código cerrado y limitado, tiene costo, aunque tiene versión gratuita.
-- [Browse AI](https://dashboard.browse.ai/tasks): Scraping daily, only one bot, connects with Zapier
-- [Tally](https://tally.so/dashboard): Formulario tipo Google Forms
-- [Strike](https://strike.market/): Stock market
-- [Oldest Search](https://www.oldestsearch.com/): Resultado de Google más antiguo. Usan CSE.
-- [Crwd](https://www.crwd.to/discord/): Archivar Discord de forma pública, solo sirve para admins.
-- [Vampire69](https://www.vampire69blog.com/): List of possible reverse searched models or something.
-- [Huggingface](https://huggingface.co/models): Datasets para entrenamiento de modelos de ML.
-- [ArchInstall](https://python-archinstall.readthedocs.io/en/latest/index.html): Instalar más fácilmente Arch ISO.
-- [Pixabay Music](https://pixabay.com/music/): Royalty free music.
-- [nibbler](https://nibbler.silktide.com/): Test any site (such as accesibility, tracking and so on).
-- https://fapello.com/ Onlyfans content
-- https://fappy.ml/egirls_station/index.php?/category/1869
+## Activity Graph
 
-https://activity-graph.herokuapp.com/graph?username=totallynotdavid&theme=xcode&custom_title=Activity%20Graph&hide_border=true
+- [Activity Graph](https://activity-graph.herokuapp.com/graph?username=totallynotdavid&theme=xcode&custom_title=Activity%20Graph&hide_border=true)
 
-- [Product Flair](https://www.productflair.io/images): Ideas para miniaturas
+## Design Resources
 
-## Animations
+### Animations
 
-- [Finsweet](https://www.finsweet.com/lottieflow/): Animaciones para íconos, gratis y simple
-- [Lottie](https://lottiefiles.com/): Objects animation, CSS
+| Tool | Description | Link |
+| --- | --- | --- |
+| Finsweet LottieFlow | Free and simple animations for icons | [Finsweet](https://www.finsweet.com/lottieflow/) |
+| LottieFiles | Object animations using CSS | [LottieFiles](https://lottiefiles.com/) |
 
-## Íconos
+### Icons
 
-- [Unicons](https://iconscout.com/unicons): Solo el de línea es gratuito.
+| Library | Description | Link |
+| --- | --- | --- |
+| Unicons | Line icons, free version available | [Unicons](https://iconscout.com/unicons) |
 
-## Ilustraciones
+### Illustrations
 
-- [Storyset](https://storyset.com/): Gratuitos.
-- [Vectores e ilustraciones 3D](https://icons8.com/illustrations): Gratuitos.
-- [GetIllustrations](https://www.getillustrations.com/): For ideas, these are not free.
+| Resource | Description | Link |
+| --- | --- | --- |
+| Storyset | Free illustrations | [Storyset](https://storyset.com/) |
+| Icons8 Illustrations | Free 3D vectors and illustrations | [Icons8](https://icons8.com/illustrations) |
+| GetIllustrations | Illustration ideas (premium) | [GetIllustrations](https://www.getillustrations.com/) |
 
-## Sonidos
+### Sounds
 
-- [Soundbible](https://soundbible.com/): Efectos de sonido gratuitos
+| Resource   | Description        | Link                                  |
+| ---------- | ------------------ | ------------------------------------- |
+| SoundBible | Free sound effects | [SoundBible](https://soundbible.com/) |
 
-## Noticias
+## News
 
-- [MedicalXpress](https://medicalxpress.com/): Noticias sobre salud.
-- [CurrenstAPI](https://currentsapi.services/en): Obtener noticias en formato JSON.
-- [Newscatcher](https://newscatcherapi.com/news-api): Obtener noticias en formato JSON.
-- [Newsdata](https://newsdata.io/docs): API con límite de 200 al día.
+| Source | Description | Link |
+| --- | --- | --- |
+| MedicalXpress | Health-related news | [MedicalXpress](https://medicalxpress.com/) |
+| CurrentsAPI | JSON format news API | [CurrentsAPI](https://currentsapi.services/en) |
+| Newscatcher | JSON format news API | [Newscatcher](https://newscatcherapi.com/news-api) |
+| Newsdata | News API with a limit of 200 requests per day | [Newsdata](https://newsdata.io/docs) |
 
-## Problemas
+## Academic Resources
+
+### Problemas de Física
 
 - [UPhysicsC](http://www.uphysicsc.com/home.html): Lista de problemas de física
 
-## Front-ends
+### Front-Ends
 
-- [Lista de alternativas](https://hackmd.io/MCpUlTbLThyF6cw_fywT_g?view#Facebook)
-- [Front-end feeds](https://github.com/impressivewebs/frontend-feeds)
+| Resource | Description | Link |
+| --- | --- | --- |
+| Lista de Alternativas | Alternatives list related to Front-ends | [HackMD](https://hackmd.io/MCpUlTbLThyF6cw_fywT_g?view#Facebook) |
+| Front-end Feeds | Collection of front-end feeds | [GitHub](https://github.com/impressivewebs/frontend-feeds) |
 
-## Descubrir
+## Discovery Tools
 
 - [WebsiteIQ](https://www.websiteiq.com/explore/)
 
-## Notion
+## Notion Templates
 
-- [Potion](https://potion.so/templates): templates
-- [Idea](https://easlo.notion.site/Company-Home-4a2ca7d4d25f48a8996ca3b36038fc97)
+| Template | Description | Link |
+| --- | --- | --- |
+| Potion Templates | Collection of Notion templates | [Potion](https://potion.so/templates) |
+| Company Home Idea | Example company home template | [Notion Idea](https://easlo.notion.site/Company-Home-4a2ca7d4d25f48a8996ca3b36038fc97) |
 
-## Capturas de pantalla
+## Screenshot Tools
 
-- [Ray](https://ray.so/): Beatiful images of code
-- [Screenshot rocks](https://screenshot.rocks/): Screenshots browser
+| Tool | Description | Link |
+| --- | --- | --- |
+| Ray.so | Beautiful images of code | [Ray](https://ray.so/) |
+| Screenshot Rocks | Browser-based screenshot tool | [Screenshot Rocks](https://screenshot.rocks/) |
 
-## Trabajo
+## Job Opportunities
 
-- [Teachers pay Teachers](https://www.teacherspayteachers.com/): Vender material de estudio.
-- [UserInterviews](https://www.userinterviews.com/studies/online?sort=-id): Entrevistas usando webcam.
+| Platform | Description | Link |
+| --- | --- | --- |
+| Teachers Pay Teachers | Sell educational materials | [TeachersPayTeachers](https://www.teacherspayteachers.com/) |
+| UserInterviews | Participate in webcam-based interviews | [UserInterviews](https://www.userinterviews.com/studies/online?sort=-id) |
 
-https://dropnudes.com/
+## Image Tools
 
-https://clipdrop.co/image-upscaler
+- [DropNudes](https://dropnudes.com/)
+- [ClipDrop Image Upscaler](https://clipdrop.co/image-upscaler)
 
 ## Drive Workers
 
-- [Cloudflare doesn't let you stream](https://lively-sunset-8675.protobb.workers.dev/1:/)
+- [Cloudflare Streaming Bypass](https://lively-sunset-8675.protobb.workers.dev/1:/)
