@@ -70,7 +70,7 @@ authors:
 | Nombre | Idioma | Contenido | Tamaño |
 | --- | --- | --- | --- |
 | [Semantic Scholar](https://www.semanticscholar.org/) | [`EN`] | Artículos científicos | Grande (181061808) |
-| [SciHub](https://sci-hub.tw/) [1](https://sci-hub.se/) | Ingles | Artículos científicos | Grande |
+| [SciHub](https://sci-hub.tw/) [1](https://sci-hub.se/) | Inglés | Artículos científicos | Grande |
 | [Biblioteca Génesis](http://libgen.lc/) [1](http://libgen.li/) [2](http://185.39.10.101/) | [`EN`], [`ES`], [`DE`], entre otros | Libros universitarios, artículos científicos, ficción, cómics y revistas | Grande |
 | [Biblioteca Z - Artículos](http://articles24t2d47kb6rbabobokvrnymh2smkleosntcu6qxou6sxewyd.onion/) | [`EN`], [`ES`], entre otros | Artículos científicos | Mediano-grande (77143139) |
 
@@ -187,12 +187,12 @@ authors:
       | --- | --- | --- | --- |
       | [SpoWiki](https://spowiki20.com/bbs/board.php?bo_table=webtoon) | Webtoon | Sí | {{a}} |
       | [WToon](https://wtoon39.com/) [1](https://nicelink10.com/) | Webtoon y manga | Sí | {{a}} |
-      | [newtoki](https://newtoki52.com/) | Webtoon y manga | Si | {{a}} |
+      | [newtoki](https://newtoki52.com/) | Webtoon y manga | Sí | {{a}} |
       | [ToonKor](https://toonkor.tax/) | Webtoon y Fototoon | Sí | {{a}} |
       | [Toon Sarang](https://toonsarang.help/) | Webtoon y fototoon | Sí | {{a}} |
       | [Wolf](https://wfwf67.com/) | Webtoon, fototoon y manga | Sí | {{a}} |
-      | [MeToon](https://metoon17.com/) | Webtoon | Si | {{a}} |
-      | [ntoon](https://www.ntoon20.com/) | Webtoon | Si | {{a}} |
+      | [MeToon](https://metoon17.com/) | Webtoon | Sí | {{a}} |
+      | [ntoon](https://www.ntoon20.com/) | Webtoon | Sí | {{a}} |
 
   - <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="20"> Adulto
 
