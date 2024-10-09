@@ -17,7 +17,6 @@ date: 2023-10-01
    - [Hentai AHO](https://haho.moe/): Hentai 1080p
    - [ComicK](https://comick.fun/): Read Manga
    - [Getchu](http://www.getchu.com/)
-   - [Base de datos](https://anidb.net/perl-bin/animedb.pl?show=animelist&do.filter=1)
    - [Hagure sub](http://www.haguresubs.org/p/proyectos-finalizados.html)
    - [Discografías](http://jamps.com.ar/foro/portal.php)
 
@@ -104,10 +103,8 @@ date: 2023-10-01
 - [Vista previa de archivos como en macOS](http://1218.io/)
 - [Herramientas para Wordpress](https://wpstash.io/)
 - [Juego simple en linea](https://ares.hankstoever.com/)
-- [Lista de sitios académicos, revisar](https://thakursimmichauhan.blogspot.com/)
 - [TeamDrive con varias peliculas](<https://td.klprojects.tech/0:/American%20Dad%20S01-S11%20(2005-)/American%20Dad%20S01%20(360p%20re-blurip)/>)
 - [Códigos bancarios del Banco de la Nación](https://zonasegura1.bn.com.pe/CCIConsulta/Inicio)
-- [Bibliografia de Isaac Asimov en orden por categorias, larguisima](http://stevenac.net/asimov/Bibliography.htm)
 - [UWP Apps Community](https://uwpcommunity.com/projects/)
 
 ---
