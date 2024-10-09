@@ -78,7 +78,7 @@ authors:
 | --- | --- | --- |
 | [Warashi Asian Pornstar Database](http://warashi-asian-pornstars.fr/) | Información sobre DVDs: código, director, actores, estudio, distribuidor, fecha de publicación y duración. | - Especializado en contenido asiático |
 | [Japanese Adult Video Library](http://www.javlibrary.com/en/) | Información sobre DVDs: código, director, actriz, estudio, distribuidor, fecha de publicación y duración. | - Seguimiento de DVDs y actrices<br>- Foro |
-| [AVDbs](https://www.avdbs.com/) ![Bandera de Corea del Sur](https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png) | Información sobre actrices: datos básicos, papeles, fotografías, redes sociales. Información sobre DVDs: código, director, actriz, estudio, distribuidor, fecha de publicación y duración. | - Foro (noticias sobre actrices y DVDs)<br>- Contenido explícito limitado (verificación de ciudadanía surcoreana) |
+| [AVDbs](https://www.avdbs.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" alt="Bandera de Corea del Sur" style="width:20px; vertical-align: middle;" /> | **Información sobre actrices:** datos básicos, papeles, fotografías, redes sociales. <br> **Información sobre DVDs:** código, director, actriz, estudio, distribuidor, fecha de publicación y duración. | - Foro (noticias sobre actrices y DVDs)<br>- Contenido explícito limitado (verificación de ciudadanía surcoreana) |
 
 ## IRC
 
