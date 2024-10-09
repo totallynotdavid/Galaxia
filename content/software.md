@@ -2,6 +2,11 @@
 title: "Software"
 description: "Selección y recomendación de software y extensiones para mejorar tu experiencia."
 date: 2023-10-01
+tags: ["software", "extensiones"]
+authors:
+  - name: "David Duran"
+    avatar: "david.webp"
+    twitter: "https://twitter.com/totallynotdavid"
 ---
 
 ## Sofware

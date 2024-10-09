@@ -2,6 +2,23 @@
 title: "Mediateca"
 description: "Donde poder ver o descargar contenido multimedia en internet: software, películas, series de TV y revistas."
 date: 2023-10-01
+tags:
+  [
+    "adulto",
+    "audiovisual",
+    "software",
+    "libros",
+    "audiolibro",
+    "manga",
+    "comics",
+    "revistas",
+    "comunidad",
+    "irc"
+  ]
+authors:
+  - name: "David Duran"
+    avatar: "david.webp"
+    twitter: "https://twitter.com/totallynotdavid"
 ---
 
 ## Índice

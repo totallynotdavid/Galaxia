@@ -2,6 +2,21 @@
 title: "Herramientas"
 description: "Opciones para usuarios avanzados o con necesidades específicas: automatización, búsqueda inversa, descarga, etc."
 date: 2023-10-01
+tags:
+  [
+    "adulto",
+    "audiovisual",
+    "comics",
+    "libros",
+    "manga",
+    "revistas",
+    "software",
+    "organización"
+  ]
+authors:
+  - name: "David Duran"
+    avatar: "david.webp"
+    twitter: "https://twitter.com/totallynotdavid"
 ---
 
 # Administración

@@ -7,7 +7,9 @@ Libraries
 [MIT Press](https://direct.mit.edu/books)
 [UST](http://digitallibrary.ust.edu.ph/): Mayoritariamente en inglés y latín.
 
+https://nhcodes.everythingmoe.com/
 
+https://fmhy.xyz/
 https://91porn.com/
 http://avno1.playno1.com/
 https://arcjav.com/ipx-530/
