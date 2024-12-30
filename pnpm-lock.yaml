@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@fontsource-variable/hanken-grotesk':
-        specifier: ^5.0.21
-        version: 5.1.0
+        specifier: ^5.1.1
+        version: 5.1.1
       '@tailwindcss/typography':
         specifier: ^0.5.15
         version: 0.5.15(tailwindcss@3.4.13)
@@ -52,8 +52,8 @@ packages:
     resolution: {integrity: sha512-UrcABB+4bUrFABwbluTIBErXwvbsU/V7TZWfmbgJfbkwiBuziS9gxdODUyuiecfdGQ85jglMW6juS3+z5TsKLw==}
     engines: {node: '>=10'}
 
-  '@fontsource-variable/hanken-grotesk@5.1.0':
-    resolution: {integrity: sha512-QD3pm2uu/4T7hWZylys1Ja9vlG+3VQKs/j7XvpecARlqJeVXgONoxY9zsrKeVI5B/6D3+xhu/XjOZhMHfzRghg==}
+  '@fontsource-variable/hanken-grotesk@5.1.1':
+    resolution: {integrity: sha512-T+9xYnsrs0Efy16lp0FKvviQeAMBS92iTga8pqvM677hsRYYvEkpoWxoasd5G7vD3/U4MvnFDNolYUu3JUlGsQ==}
 
   '@isaacs/cliui@8.0.2':
     resolution: {integrity: sha512-O8jcjabXaleOG9DQ0+ARXWZBTfnP4WNAqzuiJK7ll44AmxGKv/J2M4TPjxjY3znBCfvBXFzucm1twdyFybFqEA==}
@@ -1447,7 +1447,7 @@ snapshots:
 
   '@alloc/quick-lru@5.2.0': {}
 
-  '@fontsource-variable/hanken-grotesk@5.1.0': {}
+  '@fontsource-variable/hanken-grotesk@5.1.1': {}
 
   '@isaacs/cliui@8.0.2':
     dependencies:
